@@ -10,6 +10,7 @@
   --maxWidth-2xl: 42rem;
   --maxWidth-3xl: 48rem;
   --maxWidth-4xl: 56rem;
+  --maxWidth-wide: 105rem;
   --maxWidth-full: "100%";
   --maxWidth-wrapper: var(--maxWidth-2xl);
   --spacing-px: "1px";
@@ -27,6 +28,8 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
+  --spacing-40: 10rem;
+  --spacing-48: 12rem;
   --fontFamily-sans: Montserrat, system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -46,6 +49,7 @@
   --lineHeight-normal: 1.5;
   --lineHeight-relaxed: 1.625;
   /* 1.200 Minor Third Type Scale */
+  /* see https://type-scale.com/ */
   --fontSize-0: 0.833rem;
   --fontSize-1: 1rem;
   --fontSize-2: 1.2rem;
@@ -54,12 +58,19 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --fontSize-8: 3.583rem;
+  --fontSize-9: 4.3rem;
+  /* --color-primary: #005b99; */
+  --color-primary: #131629;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+
+  --color-si-blue: #131629;
+  --color-si-mustard: #bc962c;
+  --color-si-light-blue: #919fba;
 }
 
 /* HTML elements */
