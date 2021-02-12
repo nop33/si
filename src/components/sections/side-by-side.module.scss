@@ -1,0 +1,29 @@
+.side-by-side {
+  // display: flex;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-gap: var(--spacing-8);
+
+  @media (max-width: 42rem) {
+    grid-template-columns: 1fr;
+  }
+
+  .titleSection {
+    position: relative;
+  }
+
+  .contentSection {
+    margin-top: var(--spacing-1);
+    max-width: var(--maxWidth-2xl);
+
+    h3:first-of-type {
+      margin-top: 0;
+    }
+  }
+
+  h2 {
+    margin: 0;
+    position: sticky;
+    top: var(--spacing-32);
+  }
+}

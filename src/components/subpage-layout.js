@@ -1,10 +1,13 @@
 import React from "react"
+import subpageLayoutStyles from "./subpage-layout.module.scss"
 
 const SubpageLayout = ({ title, children }) => {
   return (
-    <div>
-      <header className="subpage-header">
-        <h1>{title}</h1>
+    <div className={subpageLayoutStyles.subpage}>
+      <header>
+        <div className="global-content-wrapper">
+          <h1>{title}</h1>
+        </div>
       </header>
       <main>{children}</main>
       <footer></footer>
