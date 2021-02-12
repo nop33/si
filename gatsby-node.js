@@ -8,10 +8,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
 
   // Get all markdown blog posts sorted by date
-  const result = await graphql(
+  const blogPostsResult = await graphql(
     `
       {
         allMarkdownRemark(
+          filter: { fields: { contentType: { eq: "blog" } } }
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
         ) {
@@ -26,15 +27,15 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
   )
 
-  if (result.errors) {
+  if (blogPostsResult.errors) {
     reporter.panicOnBuild(
       `There was an error loading your blog posts`,
-      result.errors
+      blogPostsResult.errors
     )
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const posts = blogPostsResult.data.allMarkdownRemark.nodes
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -56,6 +57,47 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  // Define a template for subpage
+  const subpageTemplate = path.resolve(`./src/templates/subpage.js`)
+
+  // Get all markdown subpages
+  const subpagesResult = await graphql(
+    `
+      {
+        allMarkdownRemark(filter: { fields: { contentType: { eq: "page" } } }) {
+          nodes {
+            id
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    `
+  )
+
+  if (subpagesResult.errors) {
+    reporter.panicOnBuild(
+      `There was an error loading your blog posts`,
+      subpagesResult.errors
+    )
+    return
+  }
+
+  const subpages = subpagesResult.data.allMarkdownRemark.nodes
+
+  if (subpages.length > 0) {
+    subpages.forEach((subpage, index) => {
+      createPage({
+        path: subpage.fields.slug,
+        component: subpageTemplate,
+        context: {
+          id: subpage.id,
+        },
+      })
+    })
+  }
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -63,11 +105,23 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
+    const type = getNode(node.parent).sourceInstanceName
+    let slugPrefix = ""
+
+    if (type === "blog") {
+      slugPrefix = "/blog"
+    }
 
     createNodeField({
       name: `slug`,
       node,
-      value: `/blog${value}`,
+      value: `${slugPrefix}${value}`,
+    })
+
+    createNodeField({
+      name: `contentType`,
+      node,
+      value: type,
     })
   }
 }
@@ -110,6 +164,7 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type Fields {
       slug: String
+      contentType: String
     }
   `)
 }

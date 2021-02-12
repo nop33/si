@@ -8,6 +8,7 @@ const News = () => {
     query {
       allMarkdownRemark(
         limit: 3
+        filter: { fields: { contentType: { eq: "blog" } } }
         sort: { fields: [frontmatter___date], order: DESC }
       ) {
         nodes {
