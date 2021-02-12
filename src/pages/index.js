@@ -6,12 +6,15 @@ import ThreeColumns from "../components/sections/three-columns"
 import News from "../components/sections/news"
 import Projects from "../components/sections/projects"
 import BaseSection from "../components/base-section"
-import HomeLayout from "../components/home-layout"
+import PageLayout from "../components/page-layout"
 
-const Home = () => {
+const Home = ({ location }) => {
   return (
     <div>
-      <HomeLayout>
+      <PageLayout
+        title="Supporting policy-making for future generations"
+        location={location}
+      >
         <BaseSection>
           <CenteredNarrow>
             <div className="font-size-3">
@@ -47,7 +50,7 @@ const Home = () => {
         <BaseSection>
           <Projects></Projects>
         </BaseSection>
-      </HomeLayout>
+      </PageLayout>
     </div>
   )
 }

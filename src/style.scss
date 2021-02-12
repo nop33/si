@@ -239,6 +239,16 @@ table thead tr th {
 
 a {
   color: var(--color-primary);
+
+  &.golden {
+    color: var(--color-heading);
+    text-decoration: none;
+    transition: color 0.2s;
+
+    &:hover {
+      color: var(--color-si-mustard);
+    }
+  }
 }
 
 a:hover,

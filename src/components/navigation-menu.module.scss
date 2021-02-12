@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menuItemsContainer {
+  display: flex;
+
+  > a {
+    padding: var(--spacing-2) var(--spacing-4);
+    text-decoration: none;
+  }
+}

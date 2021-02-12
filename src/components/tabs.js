@@ -13,9 +13,10 @@ const Tabs = ({ sections }) => {
           {sections
             .filter(section => !!section.title)
             .map(section => {
+              const id = generateIdFromTitle(section.title)
               return (
-                <li>
-                  <Link to={`#${generateIdFromTitle(section.title)}`}>
+                <li key={id}>
+                  <Link className="golden" to={`#${id}`}>
                     {section.title}
                   </Link>
                 </li>

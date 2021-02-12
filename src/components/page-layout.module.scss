@@ -1,0 +1,40 @@
+.all-pages {
+  h1 {
+    font-size: var(--fontSize-9);
+    max-width: var(--maxWidth-4xl);
+    margin: var(--spacing-0);
+
+    @media (max-width: 42rem) {
+      font-size: var(--fontSize-7);
+    }
+  }
+
+  > header {
+    background-color: #f8f6f2;
+    display: flex;
+  }
+}
+
+.homepage {
+  > header {
+    min-height: 100vh;
+    margin-bottom: var(--spacing-32);
+  }
+}
+
+.subpage {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  height: 100vh;
+
+  > header {
+    height: var(--height-header-small);
+  }
+}
+
+.header-content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding-top: var(--spacing-10);
+}

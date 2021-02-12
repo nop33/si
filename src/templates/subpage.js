@@ -3,24 +3,25 @@ import { graphql } from "gatsby"
 import remark from "remark"
 import remarkHTML from "remark-html"
 
-import SubpageLayout from "../components/subpage-layout"
+import PageLayout from "../components/page-layout"
 import BaseSection from "../components/base-section"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 
 import { generateIdFromTitle } from "../utils"
 
-const SubpageTemplate = ({ data }) => {
+const SubpageTemplate = ({ data, location }) => {
   const pageData = data.markdownRemark.frontmatter
   const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
 
   return (
     <div>
-      <SubpageLayout title={pageData.title}>
+      <PageLayout title={pageData.title} location={location}>
         <Tabs sections={pageData.textSections}></Tabs>
         {pageData.textSections.map(textSection => {
+          const id = generateIdFromTitle(textSection.title)
           return (
-            <BaseSection id={generateIdFromTitle(textSection.title)}>
+            <BaseSection id={id} key={id}>
               <SideBySide title={textSection.title}>
                 <div
                   dangerouslySetInnerHTML={{
@@ -31,7 +32,7 @@ const SubpageTemplate = ({ data }) => {
             </BaseSection>
           )
         })}
-      </SubpageLayout>
+      </PageLayout>
     </div>
   )
 }
