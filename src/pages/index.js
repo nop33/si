@@ -36,6 +36,7 @@ const Home = () => {
         <BaseSection>
           <ThreeColumns></ThreeColumns>
         </BaseSection>
+        <hr></hr>
         <BaseSection>
           <News></News>
         </BaseSection>
