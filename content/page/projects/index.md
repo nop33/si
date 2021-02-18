@@ -26,16 +26,16 @@ textSections:
     title: Policy support
   - content: |
       ### Representation
-      
+
       We contribute talks, workshops and advice to a wide variety of projects and events in line with our values and objectives. Get in touch to discuss a contribution!
 
       ### Coordination
 
       We coordinate a network of individuals and organizations that share our values and objectives. For this, we organize symposia and online platforms.
-      
+
       ### Mentorship
-      
-      We advise promising young researchers and policy-makers on their research and career development. 
+
+      We advise promising young researchers and policy-makers on their research and career development.
     title: Field-building
   - content: |
       - Leverage points to strengthen decision-making in the face of complexity
@@ -45,6 +45,6 @@ textSections:
       - Behavioural and Collective Mechanisms of Policy Change
       - Strategies for Effective Longtermist Advocacy
       - Strengthening Decision-making Processes For the Long-term Future
-      - An Agenda for Research and Practice in Longterm Governance	
+      - An Agenda for Research and Practice in Longterm Governance
     title: On-going research projects
 ---

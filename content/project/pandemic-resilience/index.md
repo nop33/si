@@ -1,5 +1,7 @@
 ---
 title: Pandemic Resilience
+description: A Table-top Exercise for International Policy Networks
+area: Policy-making
 seo:
   description: |
     test seo description
@@ -36,7 +38,7 @@ textSections:
       To support efforts to build resilience to GCBRs, we offer a two-hour tabletop exercise with six to twelve participants to learn about each other, their environment, future pandemics and the effects of individual and collective decisions. Participants take on predefined roles and act in turns. The exercise dynamics mirror the unpredictability of the real world and immerse participants in the experience. Actors have different sets of resources and can take different actions. The evolution of the environment and the final outcome are a direct result of individual and collective choices.
 
       The exercise will equip participants with knowledge about:
-      
+
       1. systemic resilience and system dynamics; 
       2. risk severity and probability; and 
       3. interaction effects. 
@@ -57,17 +59,15 @@ textSections:
       Duration of the exercise: 2 hours
 
       Number of participants: 6-12
-    title:
-      Practical info
+    title: Practical info
   - content: |
       Bontoux L, Sweeney JA, Rosa AB, et al. (2020) A Game for All Seasons: Lessons and Learnings from the JRC’s Scenario Exploration System. World Futures Review. 12(1):81-103. https://doi.org/10.1177/1946756719890524
 
       Gandziarowska-Ziołecka J., Stasiak D. (2019) Simulation and Gaming for Policy Advice. In: Falk S., Glaab M., Römmele A., Schober H., Thunert M. (eds) Handbuch Politikberatung. Springer VS, Wiesbaden. https://doi.org/10.1007/978-3-658-03483-2_72
 
       Wilkinson P. (2016) A Brief History of Serious Games. In: Dörner R., Göbel S., Kickmeier-Rust M., Masuch M., Zweig K. (eds) Entertainment Computing and Serious Games. Lecture Notes in Computer Science, vol 9970. Springer, Cham. https://doi.org/10.1007/978-3-319-46152-6_2"
-    title:
-      Key references
+    title: Key references
   - content: |
       If you have questions, comments or suggestions, please, get in touch. We are happy to provide more information, references, discuss ideas and explore collaborations.
-    title: ''
+    title: ""
 ---

@@ -2,13 +2,12 @@ import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Card from "../card"
 
-const News = () => {
+const Projects = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
         limit: 3
-        filter: { fields: { contentType: { eq: "blog" } } }
-        sort: { fields: [frontmatter___date], order: DESC }
+        filter: { fields: { contentType: { eq: "project" } } }
       ) {
         nodes {
           excerpt
@@ -16,40 +15,41 @@ const News = () => {
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
             title
             description
+            area
           }
         }
       }
     }
   `)
 
-  const posts = data.allMarkdownRemark.nodes
+  const projects = data.allMarkdownRemark.nodes
 
   return (
     <div className="cards-section">
-      <h2>Our latest news</h2>
+      <h2>Our Projects</h2>
 
       <div className="cards-wrapper">
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+        {projects.map(project => {
+          const title = project.frontmatter.title || project.fields.slug
 
           return (
-            <Card key={post.fields.slug}>
+            <Card key={project.fields.slug}>
               <article itemScope itemType="http://schema.org/Article">
                 <header>
                   <h3>
-                    <Link to={post.fields.slug} itemProp="url">
+                    <Link to={project.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h3>
-                  <small>{post.frontmatter.date}</small>
+                  <small>{project.frontmatter.area}</small>
                 </header>
                 <section>
                   <p
                     dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
+                      __html:
+                        project.frontmatter.description || project.excerpt,
                     }}
                     itemProp="description"
                   />
@@ -59,11 +59,11 @@ const News = () => {
           )
         })}
       </div>
-      <Link className="see-more-link" to="/blog">
+      <Link className="see-more-link" to="/projects">
         See more
       </Link>
     </div>
   )
 }
 
-export default News
+export default Projects
