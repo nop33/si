@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 seo:
-  description: >-
+  description: |
     test seo description
   title: test seo title
 header:

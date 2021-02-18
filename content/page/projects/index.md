@@ -7,7 +7,7 @@ title: Projects
 #     weight: 20
 test: "hello"
 seo:
-  description: >-
+  description: |
     test seo description
   title: test seo title
 header:

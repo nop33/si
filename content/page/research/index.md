@@ -1,7 +1,7 @@
 ---
 title: Research & Ideas
 seo:
-  description: >-
+  description: |
     test seo description
   title: test seo title
 header:

@@ -1,7 +1,7 @@
 ---
 title: About
 seo:
-  description: >-
+  description: |
     test seo description
   title: test seo title
 header:
@@ -29,7 +29,7 @@ textSections:
 
       We seek to understand political decision-making by synthesising knowledge, formally modelling system dynamics and empirically testing models and hypotheses through experimentation.
     title: Our focus areas
-  - content: >-
+  - content: |
       ### Value-driven
 
       An oscillatory yet upward trend characterizes the quality of life on earth. Despite harmful events such as large-scale epidemics and world wars, human civilization seems to progressively reach better equilibria. People are living longer and better, which suggests the future could be even better - and bigger. But with new capabilities come new risks.
@@ -44,7 +44,7 @@ textSections:
 
       Complementary to those who study the nature of global catastrophic risks, we focus on collective decision-making processes in policy networks to mitigate risks. We are uniting knowledge on public policy-making processes, human behaviour, the nature of risks, the drivers of resilience and the interface of science and policy.
     title: Our approach
-  - content: >-
+  - content: |
       Herbert Simon (1916 - 2001) was a political scientist, cognitive psychologist, computer scientist and economist.
 
       His research represents most of the knowledge SI is building on and aims to contribute to.

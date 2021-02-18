@@ -1,7 +1,7 @@
 ---
 title: Team
 seo:
-  description: >-
+  description: |
     test seo description
   title: test seo title
 header:
