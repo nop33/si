@@ -65,7 +65,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const subpagesResult = await graphql(
     `
       {
-        allMarkdownRemark(filter: { fields: { contentType: { eq: "page" } } }) {
+        allMarkdownRemark(filter: { fields: { contentType: { in: ["page", "project"] } } }) {
           nodes {
             id
             fields {
@@ -108,8 +108,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     const type = getNode(node.parent).sourceInstanceName
     let slugPrefix = ""
 
-    if (type === "blog") {
-      slugPrefix = "/blog"
+    if (type !== "page") {
+      slugPrefix = `/${type}`
     }
 
     createNodeField({
