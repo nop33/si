@@ -1,11 +1,5 @@
 ---
 title: Projects
-# menu:
-#   footer:
-#     weight: 40
-#   main:
-#     weight: 20
-test: "hello"
 seo:
   description: |
     test seo description
@@ -14,31 +8,43 @@ header:
   title: Projects
 textSections:
   - content: |
-      SI is somewhere between a consultancy and a research lab.
+      Policy-making is characterized by uncertainty. We help you and your team grapple productively with it.
 
-      We are developing a knowledge base to improve the governance of global catastrophic risks.
-
-      Our work is guided by a vision of global governance tools and practices that account for future generations, facilitated by advances in research and diplomacy.
-
-      As we're a non-profit, we can afford to focus on the longterm.
-    title: ""
-  - content: |
       ### Table-top exercises
 
-      We help policy networks identify communication bottlenecks and equips them with tools to render tacit knowledge explicit and reduce information asymmetries.
+      We help policy networks identify communication bottlenecks and equip them with tools to render tacit knowledge explicit and reduce information asymmetries.
 
-      [Read more]()
+      [Pandemic resilience exercise](/project/pandemic-resilience)
 
       ### Mental models & heuristics
 
-      We develop and train simple and efficient boosting techniques to help individuals prioritize faster and exchange information more effectively.
-
-      [Read more]()
+      We develop and train simple and efficient boosting techniques to help groups communicate information more effectively and prioritize faster.
 
       ### Decision support tools
 
-      We support the implementation of multi-criteria decision analysis and argument mapping software to foster cooperation through transparency and deliberation.
+      We provide training on tools to foster cooperation through deliberation, prioritization, transparency and consistency - and advise their implementation.
+    title: Policy support
+  - content: |
+      ### Representation
+      
+      We contribute talks, workshops and advice to a wide variety of projects and events in line with our values and objectives. Get in touch to discuss a contribution!
 
-      [Read more]()
-    title: Our focus is on tools to help groups sort and process information under time-pressure.
+      ### Coordination
+
+      We coordinate a network of individuals and organizations that share our values and objectives. For this, we organize symposia and online platforms.
+      
+      ### Mentorship
+      
+      We advise promising young researchers and policy-makers on their research and career development. 
+    title: Field-building
+  - content: |
+      - Leverage points to strengthen decision-making in the face of complexity
+      - Evidence and impact of strategies to support decision-making
+      - Computational policy process studies
+      - Public Policy-making for the Long-term Future
+      - Behavioural and Collective Mechanisms of Policy Change
+      - Strategies for Effective Longtermist Advocacy
+      - Strengthening Decision-making Processes For the Long-term Future
+      - An Agenda for Research and Practice in Longterm Governance	
+    title: On-going research projects
 ---
