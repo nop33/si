@@ -47,7 +47,4 @@ textSections:
 
       You want to understand better how we use your data.
     title: Your Rights
-  - content: |
-      If you have any queries about this policy, please contact us.
-    title: Contact Us
 ---
