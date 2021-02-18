@@ -73,6 +73,9 @@
   --color-si-blue: #131629;
   --color-si-mustard: #bc962c;
   --color-si-light-blue: #919fba;
+
+  /* animations */
+  --ease-out-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 /* HTML elements */
@@ -284,10 +287,6 @@ a:focus {
 .main-heading {
   font-size: var(--fontSize-7);
   margin: 0;
-}
-
-.post-list-item section > p:last-child {
-  margin-bottom: var(--spacing-0);
 }
 
 .header-link-home {

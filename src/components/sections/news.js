@@ -1,5 +1,7 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
+
 import Card from "../card"
 
 const News = () => {
@@ -19,6 +21,13 @@ const News = () => {
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
@@ -34,27 +43,30 @@ const News = () => {
       <div className="cards-wrapper">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
+          const featuredImgFluid =
+            post.frontmatter.featuredImage.childImageSharp.fluid
 
           return (
             <Card key={post.fields.slug}>
-              <article itemScope itemType="http://schema.org/Article">
-                <header>
-                  <h3>
-                    <Link to={post.fields.slug} itemProp="url">
+              <Link to={post.fields.slug}>
+                <article itemScope itemType="http://schema.org/Article">
+                  <Img fluid={featuredImgFluid} />
+                  <header>
+                    <h3>
                       <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h3>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
+                    </h3>
+                    <small>{post.frontmatter.date}</small>
+                  </header>
+                  <section>
+                    <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                  </section>
+                </article>
+              </Link>
             </Card>
           )
         })}

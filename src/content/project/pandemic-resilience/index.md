@@ -2,6 +2,7 @@
 title: Pandemic Resilience
 description: A Table-top Exercise for International Policy Networks
 area: Policy-making
+featuredImage: ../../../images/ross-sneddon-sWlDOWk0Jp8-unsplash.jpg
 seo:
   description: |
     test seo description

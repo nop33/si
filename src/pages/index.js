@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
+import { Link } from "gatsby"
 
 import CenteredNarrow from "../components/sections/centered-narrow"
 import ThreeColumns from "../components/sections/three-columns"
