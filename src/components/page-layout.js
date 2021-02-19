@@ -28,7 +28,7 @@ const PageLayout = ({ location, title, subtitle, children }) => {
       <main>{children}</main>
       <footer>
         <BaseSection className={styles.footerSection}>
-          <div class={styles.linksSection}>
+          <div className={styles.linksSection}>
             <div>
               <Link className="golden" to="/get-involved/#support-our-work">
                 Donate
@@ -45,7 +45,7 @@ const PageLayout = ({ location, title, subtitle, children }) => {
               </Link>
             </div>
           </div>
-          <div class={styles.copywriteSection}>
+          <div className={styles.copywriteSection}>
             © {new Date().getFullYear()} Simon Institute of Longterm Governance.
             All rights reserved.
           </div>

@@ -65,7 +65,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const subpagesResult = await graphql(
     `
       {
-        allMarkdownRemark(filter: { fields: { contentType: { in: ["page", "project"] } } }) {
+        allMarkdownRemark(
+          filter: { fields: { contentType: { in: ["page", "project"] } } }
+        ) {
           nodes {
             id
             fields {
@@ -98,6 +100,49 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  // Define a template for member
+  const memberTemplate = path.resolve(`./src/templates/member.js`)
+
+  // Get all markdown members
+  const membersResult = await graphql(
+    `
+      {
+        allMarkdownRemark(
+          filter: { fields: { contentType: { eq: "member" } } }
+        ) {
+          nodes {
+            id
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    `
+  )
+
+  if (membersResult.errors) {
+    reporter.panicOnBuild(
+      `There was an error loading your blog posts`,
+      membersResult.errors
+    )
+    return
+  }
+
+  const members = membersResult.data.allMarkdownRemark.nodes
+
+  if (members.length > 0) {
+    members.forEach((member, index) => {
+      createPage({
+        path: member.fields.slug,
+        component: memberTemplate,
+        context: {
+          id: member.id,
+        },
+      })
+    })
+  }
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -106,10 +151,17 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
     const type = getNode(node.parent).sourceInstanceName
+
+    console.log(type)
+
     let slugPrefix = ""
 
     if (type !== "page") {
       slugPrefix = `/${type}`
+    }
+
+    if (type === "member") {
+      slugPrefix = `/about${slugPrefix}`
     }
 
     createNodeField({
@@ -160,6 +212,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      name: String
     }
 
     type Fields {
