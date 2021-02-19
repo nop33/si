@@ -4,24 +4,9 @@ import NavigationMenu from "./navigation-menu"
 
 import styles from "./page-layout.module.scss"
 
-const PageLayout = ({ location, title, children }) => {
+const PageLayout = ({ location, title, subtitle, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-  // let header
-
-  // if (isRootPath) {
-  //   header = (
-  //     <h1 className="main-heading">
-  //       <Link to="/">{title}</Link>
-  //     </h1>
-  //   )
-  // } else {
-  //   header = (
-  //     <Link className="header-link-home" to="/">
-  //       {title}
-  //     </Link>
-  //   )
-  // }
 
   const className = isRootPath ? styles.homepage : styles.subpage
 
@@ -32,7 +17,10 @@ const PageLayout = ({ location, title, children }) => {
           className={`global-content-wrapper ${styles.headerContentWrapper}`}
         >
           <NavigationMenu></NavigationMenu>
-          <h1>{title}</h1>
+          <div>
+            <h1>{title}</h1>
+            {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
+          </div>
         </div>
       </header>
       <main>{children}</main>

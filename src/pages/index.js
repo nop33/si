@@ -13,6 +13,8 @@ const Home = ({ location }) => {
     <div>
       <PageLayout
         title="Supporting policy-making for future generations"
+        subtitle="Public policy is the result of the interaction of a myriad of actors representing different interests.
+        We improve their cooperation with future generations."
         location={location}
       >
         <BaseSection>
