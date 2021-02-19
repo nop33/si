@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { generateIdFromTitle } from "../utils"
-import BaseSection from "../components/base-section"
+import BaseSection from "../components/sections/base"
 
 import styles from "./tabs.module.scss"
 

@@ -4,7 +4,7 @@ import remark from "remark"
 import remarkHTML from "remark-html"
 
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/base-section"
+import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 

@@ -5,7 +5,7 @@ import CenteredNarrow from "../components/sections/centered-narrow"
 import ThreeColumns from "../components/sections/three-columns"
 import News from "../components/sections/news"
 import Projects from "../components/sections/projects"
-import BaseSection from "../components/base-section"
+import BaseSection from "../components/sections/base"
 import PageLayout from "../components/page-layout"
 
 const Home = ({ location }) => {
