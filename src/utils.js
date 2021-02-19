@@ -1,3 +1,3 @@
 export function generateIdFromTitle(title) {
-  return title.toLowerCase().replace(/\s/g, "-")
+  return title.toLowerCase().replace(/[^a-zA-Z]/g, "-")
 }

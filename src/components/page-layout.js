@@ -1,6 +1,8 @@
 import React from "react"
+import { Link } from "gatsby"
 
 import NavigationMenu from "./navigation-menu"
+import BaseSection from "./sections/base"
 
 import styles from "./page-layout.module.scss"
 
@@ -24,7 +26,31 @@ const PageLayout = ({ location, title, subtitle, children }) => {
         </div>
       </header>
       <main>{children}</main>
-      <footer></footer>
+      <footer>
+        <BaseSection className={styles.footerSection}>
+          <div class={styles.linksSection}>
+            <div>
+              <Link className="golden" to="/get-involved/#support-our-work">
+                Donate
+              </Link>
+            </div>
+            <div>
+              <Link className="golden" to="/get-involved/#work-with-us">
+                Subscribe
+              </Link>
+            </div>
+            <div>
+              <Link className="golden" to="/get-involved/#work-with-us">
+                Contact
+              </Link>
+            </div>
+          </div>
+          <div class={styles.copywriteSection}>
+            © {new Date().getFullYear()} Simon Institute of Longterm Governance.
+            All rights reserved.
+          </div>
+        </BaseSection>
+      </footer>
     </div>
   )
 }
