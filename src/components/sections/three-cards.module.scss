@@ -1,0 +1,16 @@
+.cards-section {
+  .cards-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: var(--spacing-10);
+
+    @media (max-width: 64rem) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .see-more-link {
+    margin-top: var(--spacing-8);
+    display: inline-block;
+  }
+}
