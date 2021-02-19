@@ -17,7 +17,7 @@ const PageLayout = ({ location, title, subtitle, children }) => {
           className={`global-content-wrapper ${styles.headerContentWrapper}`}
         >
           <NavigationMenu></NavigationMenu>
-          <div>
+          <div className={styles.textContent}>
             <h1>{title}</h1>
             {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
           </div>

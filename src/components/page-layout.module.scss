@@ -19,12 +19,16 @@
 
   @media (max-width: 42rem) {
     h1 {
-      font-size: var(--fontSize-7);
+      font-size: var(--fontSize-6);
     }
 
     .subtitle {
       font-size: var(--fontSize-2);
     }
+  }
+
+  .text-content {
+    margin-top: var(--spacing-4);
   }
 }
 
