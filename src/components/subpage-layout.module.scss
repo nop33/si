@@ -1,4 +1,8 @@
 .subpage {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  height: 100vh;
+
   header {
     height: var(--height-header-small);
     background-color: #f8f6f2;

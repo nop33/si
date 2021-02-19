@@ -1,7 +1,11 @@
 import React from "react"
 
-const BaseSection = ({ children }) => {
-  return <section className="global-content-wrapper">{children}</section>
+const BaseSection = ({ id, children, className }) => {
+  return (
+    <section id={id} className={`global-content-wrapper ${className}`}>
+      {children}
+    </section>
+  )
 }
 
 export default BaseSection

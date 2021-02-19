@@ -62,17 +62,17 @@
   --fontSize-7: 2.986rem;
   --fontSize-8: 3.583rem;
   --fontSize-9: 4.3rem;
-  /* --color-primary: #005b99; */
-  --color-primary: #131629;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
 
+  /* colors */
   --color-si-blue: #131629;
   --color-si-mustard: #bc962c;
   --color-si-light-blue: #919fba;
+
+  --color-primary: var(--color-si-blue);
+  --color-text: #2e353f;
+  --color-text-light: #4f5969;
+  --color-heading: var(--color-si-blue);
+  --color-accent: #d1dce5;
 
   /* animations */
   --ease-out-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -121,14 +121,7 @@ h6 {
   margin-top: var(--spacing-12);
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
-  letter-spacing: -0.025em;
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
+  letter-spacing: -0.02em;
   font-weight: var(--fontWeight-bold);
   color: var(--color-heading);
 }
@@ -136,7 +129,6 @@ h6 {
 h1 {
   font-weight: var(--fontWeight-black);
   font-size: var(--fontSize-6);
-  color: var(--color-heading-black);
 }
 
 h2 {

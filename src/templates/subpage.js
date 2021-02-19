@@ -6,6 +6,9 @@ import remarkHTML from "remark-html"
 import SubpageLayout from "../components/subpage-layout"
 import BaseSection from "../components/base-section"
 import SideBySide from "../components/sections/side-by-side"
+import Tabs from "../components/tabs"
+
+import { generateIdFromTitle } from "../utils"
 
 const SubpageTemplate = ({ data }) => {
   const pageData = data.markdownRemark.frontmatter
@@ -14,9 +17,10 @@ const SubpageTemplate = ({ data }) => {
   return (
     <div>
       <SubpageLayout title={pageData.title}>
+        <Tabs sections={pageData.textSections}></Tabs>
         {pageData.textSections.map(textSection => {
           return (
-            <BaseSection>
+            <BaseSection id={generateIdFromTitle(textSection.title)}>
               <SideBySide title={textSection.title}>
                 <div
                   dangerouslySetInnerHTML={{
