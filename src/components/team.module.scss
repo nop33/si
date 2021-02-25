@@ -1,0 +1,29 @@
+.members-group {
+  margin-top: var(--spacing-10);
+
+  &:first-child {
+    margin-top: var(--spacing-0);
+  }
+}
+
+.members-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: var(--spacing-12);
+
+  @media (max-width: 64rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.member {
+  text-decoration: none;
+
+  img {
+    border-radius: 50%;
+  }
+}
+
+.name {
+  margin-top: var(--spacing-2);
+}

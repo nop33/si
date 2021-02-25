@@ -17,7 +17,9 @@ const SubpageTemplate = ({ data, location }) => {
   return (
     <div>
       <PageLayout title={pageData.title} location={location}>
-        <Tabs sections={pageData.textSections}></Tabs>
+        <Tabs
+          titles={pageData.textSections.map(section => section.title)}
+        ></Tabs>
         {pageData.textSections.map(textSection => {
           const id = generateIdFromTitle(textSection.title)
           return (

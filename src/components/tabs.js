@@ -5,19 +5,19 @@ import BaseSection from "../components/sections/base"
 
 import styles from "./tabs.module.scss"
 
-const Tabs = ({ sections }) => {
+const Tabs = ({ titles }) => {
   return (
     <BaseSection className={styles.tabsSection}>
       <div className={styles.tabs}>
         <ul>
-          {sections
-            .filter(section => !!section.title)
-            .map(section => {
-              const id = generateIdFromTitle(section.title)
+          {titles
+            .filter(title => !!title)
+            .map(title => {
+              const id = generateIdFromTitle(title)
               return (
                 <li key={id}>
                   <Link className="golden" to={`#${id}`}>
-                    {section.title}
+                    {title}
                   </Link>
                 </li>
               )
