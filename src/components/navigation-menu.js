@@ -21,9 +21,9 @@ const NavigationMenu = () => {
           }
         }
       }
-      logoSmall: file(absolutePath: { regex: "/logo-small.png/" }) {
+      logoSmall: file(absolutePath: { regex: "/logo-circle.png/" }) {
         childImageSharp {
-          fixed(width: 50, quality: 95) {
+          fixed(width: 80, quality: 95) {
             ...GatsbyImageSharpFixed_noBase64
           }
         }
