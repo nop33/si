@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: var(--spacing-8);
+
+  @media (max-width: 64rem) {
+    grid-template-columns: 1fr;
+  }
+}

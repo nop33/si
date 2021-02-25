@@ -1,4 +1,5 @@
 const path = require(`path`)
+const _ = require("lodash")
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
@@ -143,6 +144,41 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  const tagTemplate = path.resolve("src/templates/tag.js")
+
+  const tagResult = await graphql(`
+    {
+      tagsGroup: allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "blog" } } }
+        limit: 2000
+      ) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
+      }
+    }
+  `)
+
+  if (tagResult.errors) {
+    reporter.panicOnBuild(
+      `There was an error loading your tags`,
+      tagResult.errors
+    )
+    return
+  }
+
+  const tags = tagResult.data.tagsGroup.group
+
+  tags.forEach(tag => {
+    createPage({
+      path: `/blog/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
+    })
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -151,8 +187,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
     const type = getNode(node.parent).sourceInstanceName
-
-    console.log(type)
 
     let slugPrefix = ""
 

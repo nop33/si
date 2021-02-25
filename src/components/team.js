@@ -9,7 +9,7 @@ const Team = () => {
     query {
       allMarkdownRemark(filter: { fields: { contentType: { eq: "member" } } }) {
         group(field: frontmatter___group) {
-          fieldValue
+          name: fieldValue
           nodes {
             fields {
               slug
@@ -35,19 +35,19 @@ const Team = () => {
   const membersGroups = membersQuery.allMarkdownRemark.group
 
   const groups = [
-    membersGroups.find(group => group.fieldValue === "Governing board"),
-    membersGroups.find(group => group.fieldValue === "Staff"),
-    membersGroups.find(group => group.fieldValue === "Collaborators"),
-    membersGroups.find(group => group.fieldValue === "Advisers"),
-    membersGroups.find(group => group.fieldValue === "Alumni"),
+    membersGroups.find(group => group.name === "Governing board"),
+    membersGroups.find(group => group.name === "Staff"),
+    membersGroups.find(group => group.name === "Collaborators"),
+    membersGroups.find(group => group.name === "Advisers"),
+    membersGroups.find(group => group.name === "Alumni"),
   ]
 
   return (
     <div className={styles.groups}>
       {groups.map(group => {
         return (
-          <div className={styles.membersGroup} key={group.fieldValue}>
-            <h3>{group.fieldValue}</h3>
+          <div className={styles.membersGroup} key={group.name}>
+            <h3>{group.name}</h3>
             <div className={styles.membersList}>
               {group.nodes.map(member => {
                 return (

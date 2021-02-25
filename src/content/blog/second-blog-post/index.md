@@ -2,6 +2,9 @@
 title: Tough and Competent
 date: "2015-05-06T23:46:37.121Z"
 featuredImage: "../../../images/EU Commission.jpg"
+tags:
+  - space
+  - technology
 ---
 
 Spaceflight will never tolerate carelessness, incapacity, and neglect. Somewhere, somehow, we screwed up. It could have been in design, build, or test. Whatever it was, we should have caught it. We were too gung ho about the schedule and we locked out all of the problems we saw each day in our work.

@@ -3,19 +3,18 @@ import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import Grid from "../components/sections/grid"
-import TagsList from "../components/tags-list"
 import BaseSection from "../components/sections/base"
+import TagsList from "../components/tags-list"
 
-const BlogIndex = ({ data, location }) => {
+const BlogTagTemplate = ({ pageContext, data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { nodes, totalCount } = data.allMarkdownRemark
-
   const tags = data.tagsGroup.group
 
   return (
     <div>
       <PageLayout
-        title="Blog"
+        title={`#${pageContext.tag}`}
         subtitle={`${totalCount} post${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
@@ -28,18 +27,22 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default BlogTagTemplate
 
 export const pageQuery = graphql`
-  query {
+  query($tag: String) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
+      filter: {
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: { tags: { in: [$tag] } }
+      }
       sort: { fields: [frontmatter___date], order: ASC }
+      limit: 2000
     ) {
       totalCount
       nodes {
