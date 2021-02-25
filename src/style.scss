@@ -265,6 +265,10 @@ a:focus {
   width: 100%;
   margin: 0 auto;
   padding: var(--spacing-32) var(--spacing-8);
+
+  &.narrow {
+    max-width: var(--maxWidth-3xl);
+  }
 }
 
 .global-section-wrapper {
