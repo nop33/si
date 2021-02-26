@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import ArrowedLink from "../arrowed-link"
 import threeColumnsStyles from "./three-columns.module.scss"

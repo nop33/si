@@ -10,6 +10,7 @@ const Grid = ({ posts }) => {
       {posts.map(post => {
         return (
           <Card
+            key={post.fields.slug}
             url={post.fields.slug}
             image={post.frontmatter.featuredImage.childImageSharp.fluid}
             title={post.frontmatter.title}

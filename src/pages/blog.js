@@ -7,7 +7,6 @@ import TagsList from "../components/featured-tags-list"
 import BaseSection from "../components/sections/base"
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const { nodes, totalCount } = data.allMarkdownRemark
 
   // const tags = data.tagsGroup.group

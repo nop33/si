@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import CenteredNarrow from "../components/sections/centered-narrow"
 import ThreeColumns from "../components/sections/three-columns"

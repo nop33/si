@@ -10,7 +10,7 @@ const TagsList = ({ tags }) => {
     <ul className={styles.tagsList}>
       {tags.map(tag => {
         return (
-          <li>
+          <li key={tag}>
             <Link to={constructTagUrl(tag)}>#{tag}</Link>
           </li>
         )

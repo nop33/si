@@ -70,7 +70,14 @@ const NavigationMenu = () => {
           </Link>
         </div>
         <div className={styles.openButton}>
-          <FontAwesomeIcon icon={faBars} onClick={toggleMobileMenu} size="2x" />
+          <FontAwesomeIcon
+            icon={faBars}
+            onClick={toggleMobileMenu}
+            onKeyPress={toggleMobileMenu}
+            tabIndex={0}
+            role="button"
+            size="2x"
+          />
         </div>
       </div>
       <div
@@ -80,7 +87,13 @@ const NavigationMenu = () => {
       >
         <div className={styles.menuMobileContainer}>
           <div className={styles.closeButtonContainer}>
-            <div className={styles.closeButton} onClick={toggleMobileMenu}>
+            <div
+              className={styles.closeButton}
+              onClick={toggleMobileMenu}
+              onKeyPress={toggleMobileMenu}
+              tabIndex={0}
+              role="button"
+            >
               <FontAwesomeIcon icon={faTimes} size="2x" />
             </div>
           </div>
