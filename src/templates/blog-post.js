@@ -1,9 +1,11 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
+import ArrowedLink from "../components/arrowed-link"
+import TagsList from "../components/tags-list"
 // import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
@@ -11,6 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
   // const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const featuredImage = post.frontmatter.featuredImage?.childImageSharp?.fluid
+  const tags = post.frontmatter?.tags
 
   return (
     <PageLayout
@@ -34,6 +37,7 @@ const BlogPostTemplate = ({ data, location }) => {
             itemProp="articleBody"
           />
         </article>
+        {tags && <TagsList tags={tags} />}
       </BaseSection>
       <hr />
       <BaseSection>
@@ -49,16 +53,20 @@ const BlogPostTemplate = ({ data, location }) => {
           >
             <li>
               {previous && (
-                <Link to={previous.fields.slug} rel="prev">
-                  ← {previous.frontmatter.title}
-                </Link>
+                <ArrowedLink
+                  to={previous.fields.slug}
+                  rel="prev"
+                  direction="left"
+                >
+                  {previous.frontmatter.title}
+                </ArrowedLink>
               )}
             </li>
             <li>
               {next && (
-                <Link to={next.fields.slug} rel="next">
-                  {next.frontmatter.title} →
-                </Link>
+                <ArrowedLink to={next.fields.slug} rel="next" direction="right">
+                  {next.frontmatter.title}
+                </ArrowedLink>
               )}
             </li>
           </ul>
@@ -89,6 +97,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        tags
         featuredImage {
           childImageSharp {
             fluid(

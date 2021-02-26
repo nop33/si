@@ -4,12 +4,13 @@ import { graphql } from "gatsby"
 import PageLayout from "../components/page-layout"
 import Grid from "../components/sections/grid"
 import BaseSection from "../components/sections/base"
-import TagsList from "../components/tags-list"
+import TagsList from "../components/featured-tags-list"
 
 const BlogTagTemplate = ({ pageContext, data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { nodes, totalCount } = data.allMarkdownRemark
-  const tags = data.tagsGroup.group
+  // const tags = data.tagsGroup.group
+  const tags = data.site.siteMetadata?.featuredTags
 
   return (
     <div>
@@ -34,6 +35,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        featuredTags
       }
     }
     allMarkdownRemark(
