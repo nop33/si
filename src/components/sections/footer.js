@@ -29,10 +29,7 @@ const Footer = () => {
           </Link>
           <div className={styles.linksList}>
             <div>
-              <ArrowedLink
-                direction="right"
-                to="/get-involved/#support-our-work"
-              >
+              <ArrowedLink direction="right" to="/get-involved/#donate">
                 Donate
               </ArrowedLink>
             </div>

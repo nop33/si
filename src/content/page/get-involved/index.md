@@ -8,25 +8,40 @@ header:
   title: Get Involved
 textSections:
   - content: |
-      ### Collaborators
+      ### Collaborate
 
       We happily collaborate and provide feedback on research projects aiming to contribute to fields of our interest.
 
-      ### Partnerships
+      [Contact form](https://airtable.com/shrGJVgGfGJc6OCA4)
+
+      ### Partner
 
       We are always looking for institutional partners who desire to improve their decision-making to benefit future generations.
 
-      ### Applications
+      ### Apply
 
-      We do not currently have job openings but expect to hire in the near future. Sign up for our newsletter below to stay in touch.
+      We expect to start hiring for specific positions soon. Until then, you can send in a general application here:
+
+      [Application form](https://airtable.com/shr1fLH2prZYWukIM)
     title: Work with us
   - content: |
-      To meaningfully support policy networks without just injecting further noise into the system, we have to build capacity over multiple years. With a team of three FTE until 2022 and five the following year, our current room for more funding until the end of 2022 is at least CHF 545,000.
+      To meaningfully support policy networks without just injecting further noise into the system, we have to build capacity sustainably. With a team of three FTE until 2022 and five the following year, our current room for more funding until the end of 2022 is at least CHF 545,000.
 
-      From Switzerland: CHxx xxxx xxxx xxxx xxxx x
+      Until we have received legal nonprofit status, you can donate via our fiscal sponsors from the effective altruism network:
 
-      From elsewhere: EA funds
-    title: Support our work
+      ### For tax deductible donations in Switzerland
+
+      Credit card (~3% fees): [Donate](https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388)
+
+      European bank transfer:
+      - Name: Association Effective Altruism Geneva (EAGE)
+      - IBAN: CH85 0024 0240 9405 0140X"
+
+      ### For tax-deductible donations from US/UK/NL
+
+      [Donate to EA Funds](https://app.effectivealtruism.org/donations/new/organizations)
+
+    title: Donate
   - content: |
       ### Understanding and scaling longterm governance
 
