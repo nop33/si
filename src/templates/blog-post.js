@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Image from "gatsby-image"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
@@ -7,8 +8,9 @@ import BaseSection from "../components/sections/base"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  // const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const featuredImage = post.frontmatter.featuredImage?.childImageSharp?.fluid
 
   return (
     <PageLayout
@@ -20,6 +22,7 @@ const BlogPostTemplate = ({ data, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       /> */}
+      {featuredImage && <Image fluid={featuredImage} />}
       <BaseSection className="narrow">
         <article
           className="blog-post"
@@ -86,6 +89,18 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        featuredImage {
+          childImageSharp {
+            fluid(
+              maxWidth: 1920
+              maxHeight: 600
+              fit: COVER
+              cropFocus: CENTER
+            ) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

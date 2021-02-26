@@ -29,12 +29,10 @@ const PageLayout = ({ location, title, subtitle, children, backLink }) => {
         </div>
       </header>
       <main>
-        {backLink ? (
+        {backLink && (
           <Link to={backLink} className="golden backLink">
             <FontAwesomeIcon icon={faChevronLeft} /> Back
           </Link>
-        ) : (
-          ""
         )}
         {children}
       </main>

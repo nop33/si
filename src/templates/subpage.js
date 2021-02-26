@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import remark from "remark"
 import remarkHTML from "remark-html"
+import Image from "gatsby-image"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
@@ -13,10 +14,12 @@ import { generateIdFromTitle } from "../utils"
 const SubpageTemplate = ({ data, location }) => {
   const pageData = data.markdownRemark.frontmatter
   const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
+  const featuredImage = pageData.featuredImage?.childImageSharp?.fluid
 
   return (
     <div>
       <PageLayout title={pageData.title} location={location}>
+        {featuredImage && <Image fluid={featuredImage} />}
         <Tabs
           titles={pageData.textSections.map(section => section.title)}
         ></Tabs>
@@ -24,6 +27,10 @@ const SubpageTemplate = ({ data, location }) => {
           const id = generateIdFromTitle(textSection.title)
           return (
             <BaseSection id={id} key={id}>
+              {/* <SideBySide>
+                {featuredImage && <Image fluid={featuredImage} />}
+              </SideBySide> */}
+
               <SideBySide title={textSection.title}>
                 <div
                   dangerouslySetInnerHTML={{
@@ -53,6 +60,18 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        featuredImage {
+          childImageSharp {
+            fluid(
+              maxWidth: 1920
+              maxHeight: 600
+              fit: COVER
+              cropFocus: CENTER
+            ) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         textSections {
           content
           title
