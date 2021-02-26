@@ -172,7 +172,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   tags.forEach(tag => {
     createPage({
-      path: `/blog/tags/${_.kebabCase(tag.fieldValue)}/`,
+      path: `/blog/tag/${_.kebabCase(tag.fieldValue)}/`,
       component: tagTemplate,
       context: {
         tag: tag.fieldValue,
@@ -192,6 +192,10 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
     if (type !== "page") {
       slugPrefix = `/${type}`
+    }
+
+    if (type === "blog") {
+      slugPrefix = `${slugPrefix}/post`
     }
 
     if (type === "member") {

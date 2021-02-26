@@ -5,5 +5,5 @@ export function generateIdFromTitle(title) {
 }
 
 export function constructTagUrl(tag) {
-  return `/blog/tags/${_.kebabCase(tag)}/`
+  return `/blog/tag/${_.kebabCase(tag)}/`
 }
