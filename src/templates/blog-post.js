@@ -25,7 +25,12 @@ const BlogPostTemplate = ({ data, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       /> */}
-      {featuredImage && <Image fluid={featuredImage} />}
+      {featuredImage && (
+        <Image
+          fluid={featuredImage}
+          alt={`${post.frontmatter.title} featured image`}
+        />
+      )}
       <BaseSection className="narrow">
         <article
           className="blog-post"

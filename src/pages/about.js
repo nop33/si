@@ -64,6 +64,7 @@ const AboutPage = ({ data, location }) => {
         <div id={herbertSimonSectionId}>
           <Image
             fluid={pageData.herbertSimonSection.photo.childImageSharp.fluid}
+            alt={pageData.herbertSimonSection.title}
           />
         </div>
         <BaseSection>

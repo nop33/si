@@ -25,7 +25,7 @@ const Footer = () => {
       <BaseSection className={styles.footerSection}>
         <div className={styles.linksSection}>
           <Link to="/">
-            <Image fixed={data.logoSmall.childImageSharp.fixed} />
+            <Image fixed={data.logoSmall.childImageSharp.fixed} alt="SI logo" />
           </Link>
           <div className={styles.linksList}>
             <div>

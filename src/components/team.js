@@ -58,6 +58,7 @@ const Team = () => {
                   >
                     <Image
                       fixed={member.frontmatter.photo.childImageSharp.fixed}
+                      alt={`${member.frontmatter.name} profile image`}
                     />
                     <div className={styles.name}>{member.frontmatter.name}</div>
                   </Link>

@@ -9,7 +9,12 @@ const MemberTemplate = ({ data, location }) => {
   const personData = data.markdownRemark.frontmatter
   const content = data.markdownRemark.html
 
-  const header = <Person photo={personData.photo.childImageSharp.fixed} />
+  const header = (
+    <Person
+      photo={personData.photo.childImageSharp.fixed}
+      name={personData.name}
+    />
+  )
 
   return (
     <div>

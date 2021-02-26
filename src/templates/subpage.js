@@ -19,7 +19,12 @@ const SubpageTemplate = ({ data, location }) => {
   return (
     <div>
       <PageLayout title={pageData.title} location={location}>
-        {featuredImage && <Image fluid={featuredImage} />}
+        {featuredImage && (
+          <Image
+            fluid={featuredImage}
+            alt={`${pageData.title} featured image`}
+          />
+        )}
         <Tabs
           titles={pageData.textSections.map(section => section.title)}
         ></Tabs>
@@ -27,10 +32,6 @@ const SubpageTemplate = ({ data, location }) => {
           const id = generateIdFromTitle(textSection.title)
           return (
             <BaseSection id={id} key={id}>
-              {/* <SideBySide>
-                {featuredImage && <Image fluid={featuredImage} />}
-              </SideBySide> */}
-
               <SideBySide title={textSection.title}>
                 <div
                   dangerouslySetInnerHTML={{
