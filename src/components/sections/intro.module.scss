@@ -1,0 +1,29 @@
+.intro {
+  font-size: var(--fontSize-3);
+
+  > svg {
+    margin-top: calc(var(--spacing-56) * -1);
+    z-index: -1;
+    position: relative;
+
+    @media (max-width: 87rem) {
+      width: var(--maxWidth-2xl);
+    }
+
+    @media (max-width: 62rem) {
+      width: 100%;
+      margin-top: 0;
+      height: 270px;
+    }
+  }
+}
+
+.intro-text {
+  max-width: var(--maxWidth-2xl);
+  margin-left: auto;
+}
+
+.link {
+  justify-content: flex-end;
+  font-size: var(--fontSize-3);
+}

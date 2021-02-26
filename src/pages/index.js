@@ -1,48 +1,29 @@
 import React from "react"
 
-import CenteredNarrow from "../components/sections/centered-narrow"
+import Intro from "../components/sections/intro"
 import ThreeColumns from "../components/sections/three-columns"
 import News from "../components/sections/news"
 import Projects from "../components/sections/projects"
 import BaseSection from "../components/sections/base"
 import PageLayout from "../components/page-layout"
-import ArrowedLink from "../components/arrowed-link"
 
-const Home = ({ location }) => {
+const Home = ({ data, location }) => {
+  const pageData = data.allMarkdownRemark.nodes[0].frontmatter
+
   return (
     <div>
       <PageLayout
-        title="Supporting policy-making for future generations"
-        subtitle="Public policy is the result of the interaction of a myriad of actors representing different interests.
-        We improve their cooperation with future generations."
+        title={pageData.header.title}
+        subtitle={pageData.header.subtitle}
         location={location}
       >
         <BaseSection>
-          <CenteredNarrow>
-            <div className="font-size-3">
-              <p>
-                The Simon Institute for Longterm Governance (SI) is somewhere
-                between a research lab and a training centre, founded and
-                nourished by a community of researchers and policy-makers.
-              </p>
-              <p>
-                We are building the knowledge and community to improve the
-                global governance of catastrophic risks.
-              </p>
-              <p>
-                Our work is guided by a vision of governance tools and practices
-                that account for future generations, facilitated by advances in
-                research and attitudes.
-              </p>
-              <p>
-                As we're a non-profit, we can afford to focus on the longterm.
-              </p>
-
-              <ArrowedLink direction="right" to="/about" text="More about us" />
-            </div>
-          </CenteredNarrow>
+          <Intro
+            content={pageData.introSection.content}
+            link={pageData.introSection.link}
+          />
         </BaseSection>
-        <BaseSection>
+        <BaseSection noTopPadding>
           <ThreeColumns></ThreeColumns>
         </BaseSection>
         <hr></hr>
@@ -58,3 +39,37 @@ const Home = ({ location }) => {
 }
 
 export default Home
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/custom-page/home.md/" } }
+    ) {
+      nodes {
+        frontmatter {
+          title
+          seo {
+            title
+            description
+          }
+          header {
+            title
+            subtitle
+          }
+          introSection {
+            link {
+              text
+              url
+            }
+            content
+          }
+        }
+      }
+    }
+  }
+`
