@@ -4,14 +4,15 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import BaseSection from "./base"
+import ArrowedLink from "../arrowed-link"
 import styles from "./footer.module.scss"
 
 const Footer = () => {
   const data = useStaticQuery(graphql`
     query {
-      logoSmall: file(absolutePath: { regex: "/logo-circle.png/" }) {
+      logoSmall: file(absolutePath: { regex: "/logo-small.png/" }) {
         childImageSharp {
-          fixed(width: 80, quality: 95) {
+          fixed(width: 50, quality: 95) {
             ...GatsbyImageSharpFixed_noBase64
           }
         }
@@ -23,21 +24,28 @@ const Footer = () => {
     <footer>
       <BaseSection className={styles.footerSection}>
         <div className={styles.linksSection}>
-          <Image fixed={data.logoSmall.childImageSharp.fixed} />
-          <div>
-            <Link className="golden" to="/get-involved/#support-our-work">
-              Donate
-            </Link>
-          </div>
-          <div>
-            <Link className="golden" to="/get-involved/#work-with-us">
-              Subscribe
-            </Link>
-          </div>
-          <div>
-            <Link className="golden" to="/get-involved/#work-with-us">
-              Contact
-            </Link>
+          <Link to="/">
+            <Image fixed={data.logoSmall.childImageSharp.fixed} />
+          </Link>
+          <div className={styles.linksList}>
+            <div>
+              <ArrowedLink
+                direction="right"
+                to="/get-involved/#support-our-work"
+              >
+                Donate
+              </ArrowedLink>
+            </div>
+            <div>
+              <ArrowedLink direction="right" to="/get-involved/#work-with-us">
+                Subscribe
+              </ArrowedLink>
+            </div>
+            <div>
+              <ArrowedLink direction="right" to="/get-involved/#work-with-us">
+                Contact
+              </ArrowedLink>
+            </div>
           </div>
         </div>
         <div className={styles.copywriteSection}>

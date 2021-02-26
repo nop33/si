@@ -1,5 +1,5 @@
 footer {
-  background-color: transparentize(#919fba, 0.8);
+  background-color: transparentize(#919fba, 0.9);
   display: flex;
   flex-direction: column;
 
@@ -11,9 +11,14 @@ footer {
   .links-section {
     display: flex;
     flex-grow: 1;
-    justify-content: space-between;
     align-items: center;
     padding: var(--spacing-12) var(--spacing-0);
+  }
+
+  .links-list {
+    display: flex;
+    justify-content: space-around;
+    flex-grow: 1;
   }
 
   .copywrite-section {
