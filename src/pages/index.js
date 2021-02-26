@@ -7,6 +7,7 @@ import News from "../components/sections/news"
 import Projects from "../components/sections/projects"
 import BaseSection from "../components/sections/base"
 import PageLayout from "../components/page-layout"
+import ArrowedLink from "../components/arrowed-link"
 
 const Home = ({ location }) => {
   return (
@@ -38,7 +39,7 @@ const Home = ({ location }) => {
                 As we're a non-profit, we can afford to focus on the longterm.
               </p>
 
-              <Link to="/about">More about us</Link>
+              <ArrowedLink direction="right" to="/about" text="More about us" />
             </div>
           </CenteredNarrow>
         </BaseSection>

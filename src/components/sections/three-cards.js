@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 
+import ArrowedLink from "../arrowed-link"
+
 import Card from "../card"
 import styles from "./three-cards.module.scss"
 
@@ -43,9 +45,12 @@ const ThreeCards = ({ cardsData, sectionTitle, seeMoreLink }) => {
           )
         })}
       </div>
-      <Link className={styles.seeMoreLink} to={seeMoreLink}>
-        See more
-      </Link>
+      <ArrowedLink
+        direction="right"
+        to={seeMoreLink}
+        text="See more"
+        className={styles.seeMoreLink}
+      />
     </div>
   )
 }

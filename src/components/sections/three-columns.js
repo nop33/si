@@ -1,5 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
+
+import ArrowedLink from "../arrowed-link"
 import threeColumnsStyles from "./three-columns.module.scss"
 
 const Columns = () => {
@@ -13,7 +15,7 @@ const Columns = () => {
             institutions.
           </p>
         </div>
-        <Link to="/about">Learn more</Link>
+        <ArrowedLink direction="right" to="/about" text="Learn more" />
       </div>
       <div className={threeColumnsStyles.column}>
         <h2>Research & ideas</h2>
@@ -23,7 +25,7 @@ const Columns = () => {
             research.
           </p>
         </div>
-        <Link to="/research">Learn more</Link>
+        <ArrowedLink direction="right" to="/research" text="Learn more" />
       </div>
       <div className={threeColumnsStyles.column}>
         <h2>Projects</h2>
@@ -33,7 +35,7 @@ const Columns = () => {
             systematically.
           </p>
         </div>
-        <Link to="/projects">Learn more</Link>
+        <ArrowedLink direction="right" to="/projects" text="Learn more" />
       </div>
     </div>
   )

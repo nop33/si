@@ -245,7 +245,7 @@ a {
   &.golden {
     color: var(--color-heading);
     text-decoration: none;
-    transition: all 0.2s;
+    transition: color 0.2s;
 
     &:hover {
       color: var(--color-si-mustard);
@@ -253,13 +253,12 @@ a {
   }
 
   &.backLink {
-    position: absolute;
-    left: var(--spacing-8);
-    top: var(--spacing-8);
-
     svg {
       transition: transform 0.2s;
     }
+    position: absolute;
+    left: var(--spacing-8);
+    top: var(--spacing-8);
 
     &:hover {
       svg {
