@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
-import SideBySide from "../components/sections/side-by-side"
 import Person from "../components/person"
 
 const MemberTemplate = ({ data, location }) => {
@@ -18,15 +17,16 @@ const MemberTemplate = ({ data, location }) => {
         title={personData.name}
         subtitle={personData.role}
         location={location}
+        backLink="/about#our-team"
       >
-        <BaseSection>
-          <SideBySide header={header}>
-            <div
-              dangerouslySetInnerHTML={{
-                __html: content,
-              }}
-            ></div>
-          </SideBySide>
+        <BaseSection className="narrow">
+          <div>
+            {header}
+            <section
+              dangerouslySetInnerHTML={{ __html: content }}
+              itemProp="articleBody"
+            />
+          </div>
         </BaseSection>
       </PageLayout>
     </div>

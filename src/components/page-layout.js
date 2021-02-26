@@ -1,12 +1,15 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faChevronLeft } from "@fortawesome/free-solid-svg-icons"
+
 import NavigationMenu from "./navigation-menu"
 import Footer from "./sections/footer"
 
 import styles from "./page-layout.module.scss"
 
-const PageLayout = ({ location, title, subtitle, children }) => {
+const PageLayout = ({ location, title, subtitle, children, backLink }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
 
@@ -25,7 +28,16 @@ const PageLayout = ({ location, title, subtitle, children }) => {
           </div>
         </div>
       </header>
-      <main>{children}</main>
+      <main>
+        {backLink ? (
+          <Link to={backLink} className="golden backLink">
+            <FontAwesomeIcon icon={faChevronLeft} /> Back
+          </Link>
+        ) : (
+          ""
+        )}
+        {children}
+      </main>
       <Footer />
     </div>
   )
