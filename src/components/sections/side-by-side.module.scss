@@ -30,4 +30,14 @@
       max-width: var(--maxWidth-2xl);
     }
   }
+
+  &.elevated-title {
+    .header-section {
+      margin-top: calc(var(--spacing-56) * -1);
+
+      @media (max-width: 42rem) {
+        margin-top: calc(var(--spacing-48) * -1);
+      }
+    }
+  }
 }

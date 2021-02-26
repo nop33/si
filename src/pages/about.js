@@ -67,7 +67,7 @@ const AboutPage = ({ data, location }) => {
           />
         </div>
         <BaseSection>
-          <SideBySide title={pageData.herbertSimonSection.title}>
+          <SideBySide title={pageData.herbertSimonSection.title} elevateTitle>
             <div
               dangerouslySetInnerHTML={{
                 __html: toHTML(pageData.herbertSimonSection.content),
