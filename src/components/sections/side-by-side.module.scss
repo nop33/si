@@ -13,7 +13,6 @@
 
   .content-section {
     margin-top: var(--spacing-1);
-    max-width: var(--maxWidth-2xl);
 
     h3:first-of-type {
       margin-top: 0;
@@ -24,5 +23,11 @@
     margin: 0;
     position: sticky;
     top: var(--spacing-32);
+  }
+
+  &:not(.wide) {
+    .content-section {
+      max-width: var(--maxWidth-2xl);
+    }
   }
 }

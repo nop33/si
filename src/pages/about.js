@@ -57,7 +57,7 @@ const AboutPage = ({ data, location }) => {
           )
         })}
         <BaseSection id={teamSectionId}>
-          <SideBySide title={pageData.teamSection.title}>
+          <SideBySide title={pageData.teamSection.title} isWide>
             <Team />
           </SideBySide>
         </BaseSection>

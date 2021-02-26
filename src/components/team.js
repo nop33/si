@@ -20,7 +20,7 @@ const Team = () => {
               role
               photo {
                 childImageSharp {
-                  fixed(width: 150, height: 150) {
+                  fixed(width: 85, height: 85) {
                     ...GatsbyImageSharpFixed
                   }
                 }

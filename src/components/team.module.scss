@@ -1,5 +1,5 @@
 .members-group {
-  margin-top: var(--spacing-10);
+  margin-top: var(--spacing-16);
 
   &:first-child {
     margin-top: var(--spacing-0);
@@ -8,8 +8,8 @@
 
 .members-list {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: var(--spacing-12);
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: var(--spacing-8);
 
   @media (max-width: 64rem) {
     grid-template-columns: repeat(2, 1fr);
@@ -18,6 +18,13 @@
 
 .member {
   text-decoration: none;
+  display: flex;
+  align-items: center;
+
+  > div:first-child {
+    flex-shrink: 0;
+    margin-right: var(--spacing-3);
+  }
 
   img {
     border-radius: 50%;
