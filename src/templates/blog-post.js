@@ -12,7 +12,16 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   // const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-  const featuredImage = post.frontmatter.featuredImage?.childImageSharp?.fluid
+  const mobileFeaturedImage = post.frontmatter.featuredImage?.mobile?.fluid
+  const desktopFeaturedImage = post.frontmatter.featuredImage?.desktop?.fluid
+
+  const sources = [
+    mobileFeaturedImage,
+    {
+      ...desktopFeaturedImage,
+      media: `(min-width: 768px)`,
+    },
+  ]
   const tags = post.frontmatter?.tags
 
   return (
@@ -25,9 +34,9 @@ const BlogPostTemplate = ({ data, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       /> */}
-      {featuredImage && (
+      {desktopFeaturedImage && (
         <Image
-          fluid={featuredImage}
+          fluid={sources}
           alt={`${post.frontmatter.title} featured image`}
         />
       )}
@@ -104,9 +113,19 @@ export const pageQuery = graphql`
         description
         tags
         featuredImage {
-          childImageSharp {
+          desktop: childImageSharp {
             fluid(
               maxWidth: 1920
+              maxHeight: 600
+              fit: COVER
+              cropFocus: CENTER
+            ) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+          mobile: childImageSharp {
+            fluid(
+              maxWidth: 768
               maxHeight: 600
               fit: COVER
               cropFocus: CENTER

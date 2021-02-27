@@ -14,16 +14,22 @@ import { generateIdFromTitle } from "../utils"
 const SubpageTemplate = ({ data, location }) => {
   const pageData = data.markdownRemark.frontmatter
   const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
-  const featuredImage = pageData.featuredImage?.childImageSharp?.fluid
+  const mobileFeaturedImage = pageData.featuredImage?.mobile?.fluid
+  const desktopFeaturedImage = pageData.featuredImage?.desktop?.fluid
+
+  const sources = [
+    mobileFeaturedImage,
+    {
+      ...desktopFeaturedImage,
+      media: `(min-width: 768px)`,
+    },
+  ]
 
   return (
     <div>
       <PageLayout title={pageData.title} location={location}>
-        {featuredImage && (
-          <Image
-            fluid={featuredImage}
-            alt={`${pageData.title} featured image`}
-          />
+        {desktopFeaturedImage && (
+          <Image fluid={sources} alt={`${pageData.title} featured image`} />
         )}
         <Tabs
           titles={pageData.textSections.map(section => section.title)}
@@ -62,9 +68,19 @@ export const pageQuery = graphql`
       frontmatter {
         title
         featuredImage {
-          childImageSharp {
+          desktop: childImageSharp {
             fluid(
               maxWidth: 1920
+              maxHeight: 600
+              fit: COVER
+              cropFocus: CENTER
+            ) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+          mobile: childImageSharp {
+            fluid(
+              maxWidth: 768
               maxHeight: 600
               fit: COVER
               cropFocus: CENTER
