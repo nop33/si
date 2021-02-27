@@ -56,9 +56,6 @@ const NavigationMenu = () => {
           <Link className="golden" to="/about">
             About
           </Link>
-          <Link className="golden" to="/research">
-            Research
-          </Link>
           <Link className="golden" to="/projects">
             Projects
           </Link>
@@ -100,9 +97,6 @@ const NavigationMenu = () => {
           <div className={styles.menuMobileItemsContainer}>
             <Link className="golden" to="/about">
               About
-            </Link>
-            <Link className="golden" to="/research">
-              Research
             </Link>
             <Link className="golden" to="/projects">
               Projects
