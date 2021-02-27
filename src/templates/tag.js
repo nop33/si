@@ -5,10 +5,11 @@ import PageLayout from "../components/page-layout"
 import Grid from "../components/sections/grid"
 import BaseSection from "../components/sections/base"
 import TagsList from "../components/featured-tags-list"
+import Card from "../components/card"
+import SEO from "../components/seo"
 
 const BlogTagTemplate = ({ pageContext, data, location }) => {
   const { nodes, totalCount } = data.allMarkdownRemark
-  // const tags = data.tagsGroup.group
   const tags = data.site.siteMetadata?.featuredTags
 
   return (
@@ -18,9 +19,23 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
         subtitle={`${totalCount} post${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
+        <SEO title={`${pageContext.tag} posts`} />
         <TagsList tags={tags} />
         <BaseSection>
-          <Grid posts={nodes} />
+          <Grid>
+            {nodes.map(post => {
+              return (
+                <Card
+                  key={post.fields.slug}
+                  url={post.fields.slug}
+                  image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                  title={post.frontmatter.title}
+                  subtitle={post.frontmatter.date}
+                  content={post.frontmatter.description || post.excerpt}
+                />
+              )
+            })}
+          </Grid>
         </BaseSection>
       </PageLayout>
     </div>
@@ -30,7 +45,7 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
 export default BlogTagTemplate
 
 export const pageQuery = graphql`
-  query($tag: String) {
+  query subpageByTag($tag: String) {
     site {
       siteMetadata {
         title

@@ -1,7 +1,11 @@
 ---
 title: Tough and Competent
 date: "2015-05-06T23:46:37.121Z"
+description: ""
 featuredImage: "../../../images/EU Commission.jpg"
+seo:
+  title: ""
+  description: ""
 tags:
   - job
   - discovery

@@ -1,6 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Simon Institute of Longterm Governance`,
+    description: `The Simon Institute for Longterm Governance (SI) is somewhere between a research lab and a training centre, founded and
+    nourished by a community of researchers and policy-makers.`,
+    siteUrl: `https://staging--silg.netlify.app`, // TODO: Change to production
     social: {
       linkedin: ``,
     },
@@ -92,13 +95,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Simon Institute of Longterm Governance`,
+        short_name: `SI`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#bc962c`,
         display: `minimal-ui`,
-        icon: `src/content/assets/gatsby-icon.png`,
+        icon: `src/images/logo-circle.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

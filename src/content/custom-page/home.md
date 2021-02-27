@@ -1,14 +1,10 @@
 ---
-title: Home
 seo:
-  description: |
-    test seo description
-  title: test seo title
+  title: ""
+  description: ""
 header:
   title: Supporting policy-making for future generations
-  subtitle:
-    Public policy is the result of the interaction of a myriad of actors representing different interests.
-    We improve their cooperation with future generations.
+  subtitle: "Public policy is the result of the interaction of a myriad of actors representing different interests. We improve their cooperation with future generations."
 introSection:
   content: |
     The Simon Institute for Longterm Governance (SI) is somewhere between a research lab and a training centre, founded and
@@ -25,4 +21,21 @@ introSection:
   link:
     text: More about us
     url: /about
+keyfactsSection:
+  - title: ""
+    description: ""
+  - title: ""
+    description: ""
+  - title: ""
+    description: ""
+projectsSection:
+  title: Our projects
+  link:
+    title: See all projects
+    url: /projects
+postsSection:
+  title: Our latest news
+  link:
+    title: See all posts
+    url: /blog
 ---

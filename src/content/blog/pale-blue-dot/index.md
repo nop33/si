@@ -1,8 +1,11 @@
 ---
 title: Pale Blue Dot
 date: "2015-05-01T22:12:03.284Z"
-description: "Look again at that dot. That's here. That's home. That's us."
+description: ""
 featuredImage: ../../../images/nasa-Q1p7bh3SHj8-unsplash.jpg
+seo:
+  title: ""
+  description: ""
 tags:
   - announcement
   - job

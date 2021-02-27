@@ -1,13 +1,13 @@
 ---
-title: Projects
 seo:
-  description: |
-    test seo description
-  title: test seo title
+  title: ""
+  description: ""
 header:
   title: Projects
+  subtitle: ""
 textSections:
-  - content: |
+  - title: Policy support
+    content: |
       Policy-making is characterized by uncertainty. We help you and your team grapple productively with it.
 
       ### Table-top exercises
@@ -23,8 +23,8 @@ textSections:
       ### Decision support tools
 
       We provide training on tools to foster cooperation through deliberation, prioritization, transparency and consistency - and advise their implementation.
-    title: Policy support
-  - content: |
+  - title: Field-building
+    content: |
       ### Representation
 
       We contribute talks, workshops and advice to a wide variety of projects and events in line with our values and objectives. Get in touch to discuss a contribution!
@@ -36,8 +36,8 @@ textSections:
       ### Mentorship
 
       We advise promising young researchers and policy-makers on their research and career development.
-    title: Field-building
-  - content: |
+  - title: On-going research projects
+    content: |
       - Leverage points to strengthen decision-making in the face of complexity
       - Evidence and impact of strategies to support decision-making
       - Computational policy process studies
@@ -46,5 +46,4 @@ textSections:
       - Strategies for Effective Longtermist Advocacy
       - Strengthening Decision-making Processes For the Long-term Future
       - An Agenda for Research and Practice in Longterm Governance
-    title: On-going research projects
 ---

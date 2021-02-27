@@ -6,14 +6,14 @@ import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import ArrowedLink from "../components/arrowed-link"
 import TagsList from "../components/tags-list"
-// import SEO from "../components/seo"
+import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  // const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const mobileFeaturedImage = post.frontmatter.featuredImage?.mobile?.fluid
   const desktopFeaturedImage = post.frontmatter.featuredImage?.desktop?.fluid
+  const seoFeaturedImage = post.frontmatter.featuredImage?.seo?.resize
 
   const sources = [
     mobileFeaturedImage,
@@ -30,10 +30,15 @@ const BlogPostTemplate = ({ data, location }) => {
       title={post.frontmatter.title}
       subtitle={post.frontmatter.date}
     >
-      {/* <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      /> */}
+      <SEO
+        title={post.frontmatter.seo.title || post.frontmatter.title}
+        description={
+          post.frontmatter.seo.description ||
+          post.frontmatter.description ||
+          post.excerpt
+        }
+        image={seoFeaturedImage}
+      />
       {desktopFeaturedImage && (
         <Image
           fluid={sources}
@@ -112,6 +117,10 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         tags
+        seo {
+          title
+          description
+        }
         featuredImage {
           desktop: childImageSharp {
             fluid(
@@ -131,6 +140,13 @@ export const pageQuery = graphql`
               cropFocus: CENTER
             ) {
               ...GatsbyImageSharpFluid
+            }
+          }
+          seo: childImageSharp {
+            resize(width: 1200) {
+              src
+              height
+              width
             }
           }
         }

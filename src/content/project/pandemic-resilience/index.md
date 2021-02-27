@@ -1,18 +1,19 @@
 ---
-title: Pandemic Resilience
-description: A Table-top Exercise for International Policy Networks
-area: Policy-making
-featuredImage: ../../../images/ross-sneddon-sWlDOWk0Jp8-unsplash.jpg
 seo:
-  description: |
-    test seo description
-  title: test seo title
+  title: ""
+  description: ""
 header:
-  title: Pandemic Resilience
-  subtitle: A Table-top Exercise for International Policy Networks
-  background: ross-sneddon-sWlDOWk0Jp8-unsplash.jpg
+  title: "Pandemic Resilience"
+  subtitle: "A Table-top Exercise for International Policy Networks"
+card:
+  title: ""
+  description: ""
+area: Policy-making
+isFeaturedOnHomepage: true
+featuredImage: ../../../images/ross-sneddon-sWlDOWk0Jp8-unsplash.jpg
 textSections:
-  - content: |
+  - title: The problem
+    content: |
       The unclear origins of the COVID-19 pandemic have brought worries about deadly engineered pathogens into the public awareness. For years, experts have been warning of even deadlier outbreaks but a focus on short-term results hinders pandemic preparedness.
 
       The past two decades have seen an increase in research, consultations and simulations on global catastrophic biological risks. Governments around the world have been sitting on a wealth of insights to build resilience to rare-yet-catastrophic events.
@@ -20,16 +21,16 @@ textSections:
       Any individual actor feels forced to resort to conservatism when facing (i) a glut of information of questionable quality, (ii) deep uncertainty about the consequences of their action and (iii) scrutiny from a public that desires clarity.
 
       Global catastrophes require coordinated multilateral responses and close coordination between scientists and policy-makers but a bias towards symbolic action at regional and local scales impedes coordinated experimentation and learning.
-    title: The problem
-  - content: |
+  - title: Our solution
+    content: |
       The brain learns best from experience. We offer an immersive exercise, adapted to the time-scarce reality of policy actors, allowing participants to practice decision-making and cooperation under pressure - online and offline.
 
       Realistic dynamics on short time-scales provide fast feedback loops that train intuition and build systems competencies. The exercise places a particular focus on ways to model systems and maintain cooperation.
-    title: Our solution
-  - content: |
+  - title: Target audience
+    content: |
       Individuals, groups and networks working on pandemic resilience at the national or international level.
-    title: Target audience
-  - content: |
+  - title: Description
+    content: |
       Global catastrophic biological risks (GCBRs) are most likely to be sudden developments - novel, and unresponsive to available medical countermeasures. Designing organisms, even by accident, that have unprecedented capacity for harm is now considered within the reach of current biotechnologies.
 
       While GCBRs represent a small portion of biological threats in the world and should not distract us from the work to prevent and respond to other vital disease priorities, GCBRs pose such extraordinary threats to humanity that they deserve high-level attention, risk assessment, resources, and strategic planning.
@@ -55,20 +56,19 @@ textSections:
       Tabletop exercises are well-researched and have been experimented with for over a century under the label of “role-play simulations”. Our offer is built based on a systematic review of the academic literature to ensure robustly beneficial deployment by building on the state of the art knowledge. Each run is complemented by a debriefing session to discuss the experience, possible questions or insights and to gather feedback. Contacts will be registered to collect feedback and assess impact.
 
       No matter the scenario, participants will be able to leverage gained insights in any group decision-making setting to improve coordination by accounting for uncertainty and knowledge gaps in a future-proof manner.
-    title: Description
-  - content: |
+  - title: Practical info
+    content: |
       Duration of the exercise: 2 hours
 
       Number of participants: 6-12
-    title: Practical info
-  - content: |
+  - title: Key references
+    content: |
       Bontoux L, Sweeney JA, Rosa AB, et al. (2020) A Game for All Seasons: Lessons and Learnings from the JRC’s Scenario Exploration System. World Futures Review. 12(1):81-103. https://doi.org/10.1177/1946756719890524
 
       Gandziarowska-Ziołecka J., Stasiak D. (2019) Simulation and Gaming for Policy Advice. In: Falk S., Glaab M., Römmele A., Schober H., Thunert M. (eds) Handbuch Politikberatung. Springer VS, Wiesbaden. https://doi.org/10.1007/978-3-658-03483-2_72
 
       Wilkinson P. (2016) A Brief History of Serious Games. In: Dörner R., Göbel S., Kickmeier-Rust M., Masuch M., Zweig K. (eds) Entertainment Computing and Serious Games. Lecture Notes in Computer Science, vol 9970. Springer, Cham. https://doi.org/10.1007/978-3-319-46152-6_2"
-    title: Key references
-  - content: |
+  - title: ""
+    content: |
       If you have questions, comments or suggestions, please, get in touch. We are happy to provide more information, references, discuss ideas and explore collaborations.
-    title: ""
 ---
