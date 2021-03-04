@@ -24,7 +24,7 @@ const BlogIndex = ({ data, location }) => {
           title={pageData.seo.title || pageData.header.title}
           description={pageData.seo.description}
         />
-        <FeaturedTagsList tags={tags} />
+        <FeaturedTagsList isBlogTags tags={tags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {

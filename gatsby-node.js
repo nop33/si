@@ -182,6 +182,78 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       },
     })
   })
+
+  const projectsGroupTemplate = path.resolve(
+    "src/templates/project-category.js"
+  )
+
+  const projectsGroupResult = await graphql(`
+    {
+      tagsGroup: allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "project" } } }
+        limit: 2000
+      ) {
+        group(field: frontmatter___category) {
+          fieldValue
+        }
+      }
+    }
+  `)
+
+  if (projectsGroupResult.errors) {
+    reporter.panicOnBuild(
+      `There was an error loading your tags`,
+      projectsGroupResult.errors
+    )
+    return
+  }
+
+  const projectCategories = projectsGroupResult.data.tagsGroup.group
+
+  projectCategories.forEach(tag => {
+    createPage({
+      path: `/projects/category/${_.kebabCase(tag.fieldValue)}/`,
+      component: projectsGroupTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
+    })
+  })
+
+  const projectsTagTemplate = path.resolve("src/templates/project-tag.js")
+
+  const projectsTagResult = await graphql(`
+    {
+      tagsGroup: allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "project" } } }
+        limit: 2000
+      ) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
+      }
+    }
+  `)
+
+  if (projectsTagResult.errors) {
+    reporter.panicOnBuild(
+      `There was an error loading your tags`,
+      projectsTagResult.errors
+    )
+    return
+  }
+
+  const projectTags = projectsTagResult.data.tagsGroup.group
+
+  projectTags.forEach(tag => {
+    createPage({
+      path: `/projects/tag/${_.kebabCase(tag.fieldValue)}/`,
+      component: projectsTagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
+    })
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { constructTagUrl } from "../utils"
+import { constructBlogTagUrl } from "../utils"
 
 import styles from "./tags-list.module.scss"
 
@@ -11,7 +11,7 @@ const TagsList = ({ tags }) => {
       {tags.map(tag => {
         return (
           <li key={tag}>
-            <Link to={constructTagUrl(tag)}>#{tag}</Link>
+            <Link to={constructBlogTagUrl(tag)}>#{tag}</Link>
           </li>
         )
       })}
