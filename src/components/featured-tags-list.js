@@ -13,7 +13,7 @@ const TagsList = ({ tags }) => {
         <ul>
           <li>
             <Link className="golden" to="/blog">
-              all
+              All
             </Link>
           </li>
           {tags.map(tag => {

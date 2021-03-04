@@ -82,7 +82,7 @@ const Home = ({ data, location }) => {
                     project.frontmatter.card.title ||
                     project.frontmatter.header.title
                   }
-                  subtitle={project.frontmatter.area}
+                  subtitle={project.frontmatter.category}
                   content={
                     project.frontmatter.card.description ||
                     project.frontmatter.header.subtitle
@@ -167,7 +167,7 @@ export const pageQuery = graphql`
           description
           featuredImage {
             childImageSharp {
-              fluid(maxWidth: 500) {
+              fluid(maxWidth: 500, maxHeight: 290) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -194,10 +194,10 @@ export const pageQuery = graphql`
             title
             description
           }
-          area
+          category
           featuredImage {
             childImageSharp {
-              fluid(maxWidth: 500) {
+              fluid(maxWidth: 500, maxHeight: 290) {
                 ...GatsbyImageSharpFluid
               }
             }

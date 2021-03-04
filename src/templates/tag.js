@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import PageLayout from "../components/page-layout"
 import Grid from "../components/sections/grid"
 import BaseSection from "../components/sections/base"
-import TagsList from "../components/featured-tags-list"
+import FeaturedTagsList from "../components/featured-tags-list"
 import Card from "../components/card"
 import SEO from "../components/seo"
 
@@ -20,7 +20,7 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
         location={location}
       >
         <SEO title={`${pageContext.tag} posts`} />
-        <TagsList tags={tags} />
+        <FeaturedTagsList tags={tags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {
@@ -72,7 +72,7 @@ export const pageQuery = graphql`
           description
           featuredImage {
             childImageSharp {
-              fluid(maxWidth: 500) {
+              fluid(maxWidth: 500, maxHeight: 290) {
                 ...GatsbyImageSharpFluid
               }
             }
