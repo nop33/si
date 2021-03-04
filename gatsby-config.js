@@ -7,7 +7,7 @@ module.exports = {
     social: {
       linkedin: ``,
     },
-    featuredTags: ["Events", "Updates", "Transparency", "UN"],
+    featuredTags: ["Events", "Strategy", "Transparency", "Resources"],
   },
   plugins: [
     `gatsby-plugin-sharp`,
