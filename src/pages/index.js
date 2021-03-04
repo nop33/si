@@ -2,7 +2,8 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Intro from "../components/sections/intro"
-import ThreeColumns from "../components/sections/three-columns"
+import KeyfactsSection from "../components/sections/keyfacts"
+import Keyfact from "../components/keyfact"
 import CardsSection from "../components/sections/cards"
 import BaseSection from "../components/sections/base"
 import PageLayout from "../components/page-layout"
@@ -32,7 +33,17 @@ const Home = ({ data, location }) => {
           />
         </BaseSection>
         <BaseSection noTopPadding>
-          <ThreeColumns></ThreeColumns>
+          <KeyfactsSection>
+            {pageData.keyfactsSection.map(keyfact => {
+              return (
+                <Keyfact
+                  title={keyfact.title}
+                  content={keyfact.description}
+                  link={keyfact.link}
+                />
+              )
+            })}
+          </KeyfactsSection>
         </BaseSection>
         <hr></hr>
         <BaseSection>
@@ -118,6 +129,10 @@ export const pageQuery = graphql`
           keyfactsSection {
             title
             description
+            link {
+              title
+              url
+            }
           }
           projectsSection {
             title
@@ -161,7 +176,6 @@ export const pageQuery = graphql`
       }
     }
     projects: allMarkdownRemark(
-      limit: 3
       filter: {
         fields: { contentType: { eq: "project" } }
         frontmatter: { isFeaturedOnHomepage: { eq: true } }

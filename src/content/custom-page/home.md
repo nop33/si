@@ -22,12 +22,21 @@ introSection:
     text: More about us
     url: /about
 keyfactsSection:
-  - title: ""
-    description: ""
-  - title: ""
-    description: ""
-  - title: ""
-    description: ""
+  - title: "Approach"
+    description: "We aim for longterm impact by discreetly supporting multilateral institutions."
+    link:
+      title: More about our approach
+      url: /about
+  - title: "Research & ideas"
+    description: "We openly share our strategic thinking, lessons learned and research."
+    link:
+      title: ""
+      url: ""
+  - title: "Projects"
+    description: "We build tools and networks, give advice and experiment systematically."
+    link:
+      title: "See all our projects"
+      url: "/projects"
 projectsSection:
   title: Our projects
   link:

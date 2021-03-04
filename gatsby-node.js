@@ -67,7 +67,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { fields: { contentType: { in: ["page", "project"] } } }
+          filter: { fields: { contentType: { in: ["subpage", "project"] } } }
         ) {
           nodes {
             id
@@ -91,7 +91,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const subpages = subpagesResult.data.allMarkdownRemark.nodes
 
   if (subpages.length > 0) {
-    subpages.forEach((subpage, index) => {
+    subpages.forEach(subpage => {
       createPage({
         path: subpage.fields.slug,
         component: subpageTemplate,
@@ -190,7 +190,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
     let slugPrefix = ""
 
-    if (type !== "page") {
+    if (type !== "subpage") {
       slugPrefix = `/${type}`
     }
 

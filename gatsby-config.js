@@ -16,15 +16,15 @@ module.exports = {
       resolve: "gatsby-plugin-react-svg",
       options: {
         rule: {
-          include: /images/, // See below to configure properly
+          include: /images/,
         },
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/content/page`,
-        name: `page`,
+        path: `${__dirname}/src/content/subpage`,
+        name: `subpage`,
       },
     },
     {
@@ -53,13 +53,6 @@ module.exports = {
       options: {
         path: `${__dirname}/src/content/blog`,
         name: `blog`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/src/content/assets`,
-        name: `assets`,
       },
     },
     {

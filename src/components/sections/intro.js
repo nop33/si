@@ -1,6 +1,6 @@
 import React from "react"
-import remark from "remark"
-import remarkHTML from "remark-html"
+
+import { toHTML } from "../../utils"
 
 import CirclesSVG from "../../images/circles.svg"
 import ArrowedLink from "../arrowed-link"
@@ -8,8 +8,6 @@ import ArrowedLink from "../arrowed-link"
 import styles from "./intro.module.scss"
 
 const Intro = ({ content, link }) => {
-  const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
-
   return (
     <div className={styles.intro}>
       <div className={styles.introText}>

@@ -1,8 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
-import remark from "remark"
-import remarkHTML from "remark-html"
 import Image from "gatsby-image"
+
+import { toHTML } from "../utils"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
@@ -14,9 +14,9 @@ import { generateIdFromTitle } from "../utils"
 
 const SubpageTemplate = ({ data, location }) => {
   const pageData = data.markdownRemark.frontmatter
-  const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
   const mobileFeaturedImage = pageData.featuredImage?.mobile?.fluid
   const desktopFeaturedImage = pageData.featuredImage?.desktop?.fluid
+  const seoFeaturedImage = pageData.featuredImage?.seo?.resize
 
   const sources = [
     mobileFeaturedImage,
@@ -35,6 +35,7 @@ const SubpageTemplate = ({ data, location }) => {
       <SEO
         title={pageData.seo.title || pageData.header.title}
         description={pageData.seo.description || pageData.header.subtitle}
+        image={seoFeaturedImage}
       />
       {desktopFeaturedImage && (
         <Image fluid={sources} alt={`${pageData.title} featured image`} />
@@ -69,7 +70,6 @@ export const pageQuery = graphql`
     }
     markdownRemark(id: { eq: $id }) {
       id
-      html
       frontmatter {
         title
         description
@@ -100,6 +100,13 @@ export const pageQuery = graphql`
               cropFocus: CENTER
             ) {
               ...GatsbyImageSharpFluid
+            }
+          }
+          seo: childImageSharp {
+            resize(width: 1200) {
+              src
+              height
+              width
             }
           }
         }
