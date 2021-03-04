@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import Person from "../components/person"
+import SocialLinks from "../components/social-links"
 import SEO from "../components/seo"
 
 const MemberTemplate = ({ data, location }) => {
@@ -12,10 +13,21 @@ const MemberTemplate = ({ data, location }) => {
   const excerpt = data.markdownRemark.excerpt
 
   const header = (
-    <Person
-      photo={personData.photo.childImageSharp.fixed}
-      name={personData.name}
-    />
+    <div>
+      <Person
+        photo={personData.photo.childImageSharp.fixed}
+        name={personData.name}
+      />
+      {(personData.links.website ||
+        personData.links.twitter ||
+        personData.links.linkedin) && (
+        <SocialLinks
+          website={personData.links.website}
+          twitter={personData.links.twitter}
+          linkedin={personData.links.linkedin}
+        />
+      )}
+    </div>
   )
 
   return (
@@ -68,6 +80,11 @@ export const pageQuery = graphql`
               ...GatsbyImageSharpFixed
             }
           }
+        }
+        links {
+          website
+          twitter
+          linkedin
         }
       }
     }

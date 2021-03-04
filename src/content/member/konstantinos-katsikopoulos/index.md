@@ -6,6 +6,10 @@ role: Board member
 seo:
   title: ""
   description: ""
+links:
+  website: ""
+  twitter: ""
+  linkedin: ""
 ---
 
 Konstantinos is associate professor and head of research at the Department of Decision Analytics and Risk of the University of Southampton Business School. His research focuses on integrating standard decision models with people’s simple rules of thumb, in order to build theory fit for practice, as detailed in the book "Classification in the Wild: The Science and Art of Transparent Decision Making" (MIT Press, 2020). Konstantinos is the chair of the Behavioural Operational Research (OR) Group of the OR Society, designed the first Europe-wide PhD course on behavioural OR, and co-founded the Annual Winter School on Bounded Rationality in India.

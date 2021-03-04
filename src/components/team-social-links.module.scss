@@ -1,0 +1,13 @@
+.social-links {
+  display: flex;
+  align-items: center;
+  margin-top: var(--spacing-2);
+
+  > a {
+    color: var(--color-si-light-blue);
+  }
+
+  > a:not(:last-child) {
+    margin-right: var(--spacing-4);
+  }
+}

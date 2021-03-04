@@ -6,6 +6,10 @@ role: Board member
 seo:
   title: ""
   description: ""
+links:
+  website: ""
+  twitter: ""
+  linkedin: ""
 ---
 
 TODO

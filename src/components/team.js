@@ -2,6 +2,8 @@ import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
+import TeamSocialLinks from "./team-social-links"
+
 import styles from "./team.module.scss"
 
 const Team = () => {
@@ -25,6 +27,12 @@ const Team = () => {
                   }
                 }
               }
+              links {
+                website
+                twitter
+                linkedin
+              }
+              disableDetailPage
             }
           }
         }
@@ -50,6 +58,24 @@ const Team = () => {
             <h3>{group.name}</h3>
             <div className={styles.membersList}>
               {group.nodes.map(member => {
+                if (member.frontmatter.disableDetailPage) {
+                  return (
+                    <div className={styles.member} key={member.fields.slug}>
+                      <Image
+                        fixed={member.frontmatter.photo.childImageSharp.fixed}
+                        alt={`${member.frontmatter.name} profile image`}
+                      />
+                      <div className={styles.details}>
+                        <div>{member.frontmatter.name}</div>
+                        <TeamSocialLinks
+                          website={member.frontmatter.links.website}
+                          twitter={member.frontmatter.links.twitter}
+                          linkedin={member.frontmatter.links.linkedin}
+                        />
+                      </div>
+                    </div>
+                  )
+                }
                 return (
                   <Link
                     className={styles.member}
@@ -60,7 +86,9 @@ const Team = () => {
                       fixed={member.frontmatter.photo.childImageSharp.fixed}
                       alt={`${member.frontmatter.name} profile image`}
                     />
-                    <div className={styles.name}>{member.frontmatter.name}</div>
+                    <div className={styles.details}>
+                      {member.frontmatter.name}
+                    </div>
                   </Link>
                 )
               })}

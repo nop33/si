@@ -110,7 +110,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { fields: { contentType: { eq: "member" } } }
+          filter: {
+            fields: { contentType: { eq: "member" } }
+            frontmatter: { disableDetailPage: { ne: true } }
+          }
         ) {
           nodes {
             id
