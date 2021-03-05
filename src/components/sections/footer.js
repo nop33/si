@@ -45,10 +45,13 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className={styles.copywriteSection}>
-          © {new Date().getFullYear()} Simon Institute of Longterm Governance.
-          All rights reserved.
-        </div>
+        <small className={styles.copywriteSection}>
+          <div>
+            © {new Date().getFullYear()} Simon Institute of Longterm Governance.
+            All rights reserved.
+          </div>
+          <Link to="/legal">Terms &#38; Conditions</Link>
+        </small>
       </BaseSection>
     </footer>
   )
