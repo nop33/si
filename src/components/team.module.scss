@@ -29,6 +29,11 @@
   img {
     border-radius: 50%;
   }
+
+  @media (max-width: 48rem) {
+    flex-direction: column;
+    text-align: center;
+  }
 }
 
 .details {
