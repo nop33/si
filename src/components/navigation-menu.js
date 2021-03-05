@@ -65,6 +65,9 @@ const NavigationMenu = () => {
           <Link className="golden" to="/blog">
             Blog
           </Link>
+          <a href="https://airtable.com/shrGJVgGfGJc6OCA4" className="golden">
+            Contact us
+          </a>
         </div>
         <div className={styles.openButton}>
           <FontAwesomeIcon
@@ -107,6 +110,9 @@ const NavigationMenu = () => {
             <Link className="golden" to="/blog">
               Blog
             </Link>
+            <a href="https://airtable.com/shrGJVgGfGJc6OCA4" className="golden">
+              Contact us
+            </a>
           </div>
         </div>
       </div>
