@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import { constructProjectCategoryUrl } from "../utils"
 import KeyfactsSection from "../components/sections/keyfacts"
 import Keyfact from "../components/keyfact"
 import CardsSection from "../components/sections/cards"
@@ -76,6 +77,10 @@ const Home = ({ data, location }) => {
                 title={projects.title}
                 description={projects.description}
                 cards={projectCards}
+                link={{
+                  title: `See all ${projects.title} projects`,
+                  url: constructProjectCategoryUrl(projects.title),
+                }}
               />
             )
           })}
@@ -178,6 +183,10 @@ export const pageQuery = graphql`
             }
             eventsSection {
               title
+              link {
+                title
+                url
+              }
             }
           }
         }

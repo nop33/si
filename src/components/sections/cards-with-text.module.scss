@@ -1,11 +1,13 @@
+.cards-section-wrapper {
+  &:not(:last-child) {
+    margin-bottom: var(--spacing-56);
+  }
+}
+
 .cards-section {
   display: grid;
   align-items: center;
   grid-gap: var(--spacing-20);
-
-  &:not(:last-child) {
-    margin-bottom: var(--spacing-56);
-  }
 
   &.cards-on-the-left {
     grid-template-columns: 2fr 1fr;
@@ -47,5 +49,15 @@
 
   > h3 + .description {
     margin-top: var(--spacing-4);
+  }
+}
+
+.see-more-link {
+  margin-top: var(--spacing-16);
+
+  &.cards-on-the-right {
+    @media (min-width: 64rem) {
+      justify-content: flex-end;
+    }
   }
 }

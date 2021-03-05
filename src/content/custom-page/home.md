@@ -43,4 +43,7 @@ postsSection:
       url: /blog
   eventsSection:
     title: Events
+    link:
+      title: See all events
+      url: /blog/tag/events
 ---

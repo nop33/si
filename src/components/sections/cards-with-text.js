@@ -1,6 +1,7 @@
 import React from "react"
 
 import Grid from "./grid"
+import ArrowedLink from "../arrowed-link"
 import styles from "./cards-with-text.module.scss"
 
 const CardsWithTextSection = ({
@@ -9,6 +10,7 @@ const CardsWithTextSection = ({
   description = "",
   orientation = "cards-full-width",
   headingWeight = 3,
+  link,
 }) => {
   const orientationClass =
     (orientation === "cards-on-the-left" && styles.cardsOnTheLeft) ||
@@ -22,19 +24,29 @@ const CardsWithTextSection = ({
     <h3>{title}</h3>
   )
   return (
-    <div className={`${styles.cardsSection} ${orientationClass}`}>
-      <div className={styles.textContent}>
-        {heading}
-        {description && (
-          <div
-            className={styles.description}
-            dangerouslySetInnerHTML={{
-              __html: description,
-            }}
-          ></div>
-        )}
+    <div className={styles.cardsSectionWrapper}>
+      <div className={`${styles.cardsSection} ${orientationClass}`}>
+        <div className={styles.textContent}>
+          {heading}
+          {description && (
+            <div
+              className={styles.description}
+              dangerouslySetInnerHTML={{
+                __html: description,
+              }}
+            ></div>
+          )}
+        </div>
+        <Grid numberOfColumns={numberOfColumns}>{cards}</Grid>
       </div>
-      <Grid numberOfColumns={numberOfColumns}>{cards}</Grid>
+      {link && (
+        <ArrowedLink
+          direction="right"
+          to={link?.url}
+          text={link?.title}
+          className={`${styles.seeMoreLink} ${orientationClass}`}
+        />
+      )}
     </div>
   )
 }
