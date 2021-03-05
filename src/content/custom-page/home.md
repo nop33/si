@@ -3,23 +3,23 @@ seo:
   title: ""
   description: ""
 header:
-  title: Supporting policy-makers in their cooperation with future generations
+  title: Supporting policy-makers in their cooperation with future generations.
 keyfactsSection:
-  - title: "Approach"
-    description: "We aim for longterm impact by discreetly supporting multilateral institutions."
+  - title: "About"
+    description: "The Simon Institute for Longterm Governance (SI) is somewhere between a research and a training centre. We discreetly support policy networks in mitigating global catastrophic risks with science-based tools."
     link:
-      title: More about our approach
+      title: More about us
       url: /about
-  - title: "Research & ideas"
-    description: "We openly share our strategic thinking, lessons learned and research."
-    link:
-      title: ""
-      url: ""
   - title: "Projects"
-    description: "We build tools and networks, give advice and experiment systematically."
+    description: "Our work is guided by a vision of future-oriented governance, facilitated by advances in research and mindsets. With our community of policy-makers and scientists, we run experiments, build tools and provide training."
     link:
-      title: "See all our projects"
+      title: "Our projects"
       url: "/projects"
+  - title: "Get involved"
+    description: "Interested in our approach? We're always looking for new ideas, collaborations and support. We are also happy to share our insights and provide input. Get in touch and let's contribute to the future."
+    link:
+      title: "Contact us"
+      url: "/get-involved"
 featuredProjectsSection:
   title: Featured projects
   projectsByCategory:

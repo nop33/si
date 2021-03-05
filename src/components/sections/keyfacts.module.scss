@@ -1,8 +1,7 @@
 .keyfacts {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: var(--spacing-8);
-  text-align: center;
+  grid-gap: var(--spacing-16);
 
   @media (max-width: 42rem) {
     grid-template-columns: 1fr;
