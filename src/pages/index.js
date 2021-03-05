@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Intro from "../components/sections/intro"
 import KeyfactsSection from "../components/sections/keyfacts"
 import Keyfact from "../components/keyfact"
 import CardsSection from "../components/sections/cards"
@@ -29,12 +28,6 @@ const Home = ({ data, location }) => {
           description={pageData.seo.description || pageData.header.subtitle}
         />
         <BaseSection>
-          <Intro
-            content={pageData.introSection.content}
-            link={pageData.introSection.link}
-          />
-        </BaseSection>
-        <BaseSection noTopPadding>
           <KeyfactsSection>
             {pageData.keyfactsSection.map(keyfact => {
               return (
@@ -47,7 +40,6 @@ const Home = ({ data, location }) => {
             })}
           </KeyfactsSection>
         </BaseSection>
-        <hr></hr>
 
         <BaseSection>
           <h2>{pageData.featuredProjectsSection.title}</h2>
@@ -86,6 +78,8 @@ const Home = ({ data, location }) => {
             )
           })}
         </BaseSection>
+
+        <hr></hr>
 
         <BaseSection>
           <div className="blog-posts-section">
@@ -127,33 +121,6 @@ const Home = ({ data, location }) => {
             </CardsSection>
           </div>
         </BaseSection>
-        {/* <BaseSection>
-          <CardsSection
-            title={pageData.projectsSection.title}
-            link={pageData.projectsSection.link}
-          >
-            {projects.map(project => {
-              return (
-                <Card
-                  key={project.fields.slug}
-                  url={project.fields.slug}
-                  image={
-                    project.frontmatter.featuredImage.childImageSharp.fluid
-                  }
-                  title={
-                    project.frontmatter.card.title ||
-                    project.frontmatter.header.title
-                  }
-                  subtitle={project.frontmatter.category}
-                  content={
-                    project.frontmatter.card.description ||
-                    project.frontmatter.header.subtitle
-                  }
-                />
-              )
-            })}
-          </CardsSection>
-        </BaseSection> */}
       </PageLayout>
     </div>
   )
@@ -180,13 +147,6 @@ export const pageQuery = graphql`
           header {
             title
             subtitle
-          }
-          introSection {
-            link {
-              text
-              url
-            }
-            content
           }
           keyfactsSection {
             title

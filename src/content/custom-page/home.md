@@ -4,22 +4,6 @@ seo:
   description: ""
 header:
   title: Supporting policy-makers in their cooperation with future generations
-introSection:
-  content: |
-    The Simon Institute for Longterm Governance (SI) is somewhere between a research lab and a training centre, founded and
-    nourished by a community of researchers and policy-makers.
-
-    We are building the knowledge and community to improve the
-    global governance of catastrophic risks.
-
-    Our work is guided by a vision of governance tools and practices
-    that account for future generations, facilitated by advances in
-    research and attitudes.
-
-    As we're a non-profit, we can afford to focus on the longterm.
-  link:
-    text: More about us
-    url: /about
 keyfactsSection:
   - title: "Approach"
     description: "We aim for longterm impact by discreetly supporting multilateral institutions."
