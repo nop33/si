@@ -1,7 +1,7 @@
 .cards-section {
   display: grid;
   align-items: center;
-  grid-gap: var(--spacing-12);
+  grid-gap: var(--spacing-20);
 
   &:not(:last-child) {
     margin-bottom: var(--spacing-56);

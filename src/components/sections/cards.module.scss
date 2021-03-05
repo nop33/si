@@ -2,4 +2,12 @@
   .see-more-link {
     margin-top: var(--spacing-16);
   }
+
+  &.fix-alignment {
+    padding-left: var(--spacing-4);
+
+    @media (max-width: 64rem) {
+      padding-left: var(--spacing-0);
+    }
+  }
 }

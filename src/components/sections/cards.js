@@ -4,9 +4,19 @@ import ArrowedLink from "../arrowed-link"
 import Grid from "./grid"
 import styles from "./cards.module.scss"
 
-const CardsSection = ({ children, title, link, numberOfColumns }) => {
+const CardsSection = ({
+  children,
+  title,
+  link,
+  numberOfColumns,
+  fixAlignment,
+}) => {
   return (
-    <div className={styles.cardsSection}>
+    <div
+      className={`${styles.cardsSection} ${
+        fixAlignment && styles.fixAlignment
+      }`}
+    >
       <h2>{title}</h2>
       <Grid numberOfColumns={numberOfColumns}>{children}</Grid>
       {link && (

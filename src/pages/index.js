@@ -105,6 +105,7 @@ const Home = ({ data, location }) => {
               title={pageData.postsSection.eventsSection.title}
               link={pageData.postsSection.eventsSection.link}
               numberOfColumns={1}
+              fixAlignment
             >
               {events.map(post => {
                 return (
