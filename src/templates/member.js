@@ -11,13 +11,19 @@ const MemberTemplate = ({ data, location }) => {
   const personData = data.markdownRemark.frontmatter
   const content = data.markdownRemark.html
   const excerpt = data.markdownRemark.excerpt
+  const desktopImage = personData.photo.desktop.fixed
+  const mobileImage = personData.photo.mobile.fixed
+  const sources = [
+    mobileImage,
+    {
+      ...desktopImage,
+      media: `(min-width: 768px)`,
+    },
+  ]
 
   const header = (
     <div>
-      <Person
-        photo={personData.photo.childImageSharp.fixed}
-        name={personData.name}
-      />
+      <Person photo={sources} name={personData.name} />
       {(personData.links.website ||
         personData.links.twitter ||
         personData.links.linkedin) && (
@@ -75,8 +81,13 @@ export const pageQuery = graphql`
           description
         }
         photo {
-          childImageSharp {
+          desktop: childImageSharp {
             fixed(width: 250, height: 250) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+          mobile: childImageSharp {
+            fixed(width: 150, height: 150) {
               ...GatsbyImageSharpFixed
             }
           }
