@@ -12,7 +12,7 @@ import SEO from "../components/seo"
 
 import { generateIdFromTitle } from "../utils"
 
-const AboutPage = ({ data, location }) => {
+const GetInvolvedPage = ({ data, location }) => {
   const pageData = data.allMarkdownRemark.nodes[0].frontmatter
   const workWithUsSectionId = generateIdFromTitle(
     pageData.workWithUsSection.title
@@ -73,7 +73,7 @@ const AboutPage = ({ data, location }) => {
   )
 }
 
-export default AboutPage
+export default GetInvolvedPage
 
 export const pageQuery = graphql`
   query {

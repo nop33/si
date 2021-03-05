@@ -4,4 +4,5 @@ seo:
   description: ""
 header:
   title: Blog
+  subtitle: ""
 ---

@@ -58,5 +58,5 @@ postsSection:
       title: See all posts
       url: /blog
   eventsSection:
-    title: Upcoming events
+    title: Events
 ---

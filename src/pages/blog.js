@@ -67,6 +67,7 @@ export const pageQuery = graphql`
           }
           header {
             title
+            subtitle
           }
         }
       }
@@ -93,14 +94,6 @@ export const pageQuery = graphql`
             }
           }
         }
-      }
-    }
-    tagsGroup: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
-      limit: 2000
-    ) {
-      group(field: frontmatter___tags) {
-        fieldValue
       }
     }
   }

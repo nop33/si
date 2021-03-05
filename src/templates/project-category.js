@@ -38,8 +38,7 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
                   subtitle={project.frontmatter.category}
                   content={
                     project.frontmatter.card.description ||
-                    project.frontmatter.header.subtitle ||
-                    project.excerpt
+                    project.frontmatter.header.subtitle
                   }
                 />
               )
@@ -70,7 +69,6 @@ export const pageQuery = graphql`
     ) {
       totalCount
       nodes {
-        excerpt
         fields {
           slug
         }
