@@ -31,6 +31,10 @@
     text-decoration: none;
   }
 
+  header small {
+    color: var(--color-si-light-blue);
+  }
+
   @media (min-width: 42rem) and (max-width: 64rem) {
     article {
       display: grid;

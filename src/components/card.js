@@ -23,7 +23,7 @@ const Card = ({ url, image, title, subtitle, content }) => {
               <small>{subtitle}</small>
             </header>
             <section>
-              <p
+              <div
                 dangerouslySetInnerHTML={{
                   __html: content,
                 }}

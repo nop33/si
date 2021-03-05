@@ -40,7 +40,7 @@ const ProjectsPage = ({ data, location }) => {
                   project.frontmatter.card.title ||
                   project.frontmatter.header.title
                 }
-                subtitle={project.frontmatter.category}
+                subtitle={project.frontmatter.tags.join(" / ")}
                 content={
                   project.frontmatter.card.description ||
                   project.frontmatter.header.subtitle
@@ -115,6 +115,7 @@ export const pageQuery = graphql`
             description
           }
           category
+          tags
           featuredImage {
             childImageSharp {
               fluid(
