@@ -17,7 +17,7 @@ const CardsSection = ({
         fixAlignment && styles.fixAlignment
       }`}
     >
-      <h2>{title}</h2>
+      <h2 className="secondary-heading">{title}</h2>
       <Grid numberOfColumns={numberOfColumns}>{children}</Grid>
       {link && (
         <ArrowedLink

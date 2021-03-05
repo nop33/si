@@ -42,7 +42,9 @@ const Home = ({ data, location }) => {
         </BaseSection>
 
         <BaseSection>
-          <h2>{pageData.featuredProjectsSection.title}</h2>
+          <h2 className="secondary-heading">
+            {pageData.featuredProjectsSection.title}
+          </h2>
           {pageData.featuredProjectsSection.projectsByCategory.map(projects => {
             const projectsByCategory = allProjects.filter(
               project => project.frontmatter.category === projects.category
