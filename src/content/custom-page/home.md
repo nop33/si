@@ -3,8 +3,7 @@ seo:
   title: ""
   description: ""
 header:
-  title: Supporting policy-making for future generations
-  subtitle: "Public policy is the result of the interaction of a myriad of actors representing different interests. We improve their cooperation with future generations."
+  title: Supporting policy-makers in their cooperation with future generations
 introSection:
   content: |
     The Simon Institute for Longterm Governance (SI) is somewhere between a research lab and a training centre, founded and
@@ -37,14 +36,27 @@ keyfactsSection:
     link:
       title: "See all our projects"
       url: "/projects"
-projectsSection:
-  title: Our projects
-  link:
-    title: See all projects
-    url: /projects
+featuredProjectsSection:
+  title: Featured projects
+  projectsByCategory:
+    - category: Policy support
+      title: "Policy-making"
+      description: "Policy-making is characterized by complexity. We help you and your team grapple productively with it."
+      orientation: cards-on-the-left
+    - category: Field-building
+      title: "Field-building"
+      description: "Share our mission? Join our longterm governance network."
+      orientation: cards-on-the-right
+    - category: Research
+      title: "Research"
+      description: ""
+      orientation: cards-full-width
 postsSection:
-  title: Our latest news
-  link:
-    title: See all posts
-    url: /blog
+  newsSection:
+    title: Latest news
+    link:
+      title: See all posts
+      url: /blog
+  eventsSection:
+    title: Upcoming events
 ---

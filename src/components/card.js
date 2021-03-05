@@ -11,7 +11,11 @@ const Card = ({ url, image, title, subtitle, content }) => {
       <Link to={url}>
         <article itemScope itemType="http://schema.org/Article">
           <div className={styles.imageContainer}>
-            <Image fluid={image} alt={`${title} featured image`} />
+            <Image
+              fluid={image}
+              style={{ height: "100%" }}
+              alt={`${title} featured image`}
+            />
           </div>
           <div>
             <header>

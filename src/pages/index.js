@@ -9,11 +9,13 @@ import BaseSection from "../components/sections/base"
 import PageLayout from "../components/page-layout"
 import SEO from "../components/seo"
 import Card from "../components/card"
+import CardsWithText from "../components/sections/cards-with-text"
 
 const Home = ({ data, location }) => {
   const pageData = data.homepage.nodes[0].frontmatter
-  const posts = data.posts.nodes
-  const projects = data.projects.nodes
+  const news = data.news.nodes
+  const events = data.events.nodes
+  const allProjects = data.projects.nodes
 
   return (
     <div>
@@ -46,26 +48,86 @@ const Home = ({ data, location }) => {
           </KeyfactsSection>
         </BaseSection>
         <hr></hr>
+
         <BaseSection>
-          <CardsSection
-            title={pageData.postsSection.title}
-            link={pageData.postsSection.link}
-          >
-            {posts.map(post => {
+          <h2>{pageData.featuredProjectsSection.title}</h2>
+          {pageData.featuredProjectsSection.projectsByCategory.map(projects => {
+            const projectsByCategory = allProjects.filter(
+              project => project.frontmatter.category === projects.category
+            )
+            const projectCards = projectsByCategory.map(project => {
               return (
                 <Card
-                  key={post.fields.slug}
-                  url={post.fields.slug}
-                  image={post.frontmatter.featuredImage.childImageSharp.fluid}
-                  title={post.frontmatter.title}
-                  subtitle={post.frontmatter.date}
-                  content={post.frontmatter.description || post.excerpt}
+                  key={project.fields.slug}
+                  url={project.fields.slug}
+                  image={
+                    project.frontmatter.featuredImage.childImageSharp.fluid
+                  }
+                  title={
+                    project.frontmatter.card.title ||
+                    project.frontmatter.header.title
+                  }
+                  subtitle={project.frontmatter.category}
+                  content={
+                    project.frontmatter.card.description ||
+                    project.frontmatter.header.subtitle
+                  }
                 />
               )
-            })}
-          </CardsSection>
+            })
+
+            return (
+              <CardsWithText
+                orientation={projects.orientation}
+                title={projects.title}
+                description={projects.description}
+                cards={projectCards}
+              />
+            )
+          })}
         </BaseSection>
+
         <BaseSection>
+          <div className="blog-posts-section">
+            <CardsSection
+              title={pageData.postsSection.newsSection.title}
+              link={pageData.postsSection.newsSection.link}
+              numberOfColumns={2}
+            >
+              {news.map(post => {
+                return (
+                  <Card
+                    key={post.fields.slug}
+                    url={post.fields.slug}
+                    image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                    title={post.frontmatter.title}
+                    subtitle={post.frontmatter.date}
+                    content={post.frontmatter.description || post.excerpt}
+                  />
+                )
+              })}
+            </CardsSection>
+            <CardsSection
+              title={pageData.postsSection.eventsSection.title}
+              link={pageData.postsSection.eventsSection.link}
+              numberOfColumns={1}
+            >
+              {events.map(post => {
+                return (
+                  <Card
+                    key={post.fields.slug}
+                    url={post.fields.slug}
+                    image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                    title={post.frontmatter.title}
+                    subtitle={post.frontmatter.date}
+                    content={post.frontmatter.description || post.excerpt}
+                  />
+                )
+              })}
+            </CardsSection>
+          </div>
+        </BaseSection>
+        {/* <BaseSection>
           <CardsSection
             title={pageData.projectsSection.title}
             link={pageData.projectsSection.link}
@@ -91,7 +153,7 @@ const Home = ({ data, location }) => {
               )
             })}
           </CardsSection>
-        </BaseSection>
+        </BaseSection> */}
       </PageLayout>
     </div>
   )
@@ -134,42 +196,25 @@ export const pageQuery = graphql`
               url
             }
           }
-          projectsSection {
+          featuredProjectsSection {
             title
-            link {
+            projectsByCategory {
+              category
               title
-              url
+              description
+              orientation
             }
           }
           postsSection {
-            title
-            link {
+            newsSection {
               title
-              url
-            }
-          }
-        }
-      }
-    }
-    posts: allMarkdownRemark(
-      limit: 3
-      filter: { fields: { contentType: { eq: "blog" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
+              link {
+                title
+                url
               }
+            }
+            eventsSection {
+              title
             }
           }
         }
@@ -195,6 +240,68 @@ export const pageQuery = graphql`
             description
           }
           category
+          featuredImage {
+            childImageSharp {
+              fluid(
+                maxWidth: 500
+                maxHeight: 290
+                fit: COVER
+                cropFocus: CENTER
+              ) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+      }
+    }
+    news: allMarkdownRemark(
+      limit: 2
+      filter: {
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: { tags: { nin: "Events" } }
+      }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
+          featuredImage {
+            childImageSharp {
+              fluid(maxWidth: 500, maxHeight: 290) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+      }
+    }
+    events: allMarkdownRemark(
+      limit: 1
+      filter: {
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: {
+          tags: { in: "Events" }
+          isFeaturedOnHomepage: { eq: true }
+        }
+      }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
           featuredImage {
             childImageSharp {
               fluid(maxWidth: 500, maxHeight: 290) {

@@ -11,7 +11,7 @@ card:
 category: Research
 tags:
   - Working paper
-isFeaturedOnHomepage: false
+isFeaturedOnHomepage: true
 featuredImage: ../../../images/martin-adams-_OZCl4XcpRw-unsplash.jpg
 textSections:
   - title: ""

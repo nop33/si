@@ -290,6 +290,12 @@ a:focus {
   margin: var(--spacing-0);
 }
 
+.blog-posts-section {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: var(--spacing-32);
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
