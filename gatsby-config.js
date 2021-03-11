@@ -7,7 +7,7 @@ module.exports = {
     featuredBlogTags: ["Events", "Strategy", "Transparency", "Resources"],
     footerLinks: [
       { title: "Donate", url: "/get-involved/#donate" },
-      { title: "Subscribe", url: "/get-involved/#stay-in-touch" },
+      { title: "Subscribe", url: "/get-involved/#stay-up-to-date" },
       { title: "Contact", url: "/get-involved/#get-in-touch" },
     ],
   },
