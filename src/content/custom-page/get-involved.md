@@ -8,24 +8,24 @@ header:
 workWithUsSection:
   title: Work with us
   columnsWithButtons:
-    - title: Collaborate
-      content: |
-        We happily collaborate and provide feedback on research projects aiming to contribute to fields of our interest.
-    - title: Partner
-      content: |
-        We are always looking for institutional partners who desire to improve their decision-making to benefit future generations.
     - title: Apply
       content: |
         We expect to start hiring for specific positions soon. Until then, you can send in a general application.
       button:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
+    - title: Collaborate
+      content: |
+        We happily collaborate and provide feedback on research projects aiming to contribute to fields of our interest.
+    - title: Partner
+      content: |
+        We are always looking for institutional partners who desire to improve their decision-making to benefit future generations.
 getInTouchSection:
   title: Get in touch
   intro: |
     TODO: Here comes some intro text if needed. It can be removed, of course!
 stayInTouchSection:
-  title: "Stay in touch"
+  title: "Stay up to date"
   newsletter:
     title: "Subscribe to our newsletter"
     intro: ""
