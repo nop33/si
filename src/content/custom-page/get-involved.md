@@ -23,6 +23,10 @@ workWithUsSection:
       button:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
+getInTouchSection:
+  title: Get in touch
+  intro: |
+    TODO: Here comes some intro text if needed. It can be removed, of course!
 donateSection:
   title: Donate
   intro:
@@ -41,7 +45,7 @@ donateSection:
         IBAN: CH85 0024 0240 9405 0140X
     - title: Tax deductible donations in UK, USA, Netherlands
       content: |
-        If you would like to donate from the UK, USA, Netherlands, Germany or more than $10'000 (equivalent), please [get in touch](https://airtable.com/shrGJVgGfGJc6OCA4). This is to grant tax-deductibility status through one of our partner organizations.
+        If you would like to donate from the UK, USA, Netherlands, Germany or more than $10'000 (equivalent), please [get in touch](#get-in-touch). This is to grant tax-deductibility status through one of our partner organizations.
 textSections:
   - title: Why support us?
     content: |

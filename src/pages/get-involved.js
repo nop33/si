@@ -9,6 +9,7 @@ import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 import ColumnsWithButtons from "../components/sections/columns-with-buttons"
 import SEO from "../components/seo"
+import ContactForm from "../components/contact-form"
 
 import { generateIdFromTitle } from "../utils"
 
@@ -17,10 +18,14 @@ const GetInvolvedPage = ({ data, location }) => {
   const workWithUsSectionId = generateIdFromTitle(
     pageData.workWithUsSection.title
   )
+  const getInTouchSectionId = generateIdFromTitle(
+    pageData.getInTouchSection.title
+  )
   const donateSectionId = generateIdFromTitle(pageData.donateSection.title)
 
   const tabTitles = [
     pageData.workWithUsSection.title,
+    pageData.getInTouchSection.title,
     pageData.donateSection.title,
     ...pageData.textSections.map(section => section.title),
   ]
@@ -41,6 +46,11 @@ const GetInvolvedPage = ({ data, location }) => {
           <ColumnsWithButtons
             columnsData={pageData.workWithUsSection.columnsWithButtons}
           />
+        </SideBySide>
+      </BaseSection>
+      <BaseSection id={getInTouchSectionId}>
+        <SideBySide title={pageData.getInTouchSection.title}>
+          <ContactForm intro={pageData.getInTouchSection.intro} />
         </SideBySide>
       </BaseSection>
       <BaseSection id={donateSectionId}>
@@ -101,6 +111,10 @@ export const pageQuery = graphql`
                 url
               }
             }
+          }
+          getInTouchSection {
+            title
+            intro
           }
           donateSection {
             title
