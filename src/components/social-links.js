@@ -31,7 +31,8 @@ const SocialLinks = ({
         <a
           href={website}
           className="golden"
-          rel="nofollow noopener"
+          rel="nofollow noopener noreferrer"
+          target="_blank"
           title="website"
         >
           <FontAwesomeIcon icon={faLink} />
@@ -41,7 +42,8 @@ const SocialLinks = ({
         <a
           href={linkedin}
           className="golden"
-          rel="nofollow noopener"
+          rel="nofollow noopener noreferrer"
+          target="_blank"
           title="LinkedIn"
         >
           <FontAwesomeIcon size={size} icon={faLinkedinIn} />
@@ -51,7 +53,8 @@ const SocialLinks = ({
         <a
           href={twitter}
           className="golden"
-          rel="nofollow noopener"
+          rel="nofollow noopener noreferrer"
+          target="_blank"
           title="Twitter"
         >
           <FontAwesomeIcon size={size} icon={faTwitter} />
