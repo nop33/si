@@ -7,9 +7,26 @@ import { faLink } from "@fortawesome/free-solid-svg-icons"
 
 import styles from "./social-links.module.scss"
 
-const SocialLinks = ({ website, linkedin, twitter }) => {
+const SocialLinks = ({
+  website,
+  linkedin,
+  twitter,
+  size = "",
+  centered,
+  wide,
+  topSpacing,
+  bottomSpacing,
+}) => {
   return (
-    <div className={styles.socialLinks}>
+    <div
+      className={`
+        ${styles.socialLinks}
+        ${centered && styles.centered}
+        ${wide && styles.wide}
+        ${topSpacing && styles.topSpacing}
+        ${bottomSpacing && styles.bottomSpacing}
+      `}
+    >
       {website && (
         <a
           href={website}
@@ -27,7 +44,7 @@ const SocialLinks = ({ website, linkedin, twitter }) => {
           rel="nofollow noopener"
           title="LinkedIn"
         >
-          <FontAwesomeIcon icon={faLinkedinIn} />
+          <FontAwesomeIcon size={size} icon={faLinkedinIn} />
         </a>
       )}
       {twitter && (
@@ -37,7 +54,7 @@ const SocialLinks = ({ website, linkedin, twitter }) => {
           rel="nofollow noopener"
           title="Twitter"
         >
-          <FontAwesomeIcon icon={faTwitter} />
+          <FontAwesomeIcon size={size} icon={faTwitter} />
         </a>
       )}
     </div>

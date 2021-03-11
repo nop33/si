@@ -28,6 +28,9 @@ const MemberTemplate = ({ data, location }) => {
         personData.links.twitter ||
         personData.links.linkedin) && (
         <SocialLinks
+          centered
+          wide
+          bottomSpacing
           website={personData.links.website}
           twitter={personData.links.twitter}
           linkedin={personData.links.linkedin}

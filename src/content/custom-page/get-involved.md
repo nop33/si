@@ -11,9 +11,6 @@ workWithUsSection:
     - title: Collaborate
       content: |
         We happily collaborate and provide feedback on research projects aiming to contribute to fields of our interest.
-      button:
-        text: Contact us
-        url: https://airtable.com/shrGJVgGfGJc6OCA4
     - title: Partner
       content: |
         We are always looking for institutional partners who desire to improve their decision-making to benefit future generations.
@@ -27,6 +24,16 @@ getInTouchSection:
   title: Get in touch
   intro: |
     TODO: Here comes some intro text if needed. It can be removed, of course!
+stayInTouchSection:
+  title: "Stay in touch"
+  newsletter:
+    title: "Subscribe to our newsletter"
+    intro: ""
+  socialMedia:
+    title: "Follow us on social media"
+    intro: ""
+    twitter: https://twitter.com/longtermgov
+    linkedIn: https://www.linkedin.com/company/simon-institute
 donateSection:
   title: Donate
   intro:

@@ -2,7 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
-import TeamSocialLinks from "./team-social-links"
+import SocialLinks from "./social-links"
 
 import styles from "./team.module.scss"
 
@@ -67,7 +67,8 @@ const Team = () => {
                       />
                       <div className={styles.details}>
                         <div>{member.frontmatter.name}</div>
-                        <TeamSocialLinks
+                        <SocialLinks
+                          topSpacing
                           website={member.frontmatter.links.website}
                           twitter={member.frontmatter.links.twitter}
                           linkedin={member.frontmatter.links.linkedin}

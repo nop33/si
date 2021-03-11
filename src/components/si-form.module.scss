@@ -1,4 +1,4 @@
-.contact-form {
+.si-form {
   input[type="text"],
   input[type="email"],
   textarea {
@@ -9,17 +9,24 @@
     border-radius: 0.2rem;
     box-shadow: none;
 
-    &:not(:last-child) {
-      margin-bottom: var(--spacing-6);
-    }
-
     &:focus {
       border: 1px solid var(--color-si-mustard);
       outline: none;
     }
   }
 
+  label {
+    margin-bottom: var(--spacing-2);
+    display: block;
+  }
+
   .intro {
     margin-bottom: var(--spacing-6);
+  }
+
+  .field-group {
+    &:not(:last-child) {
+      margin-bottom: var(--spacing-6);
+    }
   }
 }

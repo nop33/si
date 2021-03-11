@@ -10,6 +10,7 @@ import Tabs from "../components/tabs"
 import ColumnsWithButtons from "../components/sections/columns-with-buttons"
 import SEO from "../components/seo"
 import ContactForm from "../components/contact-form"
+import StayInTouch from "../components/stay-in-touch"
 
 import { generateIdFromTitle } from "../utils"
 
@@ -21,11 +22,15 @@ const GetInvolvedPage = ({ data, location }) => {
   const getInTouchSectionId = generateIdFromTitle(
     pageData.getInTouchSection.title
   )
+  const stayInTouchSectionId = generateIdFromTitle(
+    pageData.stayInTouchSection.title
+  )
   const donateSectionId = generateIdFromTitle(pageData.donateSection.title)
 
   const tabTitles = [
     pageData.workWithUsSection.title,
     pageData.getInTouchSection.title,
+    pageData.stayInTouchSection.title,
     pageData.donateSection.title,
     ...pageData.textSections.map(section => section.title),
   ]
@@ -51,6 +56,18 @@ const GetInvolvedPage = ({ data, location }) => {
       <BaseSection id={getInTouchSectionId}>
         <SideBySide title={pageData.getInTouchSection.title}>
           <ContactForm intro={pageData.getInTouchSection.intro} />
+        </SideBySide>
+      </BaseSection>
+      <BaseSection id={stayInTouchSectionId}>
+        <SideBySide title={pageData.stayInTouchSection.title}>
+          <StayInTouch
+            newsletterTitle={pageData.stayInTouchSection.newsletter.title}
+            newsletterIntro={pageData.stayInTouchSection.newsletter.intro}
+            socialMediaTitle={pageData.stayInTouchSection.socialMedia.title}
+            socialMediaIntro={pageData.stayInTouchSection.socialMedia.intro}
+            twitterLink={pageData.stayInTouchSection.socialMedia.twitter}
+            linkedInLink={pageData.stayInTouchSection.socialMedia.linkedIn}
+          />
         </SideBySide>
       </BaseSection>
       <BaseSection id={donateSectionId}>
@@ -115,6 +132,19 @@ export const pageQuery = graphql`
           getInTouchSection {
             title
             intro
+          }
+          stayInTouchSection {
+            title
+            newsletter {
+              title
+              intro
+            }
+            socialMedia {
+              title
+              intro
+              twitter
+              linkedIn
+            }
           }
           donateSection {
             title
