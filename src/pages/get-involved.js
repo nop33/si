@@ -45,11 +45,7 @@ const GetInvolvedPage = ({ data, location }) => {
       </BaseSection>
       <BaseSection id={donateSectionId}>
         <SideBySide title={pageData.donateSection.title} isWide>
-          <div
-            dangerouslySetInnerHTML={{
-              __html: toHTML(pageData.donateSection.intro),
-            }}
-          ></div>
+          <ColumnsWithButtons columnsData={[pageData.donateSection.intro]} />
           <ColumnsWithButtons
             columnsData={pageData.donateSection.columnsWithButtons}
           />
@@ -108,14 +104,16 @@ export const pageQuery = graphql`
           }
           donateSection {
             title
-            intro
-            columnsWithButtons {
-              title
+            intro {
               content
               button {
                 text
                 url
               }
+            }
+            columnsWithButtons {
+              title
+              content
             }
           }
           textSections {

@@ -25,19 +25,20 @@ workWithUsSection:
         url: https://airtable.com/shr1fLH2prZYWukIM
 donateSection:
   title: Donate
-  intro: |
-    To meaningfully support policy networks without just injecting further noise into the system, we have to build capacity sustainably. With a team of three FTE until 2022 and five the following year, our current room for more funding until the end of 2022 is at least CHF 545,000.
+  intro:
+    content: |
+      To meaningfully support policy networks without just injecting further noise into the system, we have to build capacity sustainably. With a team of three FTE until 2022 and five the following year, our current room for more funding until the end of 2022 is at least CHF 545,000.
 
-    Until we have received legal nonprofit status, you can donate to Effective Altruism Geneva - an established Swiss nonprofit organization supporting our launch.
+      Until we have received legal nonprofit status, you can donate to Effective Altruism Geneva - an established Swiss nonprofit organization supporting our launch.
+    button:
+      text: Donate
+      url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
   columnsWithButtons:
     - title: Tax deductible donations in Switzerland
       content: |
         SEPA bank transfer (preferred method):  
         Name: Association Effective Altruism Geneva (EAGE)  
         IBAN: CH85 0024 0240 9405 0140X
-      button:
-        text: Donate (credit card)
-        url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
     - title: Tax deductible donations in UK, USA, Netherlands
       content: |
         If you would like to donate from the UK, USA, Netherlands, Germany or more than $10'000 (equivalent), please [get in touch](https://airtable.com/shrGJVgGfGJc6OCA4). This is to grant tax-deductibility status through one of our partner organizations.

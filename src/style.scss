@@ -273,6 +273,22 @@ a:focus {
   text-decoration: none;
 }
 
+a.si-button {
+  padding: var(--spacing-4) var(--spacing-8);
+  background-color: var(--color-primary);
+  color: white;
+  border-radius: 2rem;
+  text-decoration: none;
+  display: inline-flex;
+  flex-shrink: 0;
+  transition: all 0.2s;
+
+  &:hover {
+    color: var(--color-primary);
+    background-color: var(--color-si-mustard);
+  }
+}
+
 /* Custom classes */
 
 .global-content-wrapper {

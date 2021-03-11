@@ -10,7 +10,7 @@ const ColumnsWithButtons = ({ columnsData }) => {
       {columnsData.map(column => {
         return (
           <div className={styles.column}>
-            <h3>{column.title}</h3>
+            {column.title && <h3>{column.title}</h3>}
             <div
               className={styles.content}
               dangerouslySetInnerHTML={{
@@ -19,7 +19,7 @@ const ColumnsWithButtons = ({ columnsData }) => {
             ></div>
             {column.button && column.button.text && column.button.url && (
               <a
-                className={styles.button}
+                className="si-button"
                 href={column.button.url}
                 rel="nofollow noopener"
                 tabIndex={0}

@@ -1,6 +1,10 @@
 .columns-with-buttons {
   display: flex;
 
+  &:not(:last-child) {
+    margin-bottom: var(--spacing-12);
+  }
+
   .column {
     flex-grow: 1;
     flex-basis: 0;
@@ -19,21 +23,8 @@
   > p:last-child {
     margin-bottom: var(--spacing-0);
   }
-}
 
-.button {
-  margin-top: var(--spacing-5);
-  padding: var(--spacing-4) var(--spacing-8);
-  background-color: var(--color-primary);
-  color: white;
-  border-radius: 2rem;
-  text-decoration: none;
-  display: inline-flex;
-  flex-shrink: 0;
-  transition: all 0.2s;
-
-  &:hover {
-    color: var(--color-primary);
-    background-color: var(--color-si-mustard);
+  & + a {
+    margin-top: var(--spacing-5);
   }
 }
