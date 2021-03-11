@@ -66,4 +66,9 @@ herbertSimonSection:
     He formalized the concept of bounded-rationality, i.e. that humans make decisions under uncertainty with cognitive constraints. He received the Nobel Prize in Economics in 1978 and the Turing Award in 1975. He is known for having seminally contributed to the fields of behavioural economics, public administration, complexity science and artificial intelligence.
 
     We thank Katherine, Peter and Barbara Simon for having granted us the honour of naming the Institute for Longterm Governance after their father.
+sponsorsSection:
+  title: Sponsors
+  sponsors:
+    - title: Zuplin
+      logo: ../../images/zulip-logo-gradient.png
 ---
