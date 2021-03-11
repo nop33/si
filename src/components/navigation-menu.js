@@ -74,6 +74,7 @@ const NavigationMenu = () => {
             tabIndex={0}
             role="button"
             size="2x"
+            aria-label="Open navigation menu"
           />
         </div>
       </div>
@@ -90,6 +91,7 @@ const NavigationMenu = () => {
               onKeyPress={toggleMobileMenu}
               tabIndex={0}
               role="button"
+              aria-label="Close navigation menu"
             >
               <FontAwesomeIcon icon={faTimes} size="2x" />
             </div>
