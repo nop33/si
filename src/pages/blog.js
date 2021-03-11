@@ -32,68 +32,65 @@ const BlogIndex = ({ data, location }) => {
                 <Card
                   key={post.fields.slug}
                   url={post.fields.slug}
-                  image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                  image={post.frontmatter.featuredImage.childImageSharp.gatsbyImageData}
                   title={post.frontmatter.title}
                   subtitle={post.frontmatter.date}
                   content={post.frontmatter.description || post.excerpt}
                 />
-              )
+              );
             })}
           </Grid>
         </BaseSection>
       </PageLayout>
     </div>
-  )
+  );
 }
 
 export default BlogIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        featuredBlogTags
-      }
+export const pageQuery = graphql`{
+  site {
+    siteMetadata {
+      featuredBlogTags
     }
-    blogPage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/blog.md/" } }
-    ) {
-      nodes {
-        frontmatter {
-          seo {
-            title
-            description
-          }
-          header {
-            title
-            subtitle
-          }
-        }
-      }
-    }
-    posts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
-      sort: { fields: [frontmatter___date], order: ASC }
-    ) {
-      totalCount
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+  }
+  blogPage: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/custom-page/blog.md/"}}
+  ) {
+    nodes {
+      frontmatter {
+        seo {
           title
           description
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
-            }
+        }
+        header {
+          title
+          subtitle
+        }
+      }
+    }
+  }
+  posts: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "blog"}}}
+    sort: {fields: [frontmatter___date], order: ASC}
+  ) {
+    totalCount
+    nodes {
+      excerpt
+      fields {
+        slug
+      }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
+        featuredImage {
+          childImageSharp {
+            gatsbyImageData(width: 500, height: 290, layout: CONSTRAINED)
           }
         }
       }
     }
   }
+}
 `

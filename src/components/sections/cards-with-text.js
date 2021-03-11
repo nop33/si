@@ -2,7 +2,7 @@ import React from "react"
 
 import Grid from "./grid"
 import ArrowedLink from "../arrowed-link"
-import styles from "./cards-with-text.module.scss"
+import * as styles from "./cards-with-text.module.scss"
 
 const CardsWithTextSection = ({
   cards = [],

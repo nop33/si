@@ -29,7 +29,7 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
                   key={project.fields.slug}
                   url={project.fields.slug}
                   image={
-                    project.frontmatter.featuredImage.childImageSharp.fluid
+                    project.frontmatter.featuredImage.childImageSharp.gatsbyImageData
                   }
                   title={
                     project.frontmatter.card.title ||
@@ -41,59 +41,53 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
                     project.frontmatter.header.subtitle
                   }
                 />
-              )
+              );
             })}
           </Grid>
         </BaseSection>
       </PageLayout>
     </div>
-  )
+  );
 }
 
 export default ProjectsGroupTemplate
 
-export const pageQuery = graphql`
-  query projectByCategory($tag: String) {
-    allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "project" } }
-        frontmatter: { category: { in: [$tag] } }
+export const pageQuery = graphql`query projectByCategory($tag: String) {
+  allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "project"}}, frontmatter: {category: {in: [$tag]}}}
+    limit: 2000
+  ) {
+    totalCount
+    nodes {
+      fields {
+        slug
       }
-      limit: 2000
-    ) {
-      totalCount
-      nodes {
-        fields {
-          slug
+      frontmatter {
+        header {
+          title
+          subtitle
         }
-        frontmatter {
-          header {
-            title
-            subtitle
-          }
-          card {
-            title
-            description
-          }
-          category
-          tags
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
-            }
+        card {
+          title
+          description
+        }
+        category
+        tags
+        featuredImage {
+          childImageSharp {
+            gatsbyImageData(width: 500, height: 290, layout: CONSTRAINED)
           }
         }
-      }
-    }
-    tagsGroup: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
-      limit: 2000
-    ) {
-      group(field: frontmatter___category) {
-        fieldValue
       }
     }
   }
+  tagsGroup: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "project"}}}
+    limit: 2000
+  ) {
+    group(field: frontmatter___category) {
+      fieldValue
+    }
+  }
+}
 `

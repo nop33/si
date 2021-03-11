@@ -1,7 +1,7 @@
 import React from "react"
 
 import ArrowedLink from "./arrowed-link"
-import styles from "./keyfact.module.scss"
+import * as styles from "./keyfact.module.scss"
 
 const Keyfact = ({ title, content, link }) => {
   return (

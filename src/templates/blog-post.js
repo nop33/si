@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
@@ -40,10 +40,7 @@ const BlogPostTemplate = ({ data, location }) => {
         image={seoFeaturedImage}
       />
       {desktopFeaturedImage && (
-        <Image
-          fluid={sources}
-          alt={`${post.frontmatter.title} featured image`}
-        />
+        <GatsbyImage image={sources} alt={`${post.frontmatter.title} featured image`} />
       )}
       <BaseSection className="narrow">
         <article
@@ -92,76 +89,62 @@ const BlogPostTemplate = ({ data, location }) => {
         </nav>
       </BaseSection>
     </PageLayout>
-  )
+  );
 }
 
 export default BlogPostTemplate
 
-export const pageQuery = graphql`
-  query BlogPostBySlug(
-    $id: String!
-    $previousPostId: String
-    $nextPostId: String
-  ) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      excerpt(pruneLength: 160)
-      html
-      frontmatter {
+export const pageQuery = graphql`query BlogPostBySlug($id: String!, $previousPostId: String, $nextPostId: String) {
+  markdownRemark(id: {eq: $id}) {
+    id
+    excerpt(pruneLength: 160)
+    html
+    frontmatter {
+      title
+      date(formatString: "MMMM DD, YYYY")
+      description
+      tags
+      seo {
         title
-        date(formatString: "MMMM DD, YYYY")
         description
-        tags
-        seo {
-          title
-          description
+      }
+      featuredImage {
+        desktop: childImageSharp {
+          gatsbyImageData(
+            transformOptions: {fit: COVER, cropFocus: CENTER}
+            layout: FULL_WIDTH
+          )
         }
-        featuredImage {
-          desktop: childImageSharp {
-            fluid(
-              maxWidth: 1920
-              maxHeight: 600
-              fit: COVER
-              cropFocus: CENTER
-            ) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-          mobile: childImageSharp {
-            fluid(
-              maxWidth: 768
-              maxHeight: 600
-              fit: COVER
-              cropFocus: CENTER
-            ) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-          seo: childImageSharp {
-            resize(width: 1200) {
-              src
-              height
-              width
-            }
+        mobile: childImageSharp {
+          fluid(maxWidth: 768, maxHeight: 600, fit: COVER, cropFocus: CENTER) {
+            ...GatsbyImageSharpFluid
           }
         }
-      }
-    }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
-      }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
+        seo: childImageSharp {
+          resize(width: 1200) {
+            src
+            height
+            width
+          }
+        }
       }
     }
   }
+  previous: markdownRemark(id: {eq: $previousPostId}) {
+    fields {
+      slug
+    }
+    frontmatter {
+      title
+    }
+  }
+  next: markdownRemark(id: {eq: $nextPostId}) {
+    fields {
+      slug
+    }
+    frontmatter {
+      title
+    }
+  }
+}
 `

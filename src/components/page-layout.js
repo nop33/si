@@ -7,7 +7,7 @@ import { faChevronLeft } from "@fortawesome/free-solid-svg-icons"
 import NavigationMenu from "./navigation-menu"
 import Footer from "./sections/footer"
 
-import styles from "./page-layout.module.scss"
+import * as styles from "./page-layout.module.scss"
 
 const PageLayout = ({ location, title, subtitle, children, backLink }) => {
   const rootPath = `${__PATH_PREFIX__}/`

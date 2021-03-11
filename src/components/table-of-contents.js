@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import BaseSection from "./sections/base"
 
-import styles from "./table-of-contents.module.scss"
+import * as styles from "./table-of-contents.module.scss"
 
 const TableOfContents = ({ links, oneLine }) => {
   return (

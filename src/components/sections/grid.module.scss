@@ -11,6 +11,10 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
+  &.threeColumns {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
   @media (max-width: 64rem) {
     grid-template-columns: 1fr;
 

@@ -1,6 +1,6 @@
 import React from "react"
 
-import styles from "./si-form.module.scss"
+import * as styles from "./si-form.module.scss"
 
 const NewsletterForm = ({ intro }) => {
   return (

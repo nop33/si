@@ -7,7 +7,7 @@ import {
   faChevronLeft,
 } from "@fortawesome/free-solid-svg-icons"
 
-import styles from "./arrowed-link.module.scss"
+import * as styles from "./arrowed-link.module.scss"
 
 const ArrowedLink = ({ direction, to, text, className, children, rel }) => {
   return (

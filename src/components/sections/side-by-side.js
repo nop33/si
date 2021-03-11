@@ -1,5 +1,5 @@
 import React from "react"
-import styles from "./side-by-side.module.scss"
+import * as styles from "./side-by-side.module.scss"
 
 const SideBySide = ({ title, header, children, isWide, elevateTitle }) => {
   return (

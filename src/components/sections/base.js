@@ -1,6 +1,6 @@
 import React from "react"
 
-import styles from "./base.module.scss"
+import * as styles from "./base.module.scss"
 
 const BaseSection = ({ id, children, className, noTopPadding }) => {
   return (

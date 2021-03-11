@@ -28,64 +28,58 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
                 <Card
                   key={post.fields.slug}
                   url={post.fields.slug}
-                  image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                  image={post.frontmatter.featuredImage.childImageSharp.gatsbyImageData}
                   title={post.frontmatter.title}
                   subtitle={post.frontmatter.date}
                   content={post.frontmatter.description || post.excerpt}
                 />
-              )
+              );
             })}
           </Grid>
         </BaseSection>
       </PageLayout>
     </div>
-  )
+  );
 }
 
 export default BlogTagTemplate
 
-export const pageQuery = graphql`
-  query subpageByTag($tag: String) {
-    site {
-      siteMetadata {
-        featuredBlogTags
-      }
+export const pageQuery = graphql`query subpageByTag($tag: String) {
+  site {
+    siteMetadata {
+      featuredBlogTags
     }
-    allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "blog" } }
-        frontmatter: { tags: { in: [$tag] } }
+  }
+  allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "blog"}}, frontmatter: {tags: {in: [$tag]}}}
+    sort: {fields: [frontmatter___date], order: ASC}
+    limit: 2000
+  ) {
+    totalCount
+    nodes {
+      excerpt
+      fields {
+        slug
       }
-      sort: { fields: [frontmatter___date], order: ASC }
-      limit: 2000
-    ) {
-      totalCount
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
-            }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
+        featuredImage {
+          childImageSharp {
+            gatsbyImageData(width: 500, height: 290, layout: CONSTRAINED)
           }
         }
       }
     }
-    tagsGroup: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
-      limit: 2000
-    ) {
-      group(field: frontmatter___tags) {
-        fieldValue
-      }
+  }
+  tagsGroup: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "blog"}}}
+    limit: 2000
+  ) {
+    group(field: frontmatter___tags) {
+      fieldValue
     }
   }
+}
 `

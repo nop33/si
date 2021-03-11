@@ -65,37 +65,34 @@ const MemberTemplate = ({ data, location }) => {
 
 export default MemberTemplate
 
-export const pageQuery = graphql`
-  query memberBySlug($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      html
-      excerpt(pruneLength: 160)
-      frontmatter {
-        name
-        role
-        seo {
-          title
-          description
+export const pageQuery = graphql`query memberBySlug($id: String!) {
+  markdownRemark(id: {eq: $id}) {
+    id
+    html
+    excerpt(pruneLength: 160)
+    frontmatter {
+      name
+      role
+      seo {
+        title
+        description
+      }
+      photo {
+        desktop: childImageSharp {
+          gatsbyImageData(width: 250, height: 250, layout: FIXED)
         }
-        photo {
-          desktop: childImageSharp {
-            fixed(width: 250, height: 250) {
-              ...GatsbyImageSharpFixed
-            }
-          }
-          mobile: childImageSharp {
-            fixed(width: 150, height: 150) {
-              ...GatsbyImageSharpFixed
-            }
+        mobile: childImageSharp {
+          fixed(width: 150, height: 150) {
+            ...GatsbyImageSharpFixed
           }
         }
-        links {
-          website
-          twitter
-          linkedin
-        }
+      }
+      links {
+        website
+        twitter
+        linkedin
       }
     }
   }
+}
 `

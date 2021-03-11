@@ -1,14 +1,14 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import SocialLinks from "./social-links"
 
-import styles from "./team.module.scss"
+import * as styles from "./team.module.scss"
 
 const Team = () => {
   const membersQuery = useStaticQuery(graphql`
-    query {
+    {
       allMarkdownRemark(filter: { fields: { contentType: { eq: "member" } } }) {
         group(field: frontmatter___group) {
           name: fieldValue
@@ -22,9 +22,7 @@ const Team = () => {
               role
               photo {
                 childImageSharp {
-                  fixed(width: 85, height: 85) {
-                    ...GatsbyImageSharpFixed
-                  }
+                  gatsbyImageData(width: 85, height: 85, layout: FIXED)
                 }
               }
               links {
@@ -51,7 +49,7 @@ const Team = () => {
   ]
 
   return (
-    <div className={styles.groups}>
+    <div>
       {groups.map(group => {
         return (
           <div className={styles.membersGroup} key={group.name}>
@@ -61,8 +59,11 @@ const Team = () => {
                 if (member.frontmatter.disableDetailPage) {
                   return (
                     <div className={styles.member} key={member.fields.slug}>
-                      <Image
-                        fixed={member.frontmatter.photo.childImageSharp.fixed}
+                      <GatsbyImage
+                        image={
+                          member.frontmatter.photo.childImageSharp
+                            .gatsbyImageData
+                        }
                         alt={`${member.frontmatter.name} profile image`}
                       />
                       <div className={styles.details}>
@@ -83,8 +84,10 @@ const Team = () => {
                     to={member.fields.slug}
                     key={member.fields.slug}
                   >
-                    <Image
-                      fixed={member.frontmatter.photo.childImageSharp.fixed}
+                    <GatsbyImage
+                      image={
+                        member.frontmatter.photo.childImageSharp.gatsbyImageData
+                      }
                       alt={`${member.frontmatter.name} profile image`}
                     />
                     <div className={styles.details}>

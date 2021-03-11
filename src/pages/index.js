@@ -58,7 +58,8 @@ const Home = ({ data, location }) => {
                   key={project.fields.slug}
                   url={project.fields.slug}
                   image={
-                    project.frontmatter.featuredImage.childImageSharp.fluid
+                    project.frontmatter.featuredImage.childImageSharp
+                      .gatsbyImageData
                   }
                   title={
                     project.frontmatter.card.title ||
@@ -102,7 +103,10 @@ const Home = ({ data, location }) => {
                   <Card
                     key={post.fields.slug}
                     url={post.fields.slug}
-                    image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                    image={
+                      post.frontmatter.featuredImage.childImageSharp
+                        .gatsbyImageData
+                    }
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
                     content={post.frontmatter.description || post.excerpt}
@@ -121,7 +125,10 @@ const Home = ({ data, location }) => {
                   <Card
                     key={post.fields.slug}
                     url={post.fields.slug}
-                    image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                    image={
+                      post.frontmatter.featuredImage.childImageSharp
+                        .gatsbyImageData
+                    }
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
                     content={post.frontmatter.description || post.excerpt}
@@ -139,7 +146,7 @@ const Home = ({ data, location }) => {
 export default Home
 
 export const pageQuery = graphql`
-  query {
+  {
     homepage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/home.md/" } }
     ) {
@@ -212,14 +219,12 @@ export const pageQuery = graphql`
           tags
           featuredImage {
             childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
-                ...GatsbyImageSharpFluid
-              }
+              gatsbyImageData(
+                width: 500
+                height: 290
+                transformOptions: { fit: COVER, cropFocus: CENTER }
+                layout: CONSTRAINED
+              )
             }
           }
         }
@@ -244,9 +249,7 @@ export const pageQuery = graphql`
           description
           featuredImage {
             childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
+              gatsbyImageData(width: 500, height: 290, layout: CONSTRAINED)
             }
           }
         }
@@ -274,9 +277,7 @@ export const pageQuery = graphql`
           description
           featuredImage {
             childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
+              gatsbyImageData(width: 500, height: 290, layout: CONSTRAINED)
             }
           }
         }

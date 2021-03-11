@@ -1,39 +1,36 @@
 import React from "react"
 
 import { Link, useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import BaseSection from "./base"
 import ArrowedLink from "../arrowed-link"
-import styles from "./footer.module.scss"
+import * as styles from "./footer.module.scss"
 
 const Footer = () => {
-  const data = useStaticQuery(graphql`
-    query {
-      site {
-        siteMetadata {
-          footerLinks {
-            title
-            url
-          }
-        }
-      }
-      logoSmall: file(absolutePath: { regex: "/logo-small.png/" }) {
-        childImageSharp {
-          fixed(width: 50, quality: 95) {
-            ...GatsbyImageSharpFixed_noBase64
-          }
-        }
+  const data = useStaticQuery(graphql`{
+  site {
+    siteMetadata {
+      footerLinks {
+        title
+        url
       }
     }
-  `)
+  }
+  logoSmall: file(absolutePath: {regex: "/logo-small.png/"}) {
+    childImageSharp {
+      gatsbyImageData(width: 50, quality: 95, placeholder: NONE, layout: FIXED)
+    }
+  }
+}
+`)
 
   return (
     <footer>
       <BaseSection className={styles.footerSection}>
         <div className={styles.linksSection}>
           <Link to="/">
-            <Image fixed={data.logoSmall.childImageSharp.fixed} alt="SI logo" />
+            <GatsbyImage image={data.logoSmall.childImageSharp.gatsbyImageData} alt="SI logo" />
           </Link>
           <div className={styles.linksList}>
             {data.site.siteMetadata.footerLinks.map(link => {
@@ -51,7 +48,7 @@ const Footer = () => {
         </small>
       </BaseSection>
     </footer>
-  )
+  );
 }
 
 export default Footer

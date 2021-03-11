@@ -1,18 +1,18 @@
 import React from "react"
 
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Link } from "gatsby"
-import styles from "./card.module.scss"
+import * as styles from "./card.module.scss"
 
 const Card = ({ url, image, title, subtitle, content }) => {
   return (
     <div className={styles.card}>
       <Link to={url}>
         <article itemScope itemType="http://schema.org/Article">
-          <div className={styles.imageContainer}>
-            <Image
-              fluid={image}
+          <div>
+            <GatsbyImage
+              image={image}
               style={{ height: "100%" }}
               alt={`${title} featured image`}
             />

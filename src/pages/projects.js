@@ -35,7 +35,7 @@ const ProjectsPage = ({ data, location }) => {
               <Card
                 key={project.fields.slug}
                 url={project.fields.slug}
-                image={project.frontmatter.featuredImage.childImageSharp.fluid}
+                image={project.frontmatter.featuredImage.childImageSharp.gatsbyImageData}
                 title={
                   project.frontmatter.card.title ||
                   project.frontmatter.header.title
@@ -46,7 +46,7 @@ const ProjectsPage = ({ data, location }) => {
                   project.frontmatter.header.subtitle
                 }
               />
-            )
+            );
           })
 
           return (
@@ -63,75 +63,70 @@ const ProjectsPage = ({ data, location }) => {
         })}
       </PageLayout>
     </div>
-  )
+  );
 }
 
 export default ProjectsPage
 
-export const pageQuery = graphql`
-  query {
-    projectsPage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/projects.md/" } }
-    ) {
-      nodes {
-        frontmatter {
-          seo {
-            title
-            description
-          }
-          header {
-            title
-            subtitle
-          }
-          projectsByCategories {
-            category
-            title
-            description
-          }
+export const pageQuery = graphql`{
+  projectsPage: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/custom-page/projects.md/"}}
+  ) {
+    nodes {
+      frontmatter {
+        seo {
+          title
+          description
         }
-      }
-    }
-    projects: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
-    ) {
-      totalCount
-      nodes {
-        fields {
-          slug
+        header {
+          title
+          subtitle
         }
-        frontmatter {
-          header {
-            title
-            subtitle
-          }
-          card {
-            title
-            description
-          }
+        projectsByCategories {
           category
-          tags
-          featuredImage {
-            childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
+          title
+          description
         }
-      }
-    }
-    tagsGroup: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
-      limit: 2000
-    ) {
-      group(field: frontmatter___category) {
-        fieldValue
       }
     }
   }
+  projects: allMarkdownRemark(filter: {fields: {contentType: {eq: "project"}}}) {
+    totalCount
+    nodes {
+      fields {
+        slug
+      }
+      frontmatter {
+        header {
+          title
+          subtitle
+        }
+        card {
+          title
+          description
+        }
+        category
+        tags
+        featuredImage {
+          childImageSharp {
+            gatsbyImageData(
+              width: 500
+              height: 290
+              transformOptions: {fit: COVER, cropFocus: CENTER}
+              layout: CONSTRAINED
+            )
+          }
+        }
+      }
+    }
+  }
+  tagsGroup: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "project"}}}
+    limit: 2000
+  ) {
+    group(field: frontmatter___category) {
+      fieldValue
+    }
+  }
+}
 `

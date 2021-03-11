@@ -1,37 +1,32 @@
 import React, { useState } from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons"
 
-import styles from "./navigation-menu.module.scss"
+import * as styles from "./navigation-menu.module.scss"
 
 const NavigationMenu = () => {
   const [state, setState] = useState({
     isMobileMenuOpen: false,
   })
 
-  const data = useStaticQuery(graphql`
-    query LogoQuery {
-      logoLarge: file(absolutePath: { regex: "/logo.png/" }) {
-        childImageSharp {
-          fixed(width: 250, quality: 95) {
-            ...GatsbyImageSharpFixed_noBase64
-          }
-        }
-      }
-      logoSmall: file(absolutePath: { regex: "/logo-circle.png/" }) {
-        childImageSharp {
-          fixed(width: 80, quality: 95) {
-            ...GatsbyImageSharpFixed_noBase64
-          }
-        }
-      }
+  const data = useStaticQuery(graphql`query LogoQuery {
+  logoLarge: file(absolutePath: {regex: "/logo.png/"}) {
+    childImageSharp {
+      gatsbyImageData(width: 250, quality: 95, placeholder: NONE, layout: FIXED)
     }
-  `)
-  const logoLarge = data?.logoLarge?.childImageSharp?.fixed
-  const logoSmall = data?.logoSmall?.childImageSharp?.fixed
+  }
+  logoSmall: file(absolutePath: {regex: "/logo-circle.png/"}) {
+    childImageSharp {
+      gatsbyImageData(width: 80, quality: 95, placeholder: NONE, layout: FIXED)
+    }
+  }
+}
+`)
+  const logoLarge = data?.logoLarge?.childImageSharp?.gatsbyImageData
+  const logoSmall = data?.logoSmall?.childImageSharp?.gatsbyImageData
 
   function toggleMobileMenu() {
     setState({
@@ -45,10 +40,10 @@ const NavigationMenu = () => {
         <div className={styles.logoContainer}>
           <Link to="/">
             <div className={styles.logoLarge}>
-              {logoLarge && <Image fixed={logoLarge} alt="SI logo" />}
+              {logoLarge && <GatsbyImage image={logoLarge} alt="SI logo" />}
             </div>
             <div className={styles.logoSmall}>
-              {logoSmall && <Image fixed={logoSmall} alt="SI logo" />}
+              {logoSmall && <GatsbyImage image={logoSmall} alt="SI logo" />}
             </div>
           </Link>
         </div>
@@ -111,7 +106,7 @@ const NavigationMenu = () => {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default NavigationMenu

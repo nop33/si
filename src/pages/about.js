@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { toHTML } from "../utils"
 
@@ -69,10 +69,9 @@ const AboutPage = ({ data, location }) => {
         </SideBySide>
       </BaseSection>
       <div id={herbertSimonSectionId}>
-        <Image
-          fluid={pageData.herbertSimonSection.photo.childImageSharp.fluid}
-          alt={pageData.herbertSimonSection.title}
-        />
+        <GatsbyImage
+          image={pageData.herbertSimonSection.photo.childImageSharp.gatsbyImageData}
+          alt={pageData.herbertSimonSection.title} />
       </div>
       <BaseSection>
         <SideBySide title={pageData.herbertSimonSection.title} elevateTitle>
@@ -84,51 +83,46 @@ const AboutPage = ({ data, location }) => {
         </SideBySide>
       </BaseSection>
     </PageLayout>
-  )
+  );
 }
 
 export default AboutPage
 
-export const pageQuery = graphql`
-  query {
-    allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/about.md/" } }
-    ) {
-      nodes {
-        frontmatter {
-          seo {
-            title
-            description
-          }
-          header {
-            title
-            subtitle
-          }
-          introSection {
-            title
-            content
-          }
-          textSections {
-            title
-            content
-          }
-          teamSection {
-            title
-            content
-          }
-          herbertSimonSection {
-            title
-            content
-            photo {
-              childImageSharp {
-                fluid(maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
+export const pageQuery = graphql`{
+  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/custom-page/about.md/"}}) {
+    nodes {
+      frontmatter {
+        seo {
+          title
+          description
+        }
+        header {
+          title
+          subtitle
+        }
+        introSection {
+          title
+          content
+        }
+        textSections {
+          title
+          content
+        }
+        teamSection {
+          title
+          content
+        }
+        herbertSimonSection {
+          title
+          content
+          photo {
+            childImageSharp {
+              gatsbyImageData(layout: FULL_WIDTH)
             }
           }
         }
       }
     }
   }
+}
 `

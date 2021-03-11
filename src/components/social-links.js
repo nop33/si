@@ -5,7 +5,7 @@ import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons"
 import { faTwitter } from "@fortawesome/free-brands-svg-icons"
 import { faLink } from "@fortawesome/free-solid-svg-icons"
 
-import styles from "./social-links.module.scss"
+import * as styles from "./social-links.module.scss"
 
 const SocialLinks = ({
   website,

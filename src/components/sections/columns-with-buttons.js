@@ -2,7 +2,7 @@ import React from "react"
 
 import { toHTML } from "../../utils"
 
-import styles from "./columns-with-buttons.module.scss"
+import * as styles from "./columns-with-buttons.module.scss"
 
 const ColumnsWithButtons = ({ columnsData }) => {
   return (

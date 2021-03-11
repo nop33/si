@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Image from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { toHTML } from "../utils"
 
@@ -38,7 +38,7 @@ const SubpageTemplate = ({ data, location }) => {
         image={seoFeaturedImage}
       />
       {desktopFeaturedImage && (
-        <Image fluid={sources} alt={`${pageData.title} featured image`} />
+        <GatsbyImage image={sources} alt={`${pageData.title} featured image`} />
       )}
       <Tabs titles={pageData.textSections.map(section => section.title)}></Tabs>
       {pageData.textSections.map(textSection => {
@@ -56,60 +56,50 @@ const SubpageTemplate = ({ data, location }) => {
         )
       })}
     </PageLayout>
-  )
+  );
 }
 
 export default SubpageTemplate
 
-export const pageQuery = graphql`
-  query subpageBySlug($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      frontmatter {
+export const pageQuery = graphql`query subpageBySlug($id: String!) {
+  markdownRemark(id: {eq: $id}) {
+    id
+    frontmatter {
+      title
+      description
+      seo {
         title
         description
-        seo {
-          title
-          description
+      }
+      header {
+        title
+        subtitle
+      }
+      featuredImage {
+        desktop: childImageSharp {
+          gatsbyImageData(
+            transformOptions: {fit: COVER, cropFocus: CENTER}
+            layout: FULL_WIDTH
+          )
         }
-        header {
-          title
-          subtitle
-        }
-        featuredImage {
-          desktop: childImageSharp {
-            fluid(
-              maxWidth: 1920
-              maxHeight: 600
-              fit: COVER
-              cropFocus: CENTER
-            ) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-          mobile: childImageSharp {
-            fluid(
-              maxWidth: 768
-              maxHeight: 600
-              fit: COVER
-              cropFocus: CENTER
-            ) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-          seo: childImageSharp {
-            resize(width: 1200) {
-              src
-              height
-              width
-            }
+        mobile: childImageSharp {
+          fluid(maxWidth: 768, maxHeight: 600, fit: COVER, cropFocus: CENTER) {
+            ...GatsbyImageSharpFluid
           }
         }
-        textSections {
-          content
-          title
+        seo: childImageSharp {
+          resize(width: 1200) {
+            src
+            height
+            width
+          }
         }
+      }
+      textSections {
+        content
+        title
       }
     }
   }
+}
 `

@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import { constructBlogTagUrl } from "../utils"
 
-import styles from "./tags-list.module.scss"
+import * as styles from "./tags-list.module.scss"
 
 const TagsList = ({ tags }) => {
   return (
