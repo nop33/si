@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: /thank-you
+Disallow: /404

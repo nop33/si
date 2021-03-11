@@ -28,7 +28,7 @@
   }
 
   .text-content {
-    margin-top: var(--spacing-12);
+    margin-top: var(--spacing-20);
   }
 }
 
@@ -44,7 +44,7 @@
   height: 100vh;
 
   > header {
-    height: var(--height-header-small);
+    min-height: var(--height-header-small);
   }
 }
 
