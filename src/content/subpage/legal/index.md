@@ -21,7 +21,7 @@ textSections:
 
       Email communications when you contact us.
 
-      We use TOOLXYZ to track website traffic and usage anonymously.
+      We use GoatCounter web analytics to track website traffic and usage anonymously.
   - title: How We Use Your Information
     content: |
       We exclusively use your information in ways you consent to, or to comply with legal requirements. In particular:
