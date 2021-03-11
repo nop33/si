@@ -14,7 +14,7 @@ const Tabs = ({ titles }) => {
       }
     })
 
-  return <TableOfContents oneLine links={links} />
+  return <TableOfContents links={links} />
 }
 
 export default Tabs
