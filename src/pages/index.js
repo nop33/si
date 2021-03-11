@@ -81,7 +81,7 @@ const Home = ({ data, location }) => {
                 cards={projectCards}
                 link={{
                   title: `See all ${projects.title} projects`,
-                  url: constructProjectCategoryUrl(projects.title),
+                  url: constructProjectCategoryUrl(projects.category),
                 }}
               />
             )
