@@ -4,11 +4,11 @@ import { graphql } from "gatsby"
 import { toHTML } from "../utils"
 
 import PageLayout from "../components/page-layout"
+import SEO from "../components/seo"
 import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 import ColumnsWithButtons from "../components/sections/columns-with-buttons"
-import SEO from "../components/seo"
 import ContactForm from "../components/contact-form"
 import StayInTouch from "../components/stay-in-touch"
 

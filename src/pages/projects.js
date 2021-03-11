@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import Card from "../components/card"
+import SEO from "../components/seo"
 import FeaturedTagsList from "../components/featured-tags-list"
 import BaseSection from "../components/sections/base"
-import SEO from "../components/seo"
 import CardsWithText from "../components/sections/cards-with-text"
+import Card from "../components/card"
 
 const ProjectsPage = ({ data, location }) => {
   const pageData = data.projectsPage.nodes[0].frontmatter

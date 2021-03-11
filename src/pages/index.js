@@ -2,14 +2,15 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import { constructProjectCategoryUrl } from "../utils"
-import KeyfactsSection from "../components/sections/keyfacts"
-import Keyfact from "../components/keyfact"
-import CardsSection from "../components/sections/cards"
-import BaseSection from "../components/sections/base"
+
 import PageLayout from "../components/page-layout"
 import SEO from "../components/seo"
-import Card from "../components/card"
+import BaseSection from "../components/sections/base"
+import KeyfactsSection from "../components/sections/keyfacts"
+import Keyfact from "../components/keyfact"
 import CardsWithText from "../components/sections/cards-with-text"
+import Card from "../components/card"
+import CardsSection from "../components/sections/cards"
 
 const Home = ({ data, location }) => {
   const pageData = data.homepage.nodes[0].frontmatter

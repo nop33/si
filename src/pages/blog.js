@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import Grid from "../components/sections/grid"
-import Card from "../components/card"
+import SEO from "../components/seo"
 import FeaturedTagsList from "../components/featured-tags-list"
 import BaseSection from "../components/sections/base"
-import SEO from "../components/seo"
+import Grid from "../components/sections/grid"
+import Card from "../components/card"
 
 const BlogIndex = ({ data, location }) => {
   const pageData = data.blogPage.nodes[0].frontmatter

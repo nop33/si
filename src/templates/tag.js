@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import Grid from "../components/sections/grid"
-import BaseSection from "../components/sections/base"
-import FeaturedTagsList from "../components/featured-tags-list"
-import Card from "../components/card"
 import SEO from "../components/seo"
+import FeaturedTagsList from "../components/featured-tags-list"
+import BaseSection from "../components/sections/base"
+import Grid from "../components/sections/grid"
+import Card from "../components/card"
 
 const BlogTagTemplate = ({ pageContext, data, location }) => {
   const { nodes, totalCount } = data.allMarkdownRemark

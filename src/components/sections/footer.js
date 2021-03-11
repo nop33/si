@@ -38,7 +38,7 @@ const Footer = () => {
           <div className={styles.linksList}>
             {data.site.siteMetadata.footerLinks.map(link => {
               return (
-                <ArrowedLink direction="right" to={link.url}>
+                <ArrowedLink direction="right" to={link.url} key={link.url}>
                   {link.title}
                 </ArrowedLink>
               )
