@@ -47,10 +47,9 @@ const Footer = () => {
         </div>
         <small className={styles.copywriteSection}>
           <div>
-            © {new Date().getFullYear()} Simon Institute of Longterm Governance.
-            All rights reserved.
+            © {new Date().getFullYear()} SI
           </div>
-          <Link to="/legal">Terms &#38; Conditions</Link>
+          <Link to="/legal">Privacy Policy</Link>
         </small>
       </BaseSection>
     </footer>
