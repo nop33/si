@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import {
   constructBlogTagUrl,
@@ -7,8 +6,7 @@ import {
   constructProjectTagUrl,
 } from "../utils"
 
-import BaseSection from "./sections/base"
-import styles from "./featured-tags-list.module.scss"
+import TableOfContents from "./table-of-contents"
 
 const FeaturedTagsList = ({
   tags,
@@ -16,35 +14,20 @@ const FeaturedTagsList = ({
   isProjectCategories,
   isProjectTags,
 }) => {
-  return (
-    <BaseSection className={styles.tagsSection}>
-      <div className={styles.tags}>
-        <ul>
-          <li>
-            <Link className="golden" to={isBlogTags ? `/blog` : `/projects`}>
-              All
-            </Link>
-          </li>
-          {tags.map(tag => {
-            return (
-              <li key={tag}>
-                <Link
-                  className="golden"
-                  to={
-                    (isBlogTags && constructBlogTagUrl(tag)) ||
-                    (isProjectCategories && constructProjectCategoryUrl(tag)) ||
-                    (isProjectTags && constructProjectTagUrl(tag))
-                  }
-                >
-                  {tag}
-                </Link>
-              </li>
-            )
-          })}
-        </ul>
-      </div>
-    </BaseSection>
-  )
+  const links = [
+    { title: "All", url: isBlogTags ? `/blog` : `/projects` },
+    ...tags.map(tag => {
+      return {
+        title: tag,
+        url:
+          (isBlogTags && constructBlogTagUrl(tag)) ||
+          (isProjectCategories && constructProjectCategoryUrl(tag)) ||
+          (isProjectTags && constructProjectTagUrl(tag)),
+      }
+    }),
+  ]
+
+  return <TableOfContents links={links} />
 }
 
 export default FeaturedTagsList
