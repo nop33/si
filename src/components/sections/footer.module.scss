@@ -24,7 +24,7 @@ footer {
       flex-direction: column;
       align-items: flex-end;
 
-      > div:not(:last-child) {
+      > a:not(:last-child) {
         margin-bottom: var(--spacing-4);
       }
     }
@@ -38,15 +38,6 @@ footer {
 
     a {
       flex-shrink: 0;
-    }
-
-    @media (max-width: 28rem) {
-      flex-direction: column;
-
-      div {
-        order: 1;
-        margin-top: var(--spacing-4);
-      }
     }
   }
 }
