@@ -27,11 +27,6 @@ export default ThankYouPage
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/thank-you.md/" } }
     ) {

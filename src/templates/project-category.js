@@ -54,12 +54,6 @@ export default ProjectsGroupTemplate
 
 export const pageQuery = graphql`
   query projectByCategory($tag: String) {
-    site {
-      siteMetadata {
-        title
-        featuredTags
-      }
-    }
     allMarkdownRemark(
       filter: {
         fields: { contentType: { eq: "project" } }

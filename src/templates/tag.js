@@ -10,7 +10,7 @@ import SEO from "../components/seo"
 
 const BlogTagTemplate = ({ pageContext, data, location }) => {
   const { nodes, totalCount } = data.allMarkdownRemark
-  const tags = data.site.siteMetadata?.featuredTags
+  const tags = data.site.siteMetadata?.featuredBlogTags
 
   return (
     <div>
@@ -48,8 +48,7 @@ export const pageQuery = graphql`
   query subpageByTag($tag: String) {
     site {
       siteMetadata {
-        title
-        featuredTags
+        featuredBlogTags
       }
     }
     allMarkdownRemark(

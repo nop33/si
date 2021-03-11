@@ -103,11 +103,6 @@ export const pageQuery = graphql`
     $previousPostId: String
     $nextPostId: String
   ) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)

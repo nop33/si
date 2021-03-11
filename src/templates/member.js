@@ -67,11 +67,6 @@ export default MemberTemplate
 
 export const pageQuery = graphql`
   query memberBySlug($id: String!) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     markdownRemark(id: { eq: $id }) {
       id
       html

@@ -70,12 +70,6 @@ export default ProjectsPage
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-        featuredTags
-      }
-    }
     projectsPage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/projects.md/" } }
     ) {

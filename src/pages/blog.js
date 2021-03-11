@@ -11,7 +11,7 @@ import SEO from "../components/seo"
 const BlogIndex = ({ data, location }) => {
   const pageData = data.blogPage.nodes[0].frontmatter
   const { nodes, totalCount } = data.posts
-  const tags = data.site.siteMetadata?.featuredTags
+  const tags = data.site.siteMetadata?.featuredBlogTags
 
   return (
     <div>
@@ -52,8 +52,7 @@ export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
-        title
-        featuredTags
+        featuredBlogTags
       }
     }
     blogPage: allMarkdownRemark(

@@ -140,11 +140,6 @@ export default Home
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     homepage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/home.md/" } }
     ) {

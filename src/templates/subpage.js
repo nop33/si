@@ -63,11 +63,6 @@ export default SubpageTemplate
 
 export const pageQuery = graphql`
   query subpageBySlug($id: String!) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     markdownRemark(id: { eq: $id }) {
       id
       frontmatter {

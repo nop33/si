@@ -100,11 +100,6 @@ export default GetInvolvedPage
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/get-involved.md/" } }
     ) {

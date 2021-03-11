@@ -91,11 +91,6 @@ export default AboutPage
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/about.md/" } }
     ) {
