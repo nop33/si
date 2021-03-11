@@ -21,7 +21,8 @@ const ColumnsWithButtons = ({ columnsData }) => {
               <a
                 className="si-button"
                 href={column.button.url}
-                rel="nofollow noopener"
+                rel="nofollow noopener noreferrer"
+                target="_blank"
                 tabIndex={0}
                 role="button"
               >
