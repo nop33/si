@@ -48,7 +48,7 @@ const Footer = () => {
         <div className={styles.copywriteSection}>
           <small>© {new Date().getFullYear()} SI</small>
           <small>
-            <Link to="/legal">Privacy Policy</Link>
+            <Link to="/legal/">Privacy Policy</Link>
           </small>
         </div>
       </BaseSection>

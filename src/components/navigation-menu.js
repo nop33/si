@@ -53,16 +53,16 @@ const NavigationMenu = () => {
           </Link>
         </div>
         <div className={styles.menuDesktopItemsContainer}>
-          <Link className="golden" to="/about">
+          <Link className="golden" to="/about/">
             About
           </Link>
-          <Link className="golden" to="/projects">
+          <Link className="golden" to="/projects/">
             Projects
           </Link>
-          <Link className="golden" to="/get-involved">
+          <Link className="golden" to="/get-involved/">
             Get Involved
           </Link>
-          <Link className="golden" to="/blog">
+          <Link className="golden" to="/blog/">
             Blog
           </Link>
         </div>
@@ -97,16 +97,16 @@ const NavigationMenu = () => {
             </div>
           </div>
           <div className={styles.menuMobileItemsContainer}>
-            <Link className="golden" to="/about">
+            <Link className="golden" to="/about/">
               About
             </Link>
-            <Link className="golden" to="/projects">
+            <Link className="golden" to="/projects/">
               Projects
             </Link>
-            <Link className="golden" to="/get-involved">
+            <Link className="golden" to="/get-involved/">
               Get Involved
             </Link>
-            <Link className="golden" to="/blog">
+            <Link className="golden" to="/blog/">
               Blog
             </Link>
           </div>

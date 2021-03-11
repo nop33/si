@@ -15,7 +15,7 @@ const FeaturedTagsList = ({
   isProjectTags,
 }) => {
   const links = [
-    { title: "All", url: isBlogTags ? `/blog` : `/projects` },
+    { title: "All", url: isBlogTags ? `/blog/` : `/projects/` },
     ...tags.map(tag => {
       return {
         title: tag,
