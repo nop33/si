@@ -45,10 +45,12 @@ const Footer = () => {
             })}
           </div>
         </div>
-        <small className={styles.copywriteSection}>
-          <div>© {new Date().getFullYear()} SI</div>
-          <Link to="/legal">Privacy Policy</Link>
-        </small>
+        <div className={styles.copywriteSection}>
+          <small>© {new Date().getFullYear()} SI</small>
+          <small>
+            <Link to="/legal">Privacy Policy</Link>
+          </small>
+        </div>
       </BaseSection>
     </footer>
   )
