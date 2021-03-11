@@ -10,6 +10,14 @@ import styles from "./footer.module.scss"
 const Footer = () => {
   const data = useStaticQuery(graphql`
     query {
+      site {
+        siteMetadata {
+          footerLinks {
+            title
+            url
+          }
+        }
+      }
       logoSmall: file(absolutePath: { regex: "/logo-small.png/" }) {
         childImageSharp {
           fixed(width: 50, quality: 95) {
@@ -28,27 +36,17 @@ const Footer = () => {
             <Image fixed={data.logoSmall.childImageSharp.fixed} alt="SI logo" />
           </Link>
           <div className={styles.linksList}>
-            <div>
-              <ArrowedLink direction="right" to="/get-involved/#donate">
-                Donate
-              </ArrowedLink>
-            </div>
-            <div>
-              <ArrowedLink direction="right" to="/get-involved/#work-with-us">
-                Subscribe
-              </ArrowedLink>
-            </div>
-            <div>
-              <ArrowedLink direction="right" to="/get-involved/#work-with-us">
-                Contact
-              </ArrowedLink>
-            </div>
+            {data.site.siteMetadata.footerLinks.map(link => {
+              return (
+                <ArrowedLink direction="right" to={link.url}>
+                  {link.title}
+                </ArrowedLink>
+              )
+            })}
           </div>
         </div>
         <small className={styles.copywriteSection}>
-          <div>
-            © {new Date().getFullYear()} SI
-          </div>
+          <div>© {new Date().getFullYear()} SI</div>
           <Link to="/legal">Privacy Policy</Link>
         </small>
       </BaseSection>

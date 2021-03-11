@@ -4,10 +4,12 @@ module.exports = {
     description: `The Simon Institute for Longterm Governance (SI) is somewhere between a research lab and a training centre, founded and
     nourished by a community of researchers and policy-makers.`,
     siteUrl: `https://staging--silg.netlify.app`, // TODO: Change to production
-    social: {
-      linkedin: ``,
-    },
-    featuredTags: ["Events", "Strategy", "Transparency", "Resources"],
+    featuredBlogTags: ["Events", "Strategy", "Transparency", "Resources"],
+    footerLinks: [
+      { title: "Donate", url: "/get-involved/#donate" },
+      { title: "Subscribe", url: "/get-involved/#stay-in-touch" },
+      { title: "Contact", url: "/get-involved/#get-in-touch" },
+    ],
   },
   plugins: [
     `gatsby-plugin-sharp`,
