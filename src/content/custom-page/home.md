@@ -37,7 +37,7 @@ featuredProjectsSection:
       orientation: cards-full-width
 postsSection:
   newsSection:
-    title: Latest news
+    title: Updates
     link:
       title: See all posts
       url: /blog
