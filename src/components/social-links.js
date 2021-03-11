@@ -11,7 +11,7 @@ const SocialLinks = ({
   website,
   linkedin,
   twitter,
-  size = "",
+  size = "1x",
   centered,
   wide,
   topSpacing,
