@@ -117,4 +117,4 @@ The website relies on the following services:
 [docs-home-page]: docs/home-page.md
 [docs-about-page]: docs/about-page.md
 [docs-get-involved-page]: docs/get-involved-page.md
-[docs-projects-overview-page]: docs/projects-overview-page
+[docs-projects-overview-page]: docs/projects-overview-page.md
