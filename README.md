@@ -1,5 +1,7 @@
 # SI website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e0a60832-adfd-4979-afb2-5297e993de7c/deploy-status)](https://app.netlify.com/sites/simoninstitute/deploys)
+
 This repository contains the code and content of the SI's website. The website was developed using [Gatsby][gatsby] by [Ilias Trichopoulos][ilias] in collaboration with Konrad Seifert and is hosted on [Netlify][netlify].
 
 Changes in the **main** branch of this repository will be deployed on the production website.
