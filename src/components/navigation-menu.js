@@ -7,6 +7,8 @@ import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons"
 
 import styles from "./navigation-menu.module.scss"
 
+import menu from "../content/_configuration/navigation-menu.yaml"
+
 const NavigationMenu = () => {
   const [state, setState] = useState({
     isMobileMenuOpen: false,
@@ -53,18 +55,17 @@ const NavigationMenu = () => {
           </Link>
         </div>
         <div className={styles.menuDesktopItemsContainer}>
-          <Link className="golden" to="/about/">
-            About
-          </Link>
-          <Link className="golden" to="/projects/">
-            Projects
-          </Link>
-          <Link className="golden" to="/get-involved/">
-            Get Involved
-          </Link>
-          <Link className="golden" to="/blog/">
-            Blog
-          </Link>
+          {menu.items.map(item => {
+            return (
+              <Link
+                className="golden"
+                to={item.url}
+                key={`nav_item_${item.url}`}
+              >
+                {item.title}
+              </Link>
+            )
+          })}
         </div>
         <div className={styles.openButton}>
           <FontAwesomeIcon
@@ -97,18 +98,17 @@ const NavigationMenu = () => {
             </div>
           </div>
           <div className={styles.menuMobileItemsContainer}>
-            <Link className="golden" to="/about/">
-              About
-            </Link>
-            <Link className="golden" to="/projects/">
-              Projects
-            </Link>
-            <Link className="golden" to="/get-involved/">
-              Get Involved
-            </Link>
-            <Link className="golden" to="/blog/">
-              Blog
-            </Link>
+            {menu.items.map(item => {
+              return (
+                <Link
+                  className="golden"
+                  to={item.url}
+                  key={`nav_item_${item.url}`}
+                >
+                  {item.title}
+                </Link>
+              )
+            })}
           </div>
         </div>
       </div>
