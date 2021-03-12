@@ -90,7 +90,7 @@ All images can be found in the `/src/images` folder. The idea of grouping all im
 
 To update the content and preview the changes before publishing them, follow this procedure:
 
-- Go to the `update-content` branch (ADD LINK) of this GitHub repository.
+- Go to the [`update-content` branch][update-content-branch] of this GitHub repository.
 - Perform the changes that you want and "commit" your changes.
 - Create a pull request against the `main` branch.
 - Wait for Netlify to create a preview link.
@@ -121,3 +121,4 @@ The website relies on the following services:
 [docs-about-page]: docs/about-page.md
 [docs-get-involved-page]: docs/get-involved-page.md
 [docs-projects-overview-page]: docs/projects-overview-page.md
+[update-content-branch]: https://github.com/Simon-Institute-for-Longterm-Governance/si-website/tree/update-content
