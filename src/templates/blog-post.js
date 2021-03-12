@@ -28,7 +28,7 @@ const BlogPostTemplate = ({ data, location }) => {
     <PageLayout
       location={location}
       title={post.frontmatter.title}
-      subtitle={post.frontmatter.date}
+      subtitle={`${post.frontmatter.date} · ${post.fields.readingTime.text}`}
     >
       <SEO
         title={post.frontmatter.seo.title || post.frontmatter.title}
@@ -107,6 +107,11 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      fields {
+        readingTime {
+          text
+        }
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
