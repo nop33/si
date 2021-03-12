@@ -1,6 +1,6 @@
 ---
 title: "Review of SI's inception"
-date: "2021-01-01T22:40:32.169Z"
+date: "2021-03-12"
 description: ""
 featuredImage: ../../../images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
 seo:

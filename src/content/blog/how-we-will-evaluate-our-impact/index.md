@@ -1,6 +1,6 @@
 ---
 title: How we will evaluate our impact
-date: "2021-01-01T22:40:32.169Z"
+date: "2021-03-12"
 description: ""
 featuredImage: ../../../images/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg
 seo:
@@ -21,15 +21,18 @@ We gather data on counterfactual scenarios by reviewing projects pre- and post-
 
 ## Key metrics
 
-_Policy support_
-(a) change in processes and tools used and
-(b) change in the understanding of longterm issues.
+### Policy support
 
-_Field building_
-(a) change in political engagement tactics and 
-(b) change of research focus.
+1. change in processes and tools used and
+2. change in the understanding of longterm issues.
 
-_Research_
+### Field building
+
+1. change in political engagement tactics and
+2. change of research focus.
+
+### Research
+
 Number of peer-reviewed academic publications.
 
 ## First signs of impact
