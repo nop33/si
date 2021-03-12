@@ -10,7 +10,7 @@ card:
   description: ""
 category: Field-building
 tags:
-  - Exchange
+  - Forum
 isFeaturedOnHomepage: true
 featuredImage: ../../../images/connection.jpg
 textSections:
@@ -34,6 +34,6 @@ textSections:
       * Get email notifications for particular people, topics or streams
 
       Pro-tip: liberally use emoticons as reactions - that way others get feedback despite you not saying anything.
-  
+
       Please, fill out your account profile with at least your first name, a profile picture and a short bio. That makes it easier to get a feel for who’s who.
 ---

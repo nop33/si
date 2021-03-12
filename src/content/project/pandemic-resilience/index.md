@@ -11,6 +11,7 @@ card:
 category: Policy support
 tags:
   - Scenario exploration
+  - GCR
 isFeaturedOnHomepage: true
 featuredImage: ../../../images/ross-sneddon-sWlDOWk0Jp8-unsplash.jpg
 textSections:

@@ -10,9 +10,8 @@ card:
   description: ""
 category: Policy support
 tags:
-  - Training
+  - Workshop
   - Tools
-  - Prioritization
 isFeaturedOnHomepage: true
 featuredImage: ../../../images/john-gibbons-oSMYeEq6YPo-unsplash.jpg
 textSections:
