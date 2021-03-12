@@ -1,7 +1,7 @@
 ---
 seo:
   title: ""
-  description: ""
+  description: "Interested in our approach? We're always looking for new ideas, collaborations and support. We are also happy to share our insights and provide input. Get in touch and let's contribute to the future."
 header:
   title: Get involved
   subtitle: ""
