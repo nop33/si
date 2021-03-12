@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://staging--silg.netlify.app`, // TODO: Change to production
+    siteUrl: `https://www.simoninstitute.ch`,
   },
   plugins: [
     `gatsby-plugin-sharp`,
