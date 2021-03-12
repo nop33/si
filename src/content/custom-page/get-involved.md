@@ -49,7 +49,7 @@ donateSection:
       content: |
         SEPA bank transfer (preferred method):  
         Name: Association Effective Altruism Geneva (EAGE)  
-        IBAN: CH85 0024 0240 9405 0140X
+        IBAN: CH85 0024 0240 9405 0140X  
         SWIFT/BIC: UBSWCHZH80A
     - title: From D, NL, UK or US?
       content: |
