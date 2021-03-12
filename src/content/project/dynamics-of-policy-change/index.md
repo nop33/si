@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - Working paper
+  - Forthcoming
 isFeaturedOnHomepage: false
 featuredImage: ../../../images/tabea-damm-9-xfYKAI6ZI-unsplash.jpg
 textSections:

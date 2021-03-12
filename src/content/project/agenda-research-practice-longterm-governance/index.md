@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - Working paper
+  - Forthcoming
 isFeaturedOnHomepage: true
 featuredImage: ../../../images/martin-adams-_OZCl4XcpRw-unsplash.jpg
 textSections:

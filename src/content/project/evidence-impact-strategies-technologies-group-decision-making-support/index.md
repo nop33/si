@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - Working paper
+  - Forthcoming
 isFeaturedOnHomepage: false
 featuredImage: ../../../images/matteo-vistocco-Dph00R2SwFo-unsplash.jpg
 textSections:

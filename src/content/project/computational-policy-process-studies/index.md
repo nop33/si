@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - Working paper
+  - Forthcoming
 isFeaturedOnHomepage: true
 featuredImage: ../../../images/science-in-hd-z_WXVITXWpc-unsplash.jpg
 textSections:

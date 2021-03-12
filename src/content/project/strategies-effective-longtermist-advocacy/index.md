@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - Working paper
+  - Forthcoming
 isFeaturedOnHomepage: false
 featuredImage: ../../../images/markus-spiske-p2Xor4Lbrrk-unsplash.jpg
 textSections:

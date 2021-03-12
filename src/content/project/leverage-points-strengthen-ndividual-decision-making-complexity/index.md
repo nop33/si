@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - On-going
+  - Forthcoming
 isFeaturedOnHomepage: true
 featuredImage: ../../../images/spencer-davis-ckIlQ8r9F8g-unsplash.jpg
 textSections:

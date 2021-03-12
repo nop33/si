@@ -10,7 +10,7 @@ card:
   description: ""
 category: Research
 tags:
-  - Working paper
+  - Forthcoming
 isFeaturedOnHomepage: false
 featuredImage: ../../../images/robynne-hu-HOrhCnQsxnQ-unsplash.jpg
 textSections:
