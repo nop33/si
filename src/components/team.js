@@ -9,7 +9,10 @@ import styles from "./team.module.scss"
 const Team = () => {
   const membersQuery = useStaticQuery(graphql`
     query {
-      allMarkdownRemark(filter: { fields: { contentType: { eq: "member" } } }) {
+      allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "member" } } }
+        sort: { fields: [frontmatter___name], order: ASC }
+      ) {
         group(field: frontmatter___group) {
           name: fieldValue
           nodes {
