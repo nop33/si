@@ -10,20 +10,20 @@ workWithUsSection:
   columnsWithButtons:
     - title: Apply
       content: |
-        We expect to start hiring for specific positions soon. Until then, you can send in a general application.
+        We are just starting to raise funds. For now, you can send us a general application to signal interest.
       button:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
     - title: Collaborate
       content: |
-        We happily collaborate and provide feedback on research projects aiming to contribute to fields of our interest.
+        We are happy to receive collaboration proposals or provide feedback on projects related to our focus areas. For select audiences, we also give talks and workshops.
     - title: Partner
       content: |
-        We are always looking for institutional partners who desire to improve their decision-making to benefit future generations.
+        We are always looking for institutional partners aiming to improve the representation of future generations in public policy-making and reduce global catastrophic risks.
 getInTouchSection:
   title: Get in touch
   intro: |
-    TODO: Here comes some intro text if needed. It can be removed, of course!
+    Questions, comments, propositions? Get in touch!
 stayInTouchSection:
   title: "Stay up to date"
   newsletter:
@@ -38,33 +38,34 @@ donateSection:
   title: Donate
   intro:
     content: |
-      To meaningfully support policy networks without just injecting further noise into the system, we have to build capacity sustainably. With a team of three FTE until 2022 and five the following year, our current room for more funding until the end of 2022 is at least CHF 545,000.
+      We currently estimate our room for more funding to be around CHF 2'000'000. Any amount of donations directly enables us to do more. Check out our [2-year launch plan](/blog/post/launch-plan/) for more.
 
-      Until we have received legal nonprofit status, you can donate to Effective Altruism Geneva - an established Swiss nonprofit organization supporting our launch.
+      You can donate via EA Geneva until SI’s nonprofit status is officially recognized. This also makes your contribution tax deductible in Switzerland.
     button:
       text: Donate
       url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
   columnsWithButtons:
-    - title: Tax deductible donations in Switzerland
+    - title: Preferred method: SEPA bank transfer
       content: |
         SEPA bank transfer (preferred method):  
         Name: Association Effective Altruism Geneva (EAGE)  
         IBAN: CH85 0024 0240 9405 0140X
-    - title: Tax deductible donations in UK, USA, Netherlands
+        SWIFT/BIC: UBSWCHZH80A
+    - title: From D, NL, UK or US?
       content: |
-        If you would like to donate from the UK, USA, Netherlands, Germany or more than $10'000 (equivalent), please [get in touch](#get-in-touch). This is to grant tax-deductibility status through one of our partner organizations.
+        Please get in touch. SI can receive fiscal sponsorship if the collective annual donation volume from abroad is above € 10’000.
 textSections:
   - title: Why support us?
     content: |
-      ### Understanding and scaling longterm governance
+      ### Science to policy
 
-      Improving international policy systems and their impact requires a detailed understanding of their functioning. Our work pioneers systematic experimentation.
+      The knowledge base on longtermism and global catastrophic risks is expanding rapidly. SI empowers policy-makers to make sense of all the information and act in the face of uncertainty.
 
-      ### Risk-aware and collaborative
+      ### Timely and timeless
 
-      Policy-making affects large populations for the better or worse. We test our ideas cautiously and scale only if all our stakeholders deem a project robustly beneficial.
+      SI’s mission and approach resonate with current trends and demands in policy networks. Our discreet support and longterm focus make us a uniquely trustworthy ally for change.
 
-      ### Impact-multiplier
+      ### Multilateral
 
-      We build cooperation between important actors with conflicting preferences by facilitating mutual understanding, information exchange and collective prioritization.
+      We build cooperation between important actors with conflicting preferences by facilitating mutual understanding, information exchange, collective prioritization and policy learning.
 ---
