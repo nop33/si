@@ -8,9 +8,9 @@ seo:
   title: ""
   description: ""
 links:
-  website: "https://google.com"
-  twitter: "https://google.com"
-  linkedin: "https://google.com"
+  website: ""
+  twitter: ""
+  linkedin: ""
 ---
 
 He holds a BA in Cognitive Science from the University of Michigan. His main research interests are centered around improving institutional decision-making.
