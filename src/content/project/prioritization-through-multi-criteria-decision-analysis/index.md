@@ -3,7 +3,7 @@ seo:
   title: ""
   description: ""
 header:
-  title: "Navigating complexity, uncertainty and information overload"
+  title: "Prioritization through multi-criteria decision analysis"
   subtitle: ""
 card:
   title: ""
