@@ -16,7 +16,6 @@ import { generateIdFromTitle } from "../utils"
 
 const AboutPage = ({ data, location }) => {
   const pageData = data.allMarkdownRemark.nodes[0].frontmatter
-  const introSectionId = generateIdFromTitle(pageData.introSection.title)
   const teamSectionId = generateIdFromTitle(pageData.teamSection.title)
   const herbertSimonSectionId = generateIdFromTitle(
     pageData.herbertSimonSection.title
@@ -24,7 +23,6 @@ const AboutPage = ({ data, location }) => {
   const sponsorsSectionId = generateIdFromTitle(pageData.sponsorsSection.title)
 
   const tabTitles = [
-    pageData.introSection.title,
     ...pageData.textSections.map(section => section.title),
     pageData.teamSection.title,
     pageData.herbertSimonSection.title,
@@ -42,15 +40,6 @@ const AboutPage = ({ data, location }) => {
         description={pageData.seo.description || pageData.header.subtitle}
       />
       <Tabs titles={tabTitles}></Tabs>
-      <BaseSection id={introSectionId}>
-        <SideBySide title={pageData.introSection.title}>
-          <div
-            dangerouslySetInnerHTML={{
-              __html: toHTML(pageData.introSection.content),
-            }}
-          ></div>
-        </SideBySide>
-      </BaseSection>
       {pageData.textSections.map(textSection => {
         const id = generateIdFromTitle(textSection.title)
         return (
@@ -119,17 +108,12 @@ export const pageQuery = graphql`
             title
             subtitle
           }
-          introSection {
-            title
-            content
-          }
           textSections {
             title
             content
           }
           teamSection {
             title
-            content
           }
           herbertSimonSection {
             title
