@@ -1,6 +1,6 @@
 ---
 title: SI’s strategy for the first two years
-date: "2021-03-12T22:40:32.169Z"
+date: "2021-03-12"
 description: ""
 featuredImage: ../../../images/annie-spratt-kZO9xqmO_TA-unsplash.jpg
 seo:
@@ -13,26 +13,26 @@ tags:
 
 ## Summary
 
-The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policy-making processes. 
+The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policy-making processes.
 
-In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core objectives are to 
-(i) prove its approach by generating early signs of counterfactual impact, 
-(ii) narrow down its focus until 2026 and 
+In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core objectives are to
+(i) prove its approach by generating early signs of counterfactual impact,
+(ii) narrow down its focus until 2026 and
 (iii) raise funding to permanently employ at least 5 full-time equivalents (FTE).
 
-In 2021, SI will 
-(i) deploy three training programs for policy-makers to deal with complexity; 
-(ii) publish 5 foundational working papers and 1 peer-reviewed article; 
-(iii) raise between CHF 200’000 and 2’000’000; and 
+In 2021, SI will
+(i) deploy three training programs for policy-makers to deal with complexity;
+(ii) publish 5 foundational working papers and 1 peer-reviewed article;
+(iii) raise between CHF 200’000 and 2’000’000; and
 (iv) set up its legal and operating structure.
 
-The public launch is set to complete on March 31st, 2021. SI will be a Swiss association with recognized non-profit status. 
+The public launch is set to complete on March 31st, 2021. SI will be a Swiss association with recognized non-profit status.
 
-We will deploy our training programs in partnership with the Geneva Science-Policy Interface and plan to deliver each program four times to different policy audiences to test their fit. 
+We will deploy our training programs in partnership with the Geneva Science-Policy Interface and plan to deliver each program four times to different policy audiences to test their fit.
 
 We will summarize our foundational research in a series of working papers on ‘Longterm Governance’, spelling out our approach for fostering resilience to global catastrophic risks by supporting coordination in international policy networks.
 
-This post delineates SI’s action plan. We hope it will provide a clear understanding of where SI is heading in the upcoming months. 
+This post delineates SI’s action plan. We hope it will provide a clear understanding of where SI is heading in the upcoming months.
 
 We encourage you to share feedback, ideas and collaboration opportunities.
 
@@ -44,40 +44,49 @@ We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to co
 
 ### 2021 Objectives
 
-1. Testing tools and research
-1.1 Tools
-1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
-1.1.2 Test workshop on behavioural insights for complex problem solving (Q2&3)
-1.1.3 Test training on multi-objective prioritization in policy-making (Q4)
-1.2 Research
-1.2.1 Publish working paper on “policy-making for the longterm future” (Q2)
-1.2.2 Publish method paper on “computational policy process studies” (Q2)
-1.2.3 Publish “needs analysis for complex problem-solving in international policy networks” (Q2)
-1.2.4 Publish working paper on “dynamics of policy change and their implications for long-term policy-making” (Q3)
-1.2.5 Publish working paper on “strategies for effective longtermist advocacy” (Q3)
-1.2.6 Publish “review of leverage points to strengthen individual decision-making in the face of complexity” (Q3)
-1.2.7 Submit funding proposal on “computational policy process studies” to Swiss National Science Foundation (Q3)
-1.2.8 Publish working paper on “strengthening policy processes for the longterm future” (Q4)
-1.2.9 Publish “an agenda for research and practice in longterm governance” (Q4)
-2. Building capacity
-2.1 Fundraise minimum CHF 113k by Q3 and push for up to CHF 2m in Q4
-2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF)
-2.3 Build up a good reputation among target audience (events rated ≥8/10)
-3. Launching and set up SI
-3.1 Launch website and public announcement in Q1
-3.2 Build SI’s legal foundation in Q1
-3.3 Design management and operations systems throughout Q1-3
+#### 1. Testing tools and research
+
+##### 1.1 Tools
+
+- 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
+- 1.1.2 Test workshop on behavioural insights for complex problem solving (Q2&3)
+- 1.1.3 Test training on multi-objective prioritization in policy-making (Q4)
+
+##### 1.2 Research
+
+- 1.2.1 Publish working paper on “policy-making for the longterm future” (Q2)
+- 1.2.2 Publish method paper on “computational policy process studies” (Q2)
+- 1.2.3 Publish “needs analysis for complex problem-solving in international policy networks” (Q2)
+- 1.2.4 Publish working paper on “dynamics of policy change and their implications for long-term policy-making” (Q3)
+- 1.2.5 Publish working paper on “strategies for effective longtermist advocacy” (Q3)
+- 1.2.6 Publish “review of leverage points to strengthen individual decision-making in the face of complexity” (Q3)
+- 1.2.7 Submit funding proposal on “computational policy process studies” to Swiss National Science Foundation (Q3)
+- 1.2.8 Publish working paper on “strengthening policy processes for the longterm future” (Q4)
+- 1.2.9 Publish “an agenda for research and practice in longterm governance” (Q4)
+
+#### 2. Building capacity
+
+- 2.1 Fundraise minimum CHF 113k by Q3 and push for up to CHF 2m in Q4
+- 2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF)
+- 2.3 Build up a good reputation among target audience (events rated ≥8/10)
+
+#### 3. Launching and set up SI
+
+- 3.1 Launch website and public announcement in Q1
+- 3.2 Build SI’s legal foundation in Q1
+- 3.3 Design management and operations systems throughout Q1-3
 
 ### Testing tools and research
 
 The rationale for SI’s decision-making support tools is to test the contextual validity of the evidence used to back its theory of change. Direct engagement with policy networks allows gathering real-world feedback to refine strategy and ensure value add. Publishing our foundational research allows others to scrutinize and build on our work.
 
-We aim to 
+We aim to
+
 1. Refine our understanding of what constitutes counterfactually valuable decision-making support in international policy networks;
 2. Identify longterm-focused individuals and organizations to build a strong network advocating for future generations;
 3. Motivate further research and experimentation on strengthening policy processes for the longterm future.
 
-We will test our training programs at a small scale in high-bandwidth communication settings to maintain the ability to correct mistakes until we have gathered evidence of positive impact and formalized models of mechanisms at play. Only after we have gained confidence in the generalizability of our insights will we consider developing e.g. online content or train-the-trainers programs. 
+We will test our training programs at a small scale in high-bandwidth communication settings to maintain the ability to correct mistakes until we have gathered evidence of positive impact and formalized models of mechanisms at play. Only after we have gained confidence in the generalizability of our insights will we consider developing e.g. online content or train-the-trainers programs.
 
 We hope to be able to draw preliminary conclusions after iterative testing throughout our first year of operations. In the second year, we currently expect to integrate separate workshops into one coherent program that we run at regular intervals and in official partnership with key institutions. We will also support the GSPI in reappropriating our content to its audiences beyond the governance of global catastrophic risks.
 
@@ -85,14 +94,16 @@ Next to training, we will wrap up the research that has led to SI’s conception
 
 ### Building capacity
 
-In 2021, the goal is to fundraise in order to scale up operations in 2022. 
+In 2021, the goal is to fundraise in order to scale up operations in 2022.
 
 To maintain capacity throughout 2022, SI requires to fundraise at least CHF 113’000. However, this is unlikely to be sufficient to reach our 2-year development goals and would merely enable Konrad and Max to pivot.
 
 #### Hiring
+
 To scale at capacity and build runway, we currently expect to be able to make use of as much as CHF 2’000’000 in the first 2-years of operations. This would allow us to hire an additional 5 full-time equivalents (FTE) and thereby drastically increase our capacity to run workshops, collect and analyze data, improve our strategy and support the translation of longtermist ideas into policy practices.
 
 Our first hires will bring additional experience in:
+
 1. Training: designing and facilitating workshops.
 2. Development: fundraising, grant writing, relationship management, financial reporting and public relations.
 3. Operations: event planning, management and organizational administration.
@@ -127,16 +138,19 @@ In Q2, we will define our organizational structure to formalize the role of the 
 ## Adaptive planning
 
 As a result of a pre-mortem, we have identified three main threats to our current plans:
+
 1. Failing to deliver proof of concept due to inability to run in-person events
 2. First publications do not seem of practical relevance or sufficient quality
 3. Fundraising via the longtermist network is unsuccessful due to inferential gaps
 
 We plan to mitigate these threats as follows:
+
 1. If in-person events are impossible, we will pivot to (1) online services (coaching, consulting) and/or (2) focus on research.
 2. Conditional on funding, our second hire focuses on methods for data collection, analysis and scientific writing. Otherwise, we focus on decision-making support to deliver proof of concept.
 3. If we do not receive seed funding from the longtermist community, we will focus on establishing SI within the Genevan ecosystem first.
 
 To adapt systematically and avoid losing momentum, we use the following mechanisms:
+
 1. Monitoring-Evaluation-Learning: we track the time allocated to each of our three main annual goals, track milestones and their required time estimates. We survey our audience and assess feedback on tools and research to constantly refine our approach. We write learning reports for each project after the pilot phase.
-2. Quarterly strategic meeting: staff revisits the annual plan and adapts the project schedule as a function of progress to design a detailed plan for each quarter. 
+2. Quarterly strategic meeting: staff revisits the annual plan and adapts the project schedule as a function of progress to design a detailed plan for each quarter.
 3. Semiannual board meeting: in February and October, the governing board discusses progress and adapts the strategy accordingly.
