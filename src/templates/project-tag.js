@@ -29,7 +29,7 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
                   key={project.fields.slug}
                   url={project.fields.slug}
                   image={
-                    project.frontmatter.featuredImage.childImageSharp.fluid
+                    project.frontmatter?.featuredImage?.childImageSharp.fluid
                   }
                   title={
                     project.frontmatter.card.title ||

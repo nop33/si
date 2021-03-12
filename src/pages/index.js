@@ -103,7 +103,9 @@ const Home = ({ data, location }) => {
                   <Card
                     key={post.fields.slug}
                     url={post.fields.slug}
-                    image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                    image={
+                      post.frontmatter?.featuredImage?.childImageSharp.fluid
+                    }
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
                     content={post.frontmatter.description || post.excerpt}
@@ -122,7 +124,9 @@ const Home = ({ data, location }) => {
                   <Card
                     key={post.fields.slug}
                     url={post.fields.slug}
-                    image={post.frontmatter.featuredImage.childImageSharp.fluid}
+                    image={
+                      post.frontmatter?.featuredImage?.childImageSharp.fluid
+                    }
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
                     content={post.frontmatter.description || post.excerpt}

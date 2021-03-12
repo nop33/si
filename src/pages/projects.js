@@ -35,7 +35,9 @@ const ProjectsPage = ({ data, location }) => {
               <Card
                 key={project.fields.slug}
                 url={project.fields.slug}
-                image={project.frontmatter.featuredImage.childImageSharp.fluid}
+                image={
+                  project.frontmatter?.featuredImage?.childImageSharp.fluid
+                }
                 title={
                   project.frontmatter.card.title ||
                   project.frontmatter.header.title
