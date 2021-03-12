@@ -45,7 +45,7 @@ donateSection:
       text: Donate
       url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
   columnsWithButtons:
-    - title: Preferred method: SEPA bank transfer
+    - title: "Preferred method: SEPA bank transfer"
       content: |
         SEPA bank transfer (preferred method):  
         Name: Association Effective Altruism Geneva (EAGE)  
