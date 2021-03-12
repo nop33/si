@@ -1,21 +1,17 @@
 import React from "react"
-import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
-import SEO from "../components/seo"
 import ArrowedLink from "../components/arrowed-link"
 
-const NotFoundPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
+import data from "../content/_configuration/404.yaml"
 
+const NotFoundPage = ({ location }) => {
   return (
-    <PageLayout location={location} title="404: Not Found" subtitle={siteTitle}>
-      <SEO title="404: Not Found" />
+    <PageLayout location={location} title={data.title} subtitle={data.subtitle}>
       <BaseSection>
-        <p>You just hit a route that does not exist... the sadness.</p>
-        <ArrowedLink direction="left" to="/">
-          Back to the home page
+        <ArrowedLink direction="left" to={data.link.url}>
+          {data.link.text}
         </ArrowedLink>
       </BaseSection>
     </PageLayout>
@@ -23,13 +19,3 @@ const NotFoundPage = ({ data, location }) => {
 }
 
 export default NotFoundPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

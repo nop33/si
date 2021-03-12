@@ -8,10 +8,11 @@ import BaseSection from "../components/sections/base"
 import Grid from "../components/sections/grid"
 import Card from "../components/card"
 
+import featuredTags from "../content/_configuration/featured-tags.yaml"
+
 const BlogIndex = ({ data, location }) => {
   const pageData = data.blogPage.nodes[0].frontmatter
   const { nodes, totalCount } = data.posts
-  const tags = data.site.siteMetadata?.featuredBlogTags
 
   return (
     <div>
@@ -24,7 +25,7 @@ const BlogIndex = ({ data, location }) => {
           title={pageData.seo.title || pageData.header.title}
           description={pageData.seo.description}
         />
-        <FeaturedTagsList isBlogTags tags={tags} />
+        <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {
@@ -50,11 +51,6 @@ export default BlogIndex
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        featuredBlogTags
-      }
-    }
     blogPage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/blog.md/" } }
     ) {

@@ -8,9 +8,10 @@ import BaseSection from "../components/sections/base"
 import Grid from "../components/sections/grid"
 import Card from "../components/card"
 
+import featuredTags from "../content/_configuration/featured-tags.yaml"
+
 const BlogTagTemplate = ({ pageContext, data, location }) => {
   const { nodes, totalCount } = data.allMarkdownRemark
-  const tags = data.site.siteMetadata?.featuredBlogTags
 
   return (
     <div>
@@ -20,7 +21,7 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
         location={location}
       >
         <SEO title={`${pageContext.tag} posts`} />
-        <FeaturedTagsList isBlogTags tags={tags} />
+        <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {
@@ -46,11 +47,6 @@ export default BlogTagTemplate
 
 export const pageQuery = graphql`
   query subpageByTag($tag: String) {
-    site {
-      siteMetadata {
-        featuredBlogTags
-      }
-    }
     allMarkdownRemark(
       filter: {
         fields: { contentType: { eq: "blog" } }
