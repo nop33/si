@@ -1,7 +1,7 @@
 ---
 seo:
   title: About us
-  description: ""
+  description: "As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help international policy networks cope with complexity, uncertainty, competing objectives and the glut of information."
 header:
   title: About
   subtitle: ""
