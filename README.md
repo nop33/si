@@ -78,6 +78,7 @@ Finally, there is the `_configuration` folder. It includes different kinds of co
 - List of blog posts tags that are featured in the blog overview and blog tag overview pages.
 - The links of the footer
 - Metadata including the default SEO title and description
+- Navigation menu items
 
 ## Images
 
