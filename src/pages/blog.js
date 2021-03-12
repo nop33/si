@@ -31,7 +31,7 @@ const BlogIndex = ({ data, location }) => {
             {nodes.map(post => {
               return (
                 <Card
-                  key={post.fields.slug}
+                  key={`card_${post.fields.slug}`}
                   url={post.fields.slug}
                   image={post.frontmatter?.featuredImage?.childImageSharp.fluid}
                   title={post.frontmatter.title}

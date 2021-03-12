@@ -28,7 +28,11 @@ const SubpageTemplate = ({ data, location }) => {
     tags &&
     tags.map(tag => {
       return (
-        <Link className="golden" to={constructProjectTagUrl(tag)}>
+        <Link
+          className="golden"
+          to={constructProjectTagUrl(tag)}
+          key={`tag_link_${tag}`}
+        >
           #{tag}
         </Link>
       )
@@ -76,7 +80,7 @@ const SubpageTemplate = ({ data, location }) => {
       {pageData.textSections.map(textSection => {
         const id = generateIdFromTitle(textSection.title)
         return (
-          <BaseSection id={id} key={id}>
+          <BaseSection id={id} key={`subpage_section_${id}`}>
             <SideBySide title={textSection.title}>
               <div
                 dangerouslySetInnerHTML={{

@@ -33,7 +33,7 @@ const ProjectsPage = ({ data, location }) => {
           const projectCards = projects.map(project => {
             return (
               <Card
-                key={project.fields.slug}
+                key={`project_page_card_${project.fields.slug}`}
                 url={project.fields.slug}
                 image={
                   project.frontmatter?.featuredImage?.childImageSharp.fluid
@@ -52,7 +52,7 @@ const ProjectsPage = ({ data, location }) => {
           })
 
           return (
-            <BaseSection>
+            <BaseSection key={`section_${projectsByCategory.title}`}>
               <CardsWithText
                 orientation="cards-full-width"
                 title={projectsByCategory.title}

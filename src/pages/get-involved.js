@@ -81,7 +81,7 @@ const GetInvolvedPage = ({ data, location }) => {
       {pageData.textSections.map(textSection => {
         const id = generateIdFromTitle(textSection.title)
         return (
-          <BaseSection id={id} key={id}>
+          <BaseSection id={id} key={`section_${id}`}>
             <SideBySide title={textSection.title}>
               <div
                 dangerouslySetInnerHTML={{

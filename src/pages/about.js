@@ -81,7 +81,7 @@ const AboutPage = ({ data, location }) => {
               <Image
                 fixed={sponsor.logo.childImageSharp.fixed}
                 alt={sponsor.title}
-                key={sponsor.title}
+                key={`sponsor_${sponsor.title}`}
               />
             )
           })}

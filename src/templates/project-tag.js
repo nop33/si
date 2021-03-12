@@ -26,7 +26,7 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
             {nodes.map(project => {
               return (
                 <Card
-                  key={project.fields.slug}
+                  key={`project_tag_card_${project.fields.slug}`}
                   url={project.fields.slug}
                   image={
                     project.frontmatter?.featuredImage?.childImageSharp.fluid

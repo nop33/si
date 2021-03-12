@@ -22,7 +22,7 @@ const TableOfContents = ({ links, oneLine }) => {
             .filter(link => !!link.title)
             .map(link => {
               return (
-                <li key={link.url}>
+                <li key={`tbc_${link.url}`}>
                   <Link className="golden" to={link.url}>
                     {link.title}
                   </Link>

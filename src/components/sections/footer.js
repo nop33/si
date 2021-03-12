@@ -32,7 +32,11 @@ const Footer = () => {
           <div className={styles.linksList}>
             {footer.links.map(link => {
               return (
-                <ArrowedLink direction="right" to={link.url} key={link.url}>
+                <ArrowedLink
+                  direction="right"
+                  to={link.url}
+                  key={`footer_${link.url}`}
+                >
                   {link.title}
                 </ArrowedLink>
               )

@@ -103,7 +103,7 @@ const NavigationMenu = () => {
                 <Link
                   className="golden"
                   to={item.url}
-                  key={`nav_item_${item.url}`}
+                  key={`nav_item_mobile_${item.url}`}
                 >
                   {item.title}
                 </Link>

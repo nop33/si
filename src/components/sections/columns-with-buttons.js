@@ -9,7 +9,7 @@ const ColumnsWithButtons = ({ columnsData }) => {
     <div className={styles.columnsWithButtons}>
       {columnsData.map(column => {
         return (
-          <div className={styles.column}>
+          <div className={styles.column} key={`col_${column.title}`}>
             {column.title && <h3>{column.title}</h3>}
             <div
               className={styles.content}

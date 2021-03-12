@@ -57,13 +57,16 @@ const Team = () => {
     <div className={styles.groups}>
       {groups.map(group => {
         return (
-          <div className={styles.membersGroup} key={group.name}>
+          <div className={styles.membersGroup} key={`group_${group.name}`}>
             <h3>{group.name}</h3>
             <div className={styles.membersList}>
               {group.nodes.map(member => {
                 if (member.frontmatter.disableDetailPage) {
                   return (
-                    <div className={styles.member} key={member.fields.slug}>
+                    <div
+                      className={styles.member}
+                      key={`team_${member.fields.slug}`}
+                    >
                       <Image
                         fixed={member.frontmatter.photo.childImageSharp.fixed}
                         alt={`${member.frontmatter.name} profile image`}

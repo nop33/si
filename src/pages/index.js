@@ -37,6 +37,7 @@ const Home = ({ data, location }) => {
                   title={keyfact.title}
                   content={keyfact.description}
                   link={keyfact.link}
+                  key={`keyfact_${keyfact.link}`}
                 />
               )
             })}
@@ -56,7 +57,7 @@ const Home = ({ data, location }) => {
             const projectCards = projectsByCategory.map(project => {
               return (
                 <Card
-                  key={project.fields.slug}
+                  key={`project_card_${project.fields.slug}`}
                   url={project.fields.slug}
                   image={
                     project.frontmatter.featuredImage.childImageSharp.fluid
@@ -101,7 +102,7 @@ const Home = ({ data, location }) => {
               {news.map(post => {
                 return (
                   <Card
-                    key={post.fields.slug}
+                    key={`news_card_${post.fields.slug}`}
                     url={post.fields.slug}
                     image={
                       post.frontmatter?.featuredImage?.childImageSharp.fluid
@@ -122,7 +123,7 @@ const Home = ({ data, location }) => {
               {events.map(post => {
                 return (
                   <Card
-                    key={post.fields.slug}
+                    key={`events_card_${post.fields.slug}`}
                     url={post.fields.slug}
                     image={
                       post.frontmatter?.featuredImage?.childImageSharp.fluid
