@@ -9,7 +9,14 @@ import Footer from "./sections/footer"
 
 import styles from "./page-layout.module.scss"
 
-const PageLayout = ({ location, title, subtitle, children, backLink }) => {
+const PageLayout = ({
+  location,
+  title,
+  subtitle,
+  headerLinks,
+  children,
+  backLink,
+}) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
 
@@ -25,6 +32,9 @@ const PageLayout = ({ location, title, subtitle, children, backLink }) => {
           <div className={styles.textContent}>
             <h1>{title}</h1>
             {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
+            {headerLinks && (
+              <div className={styles.headerLinks}>{headerLinks}</div>
+            )}
           </div>
         </div>
       </header>

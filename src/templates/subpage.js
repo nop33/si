@@ -1,8 +1,12 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import { toHTML } from "../utils"
+import {
+  toHTML,
+  constructProjectCategoryUrl,
+  constructProjectTagUrl,
+} from "../utils"
 
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
@@ -17,6 +21,33 @@ const SubpageTemplate = ({ data, location }) => {
   const mobileFeaturedImage = pageData.featuredImage?.mobile?.fluid
   const desktopFeaturedImage = pageData.featuredImage?.desktop?.fluid
   const seoFeaturedImage = pageData.featuredImage?.seo?.resize
+  const category = pageData?.category
+  const tags = pageData?.tags
+
+  const tagLinks =
+    tags &&
+    tags.map(tag => {
+      return (
+        <Link className="golden" to={constructProjectTagUrl(tag)}>
+          #{tag}
+        </Link>
+      )
+    })
+
+  const headerLinks = (
+    <div>
+      {category && (
+        <Link className="golden" to={constructProjectCategoryUrl(category)}>
+          {category}
+        </Link>
+      )}
+      <span> · </span>
+      {tags &&
+        tagLinks.map(tagLink => {
+          return tagLink
+        })}
+    </div>
+  )
 
   const sources = [
     mobileFeaturedImage,
@@ -30,6 +61,7 @@ const SubpageTemplate = ({ data, location }) => {
     <PageLayout
       title={pageData.header.title}
       subtitle={pageData.header.subtitle}
+      headerLinks={category && tags && headerLinks}
       location={location}
     >
       <SEO
@@ -76,6 +108,8 @@ export const pageQuery = graphql`
           title
           subtitle
         }
+        category
+        tags
         featuredImage {
           desktop: childImageSharp {
             fluid(

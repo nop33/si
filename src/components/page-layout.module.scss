@@ -12,6 +12,20 @@
     max-width: var(--maxWidth-4xl);
   }
 
+  .header-links {
+    margin-top: var(--spacing-5);
+    text-align: right;
+    color: var(--color-text-light);
+
+    a {
+      padding: 0 var(--spacing-2);
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+
   > header {
     background-color: transparentize(#bc962c, 0.9);
     display: flex;
