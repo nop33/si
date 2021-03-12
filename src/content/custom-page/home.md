@@ -25,7 +25,7 @@ featuredProjectsSection:
   projectsByCategory:
     - category: Policy support
       title: "Policy-making"
-      description: "Policy-making is characterized by complexity. We help you and your team grapple productively with it."
+      description: "Policy-making is characterized by complexity. We help you and your network grapple productively with it."
       orientation: cards-on-the-left
     - category: Field-building
       title: "Field-building"
