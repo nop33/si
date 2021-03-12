@@ -28,6 +28,12 @@ textSections:
       The brain learns best from experience. We offer an immersive exercise, adapted to the time-scarce reality of policy actors, allowing participants to practice decision-making and cooperation under pressure - online and offline.
 
       Realistic dynamics on short time-scales provide fast feedback loops that train intuition and build systems competencies. The exercise places a particular focus on ways to model systems and maintain cooperation.
+  - title: Project lead
+    content: |
+      Maxime Stauffer
+  - title: Project partners
+    content: |
+      Geneva Science-Policy Interface
   - title: Target audience
     content: |
       Individuals, groups and networks working on pandemic resilience at the national or international level.
