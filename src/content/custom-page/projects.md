@@ -9,13 +9,12 @@ projectsByCategories:
   - category: "Policy support"
     title: "Policy support"
     description: |
-      We help policy networks identify coordination bottlenecks and equip them with tools and heuristics to render tacit knowledge explicit, reduce information asymmetries and deliberate productively.		
+      We help policy networks identify coordination bottlenecks and equip them with tools and heuristics to render tacit knowledge explicit, reduce information asymmetries and deliberate productively.
   - category: "Field-building"
     title: "Field-building"
     description: |
-      We foster a community of practitioners, researchers and donors working together towards longterm governance.		
+      We foster a community of practitioners, researchers and donors working together towards longterm governance.
   - category: "Research"
-    title: "On-going research projects"
+    title: "Research"
     description: |
-      We synthesize knowledge, conduct experiments and formalize models to advance the knowledge base on longterm governance.
 ---
