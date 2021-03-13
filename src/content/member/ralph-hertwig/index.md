@@ -4,7 +4,7 @@ photo: portrait_ralph_hertwig.jpg
 group: Governing board
 role: Board member
 links:
-  website: ""
+  website: https://www.mpib-berlin.mpg.de/staff/ralph-hertwig
   twitter: ""
   linkedin: ""
 seo:
