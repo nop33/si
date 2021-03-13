@@ -1,12 +1,12 @@
 ---
-name: Prof. Samia Hurst
+name: Prof. Samia Hurst-Majno
 photo: hurstsamia.jpg
 group: Advisers
 role: Adviser
 links:
-  website: ""
-  twitter: ""
-  linkedin: ""
+  website: http://forumethix-ch.blogspot.com/
+  twitter: https://twitter.com/samiahurst
+  linkedin: https://www.unige.ch/medecine/ieh2/fr/linstitut/collaborateurs/samia-hurst/
 disableDetailPage: true
 seo:
   title: ""
