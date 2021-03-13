@@ -1,16 +1,16 @@
 ---
 name: Jens Fischer
-photo: ../../../images/avatar-placeholder.jpeg
+photo: fischerjens.jpg
 group: Collaborators
-disableDetailPage: true
 role: Research affiliate
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Université Paul Sabatier Toulouse III
