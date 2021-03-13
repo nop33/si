@@ -4,9 +4,9 @@ photo: krawczukigor.jpg
 group: Collaborators
 role: Research affiliate
 links:
-  website: ""
+  website: https://krawczuk.eu/
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/igorkrawczuk/
 disableDetailPage: true
 seo:
   title: ""
