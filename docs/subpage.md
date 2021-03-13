@@ -26,4 +26,4 @@ The title of a section.
 
 ## textSections.content
 
-The markdown content of the section.
+The markdown content of the section. :warning: Images are not yet supported.

@@ -40,8 +40,8 @@ A list of text sections. Reordering these sections will reorder them in the proj
 
 ## textSections.title
 
-The title of a section
+The title of a section.
 
 ## textSections.content
 
-The markdown content of the section
+The markdown content of the section. :warning: Images are not yet supported.
