@@ -6,7 +6,7 @@ role: Board member
 links:
   website: ""
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/martina-kunz-8b367a70/
 seo:
   title: ""
   description: ""
