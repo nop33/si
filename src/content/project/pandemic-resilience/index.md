@@ -5,7 +5,6 @@ featuredImage: ses.jpg
 category: Policy support
 tags:
   - Scenario exploration
-  - GCR
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
