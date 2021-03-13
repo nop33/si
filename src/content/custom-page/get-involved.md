@@ -60,7 +60,7 @@ donateSection:
         $ 50’000.
 textSections:
   - title: Why support us?
-    content: >
+    content: >-
       ### Science to policy
 
 
@@ -76,7 +76,7 @@ textSections:
       ### Multilateral
 
 
-      We build cooperation between important actors with conflicting preferences by facilitating mutual understanding, information exchange, collective prioritization and policy learning.
+      We build cooperation between important actors with competing preferences by facilitating mutual understanding, information exchange, collective prioritization and learning.
 seo:
   title: ""
   description: Interested in our approach? We're always looking for new ideas,
