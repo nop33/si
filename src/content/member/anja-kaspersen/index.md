@@ -4,7 +4,7 @@ photo: kaspersenanja.jpg
 group: Advisers
 role: Adviser
 links:
-  website: https://en.wikipedia.org/wiki/Anja_Kaspersen
+  website: ""
   twitter: https://twitter.com/AnjaKasp
   linkedin: https://www.linkedin.com/in/anja-kaspersen/
 disableDetailPage: true
