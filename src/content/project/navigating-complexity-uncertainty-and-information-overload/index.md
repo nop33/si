@@ -1,11 +1,10 @@
 ---
 title: Navigating complexity, uncertainty and information overload
 subtitle: ""
-featuredImage: john-gibbons-osmyeeq6ypo-unsplash.jpg
+featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
-  - Tools
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
