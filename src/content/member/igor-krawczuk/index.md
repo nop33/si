@@ -1,16 +1,16 @@
 ---
 name: Igor Krawczuk
-photo: ../../../images/avatar-placeholder.jpeg
+photo: krawczukigor.jpg
 group: Collaborators
-disableDetailPage: true
 role: Research affiliate
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Ecole polytechnique fédérale de Lausanne
