@@ -4,9 +4,9 @@ photo: dimarzogiovanna.jpg
 group: Advisers
 role: Adviser
 links:
-  website: ""
+  website: https://unige.ch/cui/cas/people/gdm
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/giovanna-di-marzo-serugendo-541382/
 disableDetailPage: true
 seo:
   title: ""
