@@ -1,16 +1,16 @@
 ---
 name: Prof. Karsten Donnay
-photo: ../../../images/donnaykarstenb.jpg
+photo: donnaykarstenb.jpg
 group: Advisers
 role: Adviser
-disableDetailPage: true
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Assistant Professor of Political Behavior and Digital Media at the University of Zurich
