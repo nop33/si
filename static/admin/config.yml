@@ -675,3 +675,38 @@ collections:
               widget: "text",
               required: false,
             }
+  - label: "Configuration"
+    name: "configuration"
+    editor:
+      preview: false
+    files:
+      - label: "404 page"
+        name: "not-found"
+        file: "src/content/_configuration/404.yaml"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "text",
+              required: false,
+            }
+          - label: "Link"
+            name: "link"
+            widget: "object"
+            required: false
+            fields:
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - { label: "URL", name: "url", widget: "string", required: false }
+      - label: "Featured blog tags"
+        name: "featured-blog-tags"
+        file: "src/content/_configuration/featured-tags.yaml"
+        fields:
+          - label: "Featured blog tags"
+            name: "blogTags"
+            widget: list
