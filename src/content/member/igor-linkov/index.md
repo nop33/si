@@ -4,9 +4,9 @@ photo: igor16-igor-linkov.jpg
 group: Governing board
 role: Board member
 links:
-  website: ""
+  website: https://scholar.google.com/citations?user=7TKZ0DgAAAAJ&hl=en
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/igor-linkov-5827392/
 seo:
   title: ""
   description: ""
