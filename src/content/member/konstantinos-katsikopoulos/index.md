@@ -4,9 +4,9 @@ photo: konstantinos-katsikopoulos.jpg
 group: Governing board
 role: Board member
 links:
-  website: ""
+  website: https://www.southampton.ac.uk/business-school/about/staff/kk2g16.page
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/konstantinos-katsikopoulos-206b981b1/
 seo:
   title: ""
   description: ""
