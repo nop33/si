@@ -5,8 +5,8 @@ group: Governing board
 role: Board member
 links:
   website: ""
-  twitter: ""
-  linkedin: ""
+  twitter: https://twitter.com/Rhodes_C_
+  linkedin: https://www.linkedin.com/in/catherine-rhodes-9a70a25b/
 seo:
   title: ""
   description: ""
