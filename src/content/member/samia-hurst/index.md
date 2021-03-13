@@ -1,16 +1,16 @@
 ---
 name: Prof. Samia Hurst
-photo: ../../../images/hurstsamia.jpg
+photo: hurstsamia.jpg
 group: Advisers
 role: Adviser
-disableDetailPage: true
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Director of the Institute for Ethics, History and the Humanities at the University of Geneva
