@@ -6,7 +6,7 @@ role: Research affiliate
 links:
   website: ""
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/jens-walter-fischer/
 disableDetailPage: true
 seo:
   title: ""
