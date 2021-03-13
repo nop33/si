@@ -6,7 +6,7 @@ role: Research assistant
 links:
   website: ""
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/nick-hollman-79166b153/
 disableDetailPage: true
 seo:
   title: ""
