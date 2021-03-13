@@ -1,5 +1,5 @@
 title: "404: Not Found"
-subtitle: "You just a page that does not exist... the sadness."
+subtitle: You just a page that does not exist... the sadness.
 link:
-  text: "Back to the home page"
-  url: "/"
+  text: Back to the home page
+  url: /
