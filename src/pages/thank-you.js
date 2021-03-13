@@ -10,8 +10,8 @@ const ThankYouPage = ({ data, location }) => {
 
   return (
     <PageLayout
-      title={pageData.header.title}
-      subtitle={pageData.header.subtitle}
+      title={pageData.title}
+      subtitle={pageData.subtitle}
       location={location}
     >
       <BaseSection>
@@ -32,10 +32,8 @@ export const pageQuery = graphql`
     ) {
       nodes {
         frontmatter {
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
         }
       }
     }

@@ -2,8 +2,7 @@
 seo:
   title: "Simon Institute for Longterm Governance"
   description: "The Simon Institute for Longterm Governance (SI) is somewhere between a research and a training centre. We discreetly support policy networks in mitigating global catastrophic risks with science-based tools."
-header:
-  title: Supporting policy-makers in their cooperation with future generations.
+title: Supporting policy-makers in their cooperation with future generations.
 keyfactsSection:
   - title: "About"
     description: "The Simon Institute for Longterm Governance (SI) is somewhere between a research and a training centre. We discreetly support policy networks in mitigating global catastrophic risks with science-based tools."

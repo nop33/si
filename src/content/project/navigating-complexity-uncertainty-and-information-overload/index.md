@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Navigating complexity, uncertainty and information overload"
-  subtitle: ""
+title: "Navigating complexity, uncertainty and information overload"
+subtitle: ""
 card:
   title: ""
   description: ""

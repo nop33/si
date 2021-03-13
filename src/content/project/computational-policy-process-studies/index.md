@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Computational policy process studies"
-  subtitle: ""
+title: "Computational policy process studies"
+subtitle: ""
 card:
   title: ""
   description: ""

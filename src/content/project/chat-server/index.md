@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Zulip server"
-  subtitle: ""
+title: "Zulip server"
+subtitle: ""
 card:
   title: ""
   description: ""

@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: Legal
-  subtitle: ""
+title: Legal
+subtitle: ""
 textSections:
   - title: ""
     content: |

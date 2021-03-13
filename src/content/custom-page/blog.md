@@ -2,7 +2,6 @@
 seo:
   title: ""
   description: ""
-header:
-  title: Blog
-  subtitle: ""
+title: Blog
+subtitle: ""
 ---

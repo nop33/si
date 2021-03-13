@@ -32,13 +32,12 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
                     project.frontmatter?.featuredImage?.childImageSharp.fluid
                   }
                   title={
-                    project.frontmatter.card.title ||
-                    project.frontmatter.header.title
+                    project.frontmatter.card.title || project.frontmatter.title
                   }
                   subtitle={project.frontmatter.tags.join(" / ")}
                   content={
                     project.frontmatter.card.description ||
-                    project.frontmatter.header.subtitle
+                    project.frontmatter.subtitle
                   }
                 />
               )
@@ -67,10 +66,8 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
           card {
             title
             description

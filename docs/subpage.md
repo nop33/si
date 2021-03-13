@@ -8,11 +8,11 @@ If left empty, it falls back to the name of the header title. If that is left em
 
 If left empty, it falls back to the name of the header subtitle. If that is left empty too, it falls back to the default SEO description.
 
-## header.title
+## title
 
 The title displayed in the Legal page.
 
-## header.subtitle
+## subtitle
 
 The text displayed in the header of the Legal page below the title.
 

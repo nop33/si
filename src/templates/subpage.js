@@ -63,14 +63,14 @@ const SubpageTemplate = ({ data, location }) => {
 
   return (
     <PageLayout
-      title={pageData.header.title}
-      subtitle={pageData.header.subtitle}
+      title={pageData.title}
+      subtitle={pageData.subtitle}
       headerLinks={category && tags && headerLinks}
       location={location}
     >
       <SEO
-        title={pageData.seo.title || pageData.header.title}
-        description={pageData.seo.description || pageData.header.subtitle}
+        title={pageData.seo.title || pageData.title}
+        description={pageData.seo.description || pageData.subtitle}
         image={seoFeaturedImage}
       />
       {desktopFeaturedImage && (
@@ -108,10 +108,8 @@ export const pageQuery = graphql`
           title
           description
         }
-        header {
-          title
-          subtitle
-        }
+        title
+        subtitle
         category
         tags
         featuredImage {

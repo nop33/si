@@ -2,9 +2,8 @@
 seo:
   title: About us
   description: "As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help international policy networks cope with complexity, uncertainty, competing objectives and the glut of information."
-header:
-  title: About
-  subtitle: ""
+title: About
+subtitle: ""
 textSections:
   - title: Overview
     content: |
@@ -15,23 +14,23 @@ textSections:
       ### Vision		
 
       At SI, we envision a flourishing civilization safeguarded by systems that mitigate global catastrophic risks.
-      
+
       ### Why?
-      
+
       From biotechnology to the development of superhuman intelligence, humanity is facing emerging challenges of unprecedented scale. The existence of future generations with lives worth living depends on our civilization’s ability to safeguard them from such global catastrophic risks. But the multilateralism needed to govern these low-probability, high-impact events is currently out of sight.
-      
+
       ### How?
-      
+
       As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help international policy networks cope with complexity, uncertainty, competing objectives and the glut of information. Based in Geneva, Switzerland, we support policy networks centered around the United Nations, the European Union and national governments to discreetly foster their cooperation with the future.
-      
+
       ### Policy networks?		
-      
-      A wide range of actors inside and outside of political institutions contributes to the creation of policy, including elected officials, bureaucrats, academics, civil society, lobbyists and more. It is this co-creation process that SI seeks to support.		
+
+      A wide range of actors inside and outside of political institutions contributes to the creation of policy, including elected officials, bureaucrats, academics, civil society, lobbyists and more. It is this co-creation process that SI seeks to support.
 
   - title: Our focus areas
     content: |
       ### Policy support 
-      
+
       We develop training programs and advise actors in policy networks with a focus on improving the collective capacity to exchange information and coordinate in a timely manner.
 
       ### Field-building

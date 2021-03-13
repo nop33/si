@@ -16,13 +16,13 @@ const ProjectsPage = ({ data, location }) => {
   return (
     <div>
       <PageLayout
-        title={pageData.header.title}
+        title={pageData.title}
         subtitle={`${totalCount} project${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
         <SEO
-          title={pageData.seo.title || pageData.header.title}
-          description={pageData.seo.description || pageData.header.subtitle}
+          title={pageData.seo.title || pageData.title}
+          description={pageData.seo.description || pageData.subtitle}
         />
         <FeaturedTagsList isProjectCategories tags={categories} />
         {pageData.projectsByCategories.map(projectsByCategory => {
@@ -39,13 +39,12 @@ const ProjectsPage = ({ data, location }) => {
                   project.frontmatter?.featuredImage?.childImageSharp.fluid
                 }
                 title={
-                  project.frontmatter.card.title ||
-                  project.frontmatter.header.title
+                  project.frontmatter.card.title || project.frontmatter.title
                 }
                 subtitle={project.frontmatter.tags.join(" / ")}
                 content={
                   project.frontmatter.card.description ||
-                  project.frontmatter.header.subtitle
+                  project.frontmatter.subtitle
                 }
               />
             )
@@ -81,10 +80,8 @@ export const pageQuery = graphql`
             title
             description
           }
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
           projectsByCategories {
             category
             title
@@ -102,10 +99,8 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
           card {
             title
             description

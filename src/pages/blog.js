@@ -17,12 +17,12 @@ const BlogIndex = ({ data, location }) => {
   return (
     <div>
       <PageLayout
-        title={pageData.header.title}
+        title={pageData.title}
         subtitle={`${totalCount} post${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
         <SEO
-          title={pageData.seo.title || pageData.header.title}
+          title={pageData.seo.title || pageData.title}
           description={pageData.seo.description}
         />
         <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
@@ -60,10 +60,8 @@ export const pageQuery = graphql`
             title
             description
           }
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
         }
       }
     }

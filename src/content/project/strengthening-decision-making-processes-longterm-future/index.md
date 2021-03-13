@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Strengthening Decision-making Processes For the Long-term Future"
-  subtitle: ""
+title: "Strengthening Decision-making Processes For the Long-term Future"
+subtitle: ""
 card:
   title: ""
   description: ""

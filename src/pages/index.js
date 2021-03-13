@@ -21,13 +21,13 @@ const Home = ({ data, location }) => {
   return (
     <div>
       <PageLayout
-        title={pageData.header.title}
-        subtitle={pageData.header.subtitle}
+        title={pageData.title}
+        subtitle={pageData.subtitle}
         location={location}
       >
         <SEO
-          title={pageData.seo.title || pageData.header.title}
-          description={pageData.seo.description || pageData.header.subtitle}
+          title={pageData.seo.title || pageData.title}
+          description={pageData.seo.description || pageData.subtitle}
         />
         <BaseSection>
           <KeyfactsSection>
@@ -63,13 +63,12 @@ const Home = ({ data, location }) => {
                     project.frontmatter.featuredImage.childImageSharp.fluid
                   }
                   title={
-                    project.frontmatter.card.title ||
-                    project.frontmatter.header.title
+                    project.frontmatter.card.title || project.frontmatter.title
                   }
                   subtitle={project.frontmatter.tags.join(" / ")}
                   content={
                     project.frontmatter.card.description ||
-                    project.frontmatter.header.subtitle
+                    project.frontmatter.subtitle
                   }
                 />
               )
@@ -155,10 +154,8 @@ export const pageQuery = graphql`
             title
             description
           }
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
           keyfactsSection {
             title
             description
@@ -206,10 +203,8 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          header {
-            title
-            subtitle
-          }
+          title
+          subtitle
           card {
             title
             description

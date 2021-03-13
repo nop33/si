@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Evidence and impact of strategies and technologies for group decision-making support"
-  subtitle: ""
+title: "Evidence and impact of strategies and technologies for group decision-making support"
+subtitle: ""
 card:
   title: ""
   description: ""

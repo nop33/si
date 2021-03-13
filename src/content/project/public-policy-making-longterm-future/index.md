@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Public Policy-making for the Long-term Future"
-  subtitle: ""
+title: "Public Policy-making for the Long-term Future"
+subtitle: ""
 card:
   title: ""
   description: ""

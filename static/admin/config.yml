@@ -29,6 +29,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
       - label: "Category"
         name: "category"
         widget: "relation"
@@ -36,17 +37,6 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         display_fields: ["title"]
-      - label: "Header"
-        name: "header"
-        widget: "object"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - {
-              label: "Subtitle",
-              name: "subtitle",
-              widget: "text",
-              required: false,
-            }
       - label: "Card"
         name: "card"
         widget: "object"

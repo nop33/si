@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Longterm Governance Lunch"
-  subtitle: ""
+title: "Longterm Governance Lunch"
+subtitle: ""
 card:
   title: ""
   description: ""

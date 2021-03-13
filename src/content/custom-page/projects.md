@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: "Policy-making is characterized by complexity. We help policy networks grapple productively with it in our workshops, coordinate a network for longterm governance and conduct research to improve our support."
-header:
-  title: "Projects"
-  subtitle: ""
+title: "Projects"
+subtitle: ""
 projectsByCategories:
   - category: "Policy support"
     title: "Policy support"

@@ -1,10 +1,9 @@
 ---
+title: "An Agenda for Research and Practice in Longterm Governance"
+subtitle: ""
 seo:
   title: ""
   description: ""
-header:
-  title: "An Agenda for Research and Practice in Longterm Governance"
-  subtitle: ""
 card:
   title: ""
   description: ""

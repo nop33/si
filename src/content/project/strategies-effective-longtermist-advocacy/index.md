@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Strategies for Effective Longtermist Advocacy"
-  subtitle: ""
+title: "Strategies for Effective Longtermist Advocacy"
+subtitle: ""
 card:
   title: ""
   description: ""

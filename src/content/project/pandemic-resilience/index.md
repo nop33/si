@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Pandemic Resilience"
-  subtitle: "A Table-top Exercise for International Policy Networks"
+title: "Pandemic Resilience"
+subtitle: "A Table-top Exercise for International Policy Networks"
 card:
   title: ""
   description: ""

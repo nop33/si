@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Prioritization through multi-criteria decision analysis"
-  subtitle: ""
+title: "Prioritization through multi-criteria decision analysis"
+subtitle: ""
 card:
   title: ""
   description: ""

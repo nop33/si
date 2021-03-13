@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Dynamics of policy change and their implications for long-term policy-making"
-  subtitle: ""
+title: "Dynamics of policy change and their implications for long-term policy-making"
+subtitle: ""
 card:
   title: ""
   description: ""

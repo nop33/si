@@ -2,9 +2,8 @@
 seo:
   title: ""
   description: ""
-header:
-  title: "Leverage points to strengthen individual decision-making in the face of complexity"
-  subtitle: ""
+title: "Leverage points to strengthen individual decision-making in the face of complexity"
+subtitle: ""
 card:
   title: ""
   description: ""
