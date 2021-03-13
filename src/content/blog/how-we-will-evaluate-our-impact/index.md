@@ -1,14 +1,14 @@
 ---
 title: How we will evaluate our impact
-date: "2021-03-12"
+date: 2021-03-13T10:40:46.405Z
 description: ""
-featuredImage: ../../../images/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg
-seo:
-  title: ""
-  description: ""
+featuredImage: josue-isai-ramos-figueroa-qvbynmunj9a-unsplash.jpg
 tags:
   - Transparency
   - Updates
+seo:
+  title: ""
+  description: ""
 ---
 
 ## Context
