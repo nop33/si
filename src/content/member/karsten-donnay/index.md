@@ -4,9 +4,9 @@ photo: donnaykarstenb.jpg
 group: Advisers
 role: Adviser
 links:
-  website: ""
-  twitter: ""
-  linkedin: ""
+  website: https://www.karstendonnay.net/
+  twitter: https://twitter.com/karstendonnay
+  linkedin: https://www.linkedin.com/in/karsten-donnay/
 disableDetailPage: true
 seo:
   title: ""
