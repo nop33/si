@@ -1,14 +1,14 @@
 ---
 title: SI’s strategy for the first two years
-date: "2021-03-12"
+date: 2021-03-13T10:41:13.991Z
 description: ""
-featuredImage: ../../../images/annie-spratt-kZO9xqmO_TA-unsplash.jpg
-seo:
-  title: ""
-  description: ""
+featuredImage: annie-spratt-kzo9xqmo_ta-unsplash.jpg
 tags:
   - Transparency
   - Strategy
+seo:
+  title: ""
+  description: ""
 ---
 
 ## Summary
