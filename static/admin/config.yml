@@ -6,6 +6,125 @@ backend:
 media_folder: src/images
 
 collections:
+  - label: "Custom layout pages"
+    name: "pages"
+    editor:
+      preview: false
+    files:
+      - label: "Home page"
+        name: "home"
+        file: "src/content/custom-page/home.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - label: "Keyfacts section"
+            name: "keyfactsSection"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - label: "Link"
+                name: "link"
+                widget: "object"
+                required: false
+                fields:
+                  - {
+                      label: "Title",
+                      name: "title",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "URL",
+                      name: "url",
+                      widget: "string",
+                      required: false,
+                    }
+          - label: "Featured projects section"
+            name: "featuredProjectsSection"
+            widget: "object"
+            fields:
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - label: "Projects by category"
+                name: "projectsByCategory"
+                widget: "list"
+                fields:
+                  - label: "Category"
+                    name: "category"
+                    widget: "relation"
+                    collection: "project-categories"
+                    search_fields: ["title"]
+                    value_field: "title"
+                    display_fields: ["title"]
+                  - {
+                      label: "Title",
+                      name: "title",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Description",
+                      name: "description",
+                      widget: "text",
+                      required: false,
+                    }
+                  - label: "Orientation"
+                    name: "orientation"
+                    widget: "select"
+                    options:
+                      [
+                        "cards-on-the-left",
+                        "cards-on-the-right",
+                        "cards-full-width",
+                      ]
+          - label: "Posts section"
+            name: "postsSection"
+            widget: "object"
+            fields:
+              - label: "News section"
+                name: "newsSection"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - label: "Link"
+                    name: "link"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "URL", name: "url", widget: "string" }
+              - label: "Events section"
+                name: "eventsSection"
+                widget: "object"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - label: "Link"
+                    name: "link"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "URL", name: "url", widget: "string" }
+
+          - label: "Custom SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "text",
+                  required: false,
+                }
   - name: "project-categories"
     label: "Project categories"
     folder: "src/content/_project-categories"
