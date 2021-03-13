@@ -9,11 +9,11 @@ tags:
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
-    content: >
-      The unclear origins of the COVID-19 pandemic have brought worries about
-      deadly engineered pathogens into the public awareness. For years, experts
-      have been warning of even deadlier outbreaks but a focus on short-term
-      results hinders pandemic preparedness.
+    content: >-
+      The COVID-19 pandemic has brought worries about deadly engineered
+      pathogens into public awareness. For years, experts have been warning of
+      even deadlier outbreaks but a focus on short-term results hinders pandemic
+      preparedness.
 
 
       The past two decades have seen an increase in research, consultations and simulations on global catastrophic biological risks. Governments around the world have been sitting on a wealth of insights to build resilience to rare-yet-catastrophic events.
