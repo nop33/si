@@ -47,8 +47,8 @@ const MemberTemplate = ({ data, location }) => {
       backLink="/about#our-team"
     >
       <SEO
-        title={personData.seo.title || personData.name}
-        description={personData.seo.description || excerpt}
+        title={personData.seo?.title || personData.name}
+        description={personData.seo?.description || excerpt}
       />
       <BaseSection className="narrow">
         <div>

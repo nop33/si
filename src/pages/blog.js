@@ -22,8 +22,8 @@ const BlogIndex = ({ data, location }) => {
         location={location}
       >
         <SEO
-          title={pageData.seo.title || pageData.title}
-          description={pageData.seo.description}
+          title={pageData.seo?.title || pageData.title}
+          description={pageData.seo?.description}
         />
         <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
         <BaseSection>

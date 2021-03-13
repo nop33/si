@@ -21,8 +21,8 @@ const ProjectsPage = ({ data, location }) => {
         location={location}
       >
         <SEO
-          title={pageData.seo.title || pageData.title}
-          description={pageData.seo.description || pageData.subtitle}
+          title={pageData.seo?.title || pageData.title}
+          description={pageData.seo?.description || pageData.subtitle}
         />
         <FeaturedTagsList isProjectCategories tags={categories} />
         {pageData.projectsByCategories.map(projectsByCategory => {

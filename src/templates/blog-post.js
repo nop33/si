@@ -31,9 +31,9 @@ const BlogPostTemplate = ({ data, location }) => {
       subtitle={`${post.frontmatter.date} · ${post.fields.readingTime.text}`}
     >
       <SEO
-        title={post.frontmatter.seo.title || post.frontmatter.title}
+        title={post.frontmatter.seo?.title || post.frontmatter.title}
         description={
-          post.frontmatter.seo.description ||
+          post.frontmatter.seo?.description ||
           post.frontmatter.description ||
           post.excerpt
         }

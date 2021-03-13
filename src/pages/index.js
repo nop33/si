@@ -26,8 +26,8 @@ const Home = ({ data, location }) => {
         location={location}
       >
         <SEO
-          title={pageData.seo.title || pageData.title}
-          description={pageData.seo.description || pageData.subtitle}
+          title={pageData.seo?.title || pageData.title}
+          description={pageData.seo?.description || pageData.subtitle}
         />
         <BaseSection>
           <KeyfactsSection>
