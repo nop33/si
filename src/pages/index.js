@@ -264,7 +264,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "blog" } }
         frontmatter: {
           tags: { in: "Events" }
-          isFeaturedOnHomepage: { eq: true }
+          isEventFeaturedOnHomepage: { eq: true }
         }
       }
       sort: { fields: [frontmatter___date], order: DESC }
