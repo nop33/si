@@ -1,7 +1,7 @@
 ---
+title: Blog
+subtitle: ""
 seo:
   title: ""
   description: ""
-title: Blog
-subtitle: ""
 ---
