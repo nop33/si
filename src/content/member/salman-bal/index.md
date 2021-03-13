@@ -6,7 +6,7 @@ role: Adviser
 links:
   website: ""
   twitter: ""
-  linkedin: ""
+  linkedin: https://www.linkedin.com/in/salman-bal-203664/
 disableDetailPage: true
 seo:
   title: ""
