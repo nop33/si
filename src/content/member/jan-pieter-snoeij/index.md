@@ -5,8 +5,8 @@ group: Collaborators
 role: Research affiliate
 links:
   website: ""
-  twitter: ""
-  linkedin: ""
+  twitter: https://twitter.com/jpsnoeij
+  linkedin: https://www.linkedin.com/in/janpietersnoeij/
 disableDetailPage: true
 seo:
   title: ""
