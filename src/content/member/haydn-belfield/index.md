@@ -5,8 +5,8 @@ group: Advisers
 role: Adviser
 links:
   website: ""
-  twitter: ""
-  linkedin: ""
+  twitter: https://twitter.com/HaydnBelfield
+  linkedin: https://www.linkedin.com/in/haydnbelfield/
 disableDetailPage: true
 seo:
   title: ""
