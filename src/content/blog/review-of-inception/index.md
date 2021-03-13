@@ -1,14 +1,14 @@
 ---
-title: "Review of SI's inception"
-date: "2021-03-12"
+title: Review of SI's inception
+date: 2021-03-13T10:41:50.456Z
 description: ""
-featuredImage: ../../../images/javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg
-seo:
-  title: ""
-  description: ""
+featuredImage: javier-allegue-barros-c7b-exxpoie-unsplash.jpg
 tags:
   - Lessons learned
   - Transparency
+seo:
+  title: ""
+  description: ""
 ---
 
 In 2020, we - Konrad Seifert & Maxime Stauffer - converted two years of research into SI’s strategic foundations, branding, and foundational knowledge. Here's what we've learned from that process.
