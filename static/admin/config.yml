@@ -18,7 +18,7 @@ collections:
     fields:
       - { label: "Category title", name: "title", widget: "string" }
   - name: "project"
-    label: "Project"
+    label: "Projects"
     folder: "src/content/project"
     create: true
     slug: "index"
@@ -30,6 +30,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
+      - { label: "Featured image", name: "featuredImage", widget: "image" }
       - label: "Category"
         name: "category"
         widget: "relation"
@@ -37,6 +38,26 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         display_fields: ["title"]
+      - { label: "Tags", name: "tags", widget: "list" }
+      - {
+          label: "Featured in home page",
+          name: "isFeaturedOnHomepage",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - label: "Text sections"
+        name: "textSections"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "markdown",
+              required: false,
+            }
       - label: "Card"
         name: "card"
         widget: "object"
@@ -49,8 +70,57 @@ collections:
               widget: "text",
               required: false,
             }
+      - label: "Custom SEO"
+        name: "seo"
+        widget: object
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "text",
+              required: false,
+            }
+  - name: "subpage"
+    label: "Standard layout pages"
+    folder: "src/content/subpage"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
+      - label: "Text sections"
+        name: "textSections"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "markdown",
+              required: false,
+            }
+      - label: "Custom SEO"
+        name: "seo"
+        widget: object
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "text",
+              required: false,
+            }
   - name: "blog"
-    label: "Blog"
+    label: "Blog posts"
     folder: "src/content/blog"
     create: true
     slug: "index"
@@ -83,7 +153,7 @@ collections:
           default: false,
           required: false,
         }
-      - label: "SEO"
+      - label: "Custom SEO"
         name: "seo"
         widget: object
         required: false
@@ -96,7 +166,7 @@ collections:
               required: false,
             }
   - name: "member"
-    label: "Team member"
+    label: "Team members"
     folder: "src/content/member"
     create: true
     slug: "index"
@@ -144,7 +214,7 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-      - label: "SEO"
+      - label: "Custom SEO"
         name: "seo"
         widget: object
         required: false
