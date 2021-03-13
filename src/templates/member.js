@@ -11,8 +11,8 @@ const MemberTemplate = ({ data, location }) => {
   const personData = data.markdownRemark.frontmatter
   const content = data.markdownRemark.html
   const excerpt = data.markdownRemark.excerpt
-  const desktopImage = personData.photo.desktop.fixed
-  const mobileImage = personData.photo.mobile.fixed
+  const desktopImage = personData?.photo?.desktop.fixed
+  const mobileImage = personData?.photo?.mobile.fixed
   const sources = [
     mobileImage,
     {
@@ -23,7 +23,7 @@ const MemberTemplate = ({ data, location }) => {
 
   const header = (
     <div>
-      <Person photo={sources} name={personData.name} />
+      {desktopImage && <Person photo={sources} name={personData.name} />}
       {(personData.links.website ||
         personData.links.twitter ||
         personData.links.linkedin) && (

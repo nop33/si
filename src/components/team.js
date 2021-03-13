@@ -67,10 +67,14 @@ const Team = () => {
                       className={styles.member}
                       key={`team_${member.fields.slug}`}
                     >
-                      <Image
-                        fixed={member.frontmatter.photo.childImageSharp.fixed}
-                        alt={`${member.frontmatter.name} profile image`}
-                      />
+                      {member.frontmatter?.photo && (
+                        <Image
+                          fixed={
+                            member.frontmatter?.photo?.childImageSharp.fixed
+                          }
+                          alt={`${member.frontmatter.name} profile image`}
+                        />
+                      )}
                       <div className={styles.details}>
                         <div>{member.frontmatter.name}</div>
                         <SocialLinks
@@ -89,10 +93,12 @@ const Team = () => {
                     to={member.fields.slug}
                     key={member.fields.slug}
                   >
-                    <Image
-                      fixed={member.frontmatter.photo.childImageSharp.fixed}
-                      alt={`${member.frontmatter.name} profile image`}
-                    />
+                    {member.frontmatter?.photo && (
+                      <Image
+                        fixed={member.frontmatter?.photo?.childImageSharp.fixed}
+                        alt={`${member.frontmatter.name} profile image`}
+                      />
+                    )}
                     <div className={styles.details}>
                       {member.frontmatter.name}
                     </div>
