@@ -99,7 +99,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        exclude: [`/thank-you`],
+        exclude: [`/thank-you`, `/admin`],
       },
     },
     `gatsby-plugin-netlify-cms`,
