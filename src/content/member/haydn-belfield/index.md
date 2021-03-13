@@ -1,16 +1,16 @@
 ---
 name: Haydn Belfield
-photo: ../../../images/belfieldhaydn.jpg
+photo: belfieldhaydn.jpg
 group: Advisers
 role: Adviser
-disableDetailPage: true
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Academic Project Manager at Centre for the Study of Existential Risk
