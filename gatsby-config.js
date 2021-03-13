@@ -102,5 +102,6 @@ module.exports = {
         exclude: [`/thank-you`],
       },
     },
+    `gatsby-plugin-netlify-cms`,
   ],
 }
