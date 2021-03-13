@@ -1,16 +1,16 @@
 ---
 name: Prof. Paul Cairney
-photo: ../../../images/cairneypaul.jpg
+photo: cairneypaul.jpg
 group: Advisers
 role: Adviser
-disableDetailPage: true
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Professor of Politics and Public Policy at the University of Stirling
