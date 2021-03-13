@@ -1,16 +1,16 @@
 ---
 name: Jan Pieter Snoeij
-photo: ../../../images/avatar-placeholder.jpeg
+photo: snoeijjanpieter.jpg
 group: Collaborators
-disableDetailPage: true
 role: Research affiliate
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Independent researcher
