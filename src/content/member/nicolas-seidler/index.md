@@ -5,8 +5,8 @@ group: Governing board
 role: Board member
 links:
   website: ""
-  twitter: ""
-  linkedin: ""
+  twitter: https://twitter.com/nico_seidler
+  linkedin: https://www.linkedin.com/in/nicolas-seidler/
 seo:
   title: ""
   description: ""
