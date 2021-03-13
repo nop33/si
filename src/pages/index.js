@@ -37,7 +37,7 @@ const Home = ({ data, location }) => {
                   title={keyfact.title}
                   content={keyfact.description}
                   link={keyfact.link}
-                  key={`keyfact_${keyfact.link}`}
+                  key={`keyfact_${keyfact.title}`}
                 />
               )
             })}
@@ -84,6 +84,7 @@ const Home = ({ data, location }) => {
                   title: `See all ${projects.title} projects`,
                   url: constructProjectCategoryUrl(projects.category),
                 }}
+                key={`cards_with_text_section_${projects.title}`}
               />
             )
           })}
