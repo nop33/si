@@ -91,7 +91,7 @@ herbertSimonSection:
 sponsorsSection:
   title: Sponsors
   sponsors:
-    - title: Zuplin
+    - title: Zulip
       logo: ../../images/zulip-logo-gradient.png
 seo:
   title: About us
