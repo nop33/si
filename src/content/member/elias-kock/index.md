@@ -1,16 +1,16 @@
 ---
 name: Elias Kock
-photo: ../../../images/avatar-placeholder.jpeg
+photo: kockelias.jpg
 group: Collaborators
-disableDetailPage: true
 role: Research affiliate
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 The London School of Economics and Political Science
