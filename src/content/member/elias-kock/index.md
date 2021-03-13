@@ -5,8 +5,8 @@ group: Collaborators
 role: Research affiliate
 links:
   website: ""
-  twitter: ""
-  linkedin: ""
+  twitter: https://twitter.com/KockElias
+  linkedin: https://www.linkedin.com/in/elias-kock/
 disableDetailPage: true
 seo:
   title: ""
