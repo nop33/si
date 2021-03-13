@@ -4,8 +4,8 @@ photo: konrad_seifert_profile_picture.jpg
 group: Staff
 role: Co-founder & chief operating officer
 links:
-  website: https://silg.netlify.app
-  twitter: https://twitter.com/Effect_Altruism
+  website: ""
+  twitter: https://twitter.com/praeterpropter
   linkedin: https://www.linkedin.com/in/kfseifert
 seo:
   title: ""
