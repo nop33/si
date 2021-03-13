@@ -1,7 +1,7 @@
 ---
 title: Pandemic Resilience
 subtitle: A Table-top Exercise for International Policy Networks
-featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
+featuredImage: ses.jpg
 category: Policy support
 tags:
   - Scenario exploration
