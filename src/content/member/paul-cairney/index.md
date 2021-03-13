@@ -4,8 +4,8 @@ photo: cairneypaul.jpg
 group: Advisers
 role: Adviser
 links:
-  website: ""
-  twitter: ""
+  website: https://paulcairney.wordpress.com/
+  twitter: https://twitter.com/CairneyPaul
   linkedin: ""
 disableDetailPage: true
 seo:
