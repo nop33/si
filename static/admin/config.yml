@@ -417,6 +417,45 @@ collections:
                   widget: "text",
                   required: false,
                 }
+      - label: "Blog overview page"
+        name: "blog-overview"
+        file: "src/content/custom-page/blog.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "text",
+              required: false,
+            }
+          - label: "Custom SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "text",
+                  required: false,
+                }
+      - label: "Thank you (redirect) page"
+        name: "thank-you-overview"
+        file: "src/content/custom-page/thank-you.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "text",
+              required: false,
+            }
   - name: "project-categories"
     label: "Project categories"
     folder: "src/content/_project-categories"
