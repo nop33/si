@@ -1,6 +1,6 @@
 ---
 title: Review of SI's inception
-date: 2021-03-13T10:41:50.456Z
+date: 2021-03-08T10:41:00.000Z
 description: ""
 featuredImage: javier-allegue-barros-c7b-exxpoie-unsplash.jpg
 tags:
