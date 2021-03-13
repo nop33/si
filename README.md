@@ -4,6 +4,8 @@
 
 This repository contains the code and content of the SI's website. The website was developed using [Gatsby][gatsby] by [Ilias Trichopoulos][ilias] in collaboration with Konrad Seifert and is hosted on [Netlify][netlify].
 
+[NetlifyCMS][netlifycms] was integrated to provide CMS features for easy content editing. It is available at https://simoninstitute.ch/admin
+
 Changes in the **main** branch of this repository will be deployed on the production website.
 
 ## Table of contents
@@ -114,6 +116,7 @@ The website relies on the following services:
 [basin]: https://usebasin.com/
 [github]: https://github.com/
 [airtable]: https://airtable.com/
+[netlifycms]: https://www.netlifycms.org/
 [ilias]: https://www.iliascreates.com/
 [docs-blog-post]: docs/blog-post.md
 [docs-member]: docs/member.md
