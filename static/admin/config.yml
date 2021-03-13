@@ -332,7 +332,6 @@ collections:
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "Content", name: "content", widget: "markdown" }
-
           - label: "Text sections"
             name: "textSections"
             widget: "list"
@@ -348,6 +347,74 @@ collections:
                   label: "Content",
                   name: "content",
                   widget: "markdown",
+                  required: false,
+                }
+          - label: "Custom SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "text",
+                  required: false,
+                }
+      - label: "Projects overview page"
+        name: "projects-overview"
+        file: "src/content/custom-page/projects.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "text",
+              required: false,
+            }
+          - label: "Projects by category"
+            name: "projectsByCategories"
+            widget: "list"
+            fields:
+              - label: "Category"
+                name: "category"
+                widget: "relation"
+                collection: "project-categories"
+                search_fields: ["title"]
+                value_field: "title"
+                display_fields: ["title"]
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                  required: false,
+                }
+          - label: "Custom SEO"
+            name: "seo"
+            widget: "object"
+            required: false
+            fields:
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "text",
                   required: false,
                 }
   - name: "project-categories"
