@@ -7,6 +7,58 @@ media_folder: src/images
 public_folder: src/images
 
 collections:
+  - name: "project-categories"
+    label: "Project categories"
+    folder: "src/content/_project-categories"
+    create: true
+    slug: "index"
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Category title", name: "title", widget: "string" }
+  - name: "project"
+    label: "Project"
+    folder: "src/content/project"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "project-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
+      - label: "Header"
+        name: "header"
+        widget: "object"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "text",
+              required: false,
+            }
+      - label: "Card"
+        name: "card"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Subtitle",
+              name: "subtitle",
+              widget: "text",
+              required: false,
+            }
   - name: "blog"
     label: "Blog"
     folder: "src/content/blog"
