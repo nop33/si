@@ -53,10 +53,10 @@ const ContactForm = ({ intro }) => {
           style={{ position: "absolute", left: "-5000px" }}
           aria-hidden="true"
         >
-          <input type="text" name="_gotcha" tabindex="-1" />
+          <input type="text" name="_gotcha" tabIndex="-1" />
         </div>
       </div>
-      <button type="submit" class="si-button">
+      <button type="submit" className="si-button">
         Send
       </button>
     </form>

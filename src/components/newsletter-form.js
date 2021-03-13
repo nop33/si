@@ -39,12 +39,11 @@ const NewsletterForm = ({ intro }) => {
           <input
             type="text"
             name="b_5d7bba8c78d25d980050b3a16_dfb580ce4c"
-            tabindex="-1"
-            value=""
+            tabIndex="-1"
           />
         </div>
       </div>
-      <button type="submit" class="si-button">
+      <button type="submit" className="si-button">
         Subscribe
       </button>
     </form>
