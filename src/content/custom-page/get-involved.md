@@ -1,9 +1,4 @@
 ---
-seo:
-  title: ""
-  description: Interested in our approach? We're always looking for new ideas,
-    collaborations and support. We are also happy to share our insights and
-    provide input. Get in touch and let's contribute to the future.
 title: Get involved
 subtitle: ""
 workWithUsSection:
@@ -55,15 +50,14 @@ donateSection:
       url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
   columnsWithButtons:
     - title: "Preferred method: SEPA bank transfer"
-      content: |
-        SEPA bank transfer (preferred method):  
-        Name: Association Effective Altruism Geneva (EAGE)  
-        IBAN: CH85 0024 0240 9405 0140X  
+      content: |-
+        Name: Association Effective Altruism Geneva (EAGE)\
+        IBAN: CH85 0024 0240 9405 0140X\
         SWIFT/BIC: UBSWCHZH80A
     - title: From D, NL, UK or US?
-      content: >
-        Please get in touch. SI can receive fiscal sponsorship if the collective
-        annual donation volume from abroad is above € 10’000.
+      content: Please get in touch! SI will receive fiscal sponsorship if the
+        collective annual donation volume from abroad is above the equivalent of
+        $ 50’000.
 textSections:
   - title: Why support us?
     content: >
@@ -83,4 +77,9 @@ textSections:
 
 
       We build cooperation between important actors with conflicting preferences by facilitating mutual understanding, information exchange, collective prioritization and policy learning.
+seo:
+  title: ""
+  description: Interested in our approach? We're always looking for new ideas,
+    collaborations and support. We are also happy to share our insights and
+    provide input. Get in touch and let's contribute to the future.
 ---
