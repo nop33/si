@@ -1,16 +1,16 @@
 ---
 name: Nora Ammann
-photo: ../../../images/avatar-placeholder.jpeg
+photo: ammannnora.jpg
 group: Collaborators
-disableDetailPage: true
 role: Research affiliate
-seo:
-  title: ""
-  description: ""
 links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
+seo:
+  title: ""
+  description: ""
 ---
 
 Independent researcher
