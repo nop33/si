@@ -4,9 +4,9 @@ photo: wernlididier.jpg
 group: Advisers
 role: Adviser
 links:
-  website: ""
+  website: https://www.researchgate.net/profile/Didier-Wernli
   twitter: ""
-  linkedin: ""
+  linkedin: https://ch.linkedin.com/in/didier-wernli-9b278428
 disableDetailPage: true
 seo:
   title: ""
