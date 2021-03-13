@@ -3,14 +3,14 @@ title: About
 subtitle: ""
 textSections:
   - title: Overview
-    content: >
-      ### Mission		
+    content: >-
+      ### Mission
 
 
       SI's mission is to increase the capacity of policy networks to anticipate global catastrophic risks and build resilience for civilization to flourish.
 
 
-      ### Vision		
+      ### Vision
 
 
       At SI, we envision a flourishing civilization safeguarded by systems that mitigate global catastrophic risks.
@@ -25,13 +25,16 @@ textSections:
       ### How?
 
 
-      As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help international policy networks cope with complexity, uncertainty, competing objectives and the glut of information. Based in Geneva, Switzerland, we support policy networks centered around the United Nations, the European Union and national governments to discreetly foster their cooperation with the future.
+      As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help international policy networks cope with the glut of information, competing objectives, complexity and uncertainty. 
 
 
-      ### Policy networks?		
+      Based in Geneva, Switzerland, we support policy networks centred around the United Nations, the European Union and national governments to discreetly foster their cooperation with the future.
 
 
-      A wide range of actors inside and outside of political institutions contributes to the creation of policy, including elected officials, bureaucrats, academics, civil society, lobbyists and more. It is this co-creation process that SI seeks to support.
+      ### Policy networks?
+
+
+      A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, bureaucrats, academics, civil society, lobbyists and more. It is this dynamic co-creation process SI seeks to support.
   - title: Our focus areas
     content: >
       ### Policy support 
