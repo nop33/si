@@ -1,5 +1,5 @@
 ---
-title: April 1stNavigating complexity and information in decision-making
+title: Navigating complexity and information in decision-making
 date: 2021-03-13T10:39:57.112Z
 description: ""
 featuredImage: matthew-tenbruggencate-0hjwobhghjs-unsplash.jpg
