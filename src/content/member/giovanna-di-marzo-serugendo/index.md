@@ -2,7 +2,7 @@
 name: Prof. Giovanna Di Marzo Serugendo
 photo: dimarzogiovanna.jpg
 group: Advisers
-role: Adviser
+role: Computational research adviser
 links:
   website: https://unige.ch/cui/cas/people/gdm
   twitter: ""
