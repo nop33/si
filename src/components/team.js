@@ -77,6 +77,7 @@ const Team = () => {
                       )}
                       <div className={styles.details}>
                         <div>{member.frontmatter.name}</div>
+                        <div>{member.frontmatter.role}</div>
                         <SocialLinks
                           topSpacing
                           website={member.frontmatter.links.website}
