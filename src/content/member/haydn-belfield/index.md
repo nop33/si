@@ -2,7 +2,7 @@
 name: Haydn Belfield
 photo: belfieldhaydn.jpg
 group: Advisers
-role: Adviser
+role: Emerging tech adviser
 links:
   website: ""
   twitter: https://twitter.com/HaydnBelfield
