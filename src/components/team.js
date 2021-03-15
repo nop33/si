@@ -89,28 +89,30 @@ const Team = () => {
                   )
                 }
                 return (
-                  <Link
-                    className={styles.member}
-                    to={member.fields.slug}
-                    key={member.fields.slug}
-                  >
-                    {member.frontmatter?.photo && (
-                      <Image
-                        fixed={member.frontmatter?.photo?.childImageSharp.fixed}
-                        alt={`${member.frontmatter.name} profile image`}
-                      />
-                    )}
-                    <div className={styles.details}>
-                      <div><b>{member.frontmatter.name}</b></div>
-                      <div>{member.frontmatter.role}</div>
-                      <SocialLinks
-                        topSpacing
-                        website={member.frontmatter.links.website}
-                        twitter={member.frontmatter.links.twitter}
-                        linkedin={member.frontmatter.links.linkedin}
-                      />
-                    </div>
-                  </Link>
+                  <div>
+                    <Link
+                      className={styles.member}
+                      to={member.fields.slug}
+                      key={member.fields.slug}
+                    >
+                      {member.frontmatter?.photo && (
+                        <Image
+                          fixed={member.frontmatter?.photo?.childImageSharp.fixed}
+                          alt={`${member.frontmatter.name} profile image`}
+                        />
+                      )}
+                      <div className={styles.details}>
+                        <div><b>{member.frontmatter.name}</b></div>
+                        <div>{member.frontmatter.role}</div>
+                      </div>
+                    </Link>
+                    <SocialLinks
+                      topSpacing
+                      website={member.frontmatter.links.website}
+                      twitter={member.frontmatter.links.twitter}
+                      linkedin={member.frontmatter.links.linkedin}
+                    />
+                  </div>
                 )
               })}
             </div>
