@@ -76,7 +76,7 @@ const Team = () => {
                         />
                       )}
                       <div className={styles.details}>
-                        <div><b{member.frontmatter.name}</b></div>
+                        <div><b>{member.frontmatter.name}</b></div>
                         <div>{member.frontmatter.role}</div>
                         <SocialLinks
                           topSpacing
