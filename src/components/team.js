@@ -103,14 +103,14 @@ const Team = () => {
                     <div className={styles.details}>
                       <div><b>{member.frontmatter.name}</b></div>
                       <div>{member.frontmatter.role}</div>
-                      <SocialLinks
-                        topSpacing
-                        website={member.frontmatter.links.website}
-                        twitter={member.frontmatter.links.twitter}
-                        linkedin={member.frontmatter.links.linkedin}
-                      />
                     </div>
                   </Link>
+                  <SocialLinks
+                    topSpacing
+                    website={member.frontmatter.links.website}
+                    twitter={member.frontmatter.links.twitter}
+                    linkedin={member.frontmatter.links.linkedin}
+                  />
                 )
               })}
             </div>
