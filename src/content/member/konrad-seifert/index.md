@@ -2,7 +2,7 @@
 name: Konrad Seifert
 photo: konrad_seifert_profile_picture.jpg
 group: Staff
-role: Co-founder & chief operating officer
+role: Co-founder & COO
 links:
   website: ""
   twitter: https://twitter.com/praeterpropter
