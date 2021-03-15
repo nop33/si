@@ -4,8 +4,8 @@ date: 2021-03-12T10:40:00.000Z
 description: ""
 featuredImage: josue-isai-ramos-figueroa-qvbynmunj9a-unsplash.jpg
 tags:
+  - Strategy
   - Transparency
-  - Updates
 seo:
   title: ""
   description: ""
