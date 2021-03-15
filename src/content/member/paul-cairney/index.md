@@ -2,7 +2,7 @@
 name: Prof. Paul Cairney
 photo: cairneypaul.jpg
 group: Advisers
-role: Adviser
+role: Public policy
 links:
   website: https://paulcairney.wordpress.com/
   twitter: https://twitter.com/CairneyPaul

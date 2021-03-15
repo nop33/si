@@ -2,7 +2,7 @@
 name: Prof. Karsten Donnay
 photo: donnaykarstenb.jpg
 group: Advisers
-role: Adviser
+role: Computational social science
 links:
   website: https://www.karstendonnay.net/
   twitter: https://twitter.com/karstendonnay

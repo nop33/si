@@ -2,7 +2,7 @@
 name: Prof. Samia Hurst-Majno
 photo: hurstsamia.jpg
 group: Advisers
-role: Adviser
+role: Bioethics
 links:
   website: http://forumethix-ch.blogspot.com/
   twitter: https://twitter.com/samiahurst
