@@ -4,7 +4,7 @@ subtitle: ""
 featuredImage: connection.jpg
 category: Field-building
 tags:
-  - Community
+  - Coordination
 isFeaturedOnHomepage: true
 textSections:
   - title: ""
