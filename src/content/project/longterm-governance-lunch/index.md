@@ -1,5 +1,5 @@
 ---
-title: SI Office Hours
+title: Office Hours
 subtitle: ""
 featuredImage: will-truettner-bbf9v6qkjd4-unsplash.jpg
 category: Field-building
