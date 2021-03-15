@@ -1,5 +1,5 @@
 ---
-title: Longterm Gov Zulip
+title: LongtermGov Zulip
 subtitle: ""
 featuredImage: connection.jpg
 category: Field-building
