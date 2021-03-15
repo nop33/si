@@ -1,6 +1,6 @@
 ---
 title: Navigating complexity and information in decision-making
-date: 2021-03-11T10:39:57.112Z
+date: 2021-03-11
 description: ""
 featuredImage: matthew-tenbruggencate-0hjwobhghjs-unsplash.jpg
 tags:
