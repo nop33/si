@@ -4,7 +4,7 @@ subtitle: ""
 featuredImage: will-truettner-bbf9v6qkjd4-unsplash.jpg
 category: Field-building
 tags:
-  - Coordination
+  - Introduction
 isFeaturedOnHomepage: true
 textSections:
   - title: ""
