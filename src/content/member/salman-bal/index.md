@@ -2,7 +2,7 @@
 name: Amb. Salman Bal
 photo: balsalman.jpg
 group: Advisers
-role: Adviser
+role: International affairs
 links:
   website: ""
   twitter: ""
