@@ -11,7 +11,7 @@ const Team = () => {
     query {
       allMarkdownRemark(
         filter: { fields: { contentType: { eq: "member" } } }
-        sort: { fields: [frontmatter___name], order: ASC }
+        sort: { fields: [frontmatter___name], order: DESC }
       ) {
         group(field: frontmatter___group) {
           name: fieldValue
@@ -76,7 +76,8 @@ const Team = () => {
                         />
                       )}
                       <div className={styles.details}>
-                        <div>{member.frontmatter.name}</div>
+                        <div><b>{member.frontmatter.name}</b></div>
+                        <div>{member.frontmatter.role}</div>
                         <SocialLinks
                           topSpacing
                           website={member.frontmatter.links.website}
@@ -100,7 +101,14 @@ const Team = () => {
                       />
                     )}
                     <div className={styles.details}>
-                      {member.frontmatter.name}
+                      <div><b>{member.frontmatter.name}</b></div>
+                      <div>{member.frontmatter.role}</div>
+                      <SocialLinks
+                        topSpacing
+                        website={member.frontmatter.links.website}
+                        twitter={member.frontmatter.links.twitter}
+                        linkedin={member.frontmatter.links.linkedin}
+                      />
                     </div>
                   </Link>
                 )

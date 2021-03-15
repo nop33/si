@@ -2,7 +2,7 @@
 name: Anja Kaspersen
 photo: kaspersenanja.jpg
 group: Advisers
-role: Adviser
+role: Science-diplomacy adviser
 links:
   website: ""
   twitter: https://twitter.com/AnjaKasp

@@ -2,7 +2,7 @@
 name: Dr. Didier Wernli
 photo: wernlididier.jpg
 group: Advisers
-role: Adviser
+role: Governance research adviser
 links:
   website: https://www.researchgate.net/profile/Didier-Wernli
   twitter: ""
