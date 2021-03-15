@@ -2,7 +2,7 @@
 name: Maxime Stauffer
 photo: max-profile-picture.jpg
 group: Staff
-role: Co-founder & chief executive officer
+role: Co-founder & CEO
 links:
   website: https://sites.google.com/view/maxstauffer/
   twitter: https://twitter.com/MaximeStauffer
