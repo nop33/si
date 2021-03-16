@@ -2,11 +2,11 @@
 title: Evidence and impact of strategies and technologies for group
   decision-making support
 subtitle: ""
-featuredImage: matteo-vistocco-dph00r2swfo-unsplash.jpg
+featuredImage: eu-commission.jpg
 category: Research
 tags:
   - Forthcoming
-  - Literature review
+  - Review
 isFeaturedOnHomepage: false
 textSections:
   - title: ""
