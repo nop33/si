@@ -27,17 +27,17 @@ textSections:
 
       A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, bureaucrats, academics, civil society, lobbyists and more. It is this dynamic co-creation process SI seeks to support.
   - title: Our focus areas
-    content: >
-      ### Policy support 
+    content: >-
+      ### Policy support
 
 
-      We develop training programs and advise actors in policy networks with a focus on improving the collective capacity to exchange information and coordinate in a timely manner.
+      We develop training programs and advice with a focus on improving the collective capacity of policy networks to exchange information and coordinate in a timely manner.
 
 
       ### Field-building
 
 
-      We build research collaborations and strengthen policy decisions by coordinating a network of longtermist policy-makers and researchers who share knowledge and strategic insights.
+      We build research collaborations and strengthen policy decisions by coordinating a network of longtermist policy actors and researchers who share knowledge and strategic insights.
 
 
       ### Research
