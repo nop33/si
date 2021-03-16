@@ -1,6 +1,6 @@
 ---
 title: Pandemic Resilience
-subtitle: A Table-top Exercise for International Policy Networks
+subtitle: ""
 featuredImage: ses.jpg
 category: Policy support
 tags:
