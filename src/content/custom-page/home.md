@@ -13,7 +13,7 @@ keyfactsSection:
     description: Our work is guided by a vision of future-oriented governance,
       facilitated through advances in research and mindsets. With our community
       of diplomats, bureaucrats and academics, we develop simple tools with real
-      use in policy networks.
+      use.
     link:
       title: Our projects
       url: /projects/
