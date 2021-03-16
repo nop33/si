@@ -5,6 +5,7 @@ featuredImage: ses.jpg
 category: Policy support
 tags:
   - Scenario exploration
+  - Tools
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
