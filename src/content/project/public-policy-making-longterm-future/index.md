@@ -6,7 +6,7 @@ category: Research
 tags:
   - Forthcoming
   - Working paper
-isFeaturedOnHomepage: false
+isFeaturedOnHomepage: true
 textSections:
   - title: ""
     content: >
