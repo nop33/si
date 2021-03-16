@@ -49,7 +49,7 @@ textSections:
       ### Value-driven
 
 
-      Human civilization is progressively reaching better equilibria. Despite shocks, such as large-scale epidemics and world wars, people today are living longer and healthier than ever before. This progressive trend suggests that the future could be even better. We work to increase the chances of that happening.
+      Human civilization is progressively reaching better equilibria. Despite shocks, such as large-scale epidemics and world wars, more and more people are living longer and healthier than ever before. Humanity's progress suggests that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
 
 
       ### Risk-focused
