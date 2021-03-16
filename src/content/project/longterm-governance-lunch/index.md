@@ -5,7 +5,7 @@ featuredImage: will-truettner-bbf9v6qkjd4-unsplash.jpg
 category: Field-building
 tags:
   - Introduction
-isFeaturedOnHomepage: true
+isFeaturedOnHomepage: false
 textSections:
   - title: ""
     content: >
