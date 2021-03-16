@@ -45,7 +45,7 @@ textSections:
 
       We seek to better understand policy-making by synthesising knowledge, formalizing system dynamics and empirically testing our hypotheses and tools for validity and usefulness.
   - title: Our approach
-    content: >
+    content: >-
       ### Value-driven
 
 
@@ -55,7 +55,7 @@ textSections:
       ### Risk-focused
 
 
-      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to achieve resolute multilateral action. We support policy networks contributing to the governance of low-proability high-impact events.
+      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to achieve resolute multilateral action. We are focused on supporting policy networks contributing to the governance of low-probability high-impact events.
 
 
       ### Science-based
