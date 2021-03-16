@@ -101,8 +101,8 @@ const Team = () => {
                       />
                     )}
                     <div className={styles.details}>
-                      <div><b>{member.frontmatter.name}</b></div>
-                      <div><small>{member.frontmatter.role}</small></div>
+                      <b>{member.frontmatter.name}</b>
+                      <small>{member.frontmatter.role}</small>
                     </div>
                   </Link>
                 )
