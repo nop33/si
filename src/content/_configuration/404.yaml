@@ -1,6 +1,8 @@
 title: "404: Not Found"
-subtitle: You've found a page that doesn't exist... the sadness. That shouldn't
-  happen. [Let us know](/get-involved/#get-in-touch)
+subtitle: |-
+  You've found a page that doesn't exist... the sadness. 
+
+  [Please, let us know](/get-involved/#get-in-touch).
 link:
   text: Back to the home page
   url: /
