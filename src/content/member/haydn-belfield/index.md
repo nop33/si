@@ -2,7 +2,7 @@
 name: Haydn Belfield
 photo: belfieldhaydn.jpg
 group: Advisers
-role: Global catastrophic risks
+role: GCR governance
 links:
   website: ""
   twitter: https://twitter.com/HaydnBelfield
