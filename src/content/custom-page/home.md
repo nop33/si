@@ -35,7 +35,7 @@ featuredProjectsSection:
       orientation: cards-on-the-left
     - category: Field-building
       title: Field-building
-      description: Share our mission? Join our longterm governance network.
+      description: Share our mission? Join our network.
       orientation: cards-on-the-right
     - category: Research
       title: Research
