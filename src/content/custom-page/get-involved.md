@@ -51,7 +51,7 @@ donateSection:
   columnsWithButtons:
     - title: "Preferred method: SEPA bank transfer"
       content: |-
-        Name: Association Effective Altruism Geneva (EAGE)\
+        Name: Association Effective Altruism Geneva (EAGE)
         IBAN: CH85 0024 0240 9405 0140X\
         SWIFT/BIC: UBSWCHZH80A
     - title: From D, NL, UK or US?
