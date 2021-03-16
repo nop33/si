@@ -4,7 +4,7 @@ subtitle: ""
 featuredImage: cristofer-jeschke-eo_sesctbuo-unsplash.jpg
 category: Policy support
 tags:
-  - Training
+  - Workshop
   - Tools
 isFeaturedOnHomepage: false
 textSections:
