@@ -54,8 +54,6 @@ donateSection:
         Name: Association Effective Altruism Geneva (EAGE)
 
         IBAN: CH85 0024 0240 9405 0140X
-
-        BIC: UBSWCHZH80A
     - title: From D, NL, UK or US?
       content: Please get in touch! SI can receive fiscal sponsorship if the
         collective annual donation volume from abroad is above the equivalent of
