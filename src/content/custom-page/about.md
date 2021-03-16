@@ -7,28 +7,19 @@ textSections:
       ### Mission
 
 
-      SI's mission is to increase the capacity of policy networks to anticipate global catastrophic risks and build resilience for civilization to flourish.
-
-
-      ### Vision
-
-
-      At SI, we envision a flourishing civilization safeguarded by systems that mitigate global catastrophic risks.
+      SI's mission is to increase the capacity of policy networks to mitigate global catastrophic risks and build resilience for civilization to flourish.
 
 
       ### Why?
 
 
-      From biotechnology to the development of superhuman intelligence, humanity is facing emerging challenges of unprecedented scale. The existence of future generations with lives worth living depends on our civilization’s ability to safeguard them from such global catastrophic risks. But the multilateralism needed to govern these low-probability, high-impact events is currently out of sight.
+      From biotechnology to the development of superhuman intelligence, humanity is facing emerging challenges of unprecedented scale. The existence of future generations with lives worth living depends on our civilization’s ability to safeguard them from global catastrophic risks. But the multilateralism needed to govern these low-probability, high-impact events is out of sight.
 
 
       ### How?
 
 
-      As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help international policy networks cope with the glut of information, competing objectives, complexity and uncertainty. 
-
-
-      Based in Geneva, Switzerland, we support policy networks centred around the United Nations, the European Union and national governments to discreetly foster their cooperation with the future.
+      As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help to cope with the glut of information, competing objectives, complexity and uncertainty. Based in Geneva, Switzerland, we support policy networks centred around the United Nations, the European Union and national governments.
 
 
       ### Policy networks?
