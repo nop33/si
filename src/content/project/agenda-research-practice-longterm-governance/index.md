@@ -2,10 +2,10 @@
 title: An Agenda for Research and Practice in Longterm Governance
 subtitle: ""
 featuredImage: martin-adams-_ozcl4xcprw-unsplash.jpg
-category: Field-building
+category: Research
 tags:
   - Forthcoming
-  - Foundations
+  - Working paper
 isFeaturedOnHomepage: true
 textSections:
   - title: ""
