@@ -4,21 +4,21 @@ subtitle: ""
 featuredImage: cristofer-jeschke-eo_sesctbuo-unsplash.jpg
 category: Policy support
 tags:
-  - Training
+  - Workshop
   - Tools
 isFeaturedOnHomepage: false
 textSections:
   - title: The problem
-    content: >
-      Limited resources, inifinite problems and even more opinions. Policy
-      problems are complex and evidence rarely convinces everybody. Preferences
-      diverge and people bias each other. 
+    content: >-
+      Limited resources but countless problems and proposed solutions - policy
+      problems are complex. The evidence is rarely clear-cut, preferences
+      diverge and biases further skew our vision.
 
 
-      Where do we start? What matters most? Questions that feel impossible to answer. And yet, not answering them also provides an answer: we let chance decide - or whoever screams the loudest.
+      Where do we start? What matters most? Questions that can feel impossible to answer. And yet, not replying to them also gives an answer: let chance decide - or whoever screams the loudest.
 
 
-      Unless we tackle the hard questions, future generations will look back at us and just see dart-throwing, chest-beating monkeys.
+      Unless we tackle the hard questions, future generations will look back at us and just see dart-throwing chimps.
   - title: Our solution
     content: >
       Coordination most often fails when at least one of the parties feels like

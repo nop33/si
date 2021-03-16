@@ -5,7 +5,8 @@ featuredImage: martin-adams-_ozcl4xcprw-unsplash.jpg
 category: Research
 tags:
   - Forthcoming
-isFeaturedOnHomepage: true
+  - Working paper
+isFeaturedOnHomepage: false
 textSections:
   - title: ""
     content: >

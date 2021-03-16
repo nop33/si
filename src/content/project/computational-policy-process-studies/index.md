@@ -5,6 +5,7 @@ featuredImage: science-in-hd-z_wxvitxwpc-unsplash.jpg
 category: Research
 tags:
   - Forthcoming
+  - Methods paper
 isFeaturedOnHomepage: true
 textSections:
   - title: ""

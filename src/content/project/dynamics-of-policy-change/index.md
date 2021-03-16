@@ -5,6 +5,7 @@ featuredImage: tabea-damm-9-xfykai6zi-unsplash.jpg
 category: Research
 tags:
   - Forthcoming
+  - Working paper
 isFeaturedOnHomepage: false
 textSections:
   - title: ""

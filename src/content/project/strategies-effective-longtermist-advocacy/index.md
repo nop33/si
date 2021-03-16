@@ -5,6 +5,7 @@ featuredImage: markus-spiske-p2xor4lbrrk-unsplash.jpg
 category: Research
 tags:
   - Forthcoming
+  - Working paper
 isFeaturedOnHomepage: false
 textSections:
   - title: ""

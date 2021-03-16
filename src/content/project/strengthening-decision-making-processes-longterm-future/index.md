@@ -5,6 +5,7 @@ featuredImage: robynne-hu-horhcnqsxnq-unsplash.jpg
 category: Research
 tags:
   - Forthcoming
+  - Working paper
 isFeaturedOnHomepage: false
 textSections:
   - title: ""

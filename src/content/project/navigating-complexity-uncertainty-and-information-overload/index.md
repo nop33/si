@@ -5,6 +5,7 @@ featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
+  - Tools
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem

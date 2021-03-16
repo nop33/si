@@ -4,6 +4,7 @@ subtitle: ""
 featuredImage: ses.jpg
 category: Policy support
 tags:
+  - Workshop
   - Scenario exploration
 isFeaturedOnHomepage: true
 textSections:
