@@ -10,9 +10,9 @@ keyfactsSection:
       url: /about/
   - title: Projects
     description: Our work is guided by a vision of future-oriented governance,
-      facilitated by advances in research and mindsets. With our community of
-      policy-makers and scientists, we run experiments, build tools and provide
-      training.
+      facilitated through advances in research and mindsets. With our community
+      of policy-makers and scientists, we run experiments, build tools and
+      provide training.
     link:
       title: Our projects
       url: /projects/
