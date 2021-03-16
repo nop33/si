@@ -51,11 +51,11 @@ donateSection:
   columnsWithButtons:
     - title: "Preferred method: SEPA bank transfer"
       content: |-
-        Name: Association Effective Altruism Geneva (EAGE)
+        Name: Association Effective Altruism Geneva (EAGE)\
         IBAN: CH85 0024 0240 9405 0140X\
-        SWIFT/BIC: UBSWCHZH80A
+        BIC: UBSWCHZH80A
     - title: From D, NL, UK or US?
-      content: Please get in touch! SI will receive fiscal sponsorship if the
+      content: Please get in touch! SI can receive fiscal sponsorship if the
         collective annual donation volume from abroad is above the equivalent of
         $ 50’000.
 textSections:
