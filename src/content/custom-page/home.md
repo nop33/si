@@ -11,8 +11,8 @@ keyfactsSection:
   - title: Projects
     description: Our work is guided by a vision of future-oriented governance,
       facilitated through advances in research and mindsets. With our community
-      of policy-makers and scientists, we run experiments, build tools and
-      provide training.
+      of diplomats, bureaucrats and academics, we develop simple tools to
+      support policy-making processes.
     link:
       title: Our projects
       url: /projects/
