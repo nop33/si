@@ -4,8 +4,8 @@ date: 2021-03-13T10:41:13.991Z
 description: ""
 featuredImage: annie-spratt-kzo9xqmo_ta-unsplash.jpg
 tags:
-  - Transparency
   - Strategy
+  - Transparency
 seo:
   title: ""
   description: ""
