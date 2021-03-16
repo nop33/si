@@ -1,5 +1,5 @@
 ---
-name: Prof. Giovanna Di Marzo Serugendo
+name: Prof. Giovanna Di Marzo
 photo: dimarzogiovanna.jpg
 group: Advisers
 role: Mathematical modeling
