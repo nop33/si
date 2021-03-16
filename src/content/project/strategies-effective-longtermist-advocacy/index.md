@@ -2,7 +2,7 @@
 title: Strategies for Effective Longtermist Advocacy
 subtitle: ""
 featuredImage: markus-spiske-p2xor4lbrrk-unsplash.jpg
-category: Research
+category: Field-building
 tags:
   - Forthcoming
   - Working paper
