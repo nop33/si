@@ -17,17 +17,27 @@
 }
 
 .member {
-  text-decoration: none;
   display: flex;
   align-items: center;
 
-  > div:first-child {
-    flex-shrink: 0;
-    margin-right: var(--spacing-3);
+  &.has-detail-page {
+    .details > a {
+      transition: color 0.2s;
+    }
+
+    &:hover {
+      .details > a {
+        color: var(--color-si-mustard);
+      }
+    }
   }
 
   img {
     border-radius: 50%;
+  }
+
+  a {
+    text-decoration: none;
   }
 
   @media (max-width: 48rem) {
@@ -36,6 +46,19 @@
   }
 }
 
+.photo {
+  flex-shrink: 0;
+  margin-right: var(--spacing-3);
+}
+
 .details {
   margin-top: var(--spacing-2);
+}
+
+.name {
+  font-weight: var(--fontWeight-bold);
+}
+
+.role {
+  font-size: var(--fontSize-0);
 }
