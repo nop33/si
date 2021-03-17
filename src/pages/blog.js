@@ -67,7 +67,7 @@ export const pageQuery = graphql`
     }
     posts: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "blog" } } }
-      sort: { fields: [frontmatter___date], order: ASC }
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       totalCount
       nodes {
