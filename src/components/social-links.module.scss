@@ -27,4 +27,8 @@
   > a:not(:last-child) {
     margin-right: var(--spacing-4);
   }
+
+  @media (max-width: 48rem) {
+    justify-content: center;
+  }
 }

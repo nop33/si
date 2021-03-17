@@ -61,50 +61,59 @@ const Team = () => {
             <h3>{group.name}</h3>
             <div className={styles.membersList}>
               {group.nodes.map(member => {
-                if (member.frontmatter.disableDetailPage) {
-                  return (
-                    <div
-                      className={styles.member}
-                      key={`team_${member.fields.slug}`}
-                    >
-                      {member.frontmatter?.photo && (
-                        <Image
-                          fixed={
-                            member.frontmatter?.photo?.childImageSharp.fixed
-                          }
-                          alt={`${member.frontmatter.name} profile image`}
-                        />
-                      )}
-                      <div className={styles.details}>
-                        <div><b>{member.frontmatter.name}</b></div>
-                        <div><small>{member.frontmatter.role}</small></div>
-                        <SocialLinks
-                          topSpacing
-                          website={member.frontmatter.links.website}
-                          twitter={member.frontmatter.links.twitter}
-                          linkedin={member.frontmatter.links.linkedin}
-                        />
-                      </div>
-                    </div>
-                  )
-                }
+                const personProfilePicture = (
+                  <Image
+                    fixed={member.frontmatter?.photo?.childImageSharp.fixed}
+                    alt={`${member.frontmatter.name} profile image`}
+                  />
+                )
+
+                const personTextDetails = (
+                  <div>
+                    <div className={styles.name}>{member.frontmatter.name}</div>
+                    <div className={styles.role}>{member.frontmatter.role}</div>
+                  </div>
+                )
                 return (
-                  <Link
-                    className={styles.member}
-                    to={member.fields.slug}
-                    key={member.fields.slug}
+                  <div
+                    className={`${styles.member} ${
+                      !member.frontmatter.disableDetailPage &&
+                      styles.hasDetailPage
+                    }`}
+                    key={`team_${member.fields.slug}`}
                   >
-                    {member.frontmatter?.photo && (
-                      <Image
-                        fixed={member.frontmatter?.photo?.childImageSharp.fixed}
-                        alt={`${member.frontmatter.name} profile image`}
-                      />
-                    )}
+                    {member.frontmatter?.photo &&
+                      !member.frontmatter.disableDetailPage && (
+                        <Link
+                          to={member.fields.slug}
+                          key={member.fields.slug}
+                          className={styles.photo}
+                        >
+                          {personProfilePicture}
+                        </Link>
+                      )}
+                    {member.frontmatter?.photo &&
+                      member.frontmatter.disableDetailPage && (
+                        <div className={styles.photo}>
+                          {personProfilePicture}
+                        </div>
+                      )}
                     <div className={styles.details}>
-                      <div><b>{member.frontmatter.name}</b></div>
-                      <div><small>{member.frontmatter.role}</small></div>
+                      {!member.frontmatter.disableDetailPage && (
+                        <Link to={member.fields.slug} key={member.fields.slug}>
+                          {personTextDetails}
+                        </Link>
+                      )}
+                      {member.frontmatter.disableDetailPage &&
+                        personTextDetails}
+                      <SocialLinks
+                        topSpacing
+                        website={member.frontmatter.links.website}
+                        twitter={member.frontmatter.links.twitter}
+                        linkedin={member.frontmatter.links.linkedin}
+                      />
                     </div>
-                  </Link>
+                  </div>
                 )
               })}
             </div>
