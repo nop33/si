@@ -49,7 +49,7 @@ textSections:
       **Number of participants:** 6-12
 
 
-      Global catastrophic biological risks (GCBRs) are most likely to be sudden developments - novel, and unresponsive to available medical countermeasures. Designing organisms, even by accident, that have unprecedented capacity for harm is now considered within the reach of current biotechnologies.
+      Global catastrophic biological risks (GCBRs) are most likely to be sudden developments - novel and unresponsive to available medical countermeasures. Designing organisms, even by accident, that have an unprecedented capacity for harm is now considered within the reach of current biotechnologies.
 
 
       While GCBRs represent a small portion of biological threats in the world and should not distract us from the work to prevent and respond to other vital disease priorities, GCBRs pose such extraordinary threats to humanity that they deserve high-level attention, risk assessment, resources, and strategic planning.
@@ -74,7 +74,7 @@ textSections:
       And sensitises participants to:
 
 
-      1. he barriers to international cooperation; 
+      1. the barriers to international cooperation; 
 
       2. uncertainty and evidence-based policy; and 
 
@@ -84,7 +84,7 @@ textSections:
       Participants will experience the consequences of their decisions in quick feedback loops, leading to scrutinize basic assumptions and understand interdependencies between different levels of governance and policy issues. Participants will also learn about tools to weigh conflicting preferences explicitly, process information collectively, avoid coordination failures and account for uncertainty while absorbing up to date knowledge on building resilience to future catastrophes.
 
 
-      Tabletop exercises are well-researched and have been experimented with for over a century under the label of “role-play simulations”. Our offer is built based on a systematic review of the academic literature to ensure robustly beneficial deployment by building on the state of the art knowledge. Each run is complemented by a debriefing session to discuss the experience, possible questions or insights and to gather feedback. Contacts will be registered to collect feedback and assess impact.
+      Tabletop exercises are well-researched and have been experimented with for over a century under the label of “role-play simulations”. Our offer is built based on a systematic review of the academic literature to ensure robustly beneficial deployment by building on state of the art knowledge. Each run is complemented by a debriefing session to discuss the experience, possible questions or insights and to gather feedback. Contacts will be registered to collect feedback and assess impact.
 
 
       No matter the scenario, participants will be able to leverage gained insights in any group decision-making setting to improve coordination by accounting for uncertainty and knowledge gaps in a future-proof manner.
