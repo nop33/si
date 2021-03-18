@@ -32,23 +32,24 @@ textSections:
 
 
       Realistic dynamics on short time-scales provide fast feedback loops that train intuition and build systems competencies. The exercise places a particular focus on ways to model systems and maintain cooperation.
-  - title: Project lead
-    content: |
-      Maxime Stauffer
   - title: Project partners
-    content: |
-      Geneva Science-Policy Interface
-  - title: Target audience
-    content: >
-      Individuals, groups and networks working on pandemic resilience at the
-      national or international level.
-  - title: Description
-    content: >
-      Global catastrophic biological risks (GCBRs) are most likely to be sudden
-      developments - novel, and unresponsive to available medical
-      countermeasures. Designing organisms, even by accident, that have
-      unprecedented capacity for harm is now considered within the reach of
-      current biotechnologies.
+    content: "![Geneva Science-Policy Interface](logo-gspi.png)"
+  - title: ""
+    content: >-
+      **Target audience:** Policy-makers and -networks working on pandemic
+      preparedness
+
+
+      **Project lead:** Maxime Stauffer
+
+
+      **Duration of the exercise:** 2 hours
+
+
+      **Number of participants:** 6-12
+
+
+      Global catastrophic biological risks (GCBRs) are most likely to be sudden developments - novel, and unresponsive to available medical countermeasures. Designing organisms, even by accident, that have unprecedented capacity for harm is now considered within the reach of current biotechnologies.
 
 
       While GCBRs represent a small portion of biological threats in the world and should not distract us from the work to prevent and respond to other vital disease priorities, GCBRs pose such extraordinary threats to humanity that they deserve high-level attention, risk assessment, resources, and strategic planning.
@@ -87,11 +88,9 @@ textSections:
 
 
       No matter the scenario, participants will be able to leverage gained insights in any group decision-making setting to improve coordination by accounting for uncertainty and knowledge gaps in a future-proof manner.
-  - title: Practical info
-    content: |
-      Duration of the exercise: 2 hours
 
-      Number of participants: 6-12
+
+      If you have questions, comments or suggestions, please, get in touch. We are happy to answer questions, provide references, discuss ideas and explore collaborations.
   - title: Key references
     content: >
       Bontoux L, Sweeney JA, Rosa AB, et al. (2020) A Game for All Seasons:
@@ -103,11 +102,6 @@ textSections:
 
 
       Wilkinson P. (2016) A Brief History of Serious Games. In: Dörner R., Göbel S., Kickmeier-Rust M., Masuch M., Zweig K. (eds) Entertainment Computing and Serious Games. Lecture Notes in Computer Science, vol 9970. Springer, Cham. https://doi.org/10.1007/978-3-319-46152-6_2"
-  - title: ""
-    content: >
-      If you have questions, comments or suggestions, please, get in touch. We
-      are happy to provide more information, references, discuss ideas and
-      explore collaborations.
 card:
   title: ""
   description: ""
