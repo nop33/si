@@ -1,11 +1,10 @@
 ---
 title: Pandemic Resilience
 subtitle: ""
-featuredImage: ses.jpg
+featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
-  - Scenario exploration
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
@@ -32,23 +31,24 @@ textSections:
 
 
       Realistic dynamics on short time-scales provide fast feedback loops that train intuition and build systems competencies. The exercise places a particular focus on ways to model systems and maintain cooperation.
-  - title: Project lead
-    content: |
-      Maxime Stauffer
   - title: Project partners
-    content: |
-      Geneva Science-Policy Interface
-  - title: Target audience
-    content: >
-      Individuals, groups and networks working on pandemic resilience at the
-      national or international level.
+    content: "![Geneva Science-Policy Interface](logo-gspi.jpg)"
   - title: Description
-    content: >
-      Global catastrophic biological risks (GCBRs) are most likely to be sudden
-      developments - novel, and unresponsive to available medical
-      countermeasures. Designing organisms, even by accident, that have
-      unprecedented capacity for harm is now considered within the reach of
-      current biotechnologies.
+    content: >-
+      **Target audience:** Policy-makers and -networks working on pandemic
+      preparedness
+
+
+      **Project lead:** Maxime Stauffer
+
+
+      **Duration of the exercise:** 2 hours
+
+
+      **Number of participants:** 6-12
+
+
+      Global catastrophic biological risks (GCBRs) are most likely to be sudden developments - novel and unresponsive to available medical countermeasures. Designing organisms, even by accident, that have an unprecedented capacity for harm is now considered within the reach of current biotechnologies.
 
 
       While GCBRs represent a small portion of biological threats in the world and should not distract us from the work to prevent and respond to other vital disease priorities, GCBRs pose such extraordinary threats to humanity that they deserve high-level attention, risk assessment, resources, and strategic planning.
@@ -73,7 +73,7 @@ textSections:
       And sensitises participants to:
 
 
-      1. he barriers to international cooperation; 
+      1. the barriers to international cooperation; 
 
       2. uncertainty and evidence-based policy; and 
 
@@ -83,15 +83,13 @@ textSections:
       Participants will experience the consequences of their decisions in quick feedback loops, leading to scrutinize basic assumptions and understand interdependencies between different levels of governance and policy issues. Participants will also learn about tools to weigh conflicting preferences explicitly, process information collectively, avoid coordination failures and account for uncertainty while absorbing up to date knowledge on building resilience to future catastrophes.
 
 
-      Tabletop exercises are well-researched and have been experimented with for over a century under the label of “role-play simulations”. Our offer is built based on a systematic review of the academic literature to ensure robustly beneficial deployment by building on the state of the art knowledge. Each run is complemented by a debriefing session to discuss the experience, possible questions or insights and to gather feedback. Contacts will be registered to collect feedback and assess impact.
+      Tabletop exercises are well-researched and have been experimented with for over a century under the label of “role-play simulations”. Our offer is built based on a systematic review of the academic literature to ensure robustly beneficial deployment by building on state of the art knowledge. Each run is complemented by a debriefing session to discuss the experience, possible questions or insights and to gather feedback. Contacts will be registered to collect feedback and assess impact.
 
 
       No matter the scenario, participants will be able to leverage gained insights in any group decision-making setting to improve coordination by accounting for uncertainty and knowledge gaps in a future-proof manner.
-  - title: Practical info
-    content: |
-      Duration of the exercise: 2 hours
 
-      Number of participants: 6-12
+
+      If you have questions, comments or suggestions, please, get in touch. We are happy to answer questions, provide references, discuss ideas and explore collaborations.
   - title: Key references
     content: >
       Bontoux L, Sweeney JA, Rosa AB, et al. (2020) A Game for All Seasons:
@@ -103,11 +101,6 @@ textSections:
 
 
       Wilkinson P. (2016) A Brief History of Serious Games. In: Dörner R., Göbel S., Kickmeier-Rust M., Masuch M., Zweig K. (eds) Entertainment Computing and Serious Games. Lecture Notes in Computer Science, vol 9970. Springer, Cham. https://doi.org/10.1007/978-3-319-46152-6_2"
-  - title: ""
-    content: >
-      If you have questions, comments or suggestions, please, get in touch. We
-      are happy to provide more information, references, discuss ideas and
-      explore collaborations.
 card:
   title: ""
   description: ""

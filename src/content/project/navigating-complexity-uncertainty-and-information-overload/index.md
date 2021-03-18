@@ -5,7 +5,6 @@ featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
-  - Tools
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
@@ -37,22 +36,21 @@ textSections:
       - Learn about simple concepts for productive group decision-making
 
       - Apply simple decision-making tools to solve a current problem they are facing
-  - title: Project lead
-    content: |
-      Maxime Stauffer
   - title: Project partners
-    content: |
-      Geneva Science-Policy Interface
-  - title: Target audience
-    content: |
-      Individuals, teams, groups and networks of policy actors.
+    content: "![](logo-gspi.jpg)"
   - title: Description
-    content: >
-      More and better information does not necessarily translate into better
-      decision-making. Yet, political decision-makers are bombarded with new
-      information every day. This project focuses on empowering decision-makers
-      to help them navigate complex problems efficiently by selecting,
-      processing and exchanging information effectively. 
+    content: >-
+      **Target audience:** Target audience: individuals, teams, groups and
+      networks of policy actors
+
+
+      **Project lead:** Maxime Stauffer
+
+
+      **Duration of the exercise:** 2 hours
+
+
+      More and better information does not necessarily translate into better decision-making. Yet, political decision-makers are bombarded with new information every day. This project focuses on empowering decision-makers to help them navigate complex problems efficiently by selecting, processing and exchanging information effectively. 
 
 
       International and national decision-makers, often, yet not always, benefit from in-depth analyses of policy problems (e.g. SDGs) and of the impact and cost of policies. However, this production of evidence is not necessarily coordinated. It is often published behind paywalls, rarely synthesised, seldom tailored to decision needs, and different reports can provide conflicting recommendations. Additionally, the production of evidence also competes against other information sources such as partisan information, false information, or less rigorous analyses. 
@@ -68,13 +66,27 @@ textSections:
 
 
       The tools are anchored in recent advances in psychological research. Given that political decision- making, whether it is at a local, national or international level, is always subject to human behaviour, these tools likely generalise and thus are useful for every decision-maker. This solution differs from and complements pieces of evidence on policy problems and solutions which often are context-specific and thus cannot necessarily be imported into every context.
-  - title: Practical info
-    content: |
-      Duration of the exercise: 2 hours
   - title: Key references
-    content: >
-      Jones & Baumgartner, 2005; Jones et al., 2009; Jones et al., 2020; van
-      Veen et al., 2020; Hertwig & Grüne-Yanoff, 2017; Hertwig et al, 2019
+    content: >-
+      Greene, M. T., & Papalambros, P. Y. (2016, March). A cognitive framework
+      for engineering systems thinking. In 2016 Conference on Systems
+      Engineering Research (pp. 1-7).
+      <https://www.nasa.gov/sites/default/files/atoms/files/42_greene_a_cognitive_framework_for_engineering_systems_thinking_1.pdf>
+
+
+      Hertwig, R., Pleskac, T. J., & Pachur, T. (2019). Taming Uncertainty. MIT Press. <https://doi.org/10.7551/mitpress/11114.001.0001>
+
+
+      Hertwig, R., & Grüne-Yanoff, T. (2017). Nudging and Boosting: Steering or Empowering Good Decisions. Perspectives on Psychological Science, 12(6), 973–986. <https://doi.org/10.1177/1745691617702496>
+
+
+      Janssen, M., & van der Voort, H. (2020). Agile and adaptive governance in crisis response: Lessons from the COVID-19 pandemic. International Journal of Information Management, 55, 102180. <https://doi.org/10.1016/j.ijinfomgt.2020.102180>
+
+
+      Jones, B. D., & Baumgartner, F. R. (2005). The politics of attention: How government prioritizes problems. University of Chicago Press. <https://press.uchicago.edu/ucp/books/book/chicago/P/bo3644482.html>
+
+
+      Wegmann, R. M., & Schärrer, L. (2020). Outpacing the pandemic? A factorial survey on decision speed of COVID-19 task forces. Journal of Organizational Effectiveness: People and Performance, 7(2), 191–202. <https://doi.org/10.1108/JOEPP-05-2020-0089>
 card:
   title: ""
   description: ""
