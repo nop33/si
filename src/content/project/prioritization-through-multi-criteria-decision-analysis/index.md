@@ -30,8 +30,10 @@ textSections:
 
       MCDA is useful in collective decision-making due to its capacity to account for multidimensional problems, quantitative and qualitative data, competing interests and differing judgments. Its vast applications have proven its adaptability and employability across cultures and domains to make better choices and systematically learn from them.
   - title: Project partners
-    content: |
-      Geneva Science-Policy Interface
+    content: |-
+      
+
+      ![Geneva Science-Policy Interface](logo-gspi.png)
   - title: Description
     content: >-
       **Target audience:** Teams, groups and networks of policy actors
