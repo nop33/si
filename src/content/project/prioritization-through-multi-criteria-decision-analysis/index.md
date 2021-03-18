@@ -5,7 +5,6 @@ featuredImage: cristofer-jeschke-eo_sesctbuo-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
-  - Tools
 isFeaturedOnHomepage: false
 textSections:
   - title: The problem
@@ -30,10 +29,7 @@ textSections:
 
       MCDA is useful in collective decision-making due to its capacity to account for multidimensional problems, quantitative and qualitative data, competing interests and differing judgments. Its vast applications have proven its adaptability and employability across cultures and domains to make better choices and systematically learn from them.
   - title: Project partners
-    content: |-
-      
-
-      ![Geneva Science-Policy Interface](logo-gspi.png)
+    content: "![Geneva Science-Policy Interface](logo-gspi.jpg)"
   - title: Description
     content: >-
       **Target audience:** Teams, groups and networks of policy actors
@@ -45,7 +41,7 @@ textSections:
       **Duration of the exercise:** 2 hours
 
 
-      ## Additional information
+      ### Additional information
 
 
       Political decision-making, the process by which actors blend information, resources and interests into outcomes, is subject to at least three difficulties:
