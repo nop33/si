@@ -72,24 +72,22 @@ textSections:
       Greene, M. T., & Papalambros, P. Y. (2016, March). A cognitive framework
       for engineering systems thinking. In 2016 Conference on Systems
       Engineering Research (pp. 1-7).
+      <https://www.nasa.gov/sites/default/files/atoms/files/42_greene_a_cognitive_framework_for_engineering_systems_thinking_1.pdf>
 
 
-      Hertwig, R., Pleskac, T. J., & Pachur, T. (2019). Taming uncertainty. MIT Press.
+      Hertwig, R., Pleskac, T. J., & Pachur, T. (2019). Taming Uncertainty. MIT Press. <https://doi.org/10.7551/mitpress/11114.001.0001>
 
 
-      Hertwig, R., & Grüne-Yanoff, T. (2017). Nudging and boosting: Steering or empowering good decisions. Perspectives on Psychological Science, 12(6), 973-986.
+      Hertwig, R., & Grüne-Yanoff, T. (2017). Nudging and Boosting: Steering or Empowering Good Decisions. Perspectives on Psychological Science, 12(6), 973–986. <https://doi.org/10.1177/1745691617702496>
 
 
-      Janssen, M., & van der Voort, H. (2020). Agile and adaptive governance in crisis response: Lessons from the COVID-19 pandemic. International Journal of Information Management, 55, 102180.
+      Janssen, M., & van der Voort, H. (2020). Agile and adaptive governance in crisis response: Lessons from the COVID-19 pandemic. International Journal of Information Management, 55, 102180. <https://doi.org/10.1016/j.ijinfomgt.2020.102180>
 
 
-      Jones, B. D., Baumgartner, F. R., Breunig, C., Wlezien, C., Soroka, S., Foucault, M., ... & Walgrave, S. (2009). A general empirical law of public budgets: A comparative analysis. American Journal of Political Science, 53(4), 855-873.
+      Jones, B. D., & Baumgartner, F. R. (2005). The politics of attention: How government prioritizes problems. University of Chicago Press. <https://press.uchicago.edu/ucp/books/book/chicago/P/bo3644482.html>
 
 
-      Jones, B. D., & Baumgartner, F. R. (2005). The politics of attention: How government prioritizes problems. University of Chicago Press.
-
-
-      Wegmann, R. M., & Schärrer, L. (2020). Outpacing the pandemic? A factorial survey on decision speed of COVID-19 task forces. Journal of Organizational Effectiveness: People and Performance.
+      Wegmann, R. M., & Schärrer, L. (2020). Outpacing the pandemic? A factorial survey on decision speed of COVID-19 task forces. Journal of Organizational Effectiveness: People and Performance, 7(2), 191–202. <https://doi.org/10.1108/JOEPP-05-2020-0089>
 card:
   title: ""
   description: ""
