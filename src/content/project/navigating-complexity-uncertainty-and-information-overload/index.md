@@ -5,7 +5,6 @@ featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
-  - Tools
 isFeaturedOnHomepage: true
 textSections:
   - title: The problem
@@ -38,7 +37,7 @@ textSections:
 
       - Apply simple decision-making tools to solve a current problem they are facing
   - title: Project partners
-    content: "![](logo-gspi.png)"
+    content: "![](logo-gspi.jpg)"
   - title: Description
     content: >-
       **Target audience:** Target audience: individuals, teams, groups and
