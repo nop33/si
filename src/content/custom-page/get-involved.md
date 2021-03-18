@@ -70,13 +70,13 @@ textSections:
       ### Timely and timeless
 
 
-      SI’s mission and approach resonate with current trends and demands in policy networks. Our discreet support and longterm focus make us a uniquely trustworthy ally for change.
+      SI’s mission and approach resonate with current trends and demands in policy networks. Our discreet support and longterm focus make us a unique ally for sustainable change.
 
 
       ### Multilateral
 
 
-      We build cooperation between important actors with competing preferences by facilitating mutual understanding, information exchange, collective prioritization and learning.
+      We build crucial cooperation between actors with competing preferences by facilitating mutual understanding, information exchange, collective prioritization and policy learning.
 seo:
   title: ""
   description: Interested in our approach? We're always looking for new ideas,
