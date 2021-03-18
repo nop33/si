@@ -37,22 +37,21 @@ textSections:
       - Learn about simple concepts for productive group decision-making
 
       - Apply simple decision-making tools to solve a current problem they are facing
-  - title: Project lead
-    content: |
-      Maxime Stauffer
   - title: Project partners
-    content: |
-      Geneva Science-Policy Interface
-  - title: Target audience
-    content: |
-      Individuals, teams, groups and networks of policy actors.
+    content: "![](logo-gspi.png)"
   - title: Description
-    content: >
-      More and better information does not necessarily translate into better
-      decision-making. Yet, political decision-makers are bombarded with new
-      information every day. This project focuses on empowering decision-makers
-      to help them navigate complex problems efficiently by selecting,
-      processing and exchanging information effectively. 
+    content: >-
+      **Target audience:** Target audience: individuals, teams, groups and
+      networks of policy actors
+
+
+      **Project lead:** Maxime Stauffer
+
+
+      **Duration of the exercise:** 2 hours
+
+
+      More and better information does not necessarily translate into better decision-making. Yet, political decision-makers are bombarded with new information every day. This project focuses on empowering decision-makers to help them navigate complex problems efficiently by selecting, processing and exchanging information effectively. 
 
 
       International and national decision-makers, often, yet not always, benefit from in-depth analyses of policy problems (e.g. SDGs) and of the impact and cost of policies. However, this production of evidence is not necessarily coordinated. It is often published behind paywalls, rarely synthesised, seldom tailored to decision needs, and different reports can provide conflicting recommendations. Additionally, the production of evidence also competes against other information sources such as partisan information, false information, or less rigorous analyses. 
@@ -68,13 +67,29 @@ textSections:
 
 
       The tools are anchored in recent advances in psychological research. Given that political decision- making, whether it is at a local, national or international level, is always subject to human behaviour, these tools likely generalise and thus are useful for every decision-maker. This solution differs from and complements pieces of evidence on policy problems and solutions which often are context-specific and thus cannot necessarily be imported into every context.
-  - title: Practical info
-    content: |
-      Duration of the exercise: 2 hours
   - title: Key references
-    content: >
-      Jones & Baumgartner, 2005; Jones et al., 2009; Jones et al., 2020; van
-      Veen et al., 2020; Hertwig & Grüne-Yanoff, 2017; Hertwig et al, 2019
+    content: >-
+      Greene, M. T., & Papalambros, P. Y. (2016, March). A cognitive framework
+      for engineering systems thinking. In 2016 Conference on Systems
+      Engineering Research (pp. 1-7).
+
+
+      Hertwig, R., Pleskac, T. J., & Pachur, T. (2019). Taming uncertainty. MIT Press.
+
+
+      Hertwig, R., & Grüne-Yanoff, T. (2017). Nudging and boosting: Steering or empowering good decisions. Perspectives on Psychological Science, 12(6), 973-986.
+
+
+      Janssen, M., & van der Voort, H. (2020). Agile and adaptive governance in crisis response: Lessons from the COVID-19 pandemic. International Journal of Information Management, 55, 102180.
+
+
+      Jones, B. D., Baumgartner, F. R., Breunig, C., Wlezien, C., Soroka, S., Foucault, M., ... & Walgrave, S. (2009). A general empirical law of public budgets: A comparative analysis. American Journal of Political Science, 53(4), 855-873.
+
+
+      Jones, B. D., & Baumgartner, F. R. (2005). The politics of attention: How government prioritizes problems. University of Chicago Press.
+
+
+      Wegmann, R. M., & Schärrer, L. (2020). Outpacing the pandemic? A factorial survey on decision speed of COVID-19 task forces. Journal of Organizational Effectiveness: People and Performance.
 card:
   title: ""
   description: ""
