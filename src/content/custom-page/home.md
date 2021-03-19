@@ -26,7 +26,7 @@ keyfactsSection:
       title: Contact us
       url: /get-involved/
 featuredProjectsSection:
-  title: ""
+  title: "Featured projects"
   projectsByCategory:
     - category: Policy support
       title: Policy-making

@@ -44,6 +44,8 @@ const Home = ({ data, location }) => {
           </KeyfactsSection>
         </BaseSection>
 
+        <hr></hr>
+
         <BaseSection>
           {pageData.featuredProjectsSection.title && (
             <h2 className="secondary-heading">
