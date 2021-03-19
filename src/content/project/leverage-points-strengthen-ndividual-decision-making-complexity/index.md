@@ -7,7 +7,7 @@ category: Research
 tags:
   - Forthcoming
   - Review
-isFeaturedOnHomepage: true
+isFeaturedOnHomepage: false
 textSections:
   - title: ""
     content: >
