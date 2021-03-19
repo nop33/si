@@ -37,7 +37,7 @@ textSections:
 
       - Apply simple decision-making tools to solve a current problem they are facing
   - title: Project partners
-    content: "![](logo-gspi.jpg)"
+    content: "![Geneva Science-Policy Interface](logo-gspi.jpg)"
   - title: Description
     content: >-
       **Target audience:** Target audience: individuals, teams, groups and
