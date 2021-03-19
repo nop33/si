@@ -30,17 +30,17 @@ featuredProjectsSection:
   projectsByCategory:
     - category: Policy support
       title: Policy-making
-      description: Policy-making is characterized by complexity. We help you and your
-        network grapple productively with it.
+      description: "Policy-making is characterized by complexity. We help you and your
+        network grapple productively with it."
       orientation: cards-on-the-left
     - category: Field-building
       title: Field-building
-      description: Share our mission? Join our network.
-      orientation: cards-on-the-right
+      description: "Share our mission? Join our network."
+      orientation: cards-on-the-left
     - category: Research
       title: Research
-      description: ""
-      orientation: cards-full-width
+      description: "We synthesize, formalize and experiment."
+      orientation: cards-on-the-left
 postsSection:
   newsSection:
     title: Updates
