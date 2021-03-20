@@ -19,7 +19,7 @@ textSections:
       ### How?
 
 
-      As a non-profit, SI can afford to focus on the longterm. We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help to cope with the glut of information, competing objectives, complexity and uncertainty. Based in Geneva, Switzerland, we support policy networks centred around the United Nations, the European Union and national governments.
+      We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help to cope with the glut of information, competing objectives, complexity and uncertainty. Based in Geneva, Switzerland, we support policy networks centred around the United Nations, the European Union and national governments. As a non-profit, SI can afford to focus on producing long-term sustainable solutions. 
 
 
       ### Policy networks?
