@@ -3,9 +3,9 @@ title: Supporting policy-makers in their cooperation with future generations.
 keyfactsSection:
   - title: About
     description: The Simon Institute for Longterm Governance (SI) is somewhere
-      between a research and a training centre. We discreetly support policy
-      networks in mitigating global catastrophic risks with science-based,
-      no-frills approaches.
+      between a research and a training centre. We support policy networks in
+      mitigating global catastrophic risks with science-based, no-frills
+      approaches.
     link:
       title: More about us
       url: /about/
@@ -26,20 +26,20 @@ keyfactsSection:
       title: Contact us
       url: /get-involved/
 featuredProjectsSection:
-  title: "Featured projects"
+  title: Featured projects
   projectsByCategory:
     - category: Policy support
       title: Policy-making
-      description: "Policy-making is characterized by complexity. We help you and your
-        network grapple productively with it."
+      description: Policy-making is characterized by complexity. We help you and your
+        network grapple with it productively.
       orientation: cards-on-the-left
     - category: Field-building
       title: Field-building
-      description: "Share our mission? Join our network."
+      description: Share our mission? Join our network.
       orientation: cards-on-the-left
     - category: Research
       title: Research
-      description: "We synthesize, formalize and experiment."
+      description: We synthesize, formalize and experiment.
       orientation: cards-on-the-left
 postsSection:
   newsSection:
