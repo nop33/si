@@ -10,7 +10,7 @@ seo:
   title: ""
   description: ""
 ---
-# Summary
+## Summary
 
 The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policy-making processes.
 
@@ -35,23 +35,23 @@ This post delineates SI’s action plan. We hope it will provide a clear underst
 
 We encourage you to share feedback, ideas and collaboration opportunities.
 
-# 24 months to prove SI
+## 24 months to prove SI
 
 In the next 24 months (2021-2022), SI enters its first phase of development. At the end of 2022, SI’s governing board and staff will evaluate progress and will continue operations if the goals below are achieved.
 
 We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
 
-## 2021 Objectives
+### 2021 Objectives
 
-### 1. Testing tools and research
+#### 1. Testing tools and research
 
-#### 1.1 Tools
+##### 1.1 Tools
 
 * 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
 * 1.1.2 Test workshop on behavioural insights for complex problem solving (Q2&3)
 * 1.1.3 Test training on multi-objective prioritization in policy-making (Q4)
 
-#### 1.2 Research
+##### 1.2 Research
 
 * 1.2.1 Publish working paper on “policy-making for the longterm future” (Q2)
 * 1.2.2 Publish method paper on “computational policy process studies” (Q2)
@@ -63,19 +63,19 @@ We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to co
 * 1.2.8 Publish working paper on “strengthening policy processes for the longterm future” (Q4)
 * 1.2.9 Publish “an agenda for research and practice in longterm governance” (Q4)
 
-### 2. Building capacity
+#### 2. Building capacity
 
 * 2.1 Fundraise minimum CHF 113k by Q3 and push for up to CHF 2m in Q4
 * 2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF)
 * 2.3 Build up a good reputation among target audience (events rated ≥8/10)
 
-### 3. Launching and set up SI
+#### 3. Launching and set up SI
 
 * 3.1 Launch website and public announcement in Q1
 * 3.2 Build SI’s legal foundation in Q1
 * 3.3 Design management and operations systems throughout Q1-3
 
-## Testing tools and research
+### Testing tools and research
 
 The rationale for SI’s decision-making support tools is to test the contextual validity of the evidence used to back its theory of change. Direct engagement with policy networks allows gathering real-world feedback to refine strategy and ensure value add. Publishing our foundational research allows others to scrutinize and build on our work.
 
@@ -91,13 +91,13 @@ We hope to be able to draw preliminary conclusions after iterative testing throu
 
 Next to training, we will wrap up the research that has led to SI’s conception to then fully focus refining our training programs. We will publish a series of working papers underpinning our strategy and reviews that lead to our current offer of decision-making support tools. Further, we will submit a grant proposal on computational policy process studies in Q3 2021 to test whether there is potential to couple empirical and computational research efforts by Q2 2022, or whether we should continue to focus on practical decision-making support for longer.
 
-## Building capacity
+### Building capacity
 
 In 2021, the goal is to fundraise in order to scale up operations in 2022.
 
 To maintain capacity throughout 2022, SI requires to fundraise at least CHF 113’000. However, this is unlikely to be sufficient to reach our 2-year development goals and would merely enable Konrad and Max to pivot.
 
-### Hiring
+#### Hiring
 
 To scale at capacity and build runway, we currently expect to be able to make use of as much as CHF 2’000’000 in the first 2-years of operations. This would allow us to hire an additional 5 full-time equivalents (FTE) and thereby drastically increase our capacity to run workshops, collect and analyze data, improve our strategy and support the translation of longtermist ideas into policy practices.
 
@@ -110,13 +110,13 @@ Our first hires will bring additional experience in:
 
 For full-time positions, we are looking for individuals with 5+ years of experience in international policy networks. We will publicly advertise openings and institute a recruitment process consisting of (i) application, (ii) a work test, (iii) two interviews, and (iv) a paid 2-week work trial. We are developing an intense onboarding process to empower co-founder-equivalent first employees who have the agency and knowledge to effectively advance SI’s mission.
 
-### Funding
+#### Funding
 
 To raise funding, we will continuously dedicate a certain share of our available resources to fundraising. We expect this to be about 20% in the first two years and reduce to maybe 10% after two years, once SI has proven its raison d’être.
 
 We will first leverage personal connections to various grantmaking institutions, hoping this might expedite the process for receiving sufficiently large general support building up the team. Once these discussions are set in motion, we will submit grant proposals for general support to various foundations that seem aligned with our values. We expect this to take up most of our capacity until late 2021. Only then will we start submitting project-specific proposals to large grant-making institutions.
 
-### Reputation
+#### Reputation
 
 We plan to build our reputation along the following dimensions:
 
@@ -128,13 +128,13 @@ The reputation above will result mainly from the smooth execution of our decisio
 
 To maintain relationships with our audience, we will irregularly update our website, publish newsletter updates, frequently share news on LinkedIn and Twitter, and engage intensely with our closest network via Zulip and Email.
 
-## Launching and setting up SI
+### Launching and setting up SI
 
 Our goal is for SI to be an independently operating entity by the start of Q3 2021. The legal institution of SI consists of the constitutive assembly, application for nonprofit status and official registration. The public launch of SI has two phases: publishing the website and an announcement on the EA forum. The operational launch entails opening bank accounts and arranging fiscal sponsorship for donors from abroad.
 
 In Q2, we will define our organizational structure to formalize the role of the governing board in a set of bylaws. We will formalize the individual affiliation of board members, advisers and collaborators. Further, we will finalize our recruiting process, including the development of work tests; develop our onboarding process; and set up our operations infrastructure for accounting, monitoring, evaluation and learning.
 
-# Adaptive planning
+## Adaptive planning
 
 As a result of a pre-mortem, we have identified three main threats to our current plans:
 
