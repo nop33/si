@@ -52,7 +52,7 @@ textSections:
       Human civilization is progressively reaching better equilibria. Despite shocks, such as large-scale epidemics and world wars, more and more people are living longer and healthier than ever before. Humanity's progress suggests that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
 
 
-      ### Risk-focused
+      ### Resilience-focused
 
 
       Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to achieve resolute multilateral action. We are focused on supporting policy networks contributing to the governance of low-probability high-impact events.
