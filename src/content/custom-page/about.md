@@ -43,13 +43,13 @@ textSections:
       ### Research
 
 
-      We seek to better understand policy-making by synthesising knowledge, formalizing system dynamics and empirically testing our hypotheses and tools for validity and usefulness.
+      We seek to better understand policy-making by synthesizing knowledge, formalizing system dynamics and empirically testing our hypotheses and tools for validity and usefulness.
   - title: Our approach
     content: >-
       ### Value-driven
 
 
-      Human civilization is progressively reaching better equilibria. Despite shocks, such as large-scale epidemics and world wars, more and more people are living longer and healthier than ever before. Humanity's progress suggests that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
+      Human civilization is progressively reaching higher levels of well-being. Despite shocks, such as large-scale epidemics and world wars, more and more people are living longer and healthier than ever before. Humanity's progress suggests that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
 
 
       ### Resilience-focused
