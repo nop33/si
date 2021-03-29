@@ -47,4 +47,6 @@ As a result of our research on how to understand and improve policy-making, we 
 
 ---
 
+References
+
 \[1] Teles, S., & Schmitt, M. (2011). The elusive craft of evaluating advocacy. Stanford Social Innovation Review, 9(3), 40-43.
