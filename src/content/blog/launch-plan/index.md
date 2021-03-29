@@ -41,6 +41,14 @@ In the next 24 months (2021-2022), SI enters its first phase of development. At 
 
 We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
 
+After at most 1.5 years of work, via surveys and case studies, we expect to see:
+
+* Policymakers use insights and tools from our trainings in their work;
+* Policymakers better understand global catastrophic risks and longtermism;
+* Longtermists better understand international policymaking;
+* Individuals improve their career plans;
+* Our research can pass academic peer-review.
+
 ### 2021 Objectives
 
 #### 1. Testing tools and research
