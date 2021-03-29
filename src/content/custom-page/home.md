@@ -1,19 +1,18 @@
 ---
-title: Supporting policy-makers in their cooperation with future generations.
+title: Supporting policymakers in their cooperation with future generations.
 keyfactsSection:
   - title: About
-    description: The Simon Institute for Longterm Governance (SI) is somewhere
-      between a research and a training centre. We support policy networks in
-      mitigating global catastrophic risks with science-based, no-frills
-      approaches.
+    description: The Simon Institute for Longterm Governance (SI) supports policy
+      networks in mitigating global catastrophic threats, implementing Herbert
+      Simon's vision of support tools for future-oriented policymaking.
     link:
       title: More about us
       url: /about/
   - title: Projects
     description: Our work is guided by a vision of future-oriented governance,
       facilitated through advances in research and mindsets. With our community
-      of diplomats, bureaucrats and academics, we develop simple tools for real
-      use.
+      of diplomats, civil servants and academics, we develop simple tools for
+      real use.
     link:
       title: Our projects
       url: /projects/
@@ -30,7 +29,7 @@ featuredProjectsSection:
   projectsByCategory:
     - category: Policy support
       title: Policy-making
-      description: Policy-making is characterized by complexity. We help you and your
+      description: Policymaking is characterized by complexity. We help you and your
         network grapple with it productively.
       orientation: cards-on-the-left
     - category: Field-building
@@ -55,6 +54,7 @@ postsSection:
 seo:
   title: Simon Institute for Longterm Governance
   description: The Simon Institute for Longterm Governance (SI) is somewhere
-    between a research and a training centre. We discreetly support policy
-    networks in mitigating global catastrophic risks with science-based tools.
+    between a research and a training centre. We support policy networks in
+    mitigating global catastrophic risks with science-based, no-frills
+    approaches.
 ---
