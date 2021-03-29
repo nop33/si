@@ -38,7 +38,7 @@ Number of peer-reviewed academic publications.
 
 As a result of our research leading up to the conception of SI, we already have:
 
-* Advised the European Commission's Joint Research Centre on evidence-based policy-making
+* Advised the European Commission's Joint Research Centre on evidence-based policymaking
 * Advised a Czech think tank on prioritization dynamics in policy networks
 * Substantially contributed to a workshop on decision-making support tools for Dutch civil servants
 * Advised a Norwegian think tank on strategy and the state of the art in policy theory
