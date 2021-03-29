@@ -38,13 +38,13 @@ stayInTouchSection:
 donateSection:
   title: Donate
   intro:
-    content: >
-      We currently estimate our room for more funding to be around CHF
-      2'000'000. Any amount of donations directly enables us to do more. Check
-      out our [2-year launch plan](/blog/post/launch-plan/) for more.
+    content: >-
+      We currently estimate our room for more funding to be around CHF2,000,000.
+      Any amount of donations directly enables us to do more. Check out our
+      [2-year launch plan](/blog/post/launch-plan/) for more.
 
 
-      You can donate via EA Geneva until SI’s nonprofit status is officially recognized. This also makes your contribution tax deductible in Switzerland.
+      You can donate via EA Geneva until SI’s nonprofit status is officially recognized. This also makes your contribution tax-deductible in Switzerland.
     button:
       text: Donate
       url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
@@ -57,20 +57,20 @@ donateSection:
     - title: From D, NL, UK or US?
       content: Please get in touch! SI can receive fiscal sponsorship if the
         collective annual donation volume from abroad is above the equivalent of
-        $ 50’000.
+        $50,000.
 textSections:
   - title: Why support us?
     content: >-
       ### Science to policy
 
 
-      The knowledge base on longtermism and global catastrophic risks is expanding rapidly. SI empowers policy-makers to make sense of all the information and act in the face of uncertainty.
+      The knowledge base on longtermism and global catastrophic risks is expanding rapidly. SI empowers policymakers to make sense of all the information and act in the face of uncertainty.
 
 
       ### Timely and timeless
 
 
-      SI’s mission and approach resonate with current trends and demands in policy networks. Our discreet support and longterm focus make us a unique ally for sustainable change.
+      SI’s mission and approach resonate with current trends and demands in policy networks. Our targeted support and long-term focus make us a unique ally for sustainable change.
 
 
       ### Multilateral
