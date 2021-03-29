@@ -12,7 +12,7 @@ seo:
 ---
 ## Context
 
-Given the difficulty of measuring effects on political systems, we anchor our strategy in a detailed theory of change. While organizational long-term adaptability and strategic capacity will be most indicative of the value of our work \[1], we highly value early indicators of the counterfactual impact of our work.
+Given the difficulty of measuring effects on policy networks, we anchor our strategy in a detailed theory of change. While organizational long-term adaptability and strategic capacity will be most indicative of the value of our work \[1], we highly value early indicators of the counterfactual impact of our work.
 
 ## How we collect data
 
@@ -23,7 +23,7 @@ We gather data on counterfactual scenarios by reviewing projects pre- and post-
 ### Policy support
 
 1. change in processes and tools used and
-2. change in the understanding of longterm issues.
+2. change in the understanding of long-term issues.
 
 ### Field building
 
@@ -36,7 +36,7 @@ Number of peer-reviewed academic publications.
 
 ## First signs of impact
 
-As a result of our research on how to understand and improve policy-making, we have:
+As a result of our research leading up to the conception of SI, we already have:
 
 * Advised the European Commission's Joint Research Centre on evidence-based policy-making
 * Advised a Czech think tank on prioritization dynamics in policy networks
