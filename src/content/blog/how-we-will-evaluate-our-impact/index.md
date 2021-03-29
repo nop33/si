@@ -10,10 +10,9 @@ seo:
   title: ""
   description: ""
 ---
-
 ## Context
 
-Given the difficulty of measuring effects on political systems, we anchor our strategy in a detailed theory of change. While organizational long-term adaptability and strategic capacity will be most indicative of the value of our work [1], we highly value early indicators of the counterfactual impact of our work.
+Given the difficulty of measuring effects on political systems, we anchor our strategy in a detailed theory of change. While organizational long-term adaptability and strategic capacity will be most indicative of the value of our work \[1], we highly value early indicators of the counterfactual impact of our work.
 
 ## How we collect data
 
@@ -39,11 +38,13 @@ Number of peer-reviewed academic publications.
 
 As a result of our research on how to understand and improve policy-making, we have:
 
-- Advised the European Commission's Joint Research Centre on evidence-based policy-making
-- Advised a Czech think tank on prioritization dynamics in policy networks
-- Substantially contributed to a workshop on decision-making support tools for Dutch civil servants
-- Advised a Norwegian think tank on strategy and the state of the art in policy theory
-- Contributed to the strategy of a Swiss institute bridging academia and international organizations
-- Advised dozens of future policy practitioners and researchers on career strategy and priority areas
+* Advised the European Commission's Joint Research Centre on evidence-based policy-making
+* Advised a Czech think tank on prioritization dynamics in policy networks
+* Substantially contributed to a workshop on decision-making support tools for Dutch civil servants
+* Advised a Norwegian think tank on strategy and the state of the art in policy theory
+* Contributed to the strategy of a Swiss institute bridging academia and international organizations
+* Advised dozens of future policy practitioners and researchers on career strategy and priority areas
 
-[1] Teles, S., & Schmitt, M. (2011). The elusive craft of evaluating advocacy. Stanford Social Innovation Review, 9(3), 40-43.
+---
+
+\[1] Teles, S., & Schmitt, M. (2011). The elusive craft of evaluating advocacy. Stanford Social Innovation Review, 9(3), 40-43.
