@@ -14,7 +14,7 @@ textSections:
       researchers and supporters, we invite you to join our Zulip server. 
 
 
-      It's like slack but with proper threading - a great mix between a chat and a forum that won't flood your email inbox.
+      It's like Slack but with proper threading - a great mix between a chat and a forum that won't flood your email inbox.
 
 
       On Zulip, you can join streams for topical discussions, share updates, job postings and more. You can also have private chats - one-on-one or in groups.
@@ -43,7 +43,7 @@ textSections:
       * Get email notifications for particular people, topics or streams
 
 
-      Pro-tip: liberally use emoticons as reactions - that way others get feedback despite you not saying anything.
+      Pro-tip: liberally use emoticons as reactions - that way others get feedback even if you don't write a comment.
 
 
       Please, fill out your account profile with at least your first name, a profile picture and a short bio. That makes it easier to get a feel for who’s who.

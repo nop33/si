@@ -1,5 +1,5 @@
 ---
-title: Public Policy-making for the Long-term Future
+title: Public Policymaking for the Long-term Future
 subtitle: ""
 featuredImage: joshua-sortino-lqkhndzsf-8-unsplash.jpg
 category: Research

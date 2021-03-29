@@ -1,5 +1,5 @@
 ---
-title: Dynamics of policy change and their implications for long-term policy-making
+title: Dynamics of policy change and their implications for long-term policymaking
 subtitle: ""
 featuredImage: tabea-damm-9-xfykai6zi-unsplash.jpg
 category: Research

@@ -12,7 +12,7 @@ seo:
 ---
 ## Summary
 
-The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policy-making processes.
+The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policymaking processes.
 
 In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core objectives are to
 (i) prove its approach by generating early signs of counterfactual impact,
@@ -20,7 +20,7 @@ In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core o
 (iii) raise funding to permanently employ at least 5 full-time equivalents (FTE).
 
 In 2021, SI will
-(i) deploy three training programs for policy-makers to deal with complexity;
+(i) deploy three training programs for policymakers to deal with complexity;
 (ii) publish 5 foundational working papers and 1 peer-reviewed article;
 (iii) raise between CHF 200’000 and 2’000’000; and
 (iv) set up its legal and operating structure.
@@ -41,6 +41,14 @@ In the next 24 months (2021-2022), SI enters its first phase of development. At 
 
 We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
 
+After at most 1.5 years of work, via surveys and case studies, we expect to see:
+
+* Policymakers use insights and tools from our trainings in their work;
+* Policymakers better understand global catastrophic risks and longtermism;
+* Longtermists better understand international policymaking;
+* Individuals improve their career plans;
+* Our research can pass academic peer-review.
+
 ### 2021 Objectives
 
 #### 1. Testing tools and research
@@ -49,14 +57,14 @@ We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to co
 
 * 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
 * 1.1.2 Test workshop on behavioural insights for complex problem solving (Q2&3)
-* 1.1.3 Test training on multi-objective prioritization in policy-making (Q4)
+* 1.1.3 Test training on multi-objective prioritization in policymaking (Q4)
 
 ##### 1.2 Research
 
-* 1.2.1 Publish working paper on “policy-making for the longterm future” (Q2)
+* 1.2.1 Publish working paper on “policymaking for the long-term future” (Q2)
 * 1.2.2 Publish method paper on “computational policy process studies” (Q2)
 * 1.2.3 Publish “needs analysis for complex problem-solving in international policy networks” (Q2)
-* 1.2.4 Publish working paper on “dynamics of policy change and their implications for long-term policy-making” (Q3)
+* 1.2.4 Publish working paper on “dynamics of policy change and their implications for long-term policymaking” (Q3)
 * 1.2.5 Publish working paper on “strategies for effective longtermist advocacy” (Q3)
 * 1.2.6 Publish “review of leverage points to strengthen individual decision-making in the face of complexity” (Q3)
 * 1.2.7 Submit funding proposal on “computational policy process studies” to Swiss National Science Foundation (Q3)
