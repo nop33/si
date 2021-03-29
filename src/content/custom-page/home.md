@@ -2,10 +2,10 @@
 title: Supporting policymakers in their cooperation with future generations.
 keyfactsSection:
   - title: About
-    description: The Simon Institute for Longterm Governance (SI) is somewhere
-      between a research and a training centre. We support policy networks in
-      mitigating global catastrophic risks with science-based, no-frills
-      approaches.
+    description: The Simon Institute for Longterm Governance (SI) supports policy
+      networks in mitigating global catastrophic risks with thoughtful,
+      evidence-informed approaches. We conduct research, offer training programs
+      and build networks.
     link:
       title: More about us
       url: /about/
