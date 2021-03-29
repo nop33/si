@@ -28,7 +28,7 @@ featuredProjectsSection:
   title: Featured projects
   projectsByCategory:
     - category: Policy support
-      title: Policy-making
+      title: Policymaking
       description: Policymaking is characterized by complexity. We help you and your
         network grapple with it productively.
       orientation: cards-on-the-left
