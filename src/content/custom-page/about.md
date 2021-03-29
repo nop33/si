@@ -25,7 +25,7 @@ textSections:
       ### Policy networks?
 
 
-      A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, bureaucrats, academics, civil society, lobbyists and more. It is this dynamic co-creation process SI seeks to support.
+      A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, civil servants, academics, civil society, lobbyists and more. It is this dynamic co-creation process SI seeks to support.
   - title: Our focus areas
     content: >-
       ### Policy support
@@ -55,7 +55,7 @@ textSections:
       ### Resilience-focused
 
 
-      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to achieve resolute multilateral action. We are focused on supporting policy networks contributing to the governance of low-probability high-impact events.
+      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to achieve multilateral coordination. We are focused on supporting policy networks contributing to the governance of low-probability high-impact events.
 
 
       ### Science-based
@@ -67,7 +67,7 @@ teamSection:
 herbertSimonSection:
   title: Herbert Simon
   photo: ../../images/herbert_simon.jpg
-  content: >
+  content: >-
     Herbert Simon (1916 - 2001) was a political scientist, cognitive
     psychologist, computer scientist and economist.
 
@@ -75,7 +75,7 @@ herbertSimonSection:
     His research represents much of the knowledge SI is building on and aims to contribute to.
 
 
-    Herbert formalized the concept of bounded-rationality, i.e. that humans make decisions under uncertainty with cognitive constraints. In 1978, he received the Nobel Prize in Economics and a Turing Award in 1975. He is known for having seminally contributed to the fields of behavioural economics, public administration, complexity science and artificial intelligence.
+    Herbert formalized the concept of bounded rationality, i.e. that humans make decisions under uncertainty with cognitive constraints. In 1978, he received the Nobel Prize in Economics and a Turing Award in 1975. He is known for having seminally contributed to the fields of behavioural economics, public administration, complexity science and artificial intelligence.
 
 
     We thank Katherine, Barbara and Peter Simon for having granted us the honour of naming the Institute for Longterm Governance after their father.
@@ -86,9 +86,11 @@ sponsorsSection:
       logo: ../../images/zulip-logo-gradient.png
 seo:
   title: About us
-  description: As a non-profit, SI can afford to focus on the longterm. We connect
-    research with practice to support a risk- and resilience-focused
-    multilateralism enhanced by science. Our tools, knowledge and community help
-    international policy networks cope with complexity, uncertainty, competing
-    objectives and the glut of information.
+  description: We connect research with practice to support a risk- and
+    resilience-focused multilateralism enhanced by science. Our tools, knowledge
+    and community help to cope with the glut of information, competing
+    objectives, complexity and uncertainty. Based in Geneva, Switzerland, we
+    support policy networks centred around the United Nations, the European
+    Union and national governments. As a non-profit, SI can afford to focus on
+    producing long-term sustainable solutions.
 ---
