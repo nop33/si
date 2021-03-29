@@ -3,7 +3,7 @@ title: Supporting policymakers in their cooperation with future generations.
 keyfactsSection:
   - title: About
     description: The Simon Institute for Longterm Governance (SI) supports policy
-      networks in mitigating global catastrophic threats, building on Herbert
+      networks in mitigating global catastrophic threats, implementing Herbert
       Simon's vision of support tools for future-oriented policymaking.
     link:
       title: More about us
