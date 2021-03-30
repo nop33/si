@@ -9,10 +9,10 @@ keyfactsSection:
       title: More about us
       url: /about/
   - title: Projects
-    description: Our work is guided by a vision of future-oriented governance,
-      facilitated through advances in research and mindsets. With our community
-      of diplomats, civil servants and academics, we develop simple tools for
-      real use.
+    description: We help policy networks understand threats, identify coordination
+      bottlenecks and equip them with tools and heuristics to render tacit
+      knowledge explicit, reduce information asymmetries and deliberate
+      productively.
     link:
       title: Our projects
       url: /projects/
