@@ -53,8 +53,8 @@ postsSection:
       url: /blog/tag/events/
 seo:
   title: Simon Institute for Longterm Governance
-  description: The Simon Institute for Longterm Governance (SI) is somewhere
-    between a research and a training centre. We support policy networks in
-    mitigating global catastrophic risks with science-based, no-frills
-    approaches.
+  description: We help policy networks understand threats, identify coordination
+    bottlenecks and equip them with tools and heuristics to render tacit
+    knowledge explicit, reduce information asymmetries and deliberate
+    productively.
 ---
