@@ -10,8 +10,10 @@ isFeaturedOnHomepage: true
 textSections:
   - title: ""
     content: >-
-      **[Read the full draft in pdf
-      here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
+      *Authors: Maxime Stauffer, Konrad Seifert, Nora Ammann, Jan Pieter Snoeij*
+
+
+      **[Read the full draft here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
 
 
       This paper contributes to the interface of longtermist philosophy, global catastrophic risk research and policymaking. We introduce the concept of long-term institutional fit to identify key areas of improvement for current policymaking institutions to effectively contribute to lasting resilience and progress of civilization. 
@@ -30,6 +32,9 @@ textSections:
 
 
       We aim to inspire future scholarship and equip policy practitioners with an overview of how to transform policymaking for the long term.
+
+
+      **[Read the full draft here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
 card:
   title: ""
   description: ""
