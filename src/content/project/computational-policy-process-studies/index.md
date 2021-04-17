@@ -4,7 +4,7 @@ subtitle: ""
 featuredImage: science-in-hd-z_wxvitxwpc-unsplash.jpg
 category: Research
 tags:
-  - Draft
+  - Preprint
   - Methods paper
 isFeaturedOnHomepage: true
 textSections:
