@@ -10,8 +10,11 @@ isFeaturedOnHomepage: true
 textSections:
   - title: ""
     content: >-
-      [Read the full draft
-      here.](https://drive.google.com/file/d/1r4ACXGQL55td5LJ3RiySgRfUtKIcNvmo/view?usp=sharing)
+      *Authors: Maxime Stauffer, Konrad Seifert, Isaak Mengesha, Igor Krawczuk,
+      Jens Fischer, Giovanna Di Marzo Serugendo*
+
+
+      [Read the full draft here.](https://drive.google.com/file/d/1r4ACXGQL55td5LJ3RiySgRfUtKIcNvmo/view?usp=sharing)
 
 
       While policy process theory has converged on the view that policymaking can be studied as a complex system, the literature has only minimally used the methodological complement to the theory - experiments performed with computational models.  Implementations are rare, mainly pushed by computer scientists in trans-disciplinary work and often so detached from the mainstream theory that they form a separate line of research instead of testing theories from the social sciences.
