@@ -4,7 +4,7 @@ subtitle: ""
 featuredImage: joshua-sortino-lqkhndzsf-8-unsplash.jpg
 category: Research
 tags:
-  - Preprint
+  - Draft
   - Working paper
 isFeaturedOnHomepage: true
 textSections:
