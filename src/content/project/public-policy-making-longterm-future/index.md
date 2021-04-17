@@ -1,39 +1,20 @@
 ---
-title: Public Policymaking for the Long-term Future
+title: "Policymaking for the Long-term future: Improving Institutional Fit"
 subtitle: ""
 featuredImage: joshua-sortino-lqkhndzsf-8-unsplash.jpg
 category: Research
 tags:
-  - Forthcoming
+  - Draft
   - Working paper
 isFeaturedOnHomepage: true
 textSections:
   - title: ""
-    content: >
-      The moral view of longtermism underscores the importance of coordinating
-      societies across space and time. Policy-making processes in local and
-      national governments and international organizations are the current most
-      advanced form of explicit, value-based coordination. They foster
-      coordination and affect citizens across the world. The same processes,
-      however, suffer from constraints limiting their benefit to future
-      generations, resulting in political short-termism. In this paper, we
-      propose improvements to policy-making processes that could remedy
-      shortcomings and unlock its full potential. We propose to build on
-      existing structures for the creation of longterm value. We propose five
-      concrete improvements, structured according to an implementation framework
-      and guided by a vision. We introduce the framework of resilience,
-      incorporating an understanding of systems, risks and collapse scenarios,
-      to guide policy-making processes. We present a vision for policy-making
-      that embodies the implications of the resilience framework for
-      policy-making processes, unpacked into the need to shape a societal
-      narrative based on resilience thinking; to give a voice to future
-      generations by reforming institutional structures; and to build policy
-      agendas that account for tail-risks, their correlates and the properties
-      of resilient systems: prevent, mitigate and adapt. To achieve this vision,
-      we present five improvements to decision-making processes. They consist of
-      (1) fostering moral action, (2) building systems thinking abilities, (3)
-      improving evidence synthesis, (4) developing decision-making support
-      technologies, and (5) incentivizing group decision-making.
+    content: >-
+      [Read the full draft in pdf
+      here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).
+
+
+      This paper contributes to the interface of longtermist philosophy, global catastrophic risk research and policymaking. We introduce the concept of long-term institutional fit to identify key areas of improvement for current policymaking institutions to effectively contribute to lasting resilience and progress of civilization. Our preliminary assessment suggests that the long-term impact of current policymaking institutions is, despite noteworthy contemporary achievements, limited by several factors: fragile and relatively underdeveloped means of global coordination; a lack of preparedness to anticipate, prevent or recover from potential global catastrophes; siloed structures incapable of coping with cross-cutting challenges; pervasive short-termism leading to negligence of future generations; and underdeveloped capacities for policy learning. Building on these observations, we suggest three avenues for improving long-term institutional fit: representing future generations; embedding both, the prevention and mitigation of global catastrophic risks, as well as recovery and learning from inevitable shocks in policy agendas; and shifting popular narratives to focus on the creation of transgenerational global public goods and adaptive capabilities. To boost institutional changes, we propose five improvements: fostering moral reflection; training systems thinking; improving the science-policy interface; training decision-making under uncertainty; and facilitating group deliberation. Throughout the paper, we adapt existing theoretical frameworks from systems, political and decision science and synthesise relevant evidence. We aim to inspire future scholarship and equip policy practitioners with an overview of how to transform policymaking for the long term.
 card:
   title: ""
   description: ""
