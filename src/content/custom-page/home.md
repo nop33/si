@@ -27,6 +27,10 @@ keyfactsSection:
 featuredProjectsSection:
   title: Featured projects
   projectsByCategory:
+    - category: Research
+      title: Research
+      description: We synthesize, formalize and experiment.
+      orientation: cards-on-the-left
     - category: Policy support
       title: Policymaking
       description: Policymaking is characterized by complexity. We help you and your
@@ -35,10 +39,6 @@ featuredProjectsSection:
     - category: Field-building
       title: Field-building
       description: Share our mission? Join our network.
-      orientation: cards-on-the-left
-    - category: Research
-      title: Research
-      description: We synthesize, formalize and experiment.
       orientation: cards-on-the-left
 postsSection:
   newsSection:
