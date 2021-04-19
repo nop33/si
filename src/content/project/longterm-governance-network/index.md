@@ -1,10 +1,10 @@
 ---
 title: Longterm Governance Network
+subtitle: ""
 featuredImage: connection.jpg
 category: Field-building
 tags:
   - Coordination
-  - ""
 isFeaturedOnHomepage: true
 textSections:
   - content: >-
@@ -49,4 +49,12 @@ textSections:
 
       Please, fill out your account profile with at least your first name, a profile picture and a short bio. That makes it easier to get a feel for who’s who.
     title: Zulip
+card:
+  title: ""
+  description: ""
+seo:
+  title: ""
+  description: ""
+---
+
 ---
