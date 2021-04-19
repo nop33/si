@@ -5,15 +5,38 @@ featuredImage: connection.jpg
 category: Field-building
 tags:
   - Coordination
+  - Networking
 isFeaturedOnHomepage: true
 textSections:
   - content: >-
       To build a strong community of practice in long-term governance, we invite
-      policymakers, diplomats, researchers and grantmakers to join our network.
+      policymakers, diplomats, researchers and grantmakers to join our network. 
 
 
-      If you think you could be a great addition, [fill out this form](https://airtable.com/shrdAb3PgjzY49EeZ) and we'll be in touch.
+      If you could be a great addition, [fill out this form](https://airtable.com/shrdAb3PgjzY49EeZ) and we'll be in touch.
     title: Join
+  - title: Benefits
+    content: >-
+      **Are you a policymaker?**
+
+
+      Embed concern for future generations into your work by connecting with other policymakers and leading scholars in the fields of decision-making, global catastrophic risks and Longtermism to exchange best practices and stay up to date.
+
+
+      **Are you a researcher?**
+
+
+      Make your research maximally policy-relevant by connecting with decision-makers and potential collaborators.
+
+
+      **How?**
+
+
+      * We organize themed biannual retreats for in-depth exchange.
+
+      * We maintain a chat platform for asynchronous discussions.
+
+      * We match you with other members based on your interests and needs.
   - content: >-
       We use Zulip for communication. It's like Slack but with proper threading
       - a great mix between a chat and a forum that won't flood your email
