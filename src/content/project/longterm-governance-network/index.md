@@ -56,5 +56,3 @@ seo:
   title: ""
   description: ""
 ---
-
----
