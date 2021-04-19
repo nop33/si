@@ -12,5 +12,10 @@ textSections:
       12:30-13:30 (Central European time). Join us [on Zoom with this
       link](https://us02web.zoom.us/j/82948562671?pwd=TkRDUU5nVlJyWmtFSXZTNi96OUl0dz09).
     title: ""
-
+card:
+  title: ""
+  description: ""
+seo:
+  title: ""
+  description: ""
 ---
