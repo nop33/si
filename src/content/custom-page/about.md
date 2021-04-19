@@ -13,13 +13,13 @@ textSections:
       ### Why?
 
 
-      From biotechnology to the development of superhuman intelligence, humanity is facing emerging challenges of unprecedented scale. The existence of future generations with lives worth living depends on our civilization’s ability to safeguard them from global catastrophic risks. But the multilateralism needed to govern these low-probability, high-impact events is out of sight.
+      From biotechnology to the development of transformative AI, humanity is facing emerging challenges of unprecedented scale. The existence of future generations with lives worth living depends on our civilization’s ability to safeguard them from global catastrophic risks. But the multilateralism needed to govern these low-probability, high-impact events is out of sight.
 
 
       ### How?
 
 
-      We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help to cope with the glut of information, competing objectives, complexity and uncertainty. Based in Geneva, Switzerland, we support policy networks centred around the United Nations and the European Union. As a non-profit, SI can afford to focus on producing long-term sustainable solutions. 
+      We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help to cope with the glut of information, competing objectives, complexity and uncertainty. Based in Geneva, Switzerland, we support policy networks centred around the United Nations and the European Union. As a non-profit, SI is focused on long-term impact.
 
 
       ### Policy networks?
