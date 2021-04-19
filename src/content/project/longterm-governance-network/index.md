@@ -7,7 +7,6 @@ tags:
   - ""
 isFeaturedOnHomepage: true
 textSections:
-  - title: ""
   - content: >-
       To build a strong community of practice in long-term governance, we invite
       policymakers, diplomats, researchers and grantmakers to join our network.
