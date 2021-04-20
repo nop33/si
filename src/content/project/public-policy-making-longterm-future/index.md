@@ -11,7 +11,7 @@ textSections:
   - title: ""
     content: >-
       *Authors: Maxime Stauffer, Konrad Seifert, Nora Ammann, Jan Pieter Snoeij*
-
+      *Draft No. 1*
 
       **[Read the full draft here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
 
