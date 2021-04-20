@@ -1,5 +1,5 @@
 ---
-title: "Policymaking for the Long-term future: Improving Institutional Fit"
+title: "Policymaking for the Long-term Future: Improving Institutional Fit"
 subtitle: ""
 featuredImage: joshua-sortino-lqkhndzsf-8-unsplash.jpg
 category: Research
