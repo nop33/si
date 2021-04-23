@@ -1,13 +1,9 @@
 ---
 title: Our theory of change
 date: 2021-04-23T08:25:47.541Z
-description: >-
-  If humanity survives the next few centuries, there is a fair chance that the
-  vast majority of human life, culture, science, technology, and happiness lies
-  ahead, rather than behind us. 
-
-
-  The pivotal importance of preserving our existence and increasing our chances of reaching humanity's potential is in stark contrast to the lack of weight that today's policymaking, discourse, and funding put on future generations. The Simon Institute for Longterm Governance (SI) aims to help change this.
+description: If humanity survives the next few centuries, there is a fair chance
+  that the vast majority of human life, culture, science, technology, and
+  happiness lies ahead, rather than behind us.
 featuredImage: as12-51-7524.jpg
 tags:
   - Strategy
@@ -22,7 +18,7 @@ seo:
 
     The pivotal importance of preserving our existence and increasing our chances of reaching humanity's potential is in stark contrast to the lack of weight that today's policymaking, discourse, and funding put on future generations. The Simon Institute for Longterm Governance (SI) aims to help change this.
 ---
-*By: [Felix Haas](https://www.linkedin.com/in/felix-haas-542b4b30/)*
+*Written by [Felix Haas](https://www.linkedin.com/in/felix-haas-542b4b30/) - Crescent earthrise by [Toby Ord](http://tobyord.com/earth)*
 
 Our theory of change illustrates how we intend to contribute to the long-term flourishing of civilization.
 
