@@ -41,7 +41,7 @@ donateSection:
     content: >-
       We currently estimate our room for more funding to be around CHF2,000,000.
       Any amount directly enables us to do more. [Check out our plans and
-      strategy here.](https://www.simoninstitute.ch/blog/tag/strategy/)
+      strategy here.](/blog/tag/strategy/)
 
 
       You can donate via EA Geneva until SI’s nonprofit status is legally recognized. This also makes your contribution tax-deductible in Switzerland. Just indicate in Step 4 that your donation is for SI.
@@ -57,8 +57,7 @@ donateSection:
     - title: From D, NL, UK or US?
       content: You can soon make tax-deductible donations from the USA, UK or
         Netherlands via the EA Funds platform. For donations from Germany,
-        please [get in
-        touch](https://www.simoninstitute.ch/get-involved/#get-in-touch).
+        please [get in touch](/get-involved/#get-in-touch).
 textSections:
   - title: Why support us?
     content: >-
