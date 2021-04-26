@@ -5,24 +5,31 @@ workWithUsSection:
   title: Work with us
   columnsWithButtons:
     - title: Apply
-      content: >
-        We are just starting to raise funds. For now, you can send us a general
+      content: We are just starting to raise funds. For now, you can send us a general
         application to signal interest.
       button:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
     - title: Collaborate
-      content: We are happy to receive collaboration proposals from individuals
-        working on related projects.
+      content: >-
+        We are happy to receive collaboration proposals from individuals working
+        on related projects.
+
+
+        [Get in touch below.](/get-involved/#get-in-touch)
       button:
-        text: Get in touch
-        url: /get-involved/#get-in-touch
+        text: ""
+        url: ""
     - title: Partner
-      content: We are always looking for institutional partners wanting to safeguard
+      content: >-
+        We are always looking for institutional partners wanting to safeguard
         future generations.
+
+
+        [Get in touch below.](/get-involved/#get-in-touch)
       button:
-        text: Get in touch
-        url: /get-involved/#get-in-touch
+        text: ""
+        url: ""
 getInTouchSection:
   title: Get in touch
   intro: |
