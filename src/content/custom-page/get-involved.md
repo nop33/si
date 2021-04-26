@@ -12,15 +12,17 @@ workWithUsSection:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
     - title: Collaborate
-      content: >
-        We are happy to receive collaboration proposals or provide feedback on
-        projects related to our focus areas. For select audiences, we also give
-        talks and workshops.
+      content: We are happy to receive collaboration proposals from individuals
+        working on related projects.
+      button:
+        text: Get in touch
+        url: /get-involved/#get-in-touch
     - title: Partner
-      content: >
-        We are always looking for institutional partners aiming to improve the
-        representation of future generations in public policy-making and reduce
-        global catastrophic risks.
+      content: We are always looking for institutional partners wanting to safeguard
+        future generations.
+      button:
+        text: Get in touch
+        url: /get-involved/#get-in-touch
 getInTouchSection:
   title: Get in touch
   intro: |
