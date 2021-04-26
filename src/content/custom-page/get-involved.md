@@ -5,22 +5,26 @@ workWithUsSection:
   title: Work with us
   columnsWithButtons:
     - title: Apply
-      content: >
-        We are just starting to raise funds. For now, you can send us a general
-        application to signal interest.
+      content: Signal your interest with a general application until we start hiring.
       button:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
     - title: Collaborate
-      content: >
-        We are happy to receive collaboration proposals or provide feedback on
-        projects related to our focus areas. For select audiences, we also give
-        talks and workshops.
+      content: |-
+        We are happy to support individuals working on related projects. 
+
+        [Get in touch](/get-involved/#get-in-touch) ↓
+      button:
+        text: ""
+        url: ""
     - title: Partner
-      content: >
-        We are always looking for institutional partners aiming to improve the
-        representation of future generations in public policy-making and reduce
-        global catastrophic risks.
+      content: |-
+        We are building lasting relationships with aligned institutions.
+
+        [Get in touch](/get-involved/#get-in-touch) ↓
+      button:
+        text: ""
+        url: ""
 getInTouchSection:
   title: Get in touch
   intro: |
@@ -40,11 +44,11 @@ donateSection:
   intro:
     content: >-
       We currently estimate our room for more funding to be around CHF2,000,000.
-      Any amount of donations directly enables us to do more. Check out our
-      [2-year launch plan](/blog/post/launch-plan/) for more.
+      Any amount directly enables us to do more. [Check out our plans and
+      strategy here.](/blog/tag/strategy/)
 
 
-      You can donate via EA Geneva until SI’s nonprofit status is officially recognized. This also makes your contribution tax-deductible in Switzerland.
+      You can donate via EA Geneva until SI’s nonprofit status is legally recognized. This also makes your contribution tax-deductible in Switzerland. Just indicate in Step 4 that your donation is for SI.
     button:
       text: Donate
       url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
@@ -55,9 +59,9 @@ donateSection:
 
         IBAN: CH85 0024 0240 9405 0140X
     - title: From D, NL, UK or US?
-      content: Please get in touch! SI can receive fiscal sponsorship if the
-        collective annual donation volume from abroad is above the equivalent of
-        $50,000.
+      content: You can soon make tax-deductible donations from the USA, UK or
+        Netherlands via the EA Funds platform. For donations from Germany,
+        please [get in touch](/get-involved/#get-in-touch).
 textSections:
   - title: Why support us?
     content: >-
