@@ -11,8 +11,10 @@ workWithUsSection:
         text: Apply
         url: https://airtable.com/shr1fLH2prZYWukIM
     - title: Collaborate
-      content: |-
-        We are happy to support individuals working on related projects.
+      content: >-
+        We are happy to give input to and support individuals working on related
+        projects.
+
 
         [Get in touch](/get-involved/#get-in-touch) ↓
       button:
