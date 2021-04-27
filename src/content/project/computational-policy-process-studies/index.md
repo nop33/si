@@ -14,7 +14,7 @@ textSections:
       Jens Fischer, Giovanna Di Marzo Serugendo*
 
 
-      [Read the full draft here.](https://drive.google.com/file/d/1r4ACXGQL55td5LJ3RiySgRfUtKIcNvmo/view?usp=sharing)
+      [Read the full draft here.](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)
 
 
       While policy process theory has converged on the view that policymaking can be studied as a complex system, the literature has only minimally used the methodological complement to the theory - experiments performed with computational models.  Implementations are rare, mainly pushed by computer scientists in trans-disciplinary work and often so detached from the mainstream theory that they form a separate line of research instead of testing theories from the social sciences.
@@ -26,7 +26,7 @@ textSections:
       Overall, we aim to promote a computational turn of policy process studies that is empirical, hypothesis-driven and results from a joint effort of social and computational scientists. 
 
 
-      [Read the full draft here.](https://drive.google.com/file/d/1r4ACXGQL55td5LJ3RiySgRfUtKIcNvmo/view?usp=sharing)
+      [Read the full draft here.](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)
 card:
   title: ""
   description: ""
