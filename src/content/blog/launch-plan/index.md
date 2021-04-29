@@ -37,7 +37,7 @@ We encourage you to share feedback, ideas and collaboration opportunities.
 
 ## 24 months to prove SI
 
-In the next 24 months (2021-2022), SI enters its first phase of development. At the end of 2022, SI’s governing board and staff will evaluate progress and will continue operations if the goals below are achieved.
+In the next 24 months (2021-2022), SI enters its first phase of development. At the end of 2022, SI’s governing board and staff will evaluate progress. We will continue operating only if the goals below are achieved. Baselines and exact targets will be established at the end of 2021.
 
 We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
 
@@ -122,7 +122,7 @@ For full-time positions, we are looking for individuals with 5+ years of experie
 
 To raise funding, we will continuously dedicate a certain share of our available resources to fundraising. We expect this to be about 20% in the first two years and reduce to maybe 10% after two years, once SI has proven its raison d’être.
 
-We will first leverage personal connections to various grantmaking institutions, hoping this might expedite the process for receiving sufficiently large general support building up the team. Once these discussions are set in motion, we will submit grant proposals for general support to various foundations that seem aligned with our values. We expect this to take up most of our capacity until late 2021. Only then will we start submitting project-specific proposals to large grant-making institutions.
+We will start by leveraging personal connections to various grantmaking institutions for general support. Once these discussions are set in motion, we will submit grant proposals for general support to various foundations that seem aligned with our values. We expect this to take up most of our fundraising capacity until late 2021. Only then will we start submitting project-specific proposals to large grant-making institutions.
 
 #### Reputation
 
@@ -140,7 +140,7 @@ To maintain relationships with our audience, we will irregularly update our webs
 
 Our goal is for SI to be an independently operating entity by the start of Q3 2021. The legal institution of SI consists of the constitutive assembly, application for nonprofit status and official registration. The public launch of SI has two phases: publishing the website and an announcement on the EA forum. The operational launch entails opening bank accounts and arranging fiscal sponsorship for donors from abroad.
 
-In Q2, we will define our organizational structure to formalize the role of the governing board in a set of bylaws. We will formalize the individual affiliation of board members, advisers and collaborators. Further, we will finalize our recruiting process, including the development of work tests; develop our onboarding process; and set up our operations infrastructure for accounting, monitoring, evaluation and learning.
+In Q2, we will define our organizational structure. We will formalize the individual affiliation of board members, advisers and collaborators. Further, we will finalize our recruiting process, including the development of work tests; develop our onboarding process; and set up our operations infrastructure for accounting, monitoring, evaluation and learning.
 
 ## Adaptive planning
 
@@ -161,3 +161,7 @@ To adapt systematically and avoid losing momentum, we use the following mechanis
 1. Monitoring-Evaluation-Learning: we track the time allocated to each of our three main annual goals, track milestones and their required time estimates. We survey our audience and assess feedback on tools and research to constantly refine our approach. We write learning reports for each project after the pilot phase.
 2. Quarterly strategic meeting: staff revisits the annual plan and adapts the project schedule as a function of progress to design a detailed plan for each quarter.
 3. Semiannual board meeting: in February and October, the governing board discusses progress and adapts the strategy accordingly.
+
+
+
+**[Read all this way? Consider donating.](/get-involved/#donate)**
