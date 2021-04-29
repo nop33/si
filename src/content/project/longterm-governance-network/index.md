@@ -10,7 +10,7 @@ isFeaturedOnHomepage: true
 textSections:
   - content: >-
       To build a strong community of practice in long-term governance, we invite
-      select policy actors to join our network. 
+      policy actors to join our network. 
 
 
       If you could be a great addition, [fill out this form](https://airtable.com/shrdAb3PgjzY49EeZ) and we'll be in touch.
