@@ -11,10 +11,10 @@ textSections:
   - title: ""
     content: >-
       *Authors: Maxime Stauffer, Konrad Seifert, Nora Ammann, Jan Pieter Snoeij*
-      
-      
-      *Draft No. 1*
-      
+
+
+      *Draft No. 1 (submitted to [Futures](https://www.journals.elsevier.com/futures/))*
+
 
       **[Read the full draft here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
 
