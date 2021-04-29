@@ -45,9 +45,7 @@ textSections:
       groups.
 
 
-      Once signed up, you can log in using your browser or [the app for your phone](https://play.google.com/store/apps/details?id=com.zulipmobile&hl=en_US) at [longtermov.zulipchat.com](https://longtermov.zulipchat.com).
-
-
+      Once we have confirmed your sign-up, you will be able to log into [longtermgov.zulipchat.com](https://longtermgov.zulipchat.com/) via your browser or [the app for your phone](https://play.google.com/store/apps/details?id=com.zulipmobile).
 
 
       ### New to Zulip?
@@ -70,7 +68,7 @@ textSections:
       Pro-tip: liberally use emoticons as reactions - that way others get feedback even if you don't write a comment.
 
 
-      Please, fill out your account profile with at least your first name, a profile picture and a short bio. That makes it easier to get a feel for who’s who.
+      Introduce yourself in the [introductions stream](https://longtermgov.zulipchat.com/#narrow/stream/285784-introductions) to make it easier to get a feel for who’s who.
     title: Zulip
 card:
   title: ""
