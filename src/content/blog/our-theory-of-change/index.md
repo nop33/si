@@ -53,4 +53,4 @@ SI enables the above in distinct ways: We are both uniquely narrow in our focus 
 
 Humanity's status quo sees our long-term future grossly underrepresented in policymaking. SI’s mission is to increase the capacity of policy networks to mitigate global catastrophic risks and foster systemic learning for civilization to flourish. We aim to achieve this by boosting long-term institutional fit through improving the decision-making processes of actors in policy networks. We are starting by working with international organizations, member states, academia and civil society around the United Nations.
 
-There is no reason why humanity's long-term future should not be vast. There is no reason why we should not be able to fulfil a potential much greater than what past generations have built for us.
+There is no reason why humanity's long-term future cannot be vast. There is no reason why we would not be able to fulfil a potential much greater than what past generations have built for us.
