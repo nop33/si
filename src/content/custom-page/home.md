@@ -32,7 +32,7 @@ featuredProjectsSection:
       description: We synthesize, formalize and experiment.
       orientation: cards-on-the-left
     - category: Policy support
-      title: Policymaking
+      title: Policy support
       description: Policymaking is characterized by complexity. We help you and your
         network grapple with it productively.
       orientation: cards-on-the-left
