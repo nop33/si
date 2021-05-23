@@ -1,7 +1,7 @@
 ---
 name: Rainer Mensing
 photo: ../../../images/avatar-placeholder.jpeg
-group: Collaborators
+group: Alumni
 role: Research affiliate
 links:
   website: ""
