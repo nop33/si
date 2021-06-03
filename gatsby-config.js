@@ -1,3 +1,5 @@
+const mediaMaxWidth = 704
+
 module.exports = {
   siteMetadata: {
     siteUrl: `https://www.simoninstitute.ch`,
@@ -60,9 +62,15 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: mediaMaxWidth,
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 704,
+              maxWidth: mediaMaxWidth,
             },
           },
           {
@@ -133,6 +141,11 @@ module.exports = {
         exclude: [`/thank-you`, `/admin`],
       },
     },
-    `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        modulePath: `${__dirname}/src/cms.js`,
+      },
+    },
   ],
 }
