@@ -2,12 +2,9 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import {
-  toHTML,
-  constructProjectCategoryUrl,
-  constructProjectTagUrl,
-} from "../utils"
+import { toHTML, constructProjectTagUrl } from "../utils"
 
+import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
@@ -40,16 +37,13 @@ const SubpageTemplate = ({ data, location }) => {
 
   const headerLinks = (
     <div>
-      {category && (
-        <Link className="golden" to={constructProjectCategoryUrl(category)}>
-          {category}
-        </Link>
-      )}
-      <span> · </span>
-      {tags &&
-        tagLinks.map(tagLink => {
-          return tagLink
-        })}
+      <div>{category && <CategoryLink>{category}</CategoryLink>}</div>
+      <div>
+        {tags &&
+          tagLinks.map(tagLink => {
+            return tagLink
+          })}
+      </div>
     </div>
   )
 
