@@ -16,6 +16,7 @@ const PageLayout = ({
   headerLinks,
   children,
   backLink,
+  backLinkText,
 }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -23,7 +24,7 @@ const PageLayout = ({
   const className = isRootPath ? styles.homepage : styles.subpage
 
   return (
-    <div className={`${styles.allPages} ${className}`}>
+    <article className={`${styles.allPages} ${className}`}>
       <header>
         <div
           className={`global-content-wrapper ${styles.headerContentWrapper}`}
@@ -31,7 +32,7 @@ const PageLayout = ({
           <NavigationMenu></NavigationMenu>
           <div className={styles.textContent}>
             <h1>{title}</h1>
-            {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
+            {subtitle && <div className={styles.subtitle}>{subtitle}</div>}
             {headerLinks && (
               <div className={styles.headerLinks}>{headerLinks}</div>
             )}
@@ -41,13 +42,13 @@ const PageLayout = ({
       <main>
         {backLink && (
           <Link to={backLink} className="golden backLink">
-            <FontAwesomeIcon icon={faChevronLeft} /> Back
+            <FontAwesomeIcon icon={faChevronLeft} /> {backLinkText}
           </Link>
         )}
         {children}
       </main>
       <Footer />
-    </div>
+    </article>
   )
 }
 

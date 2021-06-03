@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Image from "gatsby-image"
 
+import Authors from "../components/authors"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import ArrowedLink from "../components/arrowed-link"
@@ -14,6 +15,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const mobileFeaturedImage = post.frontmatter.featuredImage?.mobile?.fluid
   const desktopFeaturedImage = post.frontmatter.featuredImage?.desktop?.fluid
   const seoFeaturedImage = post.frontmatter.featuredImage?.seo?.resize
+  const authors = post.frontmatter.authors
 
   const sources = [
     mobileFeaturedImage,
@@ -24,11 +26,20 @@ const BlogPostTemplate = ({ data, location }) => {
   ]
   const tags = post.frontmatter?.tags
 
+  const subtitle = (
+    <div>
+      <time dateTime={post.frontmatter.date}>{post.frontmatter.date}</time>
+      <span> · </span>
+      <span>{post.fields.readingTime.text}</span>
+      {authors && <Authors authors={authors} />}
+    </div>
+  )
+
   return (
     <PageLayout
       location={location}
       title={post.frontmatter.title}
-      subtitle={`${post.frontmatter.date} · ${post.fields.readingTime.text}`}
+      subtitle={subtitle}
     >
       <SEO
         title={post.frontmatter.seo?.title || post.frontmatter.title}
@@ -117,6 +128,10 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         tags
+        authors {
+          name
+          page
+        }
         seo {
           title
           description
