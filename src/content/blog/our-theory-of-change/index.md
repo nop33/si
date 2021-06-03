@@ -5,6 +5,7 @@ description: If humanity survives the next few centuries, there is a fair chance
   that the vast majority of human life, culture, science, technology, and
   happiness lies ahead, rather than behind us.
 featuredImage: as12-51-7524.jpg
+authors:
 tags:
   - Strategy
   - Transparency

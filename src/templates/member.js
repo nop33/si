@@ -45,6 +45,7 @@ const MemberTemplate = ({ data, location }) => {
       subtitle={personData.role}
       location={location}
       backLink="/about#our-team"
+      backLinkText="Team"
     >
       <SEO
         title={personData.seo?.title || personData.name}

@@ -16,6 +16,7 @@ const PageLayout = ({
   headerLinks,
   children,
   backLink,
+  backLinkText,
 }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -31,7 +32,7 @@ const PageLayout = ({
           <NavigationMenu></NavigationMenu>
           <div className={styles.textContent}>
             <h1>{title}</h1>
-            {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
+            {subtitle && <div className={styles.subtitle}>{subtitle}</div>}
             {headerLinks && (
               <div className={styles.headerLinks}>{headerLinks}</div>
             )}
@@ -41,7 +42,7 @@ const PageLayout = ({
       <main>
         {backLink && (
           <Link to={backLink} className="golden backLink">
-            <FontAwesomeIcon icon={faChevronLeft} /> Back
+            <FontAwesomeIcon icon={faChevronLeft} /> {backLinkText}
           </Link>
         )}
         {children}
