@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import SEO from "../components/seo"
@@ -8,18 +8,32 @@ import BaseSection from "../components/sections/base"
 import Grid from "../components/sections/grid"
 import Card from "../components/card"
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faRssSquare } from "@fortawesome/free-solid-svg-icons"
+
 import featuredTags from "../content/_configuration/featured-tags.yaml"
 
 const BlogIndex = ({ data, location }) => {
   const pageData = data.blogPage.nodes[0].frontmatter
   const { nodes, totalCount } = data.posts
 
+  const subtitle = (
+    <div>
+      <div style={{ marginBottom: "var(--spacing-2" }}>{`${totalCount} post${
+        totalCount === 1 ? "" : "s"
+      }`}</div>
+      <Link className="golden" to="/rss.xml">
+        <FontAwesomeIcon icon={faRssSquare} size="lg" />
+      </Link>
+    </div>
+  )
+
   return (
     <div>
       <PageLayout
         title={pageData.title}
-        subtitle={`${totalCount} post${totalCount === 1 ? "" : "s"}`}
         location={location}
+        subtitle={subtitle}
       >
         <SEO
           title={pageData.seo?.title || pageData.title}
