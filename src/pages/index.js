@@ -65,11 +65,11 @@ const Home = ({ data, location }) => {
                     project.frontmatter.featuredImage.childImageSharp.fluid
                   }
                   title={
-                    project.frontmatter.card.title || project.frontmatter.title
+                    project.frontmatter.card?.title || project.frontmatter.title
                   }
                   subtitle={project.frontmatter.tags.join(" / ")}
                   content={
-                    project.frontmatter.card.description ||
+                    project.frontmatter.card?.description ||
                     project.frontmatter.subtitle
                   }
                 />
