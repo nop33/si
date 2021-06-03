@@ -32,11 +32,11 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
                     project.frontmatter?.featuredImage?.childImageSharp.fluid
                   }
                   title={
-                    project.frontmatter.card.title || project.frontmatter.title
+                    project.frontmatter.card?.title || project.frontmatter.title
                   }
                   subtitle={project.frontmatter.category}
                   content={
-                    project.frontmatter.card.description ||
+                    project.frontmatter.card?.description ||
                     project.frontmatter.subtitle ||
                     project.excerpt
                   }
