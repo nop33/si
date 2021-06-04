@@ -162,6 +162,4 @@ To adapt systematically and avoid losing momentum, we use the following mechanis
 2. Quarterly strategic meeting: staff revisits the annual plan and adapts the project schedule as a function of progress to design a detailed plan for each quarter.
 3. Semiannual board meeting: in February and October, the governing board discusses progress and adapts the strategy accordingly.
 
-
-
 **[Read all this way? Consider donating.](/get-involved/#donate)**
