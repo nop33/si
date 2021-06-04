@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: Simon-Institute-for-Longterm-Governance/si-website
-  branch: update-content
+  repo: nop33/si
+  branch: 2021-06-04-updates
+  # repo: Simon-Institute-for-Longterm-Governance/si-website
+  # branch: update-content
 
 media_folder: src/images
 
