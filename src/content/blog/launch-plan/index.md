@@ -6,6 +6,8 @@ featuredImage: annie-spratt-kzo9xqmo_ta-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+  - name: Maxime Stauffer
+    page: maxime-stauffer/index
 tags:
   - Strategy
   - Transparency
