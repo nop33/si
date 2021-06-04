@@ -65,10 +65,10 @@ textSections:
       * Get email notifications for particular people, topics or streams
 
 
-      Pro-tip: liberally use emoticons as reactions - that way others get feedback even if you don't write a comment.
+      [Introduce yourself](https://longtermgov.zulipchat.com/#narrow/stream/278312-social/topic/Introductions) to make it easier to get a feel for who’s who. 
 
 
-      Introduce yourself in the [introductions stream](https://longtermgov.zulipchat.com/#narrow/stream/285784-introductions) to make it easier to get a feel for who’s who.
+      Tip: use emoticons as reactions - that way others get feedback even if you don't write a comment. [](https://longtermgov.zulipchat.com/#narrow/stream/278312-social/topic/Introductions)
     title: Zulip
 card:
   title: ""
