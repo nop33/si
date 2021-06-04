@@ -49,7 +49,7 @@ At SI, we aim to improve **policymaking** through:
 * **Training decision-making under uncertainty:** The field of decision-making under deep uncertainty has developed cognitive and digital tools with empirical backing, the literature on superforecasting provides a treasure trove of information on robust, adaptive decision-making under uncertainty. People who tend to perform extraordinarily well at this type of judgement are humble, self-aware, pragmatic analysts with a probabilistic worldview who continuously strive to improve.
 * **Facilitating group deliberation:** It is important to understand political decision-making as a collective phenomenon and thus improve how consensus is reached by alleviating information asymmetries and supporting deliberation processes. Decision-making support must account for group-specific particularities. The field of social psychology has aggregated a number of promising leverage points for improving collective decision-making.
 
-![Illustration of Theory of Change](image001.png)
+![Illustration of Theory of Change](tochighres.png)
 
 SI enables the above in distinct ways: We are both uniquely narrow in our focus on the long term and uniquely broad in the type of support we offer. SI goes beyond supplying knowledge to policy networks or facilitating interaction between experts and decision-makers. We equip policy actors with tools to handle information overload and facilitate collective decision-making. For impact to last, we are building a community of practice around these tools and ideas.
 
