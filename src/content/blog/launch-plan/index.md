@@ -16,21 +16,16 @@ The Simon Institute for Longterm Governance (SI) aims to increase the longterm i
 
 In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core objectives are to
 
-\    (i) prove its approach by generating early signs of counterfactual impact,
-
-\    (ii) narrow down its focus until 2026 and
-
-\    (iii) raise funding to permanently employ at least 5 full-time equivalents (FTE).
+1. prove its approach by generating early signs of counterfactual impact;
+2. narrow down its focus until 2026; and
+3. raise funding to permanently employ at least 5 full-time equivalents (FTE).
 
 In 2021, SI will
 
-\    (i) deploy three training programs for policymakers to deal with complexity;
-
-\    (ii) publish 5 foundational working papers and 1 peer-reviewed article;
-
-\    (iii) raise between CHF 200’000 and 2’000’000; and
-
-\    (iv) set up its legal and operating structure.
+1. deploy three training programs for policymakers to deal with complexity;
+2. publish 5 foundational working papers and 1 peer-reviewed article;
+3. raise between CHF 200’000 and 2’000’000; and
+4. set up its legal and operating structure.
 
 The public launch is set to complete on March 31st, 2021. SI will be a Swiss association with recognized non-profit status.
 
