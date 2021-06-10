@@ -9,16 +9,29 @@ const Authors = ({ authors }) => {
     <address className={styles.authors}>
       <span>By </span>
       {authors.map((author, index) => {
-        const name = author.page ? (
-          <Link
-            rel="author"
-            to={`/about/member/${author.page.replace("index", "")}`}
-          >
-            {author.name}
-          </Link>
-        ) : (
-          <span rel="author">{author.name}</span>
-        )
+        let name
+        if (author.page) {
+          name = (
+            <Link
+              rel="author"
+              to={`/about/member/${author.page.replace("index", "")}`}
+            >
+              {author.name}
+            </Link>
+          )
+        } else if (author.externalLink) {
+          name = (
+            <a
+              href={author.externalLink}
+              rel="nofollow noopener noreferrer"
+              target="_blank"
+            >
+              {author.name}
+            </a>
+          )
+        } else {
+          name = <span rel="author">{author.name}</span>
+        }
         return (
           <span key={author.page}>
             {name}

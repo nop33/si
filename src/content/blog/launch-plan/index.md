@@ -6,6 +6,7 @@ featuredImage: annie-spratt-kzo9xqmo_ta-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+    externalLink: ""
 tags:
   - Strategy
   - Transparency
