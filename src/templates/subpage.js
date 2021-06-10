@@ -11,6 +11,7 @@ import SideBySide from "../components/sections/side-by-side"
 import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"
 import SEO from "../components/seo"
+import YouTubeVideo from "../components/youtube-video"
 
 import { generateIdFromTitle } from "../utils"
 
@@ -85,6 +86,12 @@ const SubpageTemplate = ({ data, location }) => {
               {textSection.sectionImages && (
                 <ImageList images={textSection.sectionImages} />
               )}
+              {textSection.video && (
+                <YouTubeVideo
+                  src={textSection.video.src}
+                  title={textSection.video.title}
+                />
+              )}
             </SideBySide>
           </BaseSection>
         )
@@ -142,6 +149,10 @@ export const pageQuery = graphql`
         textSections {
           content
           title
+          video {
+            src
+            title
+          }
           sectionImages {
             image {
               childImageSharp {
