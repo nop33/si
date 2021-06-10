@@ -131,6 +131,7 @@ export const pageQuery = graphql`
         authors {
           name
           page
+          externalLink
         }
         seo {
           title

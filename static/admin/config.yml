@@ -615,6 +615,12 @@ collections:
             value_field: "{{slug}}"
             display_fields: ["name"]
             required: false
+          - {
+              label: "External link",
+              name: "externalLink",
+              widget: "string",
+              required: false,
+            }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
