@@ -507,6 +507,13 @@ collections:
               widget: "markdown",
               required: false,
             }
+          - label: Section images
+            name: sectionImages
+            widget: list
+            required: false
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt text", name: "alt", widget: "string" }
       - label: "Card"
         name: "card"
         widget: "object"

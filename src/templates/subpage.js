@@ -8,6 +8,7 @@ import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
+import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"
 import SEO from "../components/seo"
 
@@ -81,6 +82,9 @@ const SubpageTemplate = ({ data, location }) => {
                   __html: toHTML(textSection.content),
                 }}
               ></div>
+              {textSection.sectionImages && (
+                <ImageList images={textSection.sectionImages} />
+              )}
             </SideBySide>
           </BaseSection>
         )
@@ -138,6 +142,16 @@ export const pageQuery = graphql`
         textSections {
           content
           title
+          sectionImages {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 700) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            alt
+          }
         }
       }
     }
