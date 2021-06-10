@@ -9,7 +9,7 @@ import styles from "./navigation-menu.module.scss"
 
 import menu from "../content/_configuration/navigation-menu.yaml"
 
-const NavigationMenu = () => {
+const NavigationMenu = ({ hasBackgroundImage }) => {
   const [state, setState] = useState({
     isMobileMenuOpen: false,
   })
@@ -17,6 +17,13 @@ const NavigationMenu = () => {
   const data = useStaticQuery(graphql`
     query LogoQuery {
       logoLarge: file(absolutePath: { regex: "/logo.png/" }) {
+        childImageSharp {
+          fixed(width: 250, quality: 95) {
+            ...GatsbyImageSharpFixed_noBase64
+          }
+        }
+      }
+      logoLargeWhite: file(absolutePath: { regex: "/logo-white.png/" }) {
         childImageSharp {
           fixed(width: 250, quality: 95) {
             ...GatsbyImageSharpFixed_noBase64
@@ -32,7 +39,9 @@ const NavigationMenu = () => {
       }
     }
   `)
-  const logoLarge = data?.logoLarge?.childImageSharp?.fixed
+  const logoLarge = hasBackgroundImage
+    ? data?.logoLargeWhite?.childImageSharp?.fixed
+    : data?.logoLarge?.childImageSharp?.fixed
   const logoSmall = data?.logoSmall?.childImageSharp?.fixed
 
   function toggleMobileMenu() {
@@ -42,7 +51,7 @@ const NavigationMenu = () => {
   }
 
   return (
-    <div>
+    <div className={hasBackgroundImage ? styles.withBackgroundImage : ""}>
       <div className={styles.menuDesktop}>
         <div className={styles.logoContainer}>
           <Link to="/">

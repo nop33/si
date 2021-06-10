@@ -5,8 +5,6 @@ module.exports = {
     siteUrl: `https://www.simoninstitute.ch`,
   },
   plugins: [
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
     {
       resolve: "gatsby-plugin-react-svg",
       options: {
@@ -57,6 +55,8 @@ module.exports = {
         name: `images`,
       },
     },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {

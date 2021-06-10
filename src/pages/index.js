@@ -24,6 +24,7 @@ const Home = ({ data, location }) => {
         title={pageData.title}
         subtitle={pageData.subtitle}
         location={location}
+        withImageBackgroundHeader={pageData.hasImageBackgroundHeader}
       >
         <SEO
           title={pageData.seo?.title || pageData.title}
@@ -158,6 +159,7 @@ export const pageQuery = graphql`
             description
           }
           title
+          hasImageBackgroundHeader
           subtitle
           keyfactsSection {
             title
