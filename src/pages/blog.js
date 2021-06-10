@@ -8,6 +8,7 @@ import BaseSection from "../components/sections/base"
 import Grid from "../components/sections/grid"
 import Card from "../components/card"
 
+import "@fortawesome/fontawesome-svg-core/styles.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faRssSquare } from "@fortawesome/free-solid-svg-icons"
 
