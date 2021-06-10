@@ -16,6 +16,12 @@ collections:
         file: "src/content/custom-page/home.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Has Header with Background Image",
+              name: "hasImageBackgroundHeader",
+              widget: "boolean",
+              required: false,
+            }
           - label: "Keyfacts section"
             name: "keyfactsSection"
             widget: "list"

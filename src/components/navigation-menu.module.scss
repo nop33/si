@@ -44,13 +44,19 @@
   }
 }
 
-.closeButton,
+.close-button,
 .open-button {
   padding: var(--spacing-2) var(--spacing-4);
   cursor: pointer;
 }
 
-.closeButton {
+.with-background-image {
+  .open-button {
+    color: var(--color-si-mustard);
+  }
+}
+
+.close-button {
   color: var(--color-si-light-blue);
 }
 
