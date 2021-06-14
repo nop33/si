@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: Simon-Institute-for-Longterm-Governance/si-website
-  branch: update-content
+  repo: nop33/si
+  branch: 2021-06-04-updates
+  # repo: Simon-Institute-for-Longterm-Governance/si-website
+  # branch: update-content
 
 media_folder: src/images
 
@@ -16,6 +18,12 @@ collections:
         file: "src/content/custom-page/home.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Has Header with Background Image",
+              name: "hasImageBackgroundHeader",
+              widget: "boolean",
+              required: false,
+            }
           - label: "Keyfacts section"
             name: "keyfactsSection"
             widget: "list"
@@ -507,6 +515,20 @@ collections:
               widget: "markdown",
               required: false,
             }
+          - label: Section images
+            name: sectionImages
+            widget: list
+            required: false
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt text", name: "alt", widget: "string" }
+          - label: Section videos
+            name: sectionVideos
+            widget: list
+            required: false
+            fields:
+              - { label: "YouTube video URL", name: "src", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
       - label: "Card"
         name: "card"
         widget: "object"
@@ -593,6 +615,32 @@ collections:
           required: false,
         }
       - { label: "Featured image", name: "featuredImage", widget: "image" }
+      - label: "Authors"
+        name: "authors"
+        widget: list
+        required: false
+        fields:
+          - label: "Author name"
+            name: "name"
+            widget: "relation"
+            collection: "member"
+            search_fields: ["name"]
+            value_field: "name"
+            display_fields: ["name"]
+          - label: "Author page"
+            name: "page"
+            widget: "relation"
+            collection: "member"
+            search_fields: ["name"]
+            value_field: "{{slug}}"
+            display_fields: ["name"]
+            required: false
+          - {
+              label: "External link",
+              name: "externalLink",
+              widget: "string",
+              required: false,
+            }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
