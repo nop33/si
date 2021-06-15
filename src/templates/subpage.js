@@ -2,17 +2,16 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import {
-  toHTML,
-  constructProjectCategoryUrl,
-  constructProjectTagUrl,
-} from "../utils"
+import { toHTML, constructProjectTagUrl } from "../utils"
 
+import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
+import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"
 import SEO from "../components/seo"
+import VideoList from "../components/video-list"
 
 import { generateIdFromTitle } from "../utils"
 
@@ -40,16 +39,13 @@ const SubpageTemplate = ({ data, location }) => {
 
   const headerLinks = (
     <div>
-      {category && (
-        <Link className="golden" to={constructProjectCategoryUrl(category)}>
-          {category}
-        </Link>
-      )}
-      <span> · </span>
-      {tags &&
-        tagLinks.map(tagLink => {
-          return tagLink
-        })}
+      <div>{category && <CategoryLink>{category}</CategoryLink>}</div>
+      <div>
+        {tags &&
+          tagLinks.map(tagLink => {
+            return tagLink
+          })}
+      </div>
     </div>
   )
 
@@ -87,6 +83,12 @@ const SubpageTemplate = ({ data, location }) => {
                   __html: toHTML(textSection.content),
                 }}
               ></div>
+              {textSection.sectionImages && (
+                <ImageList images={textSection.sectionImages} />
+              )}
+              {textSection.sectionVideos && (
+                <VideoList videos={textSection.sectionVideos} />
+              )}
             </SideBySide>
           </BaseSection>
         )
@@ -144,6 +146,20 @@ export const pageQuery = graphql`
         textSections {
           content
           title
+          sectionVideos {
+            src
+            title
+          }
+          sectionImages {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 700) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            alt
+          }
         }
       }
     }

@@ -1,5 +1,6 @@
 ---
 title: Supporting policymakers in their cooperation with future generations.
+hasImageBackgroundHeader: true
 keyfactsSection:
   - title: About
     description: The Simon Institute for Longterm Governance (SI) supports policy

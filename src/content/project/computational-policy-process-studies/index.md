@@ -17,9 +17,6 @@ textSections:
       *Preprint submitted to [Complexity](https://www.hindawi.com/journals/complexity/).*
 
 
-      [Watch a presentation of the paper](https://www.youtube.com/watch?v=qLFAe8BXD-8).
-
-
       [Read the full draft.](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies) 
 
 
@@ -27,6 +24,9 @@ textSections:
 
 
       This paper builds on the theory of policy processes and computational sciences to advance the computational turn of policy process studies. We examine how and why complexity science lends itself to study policymaking, propose a workflow to guide the creation of computational policy process models, describe the contours of a computational approach to policy process modeling and define goals for future research that follow from this computational turn. Overall, we aim to promote a computational turn of policy process studies that is empirical and hypothesis-driven.
+    sectionVideos:
+      - src: https://www.youtube.com/embed/qLFAe8BXD-8
+        title: Watch a presentation of the paper
 card:
   title: ""
   description: ""

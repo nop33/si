@@ -1,10 +1,10 @@
+const mediaMaxWidth = 704
+
 module.exports = {
   siteMetadata: {
     siteUrl: `https://www.simoninstitute.ch`,
   },
   plugins: [
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
     {
       resolve: "gatsby-plugin-react-svg",
       options: {
@@ -55,14 +55,22 @@ module.exports = {
         name: `images`,
       },
     },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: mediaMaxWidth,
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 704,
+              maxWidth: mediaMaxWidth,
             },
           },
           {
@@ -72,13 +80,44 @@ module.exports = {
             },
           },
           `gatsby-remark-reading-time`,
+          `gatsby-remark-autolink-headers`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],
       },
     },
-    `gatsby-plugin-feed`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        feeds: [
+          {
+            query: `
+              {
+                allMarkdownRemark(
+                  filter: { fields: { contentType: { eq: "blog" } } }
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "SI's RSS Feed",
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -102,6 +141,12 @@ module.exports = {
         exclude: [`/thank-you`, `/admin`],
       },
     },
-    `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        modulePath: `${__dirname}/src/cms.js`,
+      },
+    },
+    `gatsby-plugin-preload-fonts`
   ],
 }

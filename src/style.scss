@@ -324,6 +324,24 @@ h2.secondary-heading {
   margin-top: var(--spacing-0);
 }
 
+.footnotes {
+  li {
+    p {
+      display: inline;
+    }
+  }
+}
+
+.header-background {
+  a.golden {
+    color: white;
+
+    &:hover {
+      color: var(--color-si-mustard);
+    }
+  }
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {

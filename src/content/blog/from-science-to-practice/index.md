@@ -3,6 +3,7 @@ title: Navigating complexity and information overload in decision-making
 date: 2021-03-11
 description: ""
 featuredImage: matthew-tenbruggencate-0hjwobhghjs-unsplash.jpg
+authors:
 tags:
   - Events
   - UN

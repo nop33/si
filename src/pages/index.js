@@ -24,6 +24,7 @@ const Home = ({ data, location }) => {
         title={pageData.title}
         subtitle={pageData.subtitle}
         location={location}
+        withImageBackgroundHeader={pageData.hasImageBackgroundHeader}
       >
         <SEO
           title={pageData.seo?.title || pageData.title}
@@ -65,11 +66,11 @@ const Home = ({ data, location }) => {
                     project.frontmatter.featuredImage.childImageSharp.fluid
                   }
                   title={
-                    project.frontmatter.card.title || project.frontmatter.title
+                    project.frontmatter.card?.title || project.frontmatter.title
                   }
                   subtitle={project.frontmatter.tags.join(" / ")}
                   content={
-                    project.frontmatter.card.description ||
+                    project.frontmatter.card?.description ||
                     project.frontmatter.subtitle
                   }
                 />
@@ -158,6 +159,7 @@ export const pageQuery = graphql`
             description
           }
           title
+          hasImageBackgroundHeader
           subtitle
           keyfactsSection {
             title
