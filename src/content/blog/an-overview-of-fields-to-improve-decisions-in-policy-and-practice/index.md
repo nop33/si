@@ -1,6 +1,6 @@
 ---
 title: An Overview of Fields to Improve Decisions in Policy and Practice
-date: 2021-06-21T12:41:05.995Z
+date: 2021-06-21T12:01:00.000Z
 description: "At SI, we support international policy actors in dealing with
   uncertainty, complexity, time-pressure and global catastrophic risks. Below is
   a compilation of fields and resources we draw from and that might be valuable
