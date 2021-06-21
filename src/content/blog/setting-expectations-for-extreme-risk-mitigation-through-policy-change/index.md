@@ -46,7 +46,7 @@ If you want to learn more about the risks themselves, there are many great resou
 * The Centre on Long-Term Resilience provides [a UK policy-oriented account of extreme risks](https://www.longtermresilience.org/futureproof). 
 * The latest Human Development Report provides an overview of [the types and severity of extreme risks](http://hdr.undp.org/sites/default/files/hdr2020.pdf) (p. 106ff). 
 
-## **Evidence shows that policy change under- and overreacts to policy problems.**
+## Evidence shows that policy change under- and overreacts to policy problems.
 
 The importance of climate change as a risk to human civilization has been [evident since the 1980s](https://en.wikipedia.org/wiki/History_of_climate_change_science#Consensus_begins_to_form,_1980%E2%80%931988). Yet, the policy reaction is not proportional to the known severity of the problem. Why is that? And does it apply to other policy problems, too?
 
@@ -88,7 +88,7 @@ Second, *amplifiers* increase the salience of problems. Amplifiers are positive 
 
 Using attention to explain policy change is a promising and fairly well-validated approach but attention is unlikely to explain the full story. This approach’s explanatory power hinges on the quality of available data and general scientific rigor. It is particularly difficult to provide an accurate explanation of general ‘system-level’ patterns (i.e. budget changes) through social mechanisms (interactions, belief dynamics, etc.). 
 
-## **What does under- and overreaction mean for avoiding global catastrophe?**
+## What does under- and overreaction mean for avoiding global catastrophe?
 
 Established policy actors have understood the dynamics of policy change. As a result, they spend a lot of their resources on building networks and learning how to design effective frames (i.e. presenting ideas in a compelling manner). They anticipate windows of opportunity or even create them, instrumentalizing exogenous events to achieve their goals. They sustain their engagement over time. They have teams monitoring policy activity, and collecting intelligence on what is being discussed, how, and how to participate in such debates. 
 
