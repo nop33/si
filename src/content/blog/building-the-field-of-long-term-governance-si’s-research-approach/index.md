@@ -9,14 +9,18 @@ description: In conducting this research, we make choices about what questions
   standard of reasoning transparency.
 featuredImage: ryan-lange-rgrkijnnefi-unsplash.jpg
 authors:
-  - name: Nora Ammann
+  - name: ""
     page: ""
+    externalName: Nora Ammann
+    externalLink: https://metabstract.squarespace.com/
   - name: Maxime Stauffer
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-  - name: Jan Pieter Snoeij
+  - name: ""
     page: ""
+    externalLink: https://www.linkedin.com/in/janpietersnoeij/
+    externalName: Jan Pieter Snoeij
 tags:
   - Strategy
   - Transparency
