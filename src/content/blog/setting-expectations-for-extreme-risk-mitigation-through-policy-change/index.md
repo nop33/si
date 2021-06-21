@@ -13,13 +13,17 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-  - name: Nora Ammann
-    page: nora-ammann/index
-  - name: Jan Pieter Snoeij
-    page: jan-pieter-snoeij/index
+  - name: ""
+    page: ""
+    externalName: Nora Ammann
+    externalLink: https://metabstract.squarespace.com/
+  - name: ""
+    page: ""
+    externalName: Jan Pieter Snoeij
+    externalLink: https://www.linkedin.com/in/janpietersnoeij/
 tags:
   - Strategy
-  - ""
+  - Resources
 isEventFeaturedOnHomepage: false
 ---
 Would you let your children hop on a plane that has a 1 in 6 chance of crashing? 1 in 10? 1 in 100? Probably not, and you are right: the risk is too high for people we care about. In his recent book, [The Precipice](http://www.tobyord.com/book), Toby Ord estimates a 1 in 6 chance of a global catastrophe occurring this century, destroying all of civilization's long-term potential. Such extreme risks concern the entire world population and succeeding generations.

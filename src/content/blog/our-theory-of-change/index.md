@@ -6,8 +6,10 @@ description: If humanity survives the next few centuries, there is a fair chance
   happiness lies ahead, rather than behind us.
 featuredImage: as12-51-7524.jpg
 authors:
-  - name: Felix Haas
-    page: felix-haas/index
+  - name: ""
+    page: ""
+    externalName: Felix Haas
+    externalLink: https://www.linkedin.com/in/felix-haas-542b4b30/
 tags:
   - Strategy
   - Transparency

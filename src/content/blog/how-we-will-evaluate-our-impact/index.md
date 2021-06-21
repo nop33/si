@@ -15,7 +15,7 @@ seo:
 ---
 ## Context
 
-Given the difficulty of measuring effects on policy networks, we anchor our strategy in a detailed theory of change. While organizational long-term adaptability and strategic capacity will be most indicative of the value of our work \[1], we highly value early indicators of the counterfactual impact of our work.
+Given the difficulty of measuring effects on policy networks, we anchor our strategy in a detailed theory of change. While organizational long-term adaptability and strategic capacity will be most indicative of the value of our work,[^1] we highly value early indicators of the counterfactual impact of our work.
 
 ## How we collect data
 
@@ -48,8 +48,8 @@ As a result of our research leading up to the conception of SI, we already have
 * Contributed to the strategy of a Swiss institute bridging academia and international organizations
 * Advised dozens of future policy practitioners and researchers on career strategy and priority areas
 
----
+- - -
 
-References
+**Footnotes**
 
-\[1] Teles, S., & Schmitt, M. (2011). The elusive craft of evaluating advocacy. Stanford Social Innovation Review, 9(3), 40-43.
+[^1] Teles, S., & Schmitt, M. (2011). The elusive craft of evaluating advocacy. Stanford Social Innovation Review, 9(3), 40-43.

@@ -1,23 +1,28 @@
 ---
-title: An Overview of Fields to Improve Decisions in Policy and Practice
-date: 2021-06-21T12:41:05.995Z
+title: An overview of fields to improve decisions in policy and practice
+date: 2021-06-21T12:01:00.000Z
 description: "At SI, we support international policy actors in dealing with
   uncertainty, complexity, time-pressure and global catastrophic risks. Below is
   a compilation of fields and resources we draw from and that might be valuable
   for others. "
-featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.svg
+featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png
 authors:
-  - externalLink: ""
-    name: Maxime Stauffer
+  - name: ""
+    externalName: Vicky Clayton
+    externalLink: https://www.linkedin.com/in/vickyclayton/
+  - externalName: Laura Green
+    externalLink: https://www.linkedin.com/in/lauraeagreen/
+  - externalName: Ian David Moss
+    externalLink: https://www.linkedin.com/in/iandavidmoss/
 tags:
   - Resources
 isEventFeaturedOnHomepage: false
 ---
-*Developed by Vicky Clayton, Laura Green, Ian David Moss (May 2021) of the Effective Institutions Project with adaptations from Maxime Stauffer and Konrad Seifert.*
+*This overview was initially developed by the Effective Institutions Project in May 2021 and has been lightly adapted by Maxime Stauffer and Konrad Seifert.*
 
 At SI, we support international policy actors in dealing with uncertainty, complexity, time-pressure and extreme risks. Below is a compilation of fields and resources we draw from and that might be valuable for others. 
 
-![An Overview of Fields to Improve Decisions in Policy and Practice.svg](an-overview-of-fields-to-improve-decisions-in-policy-and-practice.svg)
+![An Overview of Fields to Improve Decisions in Policy and Practice.svg](an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png)
 
 ## Improving individual decision-making
 
