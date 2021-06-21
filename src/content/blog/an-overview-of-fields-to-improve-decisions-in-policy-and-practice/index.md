@@ -5,10 +5,9 @@ description: "At SI, we support international policy actors in dealing with
   uncertainty, complexity, time-pressure and global catastrophic risks. Below is
   a compilation of fields and resources we draw from and that might be valuable
   for others. "
-featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.svg
+featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png
 authors:
-  - externalLink: ""
-    name: Maxime Stauffer
+  - name: Maxime Stauffer
 tags:
   - Resources
 isEventFeaturedOnHomepage: false
