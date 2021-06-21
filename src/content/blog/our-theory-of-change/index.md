@@ -21,7 +21,7 @@ seo:
 
     The pivotal importance of preserving our existence and increasing our chances of reaching humanity's potential is in stark contrast to the lack of weight that today's policymaking, discourse, and funding put on future generations. The Simon Institute for Longterm Governance (SI) aims to help change this.
 ---
-*Crescent earthrise by [Toby Ord](http://tobyord.com/earth)*
+*Crescent earthrise photo restored by [Toby Ord](http://tobyord.com/earth).*
 
 Our theory of change illustrates how we intend to contribute to the long-term flourishing of civilization. In this post, we outline our overarching strategic thinking.
 
