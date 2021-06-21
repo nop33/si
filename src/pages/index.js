@@ -108,7 +108,7 @@ const Home = ({ data, location }) => {
                     key={`news_card_${post.fields.slug}`}
                     url={post.fields.slug}
                     image={
-                      post.frontmatter?.featuredImage?.childImageSharp.fluid
+                      post.frontmatter?.featuredImage?.childImageSharp?.fluid
                     }
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
@@ -129,7 +129,7 @@ const Home = ({ data, location }) => {
                     key={`events_card_${post.fields.slug}`}
                     url={post.fields.slug}
                     image={
-                      post.frontmatter?.featuredImage?.childImageSharp.fluid
+                      post.frontmatter?.featuredImage?.childImageSharp?.fluid
                     }
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
