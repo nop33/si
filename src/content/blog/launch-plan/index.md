@@ -9,6 +9,7 @@ authors:
     externalLink: ""
   - name: Maxime Stauffer
     page: maxime-stauffer/index
+  - externalName: ""
 tags:
   - Strategy
   - Transparency
