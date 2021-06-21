@@ -1,5 +1,5 @@
 ---
-title: An Overview of Fields to Improve Decisions in Policy and Practice
+title: An overview of fields to improve decisions in policy and practice
 date: 2021-06-21T12:01:00.000Z
 description: "At SI, we support international policy actors in dealing with
   uncertainty, complexity, time-pressure and global catastrophic risks. Below is
@@ -16,7 +16,7 @@ isEventFeaturedOnHomepage: false
 
 At SI, we support international policy actors in dealing with uncertainty, complexity, time-pressure and extreme risks. Below is a compilation of fields and resources we draw from and that might be valuable for others. 
 
-![An Overview of Fields to Improve Decisions in Policy and Practice.svg](an-overview-of-fields-to-improve-decisions-in-policy-and-practice.svg)
+![An Overview of Fields to Improve Decisions in Policy and Practice.svg](an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png)
 
 ## Improving individual decision-making
 
