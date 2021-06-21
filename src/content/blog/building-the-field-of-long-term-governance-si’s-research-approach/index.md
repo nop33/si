@@ -79,7 +79,7 @@ We want the longtermist policy community to exist as long as necessary, potentia
 
 It makes sense to strengthen coordination when a community is taking shape. The current longtermist policy community is insufficiently organised and has no established best practices for engaging in policymaking for the long term. Our research, as well as other activities pursued by SI, contributes to the formation of a strong longtermist policy community. 
 
-## **Understanding policymaking processes is useful**
+## Understanding policymaking processes is useful
 
 An important underlying belief that guides our research is that **the ability to effectively improve long-term governance depends on our understanding of policymaking processes.**
 
