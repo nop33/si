@@ -14,9 +14,9 @@ authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
   - name: Nora Ammann
-    page: nora-ammann/index
+    page: ""
   - name: Jan Pieter Snoeij
-    page: jan-pieter-snoeij/index
+    page: ""
 tags:
   - Strategy
   - ""
