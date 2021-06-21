@@ -7,6 +7,8 @@ authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
     externalLink: ""
+  - name: Maxime Stauffer
+    page: maxime-stauffer/index
 tags:
   - Strategy
   - Transparency
