@@ -13,10 +13,12 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-  - name: Nora Ammann
+  - name: ""
     page: ""
-  - name: Jan Pieter Snoeij
+    externalName: Nora Ammann
+  - name: ""
     page: ""
+    externalName: Jan Pieter Snoeij
 tags:
   - Strategy
   - Resources
