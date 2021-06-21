@@ -15,7 +15,7 @@ tags:
   - Resources
 isEventFeaturedOnHomepage: false
 ---
-*Developed by Vicky Clayton, Laura Green, Ian David Moss (May 2021) of the Effective Institutions Project with adaptations from Maxime Stauffer and Konrad Seifert.*
+*This overview was initially developed by the Effective Institutions Project in May 2021 and has been lightly adapted by Maxime Stauffer and Konrad Seifert.*
 
 At SI, we support international policy actors in dealing with uncertainty, complexity, time-pressure and extreme risks. Below is a compilation of fields and resources we draw from and that might be valuable for others. 
 
