@@ -7,7 +7,10 @@ description: "At SI, we support international policy actors in dealing with
   for others. "
 featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png
 authors:
-  - name: Maxime Stauffer
+  - name: ""
+    externalName: Vicky Clayton
+  - externalName: Laura Green
+  - externalName: Ian David Moss
 tags:
   - Resources
 isEventFeaturedOnHomepage: false
