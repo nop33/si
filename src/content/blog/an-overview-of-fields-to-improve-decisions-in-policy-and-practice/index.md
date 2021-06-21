@@ -9,8 +9,11 @@ featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice
 authors:
   - name: ""
     externalName: Vicky Clayton
+    externalLink: https://www.linkedin.com/in/vickyclayton/
   - externalName: Laura Green
+    externalLink: https://www.linkedin.com/in/lauraeagreen/
   - externalName: Ian David Moss
+    externalLink: https://www.linkedin.com/in/iandavidmoss/
 tags:
   - Resources
 isEventFeaturedOnHomepage: false
