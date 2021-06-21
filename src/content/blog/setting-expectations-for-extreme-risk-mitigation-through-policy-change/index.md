@@ -1,6 +1,6 @@
 ---
 title: Setting expectations for extreme risk mitigation through policy change
-date: 2021-06-21T12:11:57.950Z
+date: 2021-06-21T14:11:57.950Z
 description: Our motivation for writing this post comes from observing an
   increasing number of calls for preparedness which require institutional
   paradigm shifts of the kind that is observed mostly on centennial scales. Many
