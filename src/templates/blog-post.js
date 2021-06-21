@@ -132,6 +132,7 @@ export const pageQuery = graphql`
           name
           page
           externalLink
+          externalName
         }
         seo {
           title

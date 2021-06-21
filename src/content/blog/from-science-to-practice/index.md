@@ -4,6 +4,8 @@ date: 2021-03-11
 description: ""
 featuredImage: matthew-tenbruggencate-0hjwobhghjs-unsplash.jpg
 authors:
+  - name: Konrad Seifert
+    page: konrad-seifert/index
 tags:
   - Events
   - UN
