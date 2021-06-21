@@ -3,10 +3,10 @@ title: Building the field of long-term governance - SI’s research approach
 date: 2021-06-21T13:27:44.048Z
 description: In conducting this research, we make choices about what questions
   to ask, what modelling assumptions to make, what bodies of literature to
-  primarily rely on, etc. **In this short piece, we want to make the underlying
-  beliefs that inform these decisions explicit. By doing so, we hope to explain
-  our approach, invite constructive criticism and live up to our standard of
-  reasoning transparency.**
+  primarily rely on, etc. In this short piece, we want to make explicit the
+  underlying beliefs that inform these decisions. By doing so, we hope to
+  explain our approach, invite constructive criticism and live up to our
+  standard of reasoning transparency.
 featuredImage: si_research_theory.png
 authors:
   - name: Nora Ammann
@@ -31,7 +31,7 @@ The study of long-term governance builds upon existing fields of study. The most
 
 We mean governance to refer not only to the associated branches of the state but to a wider decision-making ecosystem of individuals and organizations. Most of our research focuses on institutions ranging from international and regional organizations (e.g. the WHO and other UN organizations, the European Commission) to national governments, and academic institutions and advocacy groups wishing to inform policymaking for the long-term future. 
 
-In conducting this research, we make choices about what questions to ask, what modelling assumptions to make, what bodies of literature to primarily rely on, etc. **In this short piece, we want to make the underlying beliefs that inform these decisions explicit. By doing so, we hope to explain our approach, invite constructive criticism and live up to our standard of reasoning transparency.** 
+In conducting this research, we make choices about what questions to ask, what modelling assumptions to make, what bodies of literature to primarily rely on, etc. **In this short piece, we want to make explicit the underlying beliefs that inform these decisions. By doing so, we hope to explain our approach, invite constructive criticism and live up to our standard of reasoning transparency.** 
 
 For context, we will start with an overview of what our research approach looks like, before spelling out five underlying beliefs that crucially inform our approach. We conclude by outlining our current research directions. Figure 1 summarises our research approach. 
 
