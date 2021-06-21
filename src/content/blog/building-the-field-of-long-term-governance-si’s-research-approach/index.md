@@ -7,16 +7,16 @@ description: In conducting this research, we make choices about what questions
   underlying beliefs that inform these decisions. By doing so, we hope to
   explain our approach, invite constructive criticism and live up to our
   standard of reasoning transparency.
-featuredImage: si_research_theory.png
+featuredImage: ryan-lange-rgrkijnnefi-unsplash.jpg
 authors:
   - name: Nora Ammann
-    page: nora-ammann/index
+    page: ""
   - name: Maxime Stauffer
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
   - name: Jan Pieter Snoeij
-    page: jan-pieter-snoeij/index
+    page: ""
 tags:
   - Strategy
   - Transparency
@@ -35,13 +35,13 @@ In conducting this research, we make choices about what questions to ask, what m
 
 For context, we will start with an overview of what our research approach looks like, before spelling out five underlying beliefs that crucially inform our approach. We conclude by outlining our current research directions. Figure 1 summarises our research approach. 
 
-1. [Overview of SI’s research approach](#heading=h.2kdemvolp5wi)
-2. [Building a well-coordinated longtermist policy community](#heading=h.qlw5ufhqzgz0)
-3. [Understanding policymaking processes is useful](#heading=h.ymcfb9j30d2t)
-4. [Understanding policymaking processes is tractable](#heading=h.5xm4rmuhd6xd)
-5. [Improving mental models for more effective engagement](#heading=h.59fqy5oyct24)
-6. [Knowledge foundations](#heading=h.mkvvz6edsqp3)
-7. [Current research directions](#heading=h.k9ezg3g8by2q)
+1. [Overview of SI’s research approach](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#overview-of-sis-research-approach)
+2. [Building a well-coordinated longtermist policy community](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#building-a-well-coordinated-longtermist-policy-community)
+3. [Understanding policymaking processes is useful](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-useful)
+4. [Understanding policymaking processes is tractable](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-tractable)
+5. [Improving mental models for more effective engagement](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#improving-mental-models-for-more-effective-engagement)
+6. [Knowledge foundations](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#knowledge-foundations)
+7. [Current research directions](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#current-research-directions-and-progress)
 
 ![Overview of SI’s research approach](si_research_theory.png "Overview of SI’s research approach")
 
@@ -49,11 +49,11 @@ For context, we will start with an overview of what our research approach looks 
 
 We conduct our research because we think the long-term future matters morally. Policymaking is an important form of coordination with unmatched potential for improving the future. 
 
-To this end, we aim to systematically improve our understanding of the processes that lead to policy change (see section 2 and 3). Through the synthesis of relevant literature, we identify insights about the dynamics of policy processes and their implications for embedding concern for future generations. 
+To this end, we aim to systematically improve our understanding of the processes that lead to policy change (see [section 3](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-useful) and [4](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-tractable)). Through the synthesis of relevant literature, we identify insights about the dynamics of policy processes and their implications for embedding concern for future generations. 
 
-We consider it critical to integrate an understanding of the day-to-day realities faced by policy professionals into our research and recommendations for policy engagement strategies (see section 5). This is why our research is informed by [other activities of SI](https://www.simoninstitute.ch/projects/), working directly with civil servants, diplomats, academics and various other interest groups to foster a community of practice for long-term governance (see also [Rojas et al., 2021](https://www.cser.ac.uk/news/new-report-pathways-linking-science-and-policy-fie/)). 
+We consider it critical to integrate an understanding of the day-to-day realities faced by policy professionals into our research and recommendations for policy engagement strategies (see [section 6](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#knowledge-foundations)). This is why our research is informed by [other activities of SI](https://www.simoninstitute.ch/projects/), working directly with civil servants, diplomats, academics and various other interest groups to foster a community of practice for long-term governance (see also [Rojas et al., 2021](https://www.cser.ac.uk/news/new-report-pathways-linking-science-and-policy-fie/)). 
 
-Building on the above, we aim to improve the effectiveness of longtermist policy efforts by (1) equipping policy actors who care about benefiting future generations with better strategies and mental models for engaging in complex policy processes (see section 4), and by (2) strengthening coordination between these actors (see section 1). 
+Building on the above, we aim to improve the effectiveness of longtermist policy efforts by (1) equipping policy actors who care about benefiting future generations with better strategies and mental models for engaging in complex policy processes (see [section 5](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#improving-mental-models-for-more-effective-engagement)), and by (2) strengthening coordination between these actors (see [section 2](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#building-a-well-coordinated-longtermist-policy-community)). 
 
 Unlike other think tanks, we do not develop concrete policy recommendations, e.g. on extreme climate change or biosecurity. Instead, our research aims to inform the strategy and activities of actors, individuals or groups, engaged in the policy process who care about the long-term future. 
 
@@ -87,7 +87,7 @@ The study of policymaking processes transcends disciplines. It builds upon, for 
 
 So far, this type of research has been primarily descriptive. It is well suited to describe how policymaking processes work and often does not make the additional step of providing solutions that help overcoming obstacles. Therefore, it is yet to be proven whether and to what extent future work in this space will be able to transcend this limitation, producing robust insight for reforming policymaking. 
 
-Even if one accepts that understanding policymaking processes is useful in principle, one might wonder whether the identification of more effective engagement strategies depends on _further _understanding of policymaking processes. We do not yet have a clear answer to when a marginal improvement in one’s understanding of policy ceases to be worthwhile, or how one could tell conclusively. However, given recent [methodological advances](https://science.sciencemag.org/content/369/6507/1060) that open new avenues to understanding the complex nature of social phenomena (including policy processes), we believe that we have not yet reached the point at which additional understanding ceases to be worth seeking. Furthermore, the work pursued by SI involves direct engagement with policy actors. While no guarantee on its own, this does provide SI with a constant stream of feedback about whether additional insights into the functioning of policy processes continue to be useful, and when they might cease to be. 
+Even if one accepts that understanding policymaking processes is useful in principle, one might wonder whether the identification of more effective engagement strategies depends on *further* understanding of policymaking processes. We do not yet have a clear answer to when a marginal improvement in one’s understanding of policy ceases to be worthwhile, or how one could tell conclusively. However, given recent [methodological advances](https://science.sciencemag.org/content/369/6507/1060) that open new avenues to understanding the complex nature of social phenomena (including policy processes), we believe that we have not yet reached the point at which additional understanding ceases to be worth seeking. Furthermore, the work pursued by SI involves direct engagement with policy actors. While no guarantee on its own, this does provide SI with a constant stream of feedback about whether additional insights into the functioning of policy processes continue to be useful, and when they might cease to be. 
 
 ## Understanding policymaking processes is tractable
 
@@ -99,7 +99,7 @@ Anywhere in the world, policymaking processes consist of many individuals with d
 
 Accordingly, we view policymaking as a complex system; a system that is neither simple, nor completely random, but depicts organized complexity (see [this handbook](https://www.elgaronline.com/view/edcoll/9781782549512/9781782549512.xml) for an academic treatment of why this lens is useful). It follows that there are recurrent patterns and mechanisms; for example, related to how policy actors interact, how ideas spread, how attention is being allocated, how policies are adopted and how policy networks form and how they change over time. The view we adopt also suggests a need to unpack policymaking beyond the logic of (linear) input-output and beyond what is typically done under the banner of policy analysis (i.e. the sole study of policy outcomes). 
 
-In fact, there already exist concrete examples of regularities in policymaking. Examples include systematic reviews on the [strategies and traits of policy entrepreneurs](https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12339) (i.e. policy actors who are more influential than others) and the [incremental and punctuated dynamics of policy change](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12283). This means that it is possible to build a solid understanding of policymaking processes _beyond context-specific knowledge _by identifying common patterns that are found in policymaking across the globe. Our research aims to identify such recurrent patterns and explore their implications for long-term governance. This is not to say that context-specific knowledge won’t still play an important role in fine-tuning an actor’s strategy. 
+In fact, there already exist concrete examples of regularities in policymaking. Examples include systematic reviews on the [strategies and traits of policy entrepreneurs](https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12339) (i.e. policy actors who are more influential than others) and the [incremental and punctuated dynamics of policy change](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12283). This means that it is possible to build a solid understanding of policymaking processes *beyond context-specific knowledge* by identifying common patterns that are found in policymaking across the globe. Our research aims to identify such recurrent patterns and explore their implications for long-term governance. This is not to say that context-specific knowledge won’t still play an important role in fine-tuning an actor’s strategy. 
 
 Within our goal of better understanding policy processes, most of our work currently relates to agenda-setting and decision-making processes. Based on our current understanding, we believe that, at this point in time, these are the most important processes to understand and strengthen in view of improving the long-term future. Agenda-setting is relevant because the long-term future is highly neglected in today’s policymaking. Decision-making processes are central because decision-making (including long-term policymaking) boils down to the interaction of individuals or groups. Understanding and improving the current shortcomings of these decision-making processes is a robust way to improve our capacity for long-term policymaking. 
 
@@ -123,7 +123,7 @@ In particular, we currently build primarily on three bodies of knowledge (which 
 
 (1) *Policy process studies* covers many key topics concerning long-term governance, such as the nature of policy change, institutions for future generations, policy advocacy, etc. This literature contains theoretical as well as empirical work, the accumulation of which can lead to insights into how policymaking functions, such as exemplified by [this paper](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12000). Other seminal pieces of work that inspire our thinking include [comparative analyses](https://doi.org/10.1111/j.1540-5907.2009.00405.x) on policy change, [collections of mechanisms](https://global.oup.com/academic/product/institutions-for-future-generations-9780198746959?cc=ch&lang=en&) to represent future generations or [studies of policy networks](https://www.cambridge.org/core/books/multimodal-political-networks/43EE8C192A1B0DCD65B4D9B9A7842128). 
 
-(2) _Complex systems science _includes theoretical and empirical work on studying recurrent patterns across complex systems. It includes theories and methods to study complex networks, emergent dynamics and nonlinear effects. An excellent overview of the theory and formalization of complex systems is provided [in this book](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198821939.001.0001/oso-9780198821939). 
+(2) *Complex systems science* includes theoretical and empirical work on studying recurrent patterns across complex systems. It includes theories and methods to study complex networks, emergent dynamics and nonlinear effects. An excellent overview of the theory and formalization of complex systems is provided [in this book](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198821939.001.0001/oso-9780198821939). 
 
 (3) *Decision science* was initially pioneered by [Herbert Simon](https://pubsonline.informs.org/doi/abs/10.1287/orsc.2.1.125), SI’s figurehead, and includes work on decision-making in the face of [catastrophes](https://doi.org/10.1007/s10640-016-0033-3), [heavy-tailed risks and preparedness](https://doi.org/10.1111/ajpy.12237), [complexity](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01153/full#h3), and key theories concerning information processing such as [ecological](https://doi.org/10.1146/annurev-psych-120709-145346) and [computational rationality](https://science.sciencemag.org/content/349/6245/273.abstract).  
 
@@ -152,4 +152,6 @@ You can follow our progress here:
 
 **Support us or collaborate with us**
 
-If you are interested in our work and would like to support or collaborate with us, do [get in touch](https://www.simoninstitute.ch/get-involved/#get-in-touch)!
+If you are interested in our work and would like to support or collaborate with us, please, do [get in touch](https://www.simoninstitute.ch/get-involved/#get-in-touch)!
+
+*Photo credit: seedlings by [Ryan Lange](https://unsplash.com/@ryanlange?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*
