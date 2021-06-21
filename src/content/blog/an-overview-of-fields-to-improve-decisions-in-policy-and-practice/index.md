@@ -9,6 +9,8 @@ featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice
 authors:
   - externalLink: ""
     name: Maxime Stauffer
+tags:
+  - Resources
 isEventFeaturedOnHomepage: false
 ---
 *Developed by Vicky Clayton, Laura Green, Ian David Moss (May 2021) of the Effective Institutions Project with adaptations from Maxime Stauffer and Konrad Seifert.*
