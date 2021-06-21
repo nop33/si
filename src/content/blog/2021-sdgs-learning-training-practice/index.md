@@ -4,6 +4,8 @@ date: 2021-03-13T10:39:09.443Z
 description: ""
 featuredImage: the-blowup-k6fyxynxzyy-unsplash.jpg
 authors:
+  - name: Konrad Seifert
+    page: konrad-seifert/index
 tags:
   - Events
   - UN
