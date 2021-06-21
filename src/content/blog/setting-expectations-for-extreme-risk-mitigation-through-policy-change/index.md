@@ -16,9 +16,11 @@ authors:
   - name: ""
     page: ""
     externalName: Nora Ammann
+    externalLink: https://metabstract.squarespace.com/
   - name: ""
     page: ""
     externalName: Jan Pieter Snoeij
+    externalLink: https://www.linkedin.com/in/janpietersnoeij/
 tags:
   - Strategy
   - Resources
