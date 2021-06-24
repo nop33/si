@@ -1,12 +1,11 @@
 ---
 title: Building the field of long-term governance - SI’s research approach
 date: 2021-06-21T13:27:44.048Z
-description: In conducting this research, we make choices about what questions
-  to ask, what modelling assumptions to make, what bodies of literature to
-  primarily rely on, etc. In this short piece, we want to make explicit the
-  underlying beliefs that inform these decisions. By doing so, we hope to
-  explain our approach, invite constructive criticism and live up to our
-  standard of reasoning transparency.
+description: In conducting this research, we make choices about the questions we
+  ask, modelling assumptions we make, which literature to rely on, etc. In this
+  short piece, we make explicit the underlying beliefs that inform these
+  decisions. By doing so, we hope to explain our approach, invite constructive
+  criticism and live up to our standard of reasoning transparency.
 featuredImage: ryan-lange-rgrkijnnefi-unsplash.jpg
 authors:
   - name: ""
