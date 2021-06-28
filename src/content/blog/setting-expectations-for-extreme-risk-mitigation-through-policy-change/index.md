@@ -22,7 +22,6 @@ authors:
     externalName: Jan Pieter Snoeij
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
 tags:
-  - Strategy
   - Resources
 isEventFeaturedOnHomepage: false
 ---
