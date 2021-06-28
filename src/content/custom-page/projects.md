@@ -15,7 +15,9 @@ projectsByCategories:
       together towards longterm governance.
   - category: Research
     title: Research
-    description: ""
+    description: Learn more about our research approach in our blog post "[Building
+      the field of long-term
+      governance](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/)".
 seo:
   title: ""
   description: Policy-making is characterized by complexity. We help policy
