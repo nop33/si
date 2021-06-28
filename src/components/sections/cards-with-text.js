@@ -3,6 +3,7 @@ import React from "react"
 import Grid from "./grid"
 import ArrowedLink from "../arrowed-link"
 import styles from "./cards-with-text.module.scss"
+import { toHTML } from "../../utils"
 
 const CardsWithTextSection = ({
   cards = [],
@@ -32,7 +33,7 @@ const CardsWithTextSection = ({
             <div
               className={styles.description}
               dangerouslySetInnerHTML={{
-                __html: description,
+                __html: toHTML(description),
               }}
             ></div>
           )}
