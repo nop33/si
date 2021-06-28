@@ -18,7 +18,7 @@ tags:
   - Resources
 isEventFeaturedOnHomepage: false
 ---
-*This overview was initially developed by the Effective Institutions Project in May 2021 and has been lightly adapted by Maxime Stauffer and Konrad Seifert.*
+*This overview was initially developed by the Effective Institutions Project in May 2021 and has been lightly adapted by Maxime Stauffer and Konrad Seifert. With thanks also to Aman Patel, Angela María Aristizábal, Marisa Jurczyk, Michael Noetel and Willem Roekens.*
 
 At SI, we support international policy actors in dealing with uncertainty, complexity, time-pressure and extreme risks. Below is a compilation of fields and resources we draw from and that might be valuable for others. 
 
