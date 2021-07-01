@@ -2,24 +2,26 @@
 title: United Nations for the Future - A Collection of Key International Texts
   for Long-term Governance
 date: 2021-07-01T13:50:04.479Z
-description: With this post, we aim to highlight fertile ground for the
+description: With this collection, we highlight fertile ground for the
   refinement of a shared understanding of the long term, building on decades of
-  diplomacy that has successfully made long-term flourishing a - if not the key
-  - formal motivation for international cooperation. This collection eloquently
-  reminds us of the recency of international institutions, the hopeful vision
-  they convey and the work that remains to be done to secure long-term survival
-  and flourishing.
+  diplomacy that have successfully made long-term flourishing a key motivation
+  for international cooperation. It reminds us of the recency of international
+  institutions, their hopeful vision and the work that remains to be done to
+  secure long-term survival and flourishing.
 featuredImage: library-of-congress-xpes12kkvug-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+tags:
+  - Resources
+  - Multilateralism
 isEventFeaturedOnHomepage: false
 ---
 Future generations are front and center of many foundational international governance texts. Yet, consideration of their interests regularly falls into oblivion because short-term problems captivate our limited attention.
 
 With this post, we aim to:
 
-1. Highlight fertile ground for the refinement of a shared understanding of the long term, building on decades of diplomacy that has successfully made long-term flourishing a - if not the key - formal motivation for international cooperation;
+1. Highlight fertile ground for the refinement of a shared understanding of the long term, building on decades of diplomacy that have successfully made long-term flourishing a - if not the key - formal motivation for international cooperation;
 2. Provide a living repository of historical framings, quotes and references for communication, training and research on long-term governance;
 3. Lay the groundwork for practical research on how these texts are currently interpreted and what can be done to strengthen their implementation by, e.g. clarifying timelines or resolving conceptual tensions and gaps; and
 4. Eloquently remind ourselves of the recency of international institutions, the hopeful vision their progress conveys and the work that remains to be done to secure long-term survival and flourishing.
@@ -35,7 +37,7 @@ With this post, we aim to:
 
 ## Selected documents
 
-The following, non-exhaustive selection of particularly relevant texts is ordered chronologically with a short commentary on each item’s significance and a link to the original in the header. To start with the collection, we surveyed experts in our network and searched the UN Library looking for mentions of the terms “future”, “succeeding generations” and “future generations” in declarations. From there, we traced down additional references. We welcome suggestions for further additions. 
+The following, non-exhaustive selection of particularly relevant texts is ordered chronologically with a short commentary on each item’s significance, key passages emphasized in bold and a link to the original in the header. To start with the collection, we surveyed experts in our network and searched the UN Library looking for mentions of the terms “future”, “succeeding generations” and “future generations” in declarations. From there, we traced down additional references. We welcome suggestions for further additions. 
 
 **Last updated: 2021-07-01.**
 
@@ -169,8 +171,6 @@ Reminding ourselves of the recency of the UN and echoing previously listed frami
 >
 > What we agree today will affect the sustainability of our planet as well as **the welfare of generations for decades to come**. Through reinvigorated global action and by building on the progress achieved in the last 75 years, we are determined to **ensure the future we want**. To achieve this, we will mobilize resources, strengthen our efforts and show unprecedented political will and leadership. We will work together with partners to strengthen coordination and global governance **for the common future of present and coming generations.**
 
-## Footnotes
-
 [^1]: For more info, see: <https://en.wikipedia.org/wiki/United_Nations_Conference_on_the_Human_Environment>
 
 [^2]: For more info, see: <https://www.ipcc.ch/about/>
@@ -182,7 +182,5 @@ Reminding ourselves of the recency of the UN and echoing previously listed frami
 [^5]: For more info, see: <https://en.wikipedia.org/wiki/Sendai_Framework_for_Disaster_Risk_Reduction>
 
 [^6]: For more info, see: <https://en.wikipedia.org/wiki/Sustainable_Development_Goals>
-
-
 
 Photo by the [Library of Congress](https://unsplash.com/@libraryofcongress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
