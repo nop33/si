@@ -19,7 +19,7 @@ isEventFeaturedOnHomepage: false
 ---
 Future generations are front and center of many foundational international governance texts. Yet, consideration of their interests regularly falls into oblivion because short-term problems captivate our limited attention.
 
-With this post, we aim to:
+With this collection, we aim to:
 
 1. Highlight fertile ground for the refinement of a shared understanding of the long term, building on decades of diplomacy that have successfully made long-term flourishing a - if not the key - formal motivation for international cooperation;
 2. Provide a living repository of historical framings, quotes and references for communication, training and research on long-term governance;
