@@ -5,16 +5,11 @@ date: 2021-07-01T13:50:04.479Z
 description: With this post, we aim to highlight fertile ground for the
   refinement of a shared understanding of the long term, building on decades of
   diplomacy that has successfully made long-term flourishing a - if not the key
-  - formal motivation for international cooperation. This collection also serves
-  as a living repository of historical framings, quotes and references for
-  communication, training and research on long-term governance; lays the
-  groundwork for practical research on how these texts are currently interpreted
-  and what can be done to strengthen their implementation by, e.g. clarifying
-  timelines or resolving conceptual tensions and gaps; and eloquently reminds
-  ourselves of the recency of international institutions, the hopeful vision
-  their progress conveys and the work that remains to be done to secure
-  long-term survival and flourishing.
-featuredImage: martin-adams-v75yeqjp4pe-unsplash.jpg
+  - formal motivation for international cooperation. This collection eloquently
+  reminds us of the recency of international institutions, the hopeful vision
+  they convey and the work that remains to be done to secure long-term survival
+  and flourishing.
+featuredImage: library-of-congress-xpes12kkvug-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
@@ -40,7 +35,7 @@ With this post, we aim to:
 
 ## Selected documents
 
-The following, non-exhaustive selection of particularly relevant items is ordered chronologically with a short commentary on each item’s significance. To start with, we surveyed experts in our network and searched the UN Library looking for mentions of the terms “future”, “succeeding generations” and “future generations” in declarations. From there, we traced down additional references. We welcome suggestions for further additions. 
+The following, non-exhaustive selection of particularly relevant texts is ordered chronologically with a short commentary on each item’s significance and a link to the original in the header. To start with the collection, we surveyed experts in our network and searched the UN Library looking for mentions of the terms “future”, “succeeding generations” and “future generations” in declarations. From there, we traced down additional references. We welcome suggestions for further additions. 
 
 **Last updated: 2021-07-01.**
 
@@ -187,3 +182,7 @@ Reminding ourselves of the recency of the UN and echoing previously listed frami
 [^5]: For more info, see: <https://en.wikipedia.org/wiki/Sendai_Framework_for_Disaster_Risk_Reduction>
 
 [^6]: For more info, see: <https://en.wikipedia.org/wiki/Sustainable_Development_Goals>
+
+
+
+Photo by the [Library of Congress](https://unsplash.com/@libraryofcongress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
