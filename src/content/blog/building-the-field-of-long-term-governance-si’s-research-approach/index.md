@@ -23,7 +23,6 @@ authors:
 tags:
   - Strategy
   - Transparency
-  - Resources
 isEventFeaturedOnHomepage: false
 ---
 ## Introduction
