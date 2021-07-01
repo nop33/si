@@ -59,9 +59,11 @@ donateSection:
 
         IBAN: CH85 0024 0240 9405 0140X
     - title: From D, NL, UK or US?
-      content: You can soon make tax-deductible donations from the USA, UK or
-        Netherlands via the EA Funds platform. For donations from Germany,
-        please [get in touch](/get-involved/#get-in-touch).
+      content: From the USA, UK or Netherlands? You can [make tax-deductible donations
+        via our partner organization "Effective Altruism
+        Funds"](https://funds.effectivealtruism.org/partners/simon-institute).
+        For donations from Germany, please [get in
+        touch](/get-involved/#get-in-touch).
 textSections:
   - title: Why support us?
     content: >-
