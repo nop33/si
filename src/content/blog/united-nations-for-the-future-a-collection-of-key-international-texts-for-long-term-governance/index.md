@@ -21,7 +21,7 @@ Future generations are front and center of many foundational international gover
 
 With this collection, we aim to:
 
-1. Highlight fertile ground for the refinement of a shared understanding of the long term, building on decades of diplomacy that have successfully made long-term flourishing a - if not the key - formal motivation for international cooperation;
+1. Highlight fertile ground for the refinement of a shared understanding of the long term, building on decades of diplomacy that have successfully made long-term flourishing a key formal motivation for international cooperation;
 2. Provide a living repository of historical framings, quotes and references for communication, training and research on long-term governance;
 3. Lay the groundwork for practical research on how these texts are currently interpreted and what can be done to strengthen their implementation by, e.g. clarifying timelines or resolving conceptual tensions and gaps; and
 4. Eloquently remind ourselves of the recency of international institutions, the hopeful vision their progress conveys and the work that remains to be done to secure long-term survival and flourishing.
