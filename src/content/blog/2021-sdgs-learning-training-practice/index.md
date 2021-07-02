@@ -1,9 +1,11 @@
 ---
-title: 2021 UN High-Level Political Forum
+title: SI contributes to the 2021 UN High-Level Political Forum
 date: 2021-03-13T10:39:09.443Z
 description: ""
 featuredImage: the-blowup-k6fyxynxzyy-unsplash.jpg
 authors:
+  - name: Maxime Stauffer
+    page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
@@ -14,19 +16,19 @@ seo:
   title: ""
   description: ""
 ---
-Together with the Geneva Science-Policy Interface, SI is contributing a session on "Behavioral Solutions for Evidence-based Decision-making" to the UN High-Level Political Forum Session 4: Fostering Evidence-Based Decision-making for Sustainable and Just COVID Recovery and Transformative SDG implementation.
+Together with the Geneva Science-Policy Interface, SI contributes "Behavioral Solutions for Evidence-based Decision-making" to the UN High-Level Political Forum Session 4: Fostering Evidence-Based Decision-making for Sustainable and Just COVID Recovery and Transformative SDG implementation.
 
 **Wednesday, 7 July during the Afternoon (2:00 to 3:45PM EST)** 
 
 <https://sdgs.un.org/events/fostering-evidence-based-decision-making-sustainable-and-just-covid-recovery-and> 
 
-### Learning objectives of the GSPI + SI session
+### Learning objectives
 
-The UN 2030 Agenda fosters an approach to sustainable development that relies on specific metrics and motivates the use of scientific evidence and reasoning to monitor progress. In international and national policy-making, evidence-based policy-making is increasingly recognized as the state-of-the-art. As part of this development, NGOs, think tanks and academic institutions work on providing cutting-edge information to policy-makers. The information provided is mixed with other media and public discourse. 
+The UN 2030 Agenda fosters an approach to sustainable development that relies on specific metrics and motivates the use of scientific evidence and reasoning to monitor progress. In international and national policy-making, evidence-based policy-making is increasingly recognized as the state-of-the-art. As part of this development, NGOs, think tanks and academic institutions work on providing cutting-edge information to policy-makers. The information provided is complemented by other media and public discourse. 
 
-This torrent of information creates cognitive overload. For instance, in the context of a crisis such as COVID-19, more than 100,000 scientific papers were published in approximately 12 months. 
+This torrent of information creates cognitive overload. For instance, in the context of a crisis such as COVID-19, more than 100,000 scientific papers were published in ~12 months. 
 
-Therefore, while decision-makers need to make informed decisions about complex problems under time-constraints, they face the problem of sorting through a vast range of information sources of various quality. 
+As decision-makers need to make informed decisions on complex problems under time constraints, they face the problem of sorting through a vast range of information sources of varying quality. 
 
 This challenge, therefore, begs the following question: how can decision-makers deal with information overload in the face of uncertainty? 
 
@@ -36,9 +38,9 @@ The learning objectives are the following: 
 
 * Learn about what psychology and neuroscience tell us about decision-making in the face of complexity 
 * Learn about behaviorally-informed techniques that improve individual and collective decision-making  
-* Discover ready-to-use resources to help you make better decisions under time-constraints and in the face of complexity 
+* Discover ready-to-use resources to help you make better decisions under time constraints and uncertainty
 
-### Description of the event
+### Description of the full session
 
 Evidence-based decision-making is essential to driving a sustainable and just recovery from COVID-19 and getting back on track with the SDGs, in line with a Decade of Action. Evidence can ground policy programs in facts, allow the anticipation of potential scenarios, and foster constructive exchanges in collective decision-making. This session will showcase new tools, resources, and knowledge platforms enabling the systems-level transformation that is foundational to building forward stronger for current and future generations.  
 
