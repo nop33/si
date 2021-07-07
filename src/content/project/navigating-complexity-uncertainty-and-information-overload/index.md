@@ -36,6 +36,12 @@ textSections:
       - Learn about simple concepts for productive group decision-making
 
       - Apply simple decision-making tools to solve a current problem they are facing
+  - title: Sign-up
+    content: >-
+      Our training programs are currently being tested with a selected audience.
+
+
+      [Sign up to hear from us as soon as we can make you an appropriate offer.](https://airtable.com/shrAM3SPhFyqzwAPv)
   - title: Project partners
     content: "![Geneva Science-Policy Interface](logo-gspi.png)"
   - title: Description
