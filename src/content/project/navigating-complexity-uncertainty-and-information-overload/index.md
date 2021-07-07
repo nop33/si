@@ -1,5 +1,6 @@
 ---
-title: Navigating complexity, uncertainty and information overload
+title: Behavioral science for wicked problems - navigating complexity,
+  uncertainty and information overload
 subtitle: ""
 featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 category: Policy support
