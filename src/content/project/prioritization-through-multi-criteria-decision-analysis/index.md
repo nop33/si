@@ -35,7 +35,10 @@ textSections:
       [Sign up to hear from us as soon as we can make you an appropriate offer.](https://airtable.com/shrAM3SPhFyqzwAPv)
     title: Sign-up
   - title: Project partners
-    content: "![Geneva Science-Policy Interface](logo-gspi.png)"
+    content: ""
+    sectionImages:
+      - image: logo-gspi.jpg
+        alt: Geneva Science-Policy Interface
   - title: Description
     content: >-
       **Target audience:** Teams, groups and networks of policy actors
