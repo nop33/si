@@ -1,5 +1,5 @@
 ---
-title: Prioritization through multi-criteria decision analysis
+title: Complex prioritization for diverse groups with multi-criteria decision analysis
 subtitle: ""
 featuredImage: cristofer-jeschke-eo_sesctbuo-unsplash.jpg
 category: Policy support
@@ -28,6 +28,12 @@ textSections:
 
 
       MCDA is useful in collective decision-making due to its capacity to account for multidimensional problems, quantitative and qualitative data, competing interests and differing judgments. Its vast applications have proven its adaptability and employability across cultures and domains to make better choices and systematically learn from them.
+  - content: >-
+      Our training programs are currently being tested with a selected audience.
+
+
+      [Sign up to hear from us as soon as we can make you an appropriate offer.](https://airtable.com/shrAM3SPhFyqzwAPv)
+    title: Sign-up
   - title: Project partners
     content: "![Geneva Science-Policy Interface](logo-gspi.png)"
   - title: Description
