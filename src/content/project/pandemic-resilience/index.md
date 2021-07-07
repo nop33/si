@@ -1,5 +1,5 @@
 ---
-title: Pandemic Resilience
+title: Pandemic resilience - a tabletop exercise
 subtitle: ""
 featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
 category: Policy support
@@ -40,7 +40,7 @@ textSections:
   - title: Project partners
     content: ""
     sectionImages:
-      - image: logo-gspi.png
+      - image: logo-gspi.jpg
         alt: Geneva Science-Policy Interface
   - title: Description
     content: >-
