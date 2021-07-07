@@ -1,5 +1,5 @@
 ---
-title: Pandemic Resilience
+title: Pandemic resilience - a tabletop exercise
 subtitle: ""
 featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
 category: Policy support
@@ -31,11 +31,17 @@ textSections:
 
 
       Realistic dynamics on short time-scales provide fast feedback loops that train intuition and build systems competencies. The exercise places a particular focus on ways to model systems and maintain cooperation.
+  - content: >-
+      Our training programs are currently being tested with a selected audience.
+
+
+      [Sign up to hear from us as soon as we can make you an appropriate offer.](https://airtable.com/shrAM3SPhFyqzwAPv)
+    title: Sign-up
   - title: Project partners
     content: ""
     sectionImages:
-      - image: "logo-gspi.jpg"
-        alt: "Geneva Science-Policy Interface"
+      - image: logo-gspi.jpg
+        alt: Geneva Science-Policy Interface
   - title: Description
     content: >-
       **Target audience:** Policy-makers and -networks working on pandemic

@@ -1,5 +1,6 @@
 ---
-title: Navigating complexity, uncertainty and information overload
+title: Behavioral science for wicked problems - navigating complexity,
+  uncertainty and information overload
 subtitle: ""
 featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 category: Policy support
@@ -36,8 +37,17 @@ textSections:
       - Learn about simple concepts for productive group decision-making
 
       - Apply simple decision-making tools to solve a current problem they are facing
+  - title: Sign-up
+    content: >-
+      Our training programs are currently being tested with a selected audience.
+
+
+      [Sign up to hear from us as soon as we can make you an appropriate offer.](https://airtable.com/shrAM3SPhFyqzwAPv)
   - title: Project partners
-    content: "![Geneva Science-Policy Interface](logo-gspi.png)"
+    content: ""
+    sectionImages:
+      - image: logo-gspi.jpg
+        alt: Geneva Science-Policy Interface
   - title: Description
     content: >-
       **Target audience:** Target audience: individuals, teams, groups and
