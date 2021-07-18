@@ -39,7 +39,7 @@ With this collection, we aim to:
 
 The following, non-exhaustive selection of particularly relevant texts is ordered chronologically with a short commentary on each item’s significance, key passages emphasized in bold and a link to the original in the header. To start with the collection, we surveyed experts in our network and searched the UN Library looking for mentions of the terms “future”, “succeeding generations” and “future generations” in declarations. From there, we traced down additional references. We welcome suggestions for further additions. 
 
-**Last updated: 2021-07-01.**
+**Update log:** 2021-07-18 - added: "Moon Treaty".
 
 ### [1941 The Atlantic Charter](https://www.nato.int/cps/en/natohq/official_texts_16912.htm)
 
@@ -72,6 +72,12 @@ Sweden first suggested the idea of having a UN conference to focus on human inte
 > \[...] Of all things in the world, **people are the most precious**. It is the people that propel social progress, create social wealth, develop science and technology and, through their hard work, continuously transform the human environment. Along with social progress and the advance of production, science and technology, **the capability of man to improve the environment increases with each passing day.** 
 >
 > \[...] **through fuller knowledge and wiser action, we can achieve for ourselves and our posterity a better life** in an environment more in keeping with human needs and hopes. There are broad vistas for the enhancement of environmental quality and the creation of a good life. What is needed is an enthusiastic but calm state of mind and intense but orderly work. For the purpose of **attaining freedom in the world of nature**, man must use knowledge to build, in collaboration with nature, a better environment. **To defend and improve the human environment for present and future generations has become an imperative goal for mankind**
+
+### [1979 Agreement Governing the Activities of States on the Moon and Other Celestial Bodies](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html)
+
+This treaty attempts to make all activity in space subject to international law. However, only 18 states have ratified the treaty to date, none of them operating space flights. Its text is an interesting glimpse into how the UN General Assembly can, in theory, agree that earthly quarrels seem well outdated.
+
+> The exploration and use of the moon shall be the province of all mankind and shall be carried out for the benefit and in the interests of all countries, irrespective of their degree of economic or scientific development. Due regard shall be paid to the interests of present and future generations as well as to the need to promote higher standards of living and conditions of economic and social progress and development in accordance with the Charter of the United Nations.
 
 ### [1987 IPCC Founding Motion by UNEP](https://www.ipcc.ch/site/assets/uploads/2019/02/UNEP_GC-14_decision_IPCC_1987.pdf)
 
