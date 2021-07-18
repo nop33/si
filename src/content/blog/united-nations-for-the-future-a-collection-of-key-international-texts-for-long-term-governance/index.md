@@ -75,7 +75,7 @@ Sweden first suggested the idea of having a UN conference to focus on human inte
 
 ### [1979 Agreement Governing the Activities of States on the Moon and Other Celestial Bodies](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html)
 
-This treaty attempts to make all activity in space subject to international law. However, only 18 states have ratified the treaty to date, none of them operating space flights. Its text is an interesting glimpse into how the UN General Assembly can, in theory, agree that earthly quarrels seem well outdated.
+Building on the [1967 Outer Space Treaty](https://en.wikipedia.org/wiki/Outer_Space_Treaty), this treaty attempts to make all activity in space subject to international law. However, only 18 states have ratified the treaty to date, none of them operating space missions. Its text is an interesting glimpse into how the UN General Assembly can, in theory, agree that earthly competition seems well outdated.
 
 > The exploration and use of the moon shall be the province of all mankind and shall be carried out for the benefit and in the interests of all countries, irrespective of their degree of economic or scientific development. Due regard shall be paid to the interests of present and future generations as well as to the need to promote higher standards of living and conditions of economic and social progress and development in accordance with the Charter of the United Nations.
 
