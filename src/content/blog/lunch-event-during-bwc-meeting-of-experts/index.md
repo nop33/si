@@ -1,6 +1,6 @@
 ---
 title: Lunch event during BWC Meeting of Experts
-date: 2021-08-25T09:02:58.782Z
+date: 2021-09-06T09:02:58.782Z
 featuredImage: download.jpg
 authors:
   - name: Konrad Seifert
@@ -11,6 +11,8 @@ tags:
   - Biosecurity
 isEventFeaturedOnHomepage: true
 ---
+Complementing the BWC Meeting of Experts, SI invites for an in-person lunch session on the topic of "Long-term decision-making in the face of extreme biological risks". 
+
 Extreme biological risks - stemming from dual-use research of concern - pose significant threats to societies worldwide. While their likelihood is lower than that of natural pandemics, they are [expected to be much deadlier](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5576209/). Their lack of precedent raises questions whether governments, international organizations and civil society are sufficiently aware to prevent an outbreak or mitigate its adverse consequences. Risk perception and preparedness decision-making are a function of individuals’ education, values, and cognition. How to support individuals in their evaluation of risks and decision-making?
 
 This session brings a behavioral lens to the management of extreme biological risks. The Centre for the Study of Existential Risks will provide a primer on extreme biological risks. The Simon Institute for Longterm Governance and the Geneva Science-Policy Interface will present the behavioral science of decision-making in the face of extreme risks. The rest of the session will be interactive, and participants will learn about risk perceptions and decision-making under uncertainty.  
