@@ -22,12 +22,14 @@ This session brings a behavioral lens to the management of extreme biological ri
 * 13:15 - Welcome and introduction to the session - Nicolas Seidler, Executive Director, Geneva Science-Policy Interface (GSPI)
 * 13:20 - Extreme biological risks: a Primer - Lalitha Sundaram, Postdoc, Centre for the Study of Existential Risks (CSER)
 * 13:40 - The behavioral science of extreme risk decision-making - Maxime Stauffer, CEO, Simon Institute for Longterm Governance (SI); Science-policy officer, GSPI
-* 14:00 - Interactive segment on risk perception and decision-making under uncertainty (led by SI)
+* 14:00 - Interactive segment on risk prioritization and decision-making under uncertainty - Konrad Seifert, COO, SI
 * 14:35 - Conclusion - Nicolas Seidler
 
 ### Location
 
 Geneva Press Club - [to arrive at the venue as fast as possible, use this map](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=46.22720%2C6.13912%3B46.23247%2C6.14175#map=17/46.22983/6.13976), not Google.
+
+We will provide an online viewing link to those signed up to see the presentations. We are working to make the interactive segment accessible online, too.
 
 **A brown bag lunch will be provided.**
 
