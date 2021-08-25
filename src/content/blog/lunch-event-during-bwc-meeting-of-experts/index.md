@@ -1,5 +1,5 @@
 ---
-title: Lunch event during BWC Meeting of Experts
+title: Side event - BWC Meeting of Experts
 date: 2021-09-06T09:02:58.782Z
 featuredImage: download.jpg
 authors:
@@ -31,4 +31,4 @@ Geneva Press Club - [to arrive at the venue as fast as possible, use this map](h
 
 A brown bag lunch will be provided.
 
-# **[Sign up required here.](https://airtable.com/shrcy8O7BDfXp5h5m)**
+### **[Sign up required here.](https://airtable.com/shrcy8O7BDfXp5h5m)**
