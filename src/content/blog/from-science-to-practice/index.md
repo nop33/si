@@ -1,9 +1,11 @@
 ---
 title: Navigating complexity and information overload in decision-making
-date: 2021-03-11
+date: 2021-03-31T22:00:00.000Z
 description: ""
 featuredImage: matthew-tenbruggencate-0hjwobhghjs-unsplash.jpg
 authors:
+  - name: Konrad Seifert
+    page: konrad-seifert/index
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
