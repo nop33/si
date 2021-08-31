@@ -28,6 +28,9 @@ At SI, we support international policy actors in dealing with uncertainty, compl
 
 Description: Helping individuals form accurate beliefs and make better choices. 
 
+**[Ecological rationality](https://en.wikipedia.org/wiki/Ecological_rationality)**
+It seems that, if interested in external performance, one should not assume that Rational Choice Theory will lead to better or "more rational" decisions than simple heuristics. Rather, one should find out the characteristics of the decision environment, and choose a method that the theory puts forward as better-performing for such environments.
+
 **[Applied rationality](https://en.wikipedia.org/wiki/Center_for_Applied_Rationality)**
 Forming beliefs about the world as accurately as possible, for example, the work of the [Center for Applied Rationality](https://rationality.org/) or [ClearerThinking.org](https://www.clearerthinking.org/)
 
@@ -57,7 +60,7 @@ A concept from philosophy and law dealing with the design of procedures for deci
 ## Understanding and improving institutional governance, leadership, and culture
 
 **[Organizational behavior](https://en.wikipedia.org/wiki/Organizational_behavior)**
-The study of human behavior in organizational settings, the interface between human behavior and the organization, and the organization itself. It includes the study of individuals and groups within organizations as well as organizations as a whole. Topics within organizational behaviour include decision-making, leadership, culture and employee motivation.
+The study of human behavior in organizational settings, the interface between human behavior and the organization, and the organization itself. It includes the study of individuals and groups within organizations as well as organizations as a whole. Topics within organizational behavior include decision-making, leadership, culture, and employee motivation.
 
 **[Incentive design](https://link.springer.com/referenceworkentry/10.1057%2F978-1-137-00772-8_693)**
 Incentive design is a means of aligning the interests of an organization’s employees and owners or more broadly actors within a system with the interests of the designers of the system.
@@ -69,19 +72,19 @@ Institutional design is the design of rules, such as legal and regulatory provis
 Leadership is the art of motivating a group of people to act toward achieving a common goal. 
 
 **[Organizational culture](https://en.wikipedia.org/wiki/Organizational_culture)**
-A set of assumptions shared by employees within the same organisation that guide behaviour.
+A set of assumptions shared by employees within the same organization that guide behavior.
 
 **[Business architecture](https://en.wikipedia.org/wiki/Business_architecture)**
 Business architecture represents real-world aspects of a business, along with how they interact. It is developed by an interdisciplinary practice area focused on defining and analyzing concerns of what business does, how it does it, how it is organized, and how it realizes value. It is used to design competitive structures and processes, leverage existing strengths, and identify potential investment opportunities that advance the business's objectives and drive innovation.
 
 **[Systems management](https://thebusinessprofessor.com/management-leadership-organizational-behavior/systems-theory-of-management)**
-This approach to management recognises that all parts of an organisation are interrelated. It focuses on evaluating the system as a whole and understanding the impact of decisions on different parts of the organisation.
+This approach to management recognizes that all parts of an organization are interrelated. It focuses on evaluating the system as a whole and understanding the impact of decisions on different parts of the organization.
 
 **[Change management ](https://en.wikipedia.org/wiki/Change_management)**
 Change management involves activities to prepare, support, and help individuals, teams, and organizations in making organizational change.
 
 **[Innovations in legal structures of companies](https://www.gov.uk/government/publications/legal-forms-for-social-enterprise-a-guide)**
-The set-up of new legal structures of companies to facilitate a different focus than traditional maximisation profit for shareholders, in particular social or environmental objectives. Examples include cooperatives, community interest companies in the UK or [B Corps](https://bcorporation.uk/).
+The set-up of new legal structures of companies to facilitate a different focus than traditional maximization profit for shareholders, in particular social or environmental objectives. Examples include cooperatives, community interest companies in the UK, or [B Corps](https://bcorporation.uk/).
 
 ## Understanding and improving interactions between institutions
 
@@ -89,10 +92,10 @@ The set-up of new legal structures of companies to facilitate a different focus 
 Landscape analysis focuses on mapping organizations and initiatives in a defined space of practice to subsequently identify gaps and opportunities for new projects or organizations.
 
 **[Collective intelligence design](https://docs.google.com/document/d/1ehT4RSlprHdin6zWQ68SsuqUzjzgNn9jGaD1zJsPc3w/edit?usp=sharing)/crowdsourcing**
-Collective intelligence design opens up the opportunity for people to contribute and work together on projects, often with the help of technology, to mobilise a wider range of information, ideas and insights. For example, Wikipedia crowdsources knowledge from thousands of contributors. 
+Collective intelligence design opens up the opportunity for people to contribute and work together on projects, often with the help of technology, to mobilize a wider range of information, ideas, and insights. For example, Wikipedia crowdsources knowledge from thousands of contributors. 
 
 **[Systems design](https://modus.medium.com/what-the-is-systems-design-e005c1e9fef8)/systems thinking**
-Systems design takes a bird’s eye view of a system (of institutions and people) to understand how they interact, the roles they each play and identify gaps.
+Systems design takes a bird’s eye view of a system (of institutions and people) to understand how they interact, the roles they each play, and identify gaps.
 
 **[Complexity science](https://en.wikipedia.org/wiki/Complex_system)**
 The study of complex systems. A system is complex if it has some of the following properties: nonlinearity, emergence, spontaneous order, adaptation, and feedback loops, among others. [Here](https://complexityexplained.github.io/) is a visual introduction.
@@ -132,7 +135,7 @@ Prediction markets (also known as betting markets, political betting markets, pr
 Horizon scanning is a technique for detecting early signs of potentially important developments through a systematic examination of potential threats and opportunities.
 
 **[Scenario planning](https://en.wikipedia.org/wiki/Scenario_planning)**
-Scenario planning maps out different scenarios to enable organisations to develop flexible long-term plans.
+Scenario planning maps out different scenarios to enable organizations to develop flexible long-term plans.
 
 **[Strategic foresight](https://www.oecd.org/strategic-foresight/whatisforesight/)**
 Strategic foresight involves considering multiple alternative futures and their implications. It doesn’t seek to offer a definitive answer about what the future will hold but aims to expand the range of plausible developments to allow for planning.
@@ -147,7 +150,7 @@ Capacity building is the process by which individuals and organizations obtain, 
 
 **[Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management)**
 
-Knowledge management is the process of creating, sharing, using and managing the knowledge and information of an organization. These efforts focus on the management of knowledge as a strategic asset and on encouraging the sharing of knowledge.
+Knowledge management is the process of creating, sharing, using, and managing the knowledge and information of an organization. These efforts focus on the management of knowledge as a strategic asset and on encouraging the sharing of knowledge.
 
 **[Operations management](https://en.wikipedia.org/wiki/Operations_management)**
 
@@ -155,11 +158,11 @@ Operations management is an area of management concerned with designing and cont
 
 **[Management science](https://en.wikipedia.org/wiki/Management_science)**
 
-Management science involves developing and applying models and concepts that may prove useful in helping to illuminate management issues and solve managerial problems. The models used can often be represented mathematically, but sometimes computer-based, visual or verbal representations are used as well or instead. 
+Management science involves developing and applying models and concepts that may prove useful in helping to illuminate management issues and solve managerial problems. The models used can often be represented mathematically, but sometimes computer-based, visual, or verbal representations are used as well or instead. 
 
 **[Risk management/analysis](https://en.wikipedia.org/wiki/Risk_management)**
 
-The process of identifying, assessing and mitigating threats to an institution achieving its aims.
+The process of identifying, assessing, and mitigating threats to an institution achieving its aims.
 
 **[Project management](https://en.wikipedia.org/wiki/Project_management)** and allocation of resources
 
@@ -167,7 +170,7 @@ Project management is the process of leading the work of a team to achieve goals
 
 **Innovations in contracting e.g. [results-based contracting](https://pwc.blogs.com/deals/2015/08/outcome-based-contracts.html#:~:text=Outcome%2Dbased%20contracts%20are%20results,measurable%20performance%20standards%20and%20requirements.)/payment-by-results**
 
-The design of contracts to achieve a particular aim. For example, in results-based contracting, typically at least a portion of a contractor’s payment, contract extensions or contract renewals is tied to the achievement of specific, measurable and independently verifiable performance standards and requirements.
+The design of contracts to achieve a particular aim. For example, in results-based contracting, typically at least a portion of a contractor’s payment, contract extensions, or contract renewals is tied to the achievement of specific, measurable, and independently verifiable performance standards and requirements.
 
 **Innovations in financial instruments e.g. [social impact bonds](https://golab.bsg.ox.ac.uk/the-basics/impact-bonds/#:~:text=Impact%20bonds%20(IBs)%20are%20outcomes,if%20these%20outcomes%20are%20achieved.)**
 
@@ -182,19 +185,19 @@ Decisions based on or informed by, rigorously established objective evidence.
 Evidence synthesis involves reviewing the evidence on a particular topic (commonly an intervention) and combining the findings in order to draw a conclusion on what the evidence says overall about that topic. The translation of evidence involves explaining the methodology and findings of a research paper/project in lay terms.
 
 **[Strategic learning](https://www.evaluationinnovation.org/?s=&topic=strategic-learning)**
-Using evaluation to help organizations or groups learn quickly from their work so they can learn from and adapt their strategies. It means integrating evaluation and evaluative thinking into strategic decision making and bringing timely data to the table for reflection and use.
+Using evaluation to help organizations or groups learn quickly from their work so they can learn from and adapt their strategies. It means integrating evaluation and evaluative thinking into strategic decision-making and bringing timely data to the table for reflection and use.
 
 **[Data science](https://en.wikipedia.org/wiki/Data_science)**
-Data science extracts knowledge and insights from structured and unstructured data, and applies knowledge and actionable insights from data across a broad range of application domains. It is the “[discipline of making data useful](https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37)”.
+Data science extracts knowledge and insights from structured and unstructured data and applies knowledge and actionable insights from data across a broad range of application domains. It is the “[discipline of making data useful](https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37)”.
 
 **[Behavioral insights/science](https://www.who.int/our-work/science-division/behavioural-insights)**
-Behavioral insights is a term used to refer to efforts made to make programmes and policies more effective by applying a more accurate and evidence-based understanding of how people behave and make decisions. This often involves drawing from cognitive science, psychology and behavioural economics, as well as generating new evidence by testing interventions informed by behavioural science (including ‘nudges’). 
+Behavioral insights is a term used to refer to efforts made to make programs and policies more effective by applying a more accurate and evidence-based understanding of how people behave and make decisions. This often involves drawing from cognitive science, psychology, and behavioral economics, as well as generating new evidence by testing interventions informed by behavioral science (including ‘nudges’). 
 
 **[Impact evaluation](https://www.betterevaluation.org/en/themes/impact_evaluation)**
 An impact evaluation provides information about the impacts (positive and negative; intended and unintended) of an intervention (a project/program/policy) on outcomes. 
 
 **[Implementation science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4573926/)**
-The study of methods to promote the systematic uptake of research findings and other evidence-based practices into routine practice, and, hence, to improve the quality and effectiveness of practice / a programme.
+The study of methods to promote the systematic uptake of research findings and other evidence-based practices into routine practice, and, hence, to improve the quality and effectiveness of practice / a program.
 
 **[Meta-science](https://en.wikipedia.org/wiki/Metascience)/meta-research/“research on research”/“the science of science”**
 Metascience is the use of scientific methodology to study science itself. It uses research methods to study how research is done and where improvements can be made.
@@ -214,7 +217,7 @@ Epistemology is a branch of philosophy concerned with how knowledge is construct
 ## Activities to support decision-making within governmental institutions
 
 **[Policy analysis](https://en.wikipedia.org/wiki/Policy_analysis)**
-Policy analysis uses both qualitative methods and quantitative methods to evaluate policy options with respect to policy goals. A common practice is to define the problem and evaluation criteria; identify and evaluate alternatives; and recommend a certain policy accordingly. 
+Policy analysis uses both qualitative methods and quantitative methods to evaluate policy options with respect to policy goals. A common practice is to define the problem and evaluation criteria, identify and evaluate alternatives, and recommend a certain policy accordingly. 
 
 **[Intelligence operations and analysis](https://www.st-andrews.ac.uk/careers/exploring-your-future/career-options/a-z/intelligence-public-sector/)**
 Intelligence involves the gathering and analysis of information, for example, for national security.
@@ -223,7 +226,7 @@ Intelligence involves the gathering and analysis of information, for example, fo
 Anti-corruption comprises activities that oppose or inhibit corruption (e.g. whistle-blowing).
 
 **More representative voting methods in large scale elections (e.g. national or local)**
-The aim being to better represent the “will of the people” and to avoid bad outcomes relating to the voting method itself e.g. tactical voting rather than voting for one’s true preference. For example, see the work of the [Centre for Election Science](https://electionscience.org/).
+The aim is to better represent the “will of the people” and to avoid bad outcomes relating to the voting method itself e.g. tactical voting rather than voting for one’s true preference. For example, see the work of the [Centre for Election Science](https://electionscience.org/).
 
 **[Government performance](https://www.instituteforgovernment.org.uk/our-work/whitehall-monitor/measuring-performance)**
 How well a government is doing as measured by external actors; by the government having its own performance framework; by comparing the government with other countries or by asking the public what they think.
@@ -232,7 +235,7 @@ How well a government is doing as measured by external actors; by the government
 Public administration is the implementation of government policies. Specifically, it is the planning, organizing, directing, coordinating, and controlling of government operations.
 
 **[Political science](https://en.wikipedia.org/wiki/Political_science)**
-Political science is a social study concerning the allocation and transfer of power in decision making, the roles and systems of governance including governments and international organizations, political behaviour and public policies.
+Political science is a social study concerning the allocation and transfer of power in decision making, the roles and systems of governance including governments and international organizations, political behavior, and public policies.
 
 **[Reducing risks from malevolent actors](https://forum.effectivealtruism.org/posts/4oGYbvcy2SRHTWgWk/improving-the-future-by-influencing-actors-benevolence#fn-7AHacdyNseg65NHnB-1) and [influencing benevolence, intelligence, power](https://forum.effectivealtruism.org/posts/4oGYbvcy2SRHTWgWk/improving-the-future-by-influencing-actors-benevolence#fn-7AHacdyNseg65NHnB-1)**
 Key institutions are likely to have more of the impact we’d like if leaders are benevolent and intelligent.
@@ -240,11 +243,11 @@ Key institutions are likely to have more of the impact we’d like if leaders ar
 ## Understanding and designing decision processes
 
 **[Decision analysis/research](https://cdr.leeds.ac.uk/about/)**
-Decision research focuses on the way individuals, groups and organisations make decisions. It involves perspectives that are:
+Decision research focuses on the way individuals, groups and organizations make decisions. It involves perspectives that are:
 
 * Descriptive – why and how decisions are made the way they are
 * Normative – how decisions should be made in some ideal sense
-* Prescriptive – how can decision making be made more effective.
+* Prescriptive – how can decision-making be made more effective.
 
 **Decision science**
 Decision science is a mostly normative discipline, focusing on how decisions should be made in some ideal sense (particularly defined as expected utility). 
