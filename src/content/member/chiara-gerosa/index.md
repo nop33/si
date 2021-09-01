@@ -7,7 +7,7 @@ links:
   linkedin: http://linkedin.com/in/chiaragerosa
 disableDetailPage: true
 ---
-Chiara is a Policy Advisor for the UK Government's Counter-Disinformation Unit. She holds an MSc in Security Studies from the University College London (UCL) and a BSc in Political Science and International Relations from Università Cattolica in Milan. 
+Chiara is a Policy Advisor in the UK Government's Counter Disinformation Unit. She holds an MSc in Security Studies from the University College London (UCL) and a BSc in Political Science and International Relations from Università Cattolica in Milan. 
 
 Chiara volunteers for SI in the development of content and resources targeted at policymakers. 
 
