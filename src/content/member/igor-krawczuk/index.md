@@ -1,7 +1,7 @@
 ---
 name: Igor Krawczuk
 photo: krawczukigor.jpg
-group: Alumni
+group: Collaborators
 role: Research affiliate
 links:
   website: https://krawczuk.eu/
