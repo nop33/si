@@ -27,7 +27,7 @@ This session brings a behavioral lens to the management of extreme biological ri
 
 ### Location
 
-Geneva Press Club - [to arrive at the venue as fast as possible, use this map](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=46.22720%2C6.13912%3B46.23247%2C6.14175#map=17/46.22983/6.13976), not Google.
+Geneva Press Club - [](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=46.22720%2C6.13912%3B46.23247%2C6.14175#map=17/46.22983/6.13976)[a 10-minute walk from the Pregny Gate of Palais des Nations](https://goo.gl/maps/kQaWM1DTPB7tgLDK8) (Chem. de l'Impératrice 18, 1292 Pregny-Chambésy).
 
 Or on [Zoom](https://us06web.zoom.us/j/84471456678?pwd=bW1uc29UUGc2OG9CeVduTkdxZzArQT09).
 
