@@ -1,5 +1,6 @@
 ---
-title: Setting expectations for extreme risk mitigation through policy change
+title: Setting expectations for global catastrophic risk mitigation through
+  policy change
 date: 2021-06-21T14:11:57.950Z
 description: Our motivation for writing this post comes from observing an
   increasing number of calls for preparedness which require institutional
@@ -25,25 +26,25 @@ tags:
   - Resources
 isEventFeaturedOnHomepage: false
 ---
-Would you let your children hop on a plane that has a 1 in 6 chance of crashing? 1 in 10? 1 in 100? Probably not, and you are right: the risk is too high for people we care about. In his recent book, [The Precipice](http://www.tobyord.com/book), Toby Ord estimates a 1 in 6 chance of a global catastrophe occurring this century, destroying all of civilization's long-term potential. Such extreme risks concern the entire world population and succeeding generations.
+Would you let your children hop on a plane that has a 1 in 6 chance of crashing? 1 in 10? 1 in 100? Probably not, and you are right: the risk is too high for people we care about. In his recent book, [The Precipice](http://www.tobyord.com/book), Toby Ord estimates a 1 in 6 chance of a global catastrophe occurring this century, destroying all of civilization's long-term potential. Such global catastrophic risks concern the entire world population and succeeding generations.
 
 Just as we make policies to protect our children, the lives of their children’s children should also be of major concern for national and international policy communities. 
 
-One key to protecting future generations is to mitigate extreme risks by building preparedness. Preparedness [is defined by the UN Office for Disaster Risk Reduction](https://www.undrr.org/terminology/preparedness) as “the knowledge and capacities developed by governments, response and recovery organizations, communities and individuals to effectively anticipate, respond to and recover from the impacts of likely, imminent or current disasters”.
+One key to protecting future generations is to mitigate global catastrophic risks by building preparedness. Preparedness [is defined by the UN Office for Disaster Risk Reduction](https://www.undrr.org/terminology/preparedness) as “the knowledge and capacities developed by governments, response and recovery organizations, communities and individuals to effectively anticipate, respond to and recover from the impacts of likely, imminent or current disasters”.
 
 As the world temporarily ground to a halt in 2020, it became clear that [we are not prepared for shocks worse than COVID-19](https://gspi.ch/activities/policy-brief-governance-in-the-age-of-complexity-building-resilience-to-covid-19-and-future-pandemics/). To prepare, we need policy change. This raises the question of what we know about the dynamics of policy change. And by extension, what these dynamics imply for attempts to achieve change. 
 
-This post attempts to elucidate the dynamics of policy change and presents eight principles to guide policy action for the reduction of extreme risks. Our recommendations should prove useful to actors inside and outside of governments and international organizations. 
+This post attempts to elucidate the dynamics of policy change and presents eight principles to guide policy action for the reduction of global catastrophic risks. Our recommendations should prove useful to actors inside and outside of governments and international organizations. 
 
 Our motivation for writing this post comes from observing an increasing number of calls for preparedness which require institutional paradigm shifts of the kind that is observed mostly on centennial scales. Many of the risks that humanity is currently facing seem more urgent. We hope to contribute to accelerating the adoption of a new preparedness paradigm by reviewing what we know about policy change.
 
 If you want to learn more about the risks themselves, there are many great resources:
 
-* Toby Ord’s aforementioned book, [The Precipice,](http://www.tobyord.com/book) provides a very accessible discussion of extreme risks leading to global catastrophe. 
+* Toby Ord’s aforementioned book, [The Precipice,](http://www.tobyord.com/book) provides a very accessible discussion of global catastrophic risks leading to global catastrophe. 
 * The 2019 Global Health Security Index explains [why countries are insufficiently prepared for pandemics](https://www.ghsindex.org/). 
 * The New York Times reviews [the science of climate change](https://www.nytimes.com/article/climate-change-global-warming-faq.html).
-* The Centre on Long-Term Resilience provides [a UK policy-oriented account of extreme risks](https://www.longtermresilience.org/futureproof). 
-* The latest Human Development Report provides an overview of [the types and severity of extreme risks](http://hdr.undp.org/sites/default/files/hdr2020.pdf) (p. 106ff). 
+* The Centre on Long-Term Resilience provides [a UK policy-oriented account of global catastrophic risks](https://www.longtermresilience.org/futureproof). 
+* The latest Human Development Report provides an overview of [the types and severity of global catastrophic risks](http://hdr.undp.org/sites/default/files/hdr2020.pdf) (p. 106ff). 
 
 ## Evidence shows that policy change under- and overreacts to policy problems.
 
@@ -91,9 +92,9 @@ Using attention to explain policy change is a promising and fairly well-validate
 
 Established policy actors have understood the dynamics of policy change. As a result, they spend a lot of their resources on building networks and learning how to design effective frames (i.e. presenting ideas in a compelling manner). They anticipate windows of opportunity or even create them, instrumentalizing exogenous events to achieve their goals. They sustain their engagement over time. They have teams monitoring policy activity, and collecting intelligence on what is being discussed, how, and how to participate in such debates. 
 
-Should the proponents of extreme risk mitigation imitate such an effective strategy? Yes, and no.
+Should the proponents of global catastrophic risk mitigation imitate such an effective strategy? Yes, and no.
 
-Historically, drastic policy changes have [very often](https://doi.org/10.1111/ropr.12283) happened as a function of external events, such as wars or natural disasters. This would imply that policy actors should wait for unusual events to trigger overreaction to then re-orient attention. However, this is not a valid strategy with extreme risks for ethical and financial reasons. First, waiting for the first signs of a global catastrophe to manifest would likely harm millions of individuals and at worst could lead to reaching a point of no return beyond which civilization collapses. Second, even if we can react, [reacting is often more costly](https://science.sciencemag.org/content/369/6502/379) than maintaining redundancy for crisis preparedness.
+Historically, drastic policy changes have [very often](https://doi.org/10.1111/ropr.12283) happened as a function of external events, such as wars or natural disasters. This would imply that policy actors should wait for unusual events to trigger overreaction to then re-orient attention. However, this is not a valid strategy with global catastrophic risks for ethical and financial reasons. First, waiting for the first signs of a global catastrophe to manifest would likely harm millions of individuals and at worst could lead to reaching a point of no return beyond which civilization collapses. Second, even if we can react, [reacting is often more costly](https://science.sciencemag.org/content/369/6502/379) than maintaining redundancy for crisis preparedness.
 
 While the process of underreaction and overreaction might be imperfect, it might be functional for dealing with problems that do not risk collapse. It is a dangerous choice, however, when it comes to handling risks that could wipe out a large part of current generations and plausibly all future ones. Therefore, there is a need to reinforce preventive action. 
 
@@ -106,7 +107,7 @@ From a **short-term** perspective, we cannot change the behavioral, social and i
 
 While the short-term strategies are common practice, acting for future generations also entails an additional, longer-term strategy: changing processes. In the **long-term**, actors need to work on improving how current institutions incorporate and solve problems that primarily affect future generations through the following:
 
-5. *Build capacity within policy networks.* Actors who care about mitigating global catastrophes need to establish themselves within policy networks to build long-term capacity. Long-term capacity includes fostering moral reflection to integrate future generations in the value systems of policy actors; increasing awareness of the possibility of global catastrophes; and equipping policy actors with tools and knowledge to understand the future and extreme risks. 
+5. *Build capacity within policy networks.* Actors who care about mitigating global catastrophes need to establish themselves within policy networks to build long-term capacity. Long-term capacity includes fostering moral reflection to integrate future generations in the value systems of policy actors; increasing awareness of the possibility of global catastrophes; and equipping policy actors with tools and knowledge to understand the future and global catastrophic risks. 
 6. *Reform institutions to account for future generations.* Institutional structures, such as voting systems, election cycles, or parliament structure encode lasting processes on how societies decide to govern themselves. A key area of development is to reform selected structures to better represent future generations. Examples include the creation of an [Ombudsperson for future generations](https://www.un.org/en/chronicle/article/ombudspersons-future-generations-bringing-intergenerational-justice-heart-policymaking) or [demeny voting](https://global.oup.com/academic/product/institutions-for-future-generations-9780198746959?cc=ch&lang=en&). Such reforms could reduce the mismatch between current policy agendas and the importance of policy problems that affect future generations. 
 
 Last but not least, the above recommendations also imply a set of actions that policy actors who care about the long-term future should **avoid** taking. The following is a non-exhaustive list:
@@ -114,6 +115,6 @@ Last but not least, the above recommendations also imply a set of actions that p
 7. *Avoid pursuing activities that compromise long-term policy work.* Long-term policy engagement requires credibility, trust and sustained exchange. Therefore, it is essential to preserve integrity, cultivate relationships and facilitate constructive discussions with other policy actors.
 8. *Avoid pushing for weak and uncertain policy recommendations.* The dynamics of policy change suggest that, when change happens, it is likely to remain locked in for decades. This property of policymaking is helpful because it means that policy change can encode choices with lasting effects. However, it also means that implementing inadequate policies can badly affect years of policymaking. Therefore, policy actors who care about mitigating global catastrophes should be prudent and adopt an adaptive approach to policy recommendations. 
 
-The underlying idea of this blog post is important. It goes further than reviewing the dynamics of policy change and sketching implications for policy engagement. The exercise was to (1) take a normative change related to the long-term future (i.e. improve preparedness), (2) check what the empirical evidence tells us how this change could manifest, (3) adjust expectations and strategies for going forward. We believe that without (2), policy actors who care about the long-term future would commit mistakes in (3) which could slow down the reduction of extreme risks. Therefore, with this blog post, we want to motivate others to replicate the exercises on adjacent topics and contribute to build an empirically-driven field for long-term governance.
+The underlying idea of this blog post is important. It goes further than reviewing the dynamics of policy change and sketching implications for policy engagement. The exercise was to (1) take a normative change related to the long-term future (i.e. improve preparedness), (2) check what the empirical evidence tells us how this change could manifest, (3) adjust expectations and strategies for going forward. We believe that without (2), policy actors who care about the long-term future would commit mistakes in (3) which could slow down the reduction of global catastrophic risks. Therefore, with this blog post, we want to motivate others to replicate the exercises on adjacent topics and contribute to build an empirically-driven field for long-term governance.
 
 *Photo credit: [Axel Antas-Bergkvist](https://unsplash.com/@aabergkvist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*
