@@ -19,7 +19,7 @@ textSections:
       **[Read the full draft here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
 
 
-      This paper contributes to the interface of longtermist philosophy, global catastrophic risk research, and policymaking. We introduce the concept of long-term institutional fit to identify key areas of improvement for current policymaking institutions. To effectively contribute to lasting resilience and progress of civilization, improvements have to be made on four dimensions of fit: spatial, temporal, functional, and representational.
+      This paper contributes to the interface of longtermist philosophy, global catastrophic risk research, and policymaking. We introduce the concept of long-term institutional fit to identify key areas of improvement for current policymaking institutions. To effectively contribute to the resilience and advancement of civilization, improvements have to be made on four dimensions of fit: spatial, temporal, functional, and representational.
 
 
       Our preliminary assessment suggests that the long-term impact of current policymaking institutions is, despite noteworthy contemporary achievements, limited by several factors: fragile and relatively underdeveloped means of global coordination; a lack of preparedness to anticipate, prevent or recover from potential global catastrophes; siloed structures incapable of coping with cross-cutting challenges; pervasive short-termism leading to negligence of future generations; and underdeveloped capacities for policy learning. 
