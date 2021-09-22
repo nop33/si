@@ -33,8 +33,7 @@ stayInTouchSection:
   title: Stay up to date
   newsletter:
     title: Subscribe to our newsletter
-    intro: Check out [all past
-      issues](https://us1.campaign-archive.com/home/?u=5d7bba8c78d25d980050b3a16&id=dfb580ce4c).
+    intro: ""
   socialMedia:
     title: Follow us on social media
     intro: ""
