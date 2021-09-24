@@ -1,7 +1,7 @@
 ---
 name: Jan Pieter Snoeij
 photo: snoeijjanpieter.jpg
-group: Collaborators
+group: Alumni
 role: Research affiliate
 links:
   website: ""
