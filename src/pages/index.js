@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import { constructProjectCategoryUrl } from "../utils"
+import { constructProjectCategoryUrl, updateSrcSet } from "../utils"
 
 import PageLayout from "../components/page-layout"
 import SEO from "../components/seo"
@@ -58,13 +58,14 @@ const Home = ({ data, location }) => {
               project => project.frontmatter.category === projects.category
             )
             const projectCards = projectsByCategory.map(project => {
+              const projectImage =
+                project.frontmatter?.featuredImage?.childImageSharp?.fluid
+              projectImage.srcSet = updateSrcSet(projectImage.srcSet, 750)
               return (
                 <Card
                   key={`project_card_${project.fields.slug}`}
                   url={project.fields.slug}
-                  image={
-                    project.frontmatter.featuredImage.childImageSharp.fluid
-                  }
+                  image={projectImage}
                   title={
                     project.frontmatter.card?.title || project.frontmatter.title
                   }
@@ -103,13 +104,14 @@ const Home = ({ data, location }) => {
               numberOfColumns={2}
             >
               {news.map(post => {
+                const postImage =
+                  post.frontmatter?.featuredImage?.childImageSharp?.fluid
+                postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
                 return (
                   <Card
                     key={`news_card_${post.fields.slug}`}
                     url={post.fields.slug}
-                    image={
-                      post.frontmatter?.featuredImage?.childImageSharp?.fluid
-                    }
+                    image={postImage}
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
                     content={post.frontmatter.description || post.excerpt}
@@ -124,13 +126,14 @@ const Home = ({ data, location }) => {
               fixAlignment
             >
               {events.map(post => {
+                const postImage =
+                  post.frontmatter?.featuredImage?.childImageSharp?.fluid
+                postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
                 return (
                   <Card
                     key={`events_card_${post.fields.slug}`}
                     url={post.fields.slug}
-                    image={
-                      post.frontmatter?.featuredImage?.childImageSharp?.fluid
-                    }
+                    image={postImage}
                     title={post.frontmatter.title}
                     subtitle={post.frontmatter.date}
                     content={post.frontmatter.description || post.excerpt}
