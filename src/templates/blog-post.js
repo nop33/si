@@ -19,8 +19,12 @@ const BlogPostTemplate = ({ data, location }) => {
   const seoFeaturedImage = post.frontmatter.featuredImage?.seo?.resize
   const authors = post.frontmatter.authors
 
-  desktopFeaturedImage.srcSet = updateSrcSet(desktopFeaturedImage.srcSet, 1920)
-
+  if (desktopFeaturedImage) {
+    desktopFeaturedImage.srcSet = updateSrcSet(
+      desktopFeaturedImage.srcSet,
+      1920
+    )
+  }
   const sources = [
     mobileFeaturedImage,
     {

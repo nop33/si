@@ -48,7 +48,9 @@ const BlogIndex = ({ data, location }) => {
             {nodes.map(post => {
               const postImage =
                 post.frontmatter?.featuredImage?.childImageSharp?.fluid
-              postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
+              if (postImage) {
+                postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
+              }
               return (
                 <Card
                   key={`card_${post.fields.slug}`}

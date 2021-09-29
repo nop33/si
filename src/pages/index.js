@@ -60,7 +60,9 @@ const Home = ({ data, location }) => {
             const projectCards = projectsByCategory.map(project => {
               const projectImage =
                 project.frontmatter?.featuredImage?.childImageSharp?.fluid
-              projectImage.srcSet = updateSrcSet(projectImage.srcSet, 750)
+              if (projectImage) {
+                projectImage.srcSet = updateSrcSet(projectImage.srcSet, 750)
+              }
               return (
                 <Card
                   key={`project_card_${project.fields.slug}`}
@@ -106,7 +108,9 @@ const Home = ({ data, location }) => {
               {news.map(post => {
                 const postImage =
                   post.frontmatter?.featuredImage?.childImageSharp?.fluid
-                postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
+                if (postImage) {
+                  postImage.srcSet = updateSrcSet(postImage?.srcSet, 750)
+                }
                 return (
                   <Card
                     key={`news_card_${post.fields.slug}`}
@@ -128,7 +132,9 @@ const Home = ({ data, location }) => {
               {events.map(post => {
                 const postImage =
                   post.frontmatter?.featuredImage?.childImageSharp?.fluid
-                postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
+                if (postImage) {
+                  postImage.srcSet = updateSrcSet(postImage?.srcSet, 750)
+                }
                 return (
                   <Card
                     key={`events_card_${post.fields.slug}`}

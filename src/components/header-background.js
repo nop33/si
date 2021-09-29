@@ -23,8 +23,10 @@ const HeaderBackground = ({ children, className }) => {
   )
 
   // Set ImageData.
-  const imageData = data.desktop.childImageSharp.fluid
-  imageData.srcSet = updateSrcSet(imageData.srcSet, 1920)
+  const imageData = data.desktop?.childImageSharp?.fluid
+  if (imageData) {
+    imageData.srcSet = updateSrcSet(imageData.srcSet, 1920)
+  }
 
   return (
     <BackgroundImage

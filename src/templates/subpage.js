@@ -49,7 +49,12 @@ const SubpageTemplate = ({ data, location }) => {
     </div>
   )
 
-  desktopFeaturedImage.srcSet = updateSrcSet(desktopFeaturedImage.srcSet, 1920)
+  if (desktopFeaturedImage) {
+    desktopFeaturedImage.srcSet = updateSrcSet(
+      desktopFeaturedImage.srcSet,
+      1920
+    )
+  }
 
   const sources = [
     mobileFeaturedImage,

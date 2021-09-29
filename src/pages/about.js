@@ -29,8 +29,11 @@ const AboutPage = ({ data, location }) => {
     pageData.sponsorsSection.title,
   ]
 
-  const herbertImage = pageData.herbertSimonSection.photo.childImageSharp.fluid
-  herbertImage.srcSet = updateSrcSet(herbertImage.srcSet, 1920)
+  const herbertImage =
+    pageData.herbertSimonSection.photo?.childImageSharp?.fluid
+  if (herbertImage) {
+    herbertImage.srcSet = updateSrcSet(herbertImage.srcSet, 1920)
+  }
 
   return (
     <PageLayout

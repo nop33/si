@@ -34,7 +34,9 @@ const ProjectsPage = ({ data, location }) => {
           const projectCards = projects.map(project => {
             const projectImage =
               project.frontmatter?.featuredImage?.childImageSharp?.fluid
-            projectImage.srcSet = updateSrcSet(projectImage.srcSet, 750)
+            if (projectImage) {
+              projectImage.srcSet = updateSrcSet(projectImage?.srcSet, 750)
+            }
             return (
               <Card
                 key={`project_page_card_${project.fields.slug}`}
