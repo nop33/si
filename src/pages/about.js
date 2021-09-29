@@ -12,7 +12,7 @@ import Tabs from "../components/tabs"
 import Team from "../components/team"
 import SEO from "../components/seo"
 
-import { generateIdFromTitle } from "../utils"
+import { generateIdFromTitle, updateSrcSet } from "../utils"
 
 const AboutPage = ({ data, location }) => {
   const pageData = data.allMarkdownRemark.nodes[0].frontmatter
@@ -28,6 +28,12 @@ const AboutPage = ({ data, location }) => {
     pageData.herbertSimonSection.title,
     pageData.sponsorsSection.title,
   ]
+
+  const herbertImage =
+    pageData.herbertSimonSection.photo?.childImageSharp?.fluid
+  if (herbertImage) {
+    herbertImage.srcSet = updateSrcSet(herbertImage.srcSet, 1920)
+  }
 
   return (
     <PageLayout
@@ -60,10 +66,7 @@ const AboutPage = ({ data, location }) => {
         </SideBySide>
       </BaseSection>
       <div id={herbertSimonSectionId}>
-        <Image
-          fluid={pageData.herbertSimonSection.photo.childImageSharp.fluid}
-          alt={pageData.herbertSimonSection.title}
-        />
+        <Image fluid={herbertImage} alt={pageData.herbertSimonSection.title} />
       </div>
       <BaseSection>
         <SideBySide title={pageData.herbertSimonSection.title} elevateTitle>

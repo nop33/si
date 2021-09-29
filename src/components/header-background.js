@@ -3,6 +3,8 @@ import { graphql, useStaticQuery } from "gatsby"
 
 import BackgroundImage from "gatsby-background-image"
 
+import { updateSrcSet } from "../utils"
+
 import styles from "./header-background.module.scss"
 
 const HeaderBackground = ({ children, className }) => {
@@ -21,7 +23,10 @@ const HeaderBackground = ({ children, className }) => {
   )
 
   // Set ImageData.
-  const imageData = data.desktop.childImageSharp.fluid
+  const imageData = data.desktop?.childImageSharp?.fluid
+  if (imageData) {
+    imageData.srcSet = updateSrcSet(imageData.srcSet, 1920)
+  }
 
   return (
     <BackgroundImage

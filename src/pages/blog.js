@@ -1,6 +1,8 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 
+import { updateSrcSet } from "../utils"
+
 import PageLayout from "../components/page-layout"
 import SEO from "../components/seo"
 import FeaturedTagsList from "../components/featured-tags-list"
@@ -44,13 +46,16 @@ const BlogIndex = ({ data, location }) => {
         <BaseSection>
           <Grid>
             {nodes.map(post => {
+              const postImage =
+                post.frontmatter?.featuredImage?.childImageSharp?.fluid
+              if (postImage) {
+                postImage.srcSet = updateSrcSet(postImage.srcSet, 750)
+              }
               return (
                 <Card
                   key={`card_${post.fields.slug}`}
                   url={post.fields.slug}
-                  image={
-                    post.frontmatter?.featuredImage?.childImageSharp?.fluid
-                  }
+                  image={postImage}
                   title={post.frontmatter.title}
                   subtitle={post.frontmatter.date}
                   content={post.frontmatter.description || post.excerpt}
