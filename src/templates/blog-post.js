@@ -2,6 +2,8 @@ import React from "react"
 import { graphql } from "gatsby"
 import Image from "gatsby-image"
 
+import { updateSrcSet } from "../utils"
+
 import Authors from "../components/authors"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
@@ -16,6 +18,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const desktopFeaturedImage = post.frontmatter.featuredImage?.desktop?.fluid
   const seoFeaturedImage = post.frontmatter.featuredImage?.seo?.resize
   const authors = post.frontmatter.authors
+
+  desktopFeaturedImage.srcSet = updateSrcSet(desktopFeaturedImage.srcSet, 1920)
 
   const sources = [
     mobileFeaturedImage,

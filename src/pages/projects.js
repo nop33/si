@@ -7,6 +7,7 @@ import FeaturedTagsList from "../components/featured-tags-list"
 import BaseSection from "../components/sections/base"
 import CardsWithText from "../components/sections/cards-with-text"
 import Card from "../components/card"
+import { updateSrcSet } from "../utils"
 
 const ProjectsPage = ({ data, location }) => {
   const pageData = data.projectsPage.nodes[0].frontmatter
@@ -31,13 +32,14 @@ const ProjectsPage = ({ data, location }) => {
               project.frontmatter.category === projectsByCategory.category
           )
           const projectCards = projects.map(project => {
+            const projectImage =
+              project.frontmatter?.featuredImage?.childImageSharp?.fluid
+            projectImage.srcSet = updateSrcSet(projectImage.srcSet, 750)
             return (
               <Card
                 key={`project_page_card_${project.fields.slug}`}
                 url={project.fields.slug}
-                image={
-                  project.frontmatter?.featuredImage?.childImageSharp?.fluid
-                }
+                image={projectImage}
                 title={
                   project.frontmatter.card?.title || project.frontmatter.title
                 }

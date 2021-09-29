@@ -13,7 +13,7 @@ import Tabs from "../components/tabs"
 import SEO from "../components/seo"
 import VideoList from "../components/video-list"
 
-import { generateIdFromTitle } from "../utils"
+import { generateIdFromTitle, updateSrcSet } from "../utils"
 
 const SubpageTemplate = ({ data, location }) => {
   const pageData = data.markdownRemark.frontmatter
@@ -48,6 +48,8 @@ const SubpageTemplate = ({ data, location }) => {
       </div>
     </div>
   )
+
+  desktopFeaturedImage.srcSet = updateSrcSet(desktopFeaturedImage.srcSet, 1920)
 
   const sources = [
     mobileFeaturedImage,
