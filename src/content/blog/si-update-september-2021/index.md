@@ -6,7 +6,7 @@ authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
-  - Update
+  - Updates
   - Transparency
 isEventFeaturedOnHomepage: false
 ---
