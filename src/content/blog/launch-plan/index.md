@@ -18,7 +18,7 @@ seo:
 ---
 ## Summary
 
-The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policymaking processes.
+The Simon Institute for Longterm Governance (SI) aims to increase the long-term impact of policymaking processes.
 
 In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core objectives are to
 
@@ -41,13 +41,13 @@ We will summarize our foundational research in a series of working papers on ‘
 
 This post delineates SI’s action plan. We hope it will provide a clear understanding of where SI is heading in the upcoming months.
 
-We encourage you to share feedback, ideas and collaboration opportunities.
+We encourage you to share feedback, ideas, and collaboration opportunities.
 
 ## 24 months to prove SI
 
 In the next 24 months (2021-2022), SI enters its first phase of development. At the end of 2022, SI’s governing board and staff will evaluate progress. We will continue operating only if the goals below are achieved. Baselines and exact targets will be established at the end of 2021.
 
-We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
+We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning, and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
 
 After at most 1.5 years of work, via surveys and case studies, we expect to see:
 
@@ -64,7 +64,7 @@ After at most 1.5 years of work, via surveys and case studies, we expect to see:
 ##### 1.1 Tools
 
 * 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
-* 1.1.2 Test workshop on behavioural insights for complex problem solving (Q2&3)
+* 1.1.2 Test workshop on behavioral insights for complex problem solving (Q2&3)
 * 1.1.3 Test training on multi-objective prioritization in policymaking (Q4)
 
 ##### 1.2 Research
