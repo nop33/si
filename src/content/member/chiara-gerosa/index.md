@@ -1,7 +1,7 @@
 ---
 name: Chiara Gerosa
 photo: photo5960937797214908708.jpg
-group: Collaborators
+group: Alumni
 role: Policy Affiliate
 links:
   linkedin: http://linkedin.com/in/chiaragerosa

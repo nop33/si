@@ -1,7 +1,7 @@
 ---
 name: Jens Fischer
 photo: fischerjens.jpg
-group: Collaborators
+group: Alumni
 role: Research affiliate
 links:
   website: ""

@@ -1,7 +1,7 @@
 ---
 name: Martina Kunz
 photo: mk-portrait-vertical.jpg
-group: Governing board
+group: Alumni
 role: Board member
 links:
   website: ""

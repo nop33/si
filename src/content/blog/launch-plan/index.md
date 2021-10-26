@@ -18,13 +18,13 @@ seo:
 ---
 ## Summary
 
-The Simon Institute for Longterm Governance (SI) aims to increase the longterm impact of policymaking processes.
+The Simon Institute for Longterm Governance (SI) aims to increase the long-term impact of policymaking processes.
 
 In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core objectives are to
 
 1. prove its approach by generating early signs of counterfactual impact;
 2. narrow down its focus until 2026; and
-3. raise funding to permanently employ at least 5 full-time equivalents (FTE).
+3. raise funding to employ at least 5 full-time equivalents (FTE). *\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]*
 
 In 2021, SI will
 
@@ -41,13 +41,13 @@ We will summarize our foundational research in a series of working papers on ‘
 
 This post delineates SI’s action plan. We hope it will provide a clear understanding of where SI is heading in the upcoming months.
 
-We encourage you to share feedback, ideas and collaboration opportunities.
+We encourage you to share feedback, ideas, and collaboration opportunities.
 
 ## 24 months to prove SI
 
 In the next 24 months (2021-2022), SI enters its first phase of development. At the end of 2022, SI’s governing board and staff will evaluate progress. We will continue operating only if the goals below are achieved. Baselines and exact targets will be established at the end of 2021.
 
-We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
+We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to consolidate SI’s projects, positioning, and operations, raise further funding and develop a post-2022 plan, including a shut-down option.
 
 After at most 1.5 years of work, via surveys and case studies, we expect to see:
 
@@ -64,7 +64,7 @@ After at most 1.5 years of work, via surveys and case studies, we expect to see:
 ##### 1.1 Tools
 
 * 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
-* 1.1.2 Test workshop on behavioural insights for complex problem solving (Q2&3)
+* 1.1.2 Test workshop on behavioral insights for complex problem solving (Q2&3)
 * 1.1.3 Test training on multi-objective prioritization in policymaking (Q4)
 
 ##### 1.2 Research
@@ -82,7 +82,7 @@ After at most 1.5 years of work, via surveys and case studies, we expect to see:
 #### 2. Building capacity
 
 * 2.1 Fundraise minimum CHF 113k by Q3 and push for up to CHF 2m in Q4
-* 2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF)
+* 2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF) *\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]*
 * 2.3 Build up a good reputation among target audience (events rated ≥8/10)
 
 #### 3. Launching and set up SI
@@ -114,6 +114,8 @@ In 2021, the goal is to fundraise in order to scale up operations in 2022.
 To maintain capacity throughout 2022, SI requires to fundraise at least CHF 113’000. However, this is unlikely to be sufficient to reach our 2-year development goals and would merely enable Konrad and Max to pivot.
 
 #### Hiring
+
+*\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]*
 
 To scale at capacity and build runway, we currently expect to be able to make use of as much as CHF 2’000’000 in the first 2-years of operations. This would allow us to hire an additional 5 full-time equivalents (FTE) and thereby drastically increase our capacity to run workshops, collect and analyze data, improve our strategy and support the translation of longtermist ideas into policy practices.
 
