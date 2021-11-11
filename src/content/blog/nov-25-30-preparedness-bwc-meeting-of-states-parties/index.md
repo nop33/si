@@ -25,17 +25,17 @@ This tabletop exercise explores decision-making in fast-paced international cont
 
 The Simon Institute for Longterm Governance (SI) and the Geneva Science-Policy Interface (GSPI) are jointly inviting you to participate in this exercise. The working language will be English.
 
-# **[Sign up now](https://forms.gle/Lt3gsPRiYBMiXiQM6)**[](https://forms.gle/Lt3gsPRiYBMiXiQM6)
+### **[Sign up now](https://forms.gle/Lt3gsPRiYBMiXiQM6)**
 
+- - -
 
-
-# What will participants learn?
+### What will participants learn?
 
 * Understand global catastrophic risks: Participants will learn about global catastrophic risks, how they emerge and the type of effect cascades they can create.
 * Explore solutions to build resilience: Participants will learn about the difficulty of governing risks in an isolated manner, the need and difficulty of global coordination, as well as how to allocate resources to prevention, mitigation and recovery policies.
 * Learn skills and tools for better risk decision-making: Participants will discover concepts, tools, and resources to make informed decisions in the face of uncertainty and in interaction with various stakeholder groups.
 * Through debriefing and additional resources, participants will get a better sense of how to navigate difficult trade-offs when it comes to risk-taking in their everyday job.
 
-# Who is this for?
+### Who is this for?
 
 This 3-hour exercise is meant to benefit diplomats, national policymakers, civil society leaders, international civil servants, as well as scientific experts. 7 participants join the exercise for each session. Participation is free.
