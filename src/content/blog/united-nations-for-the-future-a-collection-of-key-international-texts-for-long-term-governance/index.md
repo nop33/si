@@ -15,6 +15,7 @@ authors:
 tags:
   - Resources
   - Multilateralism
+  - UN
 isEventFeaturedOnHomepage: false
 ---
 Future generations are front and center of many foundational international governance texts. Yet, consideration of their interests regularly falls into oblivion because short-term problems captivate our limited attention.
