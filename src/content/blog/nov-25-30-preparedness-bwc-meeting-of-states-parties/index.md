@@ -1,5 +1,5 @@
 ---
-title: "Nov 25 -30: Preparedness @ BWC Meeting of States Parties"
+title: "Nov 25 -30: Preparedness Exercise @ BWC Meeting of States Parties"
 date: 2021-11-11T13:08:43.006Z
 description: The Geneva Science-Policy Interface (GSPI) and the Simon Institute
   for Longterm Governance (SI) are pleased to invite you to explore the
@@ -25,11 +25,9 @@ This tabletop exercise explores decision-making in fast-paced international cont
 
 The Simon Institute for Longterm Governance (SI) and the Geneva Science-Policy Interface (GSPI) are jointly inviting you to participate in this exercise. The working language will be English.
 
+# **[Sign up now](https://forms.gle/Lt3gsPRiYBMiXiQM6)**[](https://forms.gle/Lt3gsPRiYBMiXiQM6)
 
 
-> **[Sign up now](https://forms.gle/Lt3gsPRiYBMiXiQM6)**
-
-[](https://forms.gle/Lt3gsPRiYBMiXiQM6)
 
 # What will participants learn?
 
