@@ -25,7 +25,7 @@ textSections:
       Our preliminary assessment suggests that the long-term impact of current policymaking institutions is, despite noteworthy contemporary achievements, limited by several factors: fragile and relatively underdeveloped means of global coordination; a lack of preparedness to anticipate, prevent or recover from potential global catastrophes; siloed structures incapable of coping with cross-cutting challenges; pervasive short-termism leading to negligence of future generations; and underdeveloped capacities for policy learning. 
 
 
-      Building on these observations, we suggest three avenues for improving long-term institutional fit: representing future generations; embedding both, the prevention and mitigation of global catastrophic risks, as well as recovery and learning from inevitable shocks in policy agendas; and shifting popular narratives to focus on the creation of transgenerational global public goods and adaptive capabilities. 
+      Building on these observations, we suggest three avenues for improving long-term institutional fit: representing future generations; embedding into policy agendas the prevention of global catastrophic risks, as well as the recovery and learning from inevitable shocks; and shifting popular narratives to focus on the creation of transgenerational global public goods and adaptive capabilities. 
 
 
       To boost institutional changes, we propose five improvements: fostering moral reflection; training systems thinking; improving the science-policy interface; training decision-making under uncertainty; and facilitating group deliberation. 
