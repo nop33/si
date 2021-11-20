@@ -58,12 +58,12 @@ donateSection:
         Name: Association Effective Altruism Geneva (EAGE) <br />
         IBAN: CH85 0024 0240 9405 0140X <br />
         Note: Simon Institute for Longterm Governance
-    - title: From D, NL, UK or US?
-      content: From the USA, UK or Netherlands? You can [make tax-deductible donations
-        via our partner organization "Effective Altruism
+    - title: From D, NL, UK, or US? Or want to donate crypto?
+      content: From the USA, UK, or Netherlands? You can [make tax-deductible
+        donations via our partner organization "Effective Altruism
         Funds"](https://funds.effectivealtruism.org/partners/simon-institute).
-        For donations from Germany, please [get in
-        touch](/get-involved/#get-in-touch).
+        The EA Funds also take crypto. For donations from Germany, please [get
+        in touch](/get-involved/#get-in-touch).
 textSections:
   - title: Why support us?
     content: >-
