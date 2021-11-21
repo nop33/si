@@ -25,7 +25,7 @@ This tabletop exercise explores decision-making in fast-paced international cont
 
 The Simon Institute for Longterm Governance (SI) and the Geneva Science-Policy Interface (GSPI) are jointly inviting you to participate in this exercise. The working language will be English.
 
-## **[Sign up now](https://forms.gle/Lt3gsPRiYBMiXiQM6)**
+## **[Sign up now](https://airtable.com/shrvMHciukSOpDbY3)**
 
 - - -
 
