@@ -55,9 +55,8 @@ donateSection:
   columnsWithButtons:
     - title: "Preferred method: SEPA bank transfer"
       content: |-
-        Name: Association Effective Altruism Geneva (EAGE) <br />
-        IBAN: CH85 0024 0240 9405 0140X <br />
-        Note: Simon Institute for Longterm Governance
+        **Name:** Simon Institute for Longterm Governance <br />
+        **IBAN:** CH67 0021 5215 1374 8301 K
     - title: From D, NL, UK, or US? Or want to donate crypto?
       content: From the USA, UK, or Netherlands? You can [make tax-deductible
         donations via our partner organization "Effective Altruism
