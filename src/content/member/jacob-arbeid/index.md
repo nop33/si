@@ -6,11 +6,11 @@ role: Operations associate
 links:
   linkedin: https://www.linkedin.com/in/jacob-arbeid-a0947b159/
 ---
-Jacob is an SI associate focused on field-building and coordination for Longterm Governance. He is currently organizing a retreat aimed at improving the longtermist field’s engagement with governance and policy.
+Jacob is an operations associate at SI, focused on building up the field of longterm governance. His current mission is to improve the coherence of our emerging field’s policy engagement.
 
 
 
-Jacob is a Research Fellow at the Stanford Existential Risks Initiative and a Research Assistant at Columbia University, where he analyses the political economy of Chinese AI development. He also volunteers with No More Pandemics, a biosecurity advocacy group.
+Jacob is also a Research Fellow at the Stanford Existential Risks Initiative and a Research Assistant at Columbia University, where he analyses the political economy of Chinese AI development. He also volunteers with No More Pandemics, a biosecurity advocacy group.
 
 
 
