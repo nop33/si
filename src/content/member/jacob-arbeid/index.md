@@ -1,5 +1,6 @@
 ---
 name: Jacob Arbeid
+photo: jacobprofile-image.jpg
 group: Collaborators
 role: Operations associate
 links:
