@@ -4,7 +4,7 @@ photo: konrad_seifert_profile_picture.jpg
 group: Staff
 role: Co-founder & COO
 links:
-  website: ""
+  website: https://konrads.link/
   twitter: https://twitter.com/praeterpropter
   linkedin: https://www.linkedin.com/in/kfseifert
 seo:
