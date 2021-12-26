@@ -6,7 +6,7 @@ role: Field-building associate
 links:
   linkedin: https://www.linkedin.com/in/jacob-arbeid-a0947b159/
 ---
-Jacob is an operations associate at SI, focused on building up the field of longterm governance. His current mission is to improve the coherence of our emerging field’s policy engagement.
+Jacob is a field-building associate at SI, focused on creating new infrastructure to better enable researchers and policymakers in the longterm governance field to coordinate and collaborate. 
 
 
 
