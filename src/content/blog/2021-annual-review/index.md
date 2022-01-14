@@ -7,10 +7,12 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
+tags:
+  - Strategy
+  - Transparency
+  - Updates
 isEventFeaturedOnHomepage: false
 ---
-# Executive summary
-
 We founded SI in March 2021. In its first 9 months, we produced various outputs and results. This review of our achievements and shortcomings was written to guide our planning for 2022, not for official reporting. We share [the full document](https://docs.google.com/document/d/107Dvwo1-ok9vUeDQFJdgeZCKWjcy-Y6riqyAs2JxSfQ/edit?usp=sharing) for informational purposes only. We are happy to provide more detail upon request. Our 2022 plans will be published by the end of January.
 
 SI’s goal for the first two years is to demonstrate counterfactual impact, or otherwise extract lessons and shut down. SI’s network, brand, knowledge, and facilitation have started generating promising signs. Two achievements in 2021 make us particularly optimistic.
