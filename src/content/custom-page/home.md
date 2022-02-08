@@ -25,6 +25,17 @@ keyfactsSection:
     link:
       title: Contact us
       url: /get-involved/
+postsSection:
+  newsSection:
+    title: Updates
+    link:
+      title: See all posts
+      url: /blog/
+  eventsSection:
+    title: Events
+    link:
+      title: See all events
+      url: /blog/tag/events/
 featuredProjectsSection:
   title: Featured projects
   projectsByCategory:
@@ -41,17 +52,6 @@ featuredProjectsSection:
       title: Field-building
       description: Share our mission? Join our network.
       orientation: cards-on-the-left
-postsSection:
-  newsSection:
-    title: Updates
-    link:
-      title: See all posts
-      url: /blog/
-  eventsSection:
-    title: Events
-    link:
-      title: See all events
-      url: /blog/tag/events/
 seo:
   title: Simon Institute for Longterm Governance
   description: We help policy networks understand extreme risks, identify
