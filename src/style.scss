@@ -310,11 +310,11 @@ a:focus {
 
 .blog-posts-section {
   display: grid;
-  grid-template-columns: 2fr 2fr;
+  grid-template-columns: 4fr 1fr;
   grid-gap: var(--spacing-32);
 
   @media (max-width: 64rem) {
-    grid-template-columns: 2fr;
+    grid-template-columns: 1fr;
   }
 }
 
