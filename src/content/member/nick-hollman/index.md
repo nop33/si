@@ -1,12 +1,12 @@
 ---
 name: Nick Hollman
-photo: hollmannick.jpg
+photo: ""
 group: Alumni
 role: Research assistant
 links:
   website: ""
   twitter: ""
-  linkedin: https://www.linkedin.com/in/nick-hollman-79166b153/
+  linkedin: ""
 disableDetailPage: true
 seo:
   title: ""
