@@ -1,12 +1,12 @@
 ---
 name: Martina Kunz
-photo: mk-portrait-vertical.jpg
+photo: ""
 group: Alumni
 role: Board member
 links:
   website: ""
   twitter: ""
-  linkedin: https://www.linkedin.com/in/martina-kunz-8b367a70/
+  linkedin: ""
 seo:
   title: ""
   description: ""
