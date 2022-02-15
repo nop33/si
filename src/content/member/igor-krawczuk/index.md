@@ -4,7 +4,7 @@ photo: ""
 group: Alumni
 role: Research affiliate
 links:
-  website: https://krawczuk.eu/
+  website: ""
   twitter: ""
   linkedin: ""
 disableDetailPage: true
