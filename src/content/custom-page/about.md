@@ -37,7 +37,7 @@ textSections:
       ### Field-building
 
 
-      We seek to better understand policy-making by synthesizing knowledge and testing the usefulness of our hypotheses and tools. To that end, we also coordinate a network of policy actors and researchers who share knowledge and experience.
+      We seek to better understand policy-making by synthesizing knowledge and testing the usefulness of our hypotheses and tools. To that end, we also coordinate a network of practitioners and researchers who share knowledge and experience.
   - title: Our approach
     content: >-
       ### Value-driven
