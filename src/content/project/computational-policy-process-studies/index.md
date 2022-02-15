@@ -6,7 +6,7 @@ category: Field-building
 tags:
   - Preprint
   - Methods paper
-isFeaturedOnHomepage: true
+isFeaturedOnHomepage: false
 textSections:
   - title: ""
     content: >-
