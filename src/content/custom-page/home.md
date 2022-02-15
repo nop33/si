@@ -25,6 +25,18 @@ keyfactsSection:
     link:
       title: Contact us
       url: /get-involved/
+featuredProjectsSection:
+  title: Featured projects
+  projectsByCategory:
+    - category: Policy support
+      title: Policy support
+      description: Policymaking is characterized by uncertainty. We help you grapple
+        productively with it.
+      orientation: cards-on-the-left
+    - category: Field-building
+      title: Field-building
+      description: Share our mission? Join our network.
+      orientation: cards-on-the-left
 postsSection:
   newsSection:
     title: Updates
@@ -36,22 +48,6 @@ postsSection:
     link:
       title: See all events
       url: /blog/tag/events/
-featuredProjectsSection:
-  title: Featured projects
-  projectsByCategory:
-    - category: Research
-      title: Research
-      description: We synthesize, formalize and experiment.
-      orientation: cards-on-the-left
-    - category: Policy support
-      title: Policy support
-      description: Policymaking is characterized by uncertainty. We help you grapple
-        productively with it.
-      orientation: cards-on-the-left
-    - category: Field-building
-      title: Field-building
-      description: Share our mission? Join our network.
-      orientation: cards-on-the-left
 seo:
   title: Simon Institute for Longterm Governance
   description: We help policy networks understand extreme risks, identify
