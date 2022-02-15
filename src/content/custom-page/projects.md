@@ -9,11 +9,9 @@ projectsByCategories:
   - category: Field-building
     title: Field-building
     description: We foster a network of practitioners, researchers and donors
-      working together towards longterm governance.
-  - category: Research
-    title: Research
-    description: We conduct in-house research to [advance the field of long-term
-      governance](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
+      working together towards longterm governance. To ground the field, we also
+      [conduct in-house
+      research](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
 seo:
   title: ""
   description: Policymaking is characterized by complexity. We help policy
