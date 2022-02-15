@@ -1,6 +1,6 @@
 ---
 name: Felix Haas
-photo: felix-haas-picture.jpg
+photo: ""
 group: Alumni
 role: Content writer
 links:
