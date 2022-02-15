@@ -2,7 +2,7 @@
 name: Chiara Gerosa
 photo: ""
 group: Alumni
-role: Policy Affiliate
+role: Editor
 links:
   linkedin: ""
 disableDetailPage: true
