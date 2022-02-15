@@ -2,11 +2,11 @@
 title: Computational Policy Process Studies
 subtitle: ""
 featuredImage: science-in-hd-z_wxvitxwpc-unsplash.jpg
-category: Research
+category: Field-building
 tags:
   - Preprint
   - Methods paper
-isFeaturedOnHomepage: true
+isFeaturedOnHomepage: false
 textSections:
   - title: ""
     content: >-
@@ -14,7 +14,7 @@ textSections:
       Jens Fischer, Giovanna Di Marzo Serugendo*
 
 
-      *Preprint submitted to [Complexity](https://www.hindawi.com/journals/complexity/).*
+      *Preprint submitted to [Complexity](https://www.hindawi.com/journals/complexity/). Accepted with revisions.* 
 
 
       [Read the full draft.](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies) 

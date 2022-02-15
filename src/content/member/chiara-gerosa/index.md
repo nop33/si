@@ -1,10 +1,10 @@
 ---
 name: Chiara Gerosa
-photo: photo5960937797214908708.jpg
+photo: ""
 group: Alumni
-role: Policy Affiliate
+role: Editor
 links:
-  linkedin: http://linkedin.com/in/chiaragerosa
+  linkedin: ""
 disableDetailPage: true
 ---
 Chiara is a Policy Advisor in the UK Government's Counter Disinformation Unit. She holds an MSc in Security Studies from the University College London (UCL) and a BSc in Political Science and International Relations from Università Cattolica in Milan. 

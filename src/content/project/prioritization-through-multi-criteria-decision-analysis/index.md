@@ -1,11 +1,11 @@
 ---
-title: Complex prioritization for diverse groups with multi-criteria decision analysis
+title: Prioritization for diverse groups
 subtitle: ""
 featuredImage: cristofer-jeschke-eo_sesctbuo-unsplash.jpg
 category: Policy support
 tags:
   - Workshop
-isFeaturedOnHomepage: false
+isFeaturedOnHomepage: true
 textSections:
   - title: The problem
     content: >-

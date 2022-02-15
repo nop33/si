@@ -19,49 +19,43 @@ textSections:
       ### How?
 
 
-      We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge and community help to cope with the glut of information, competing objectives, complexity and uncertainty. Based in Geneva, Switzerland, we support policy networks centred around the United Nations and the European Union. As a non-profit, SI is focused on long-term impact.
+      We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge, and community help to cope with competing objectives and uncertainty. Based in Geneva, Switzerland, we support policy networks centered around the United Nations. As a non-profit, SI can focus on lasting, impartial impact.
 
 
       ### Policy networks?
 
 
-      A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, civil servants, academics, civil society, lobbyists and more. It is this dynamic co-creation process SI seeks to support.
+      A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, civil servants, academics, civil society, lobbyists, and more. It is this dynamic co-creation process SI seeks to support.
   - title: Our focus areas
     content: >-
       ### Policy support
 
 
-      We develop training programs and advice with a focus on improving the collective capacity of policy networks to exchange information and coordinate in a timely manner.
+      We develop science-policy workshops, training programs, and provide advice with a focus on improving the collective capacity of policy networks to reduce global catastrophic risks by exchanging information and coordinating in a timely manner.
 
 
       ### Field-building
 
 
-      We build research collaborations and strengthen policy decisions by coordinating a network of longtermist policy actors and researchers who share knowledge and strategic insights.
-
-
-      ### Research
-
-
-      We seek to better understand policy-making by synthesizing knowledge, formalizing system dynamics and empirically testing our hypotheses and tools for validity and usefulness.
+      We seek to better understand policymaking by synthesizing knowledge and testing the usefulness of our hypotheses and tools. To that end, we also coordinate a network of practitioners and researchers who share knowledge and experience.
   - title: Our approach
     content: >-
       ### Value-driven
 
 
-      Human civilization is progressively reaching higher levels of well-being. Despite shocks, such as large-scale epidemics and world wars, more and more people are living longer and healthier than ever before. Humanity's progress suggests that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
+      Human civilization is progressively reaching higher levels of well-being. Despite shocks, such as large-scale epidemics and world wars, more people are living longer and healthier than ever before. Humanity's progress and abilities suggest that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
 
 
       ### Resilience-focused
 
 
-      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to achieve multilateral coordination. We are focused on supporting policy networks contributing to the governance of low-probability high-impact events.
+      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to act at all levels of governance. We are focused on supporting policy networks contributing to the mitigation of low-probability high-impact events.
 
 
       ### Science-based
 
 
-      Complementary to those researching the nature of global catastrophic risks, we research the dynamics of the relevant policy networks. We unite knowledge on policy processes, human behaviour and extreme risks to test hypotheses for improving the relationship between research and policy to achieve resilience.
+      Complementary to those researching the nature of global catastrophic risks, we research the dynamics of the relevant policy networks. We unite knowledge on policy processes, human behavior, and global catastrophic risks to test hypotheses for achieving resilience.
 teamSection:
   title: Our team
 herbertSimonSection:
@@ -69,16 +63,16 @@ herbertSimonSection:
   photo: ../../images/herbert_simon.jpg
   content: >-
     Herbert Simon (1916 - 2001) was a political scientist, cognitive
-    psychologist, computer scientist and economist.
+    psychologist, computer scientist, and economist.
 
 
-    His research represents much of the knowledge SI is building on and aims to contribute to.
+    His research represents much of the knowledge SI is building on and aims to contribute to. He shared our goals long before we had conceived of them.
 
 
-    Herbert formalized the concept of bounded rationality, i.e. that humans make decisions under uncertainty with cognitive constraints. In 1978, he received the Nobel Prize in Economics and a Turing Award in 1975. He is known for having seminally contributed to the fields of behavioural economics, public administration, complexity science and artificial intelligence.
+    Herbert formalized the concept of bounded rationality, i.e. that humans make decisions under uncertainty with cognitive constraints. In 1978, he received the Nobel Prize in Economics and in 1975 a Turing Award. He is known for having seminally contributed to the fields of behavioral economics, public administration, complexity science, and artificial intelligence.
 
 
-    We thank Katherine, Barbara and Peter Simon for having granted us the honour of naming the Institute for Longterm Governance after their father.
+    We thank Katherine, Barbara, and Peter Simon for having granted us the honor of naming the Institute for Longterm Governance after their father.
 sponsorsSection:
   title: Sponsors
   sponsors:
@@ -87,10 +81,9 @@ sponsorsSection:
 seo:
   title: About us
   description: We connect research with practice to support a risk- and
-    resilience-focused multilateralism enhanced by science. Our tools, knowledge
-    and community help to cope with the glut of information, competing
-    objectives, complexity and uncertainty. Based in Geneva, Switzerland, we
-    support policy networks centred around the United Nations, the European
-    Union and national governments. As a non-profit, SI can afford to focus on
-    producing long-term sustainable solutions.
+    resilience-focused multilateralism enhanced by science. Our tools,
+    knowledge, and community help to cope with competing objectives and
+    uncertainty. Based in Geneva, Switzerland, we support policy networks
+    centered around the United Nations. As a non-profit, SI can focus on
+    lasting, impartial impact.
 ---

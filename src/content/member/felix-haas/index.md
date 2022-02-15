@@ -1,9 +1,9 @@
 ---
 name: Felix Haas
-photo: felix-haas-picture.jpg
+photo: ""
 group: Alumni
 role: Content writer
 links:
-  linkedin: https://www.linkedin.com/in/felix-haas-542b4b30/
+  linkedin: ""
 disableDetailPage: true
 ---

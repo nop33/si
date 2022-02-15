@@ -1,12 +1,12 @@
 ---
 name: Jens Fischer
-photo: fischerjens.jpg
+photo: ""
 group: Alumni
 role: Research affiliate
 links:
   website: ""
   twitter: ""
-  linkedin: https://www.linkedin.com/in/jens-walter-fischer/
+  linkedin: ""
 disableDetailPage: true
 seo:
   title: ""

@@ -5,7 +5,7 @@ category: Field-building
 tags:
   - Public
   - Digital
-isFeaturedOnHomepage: true
+isFeaturedOnHomepage: false
 textSections:
   - content: If you're interested in our work and network, we invite you to join our
       monthly office hour. We meet every first Wednesday of the month from
