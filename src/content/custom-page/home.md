@@ -30,12 +30,11 @@ featuredProjectsSection:
   projectsByCategory:
     - category: Policy support
       title: Policy support
-      description: Policymaking is characterized by uncertainty. We help you grapple
-        productively with it.
-      orientation: cards-on-the-left
+      description: Our knowledge and network help to productively grapple with uncertainty.
+      orientation: cards-on-the-right
     - category: Field-building
       title: Field-building
-      description: Share our mission? Join our network.
+      description: We coordinate exchange and synthesize knowledge.
       orientation: cards-on-the-left
 postsSection:
   newsSection:
