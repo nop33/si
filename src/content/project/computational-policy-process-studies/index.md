@@ -2,7 +2,7 @@
 title: Computational Policy Process Studies
 subtitle: ""
 featuredImage: science-in-hd-z_wxvitxwpc-unsplash.jpg
-category: Research
+category: Field-building
 tags:
   - Preprint
   - Methods paper
