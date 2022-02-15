@@ -7,6 +7,7 @@ links:
   website: ""
   twitter: ""
   linkedin: ""
+disableDetailPage: true
 seo:
   title: ""
   description: ""
