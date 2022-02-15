@@ -3,9 +3,9 @@ title: Supporting policymakers in their cooperation with future generations.
 hasImageBackgroundHeader: true
 keyfactsSection:
   - title: About
-    description: The Simon Institute for Longterm Governance (SI) works to mitigate
-      global catastrophic risks, building on Herbert Simon's vision of
-      future-proof policymaking processes.
+    description: Based in Geneva, Switzerland, the Simon Institute for Longterm
+      Governance (SI) works to mitigate global catastrophic risks, building on Herbert
+      Simon's vision of future-proof policymaking processes.
     link:
       title: More
       url: /about/
