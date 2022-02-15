@@ -30,11 +30,11 @@ featuredProjectsSection:
   projectsByCategory:
     - category: Policy support
       title: Policy support
-      description: Our knowledge and network help to productively grapple with uncertainty.
+      description: Our knowledge and network improve global catastrophic risk governance.
       orientation: cards-on-the-right
     - category: Field-building
       title: Field-building
-      description: We coordinate exchange and synthesize knowledge.
+      description: We coordinate exchange and synthesize knowledge on long-term governance.
       orientation: cards-on-the-left
 postsSection:
   newsSection:
