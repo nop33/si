@@ -3,27 +3,25 @@ title: Supporting policymakers in their cooperation with future generations.
 hasImageBackgroundHeader: true
 keyfactsSection:
   - title: About
-    description: The Simon Institute for Longterm Governance (SI) supports policy
-      networks in mitigating extreme risks, implementing Herbert Simon's vision
-      of support tools for future-oriented policymaking.
+    description: The Simon Institute for Longterm Governance (SI) works to mitigate
+      global catastrophic risks, building on Herbert Simon's vision of
+      future-proof policymaking processes.
     link:
-      title: More about us
+      title: More
       url: /about/
   - title: Projects
-    description: We help policymakers understand risks, identify coordination
-      bottlenecks and equip them with tools and heuristics to render tacit
-      knowledge explicit, reduce information asymmetries, and deliberate
-      productively.
+    description: We help policymakers understand risks, identify bottlenecks and
+      equip them with tools to render knowledge explicit, reduce information
+      asymmetries, and deliberate productively.
     link:
-      title: Our projects
+      title: More
       url: /projects/
   - title: Get involved
-    description: Interested in our approach? We're always looking for new ideas,
-      collaborations and support. We are also happy to share insights and
-      provide input. Get in touch, stay up to date or donate to contribute to
-      the future.
+    description: Interested? We're always looking for input and support. We are also
+      happy to share insights and provide feedback. Get in touch or donate to
+      contribute to the future.
     link:
-      title: Contact us
+      title: Connect
       url: /get-involved/
 featuredProjectsSection:
   title: Featured projects
