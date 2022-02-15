@@ -2,7 +2,7 @@
 title: "Policymaking for the Long-term Future: Improving Institutional Fit"
 subtitle: ""
 featuredImage: joshua-sortino-lqkhndzsf-8-unsplash.jpg
-category: Research
+category: Field-building
 tags:
   - Draft
   - Working paper
