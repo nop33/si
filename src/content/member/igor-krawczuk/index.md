@@ -1,12 +1,12 @@
 ---
 name: Igor Krawczuk
-photo: krawczukigor.jpg
+photo: ""
 group: Alumni
 role: Research affiliate
 links:
   website: https://krawczuk.eu/
   twitter: ""
-  linkedin: https://www.linkedin.com/in/igorkrawczuk/
+  linkedin: ""
 disableDetailPage: true
 seo:
   title: ""
