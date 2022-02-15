@@ -1,12 +1,12 @@
 ---
 name: Jan Pieter Snoeij
-photo: snoeijjanpieter.jpg
+photo: ""
 group: Alumni
 role: Research affiliate
 links:
   website: ""
-  twitter: https://twitter.com/jpsnoeij
-  linkedin: https://www.linkedin.com/in/janpietersnoeij/
+  twitter: ""
+  linkedin: ""
 disableDetailPage: true
 seo:
   title: ""
