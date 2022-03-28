@@ -43,12 +43,12 @@ donateSection:
   title: Donate
   intro:
     content: >-
-      We currently estimate our room for more funding to be around CHF2,000,000.
+      We currently estimate our room for more funding to be around CHF1,600,000.
       Any amount directly enables us to do more. [Check out our plans and
       strategy here.](/blog/tag/strategy/)
 
 
-      You can donate via EA Geneva until SI’s nonprofit status is legally recognized. This also makes your contribution tax-deductible in Switzerland. Just indicate in Step 4 that your donation is for SI.
+      You can make tax-deductible donations via EA Geneva until SI’s nonprofit status is legally recognized in Switzerland. Just indicate in Step 4 that your donation is for SI.
     button:
       text: Donate
       url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
@@ -56,7 +56,8 @@ donateSection:
     - title: "Preferred method: SEPA bank transfer"
       content: |-
         **Name:** Simon Institute for Longterm Governance <br />
-        **IBAN:** CH67 0021 5215 1374 8301 K
+        **IBAN:** CH67 0021 5215 1374 8301 K <br />
+        This is not tax-deductible.
     - title: From D, NL, UK, or US? Or want to donate crypto?
       content: From the USA, UK, or Netherlands? You can [make tax-deductible
         donations via our partner organization "Effective Altruism
