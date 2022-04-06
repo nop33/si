@@ -1,7 +1,7 @@
 ---
 name: Jacob Arbeid
 photo: jacobprofile-image.jpg
-group: Collaborators
+group: Staff
 role: Field-building associate
 links:
   linkedin: https://www.linkedin.com/in/jacob-arbeid-a0947b159/
