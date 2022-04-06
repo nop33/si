@@ -21,8 +21,8 @@ textSections:
       Our aim is to promote a computational turn of policy process studies that is empirical and hypothesis-driven. To that end, we lead research collaborations that build bridges between two distant fields: computational modeling and policy process studies.
   - title: Paper preprint
     content: >-
-      **A Computational Turn in Policy Process Studies: Co-evolving Network
-      Dynamics of Policy Change**
+      [**A Computational Turn in Policy Process Studies: Co-evolving Network
+      Dynamics of Policy Change**](https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view)
 
 
       Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of co-evolving networks. Our model suggests that an actors’ influence depends on their environment and on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
