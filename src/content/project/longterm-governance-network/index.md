@@ -5,12 +5,18 @@ featuredImage: connection.jpg
 category: Field-building
 tags:
   - Coordination
-  - Networking
 isFeaturedOnHomepage: true
 textSections:
+  - title: Summary
+    content: Too often, policymakers and researchers lack opportunities for targeted
+      productive exchange. Our aim is to curate a community that is united in
+      the aim to help safeguard and let future generations thrive. We increase
+      bandwidth between actors of different backgrounds but with shared goals
+      through targeted networking, a chat server, and themed invite-only
+      retreats.
   - content: >-
       To build a strong community of practice in long-term governance, we invite
-      policy actors to join our network. 
+      policymakers and researchers to join our network. 
 
 
       If you could be a great addition, [fill out this form](https://airtable.com/shrdAb3PgjzY49EeZ) and we'll be in touch.
