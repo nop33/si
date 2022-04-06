@@ -1,10 +1,9 @@
 ---
-title: Outreach
+title: Academic engagement
 featuredImage: img_4154.jpg
 category: Field-building
 tags:
-  - Advice
-  - Networking
+  - Outreach
 isFeaturedOnHomepage: false
 textSections:
   - title: Summary
