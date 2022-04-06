@@ -27,7 +27,7 @@ textSections:
       * Effective Altruism Global
   - title: Past talks
     content: |-
-      We have presented on long-term governance at:
+      We have [presented on long-term governance](https://mediaserver.unige.ch/play/151903) at:
 
       * Future of Global Governance Summer School, University of Geneva
       * Centre for the Study of Existential Risk, University of Cambridge
