@@ -43,7 +43,7 @@ donateSection:
   title: Donate
   intro:
     content: >-
-      We currently estimate our room for more funding to be around CHF1,600,000.
+      We currently estimate our room for more funding until the end of 2023 to be around CHF1,600,000.
       Any amount directly enables us to do more. [Check out our plans and
       strategy here.](/blog/tag/strategy/)
 
