@@ -14,10 +14,10 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
-  - name: Jacob Arbeid
-    page: jacob-arbeid/index
 isEventFeaturedOnHomepage: false
 ---
+*We thank Jacob Arbeid for his immensely valuable edits & comments.*
+
 # Summary
 
 A year ago, we [launched](https://forum.effectivealtruism.org/posts/eKn7TDxMSSsoHhcap/introducing-the-simon-institute-for-longterm-governance-si) the Simon Institute for Longterm Governance ([SI](https://www.simoninstitute.ch/)). In this post, we 
@@ -32,7 +32,7 @@ Based in Geneva, Switzerland, SI is building the science-policy interface for lo
 
 Throughout its first year, SI proved its capacity and value in connecting longtermist researchers to international civil servants and national delegates, especially through workshops and high-level dinners. SI’s research is attracting valuable attention and has in a first part passed academic peer review. This combination of activities has granted SI mandates from UN institutions, as well as the Swiss government, to directly work on policy processes relevant to existential risk reduction. 
 
-In the next step, SI will focus on the development of the UN’s [“Our Common Agenda” (OCA)](https://forum.effectivealtruism.org/posts/Fwu2SLKeM5h5v95ww/major-un-report-discusses-existential-risk-and-future#comments) as a particularly impactful opportunity to focus international and national attention on future generations and existential risk. The value of this engagement can come from e.g. identifying allies, contributing to the redefinition of the international policy narrative, and easing other longtermists’ national policy efforts through helping create global reference frameworks.
+In the next step, SI will focus on the development of the UN’s [“Our Common Agenda” (OCA)](https://forum.effectivealtruism.org/posts/Fwu2SLKeM5h5v95ww/major-un-report-discusses-existential-risk-and-future#comments) as a particularly impactful opportunity to focus international and national attention on future generations and existential risk. The value of this engagement can come from e.g. identifying allies, contributing to the redefinition of the international policy narrative, and easing other longtermists’ national policy efforts by helping create global reference frameworks.
 
 Due to its positioning and first achievements, SI finds itself with this rare window of opportunity to inculcate longtermism and existential risk reduction at the heart of the institutions that can claim to speak for all humanity, and which can affect the priorities of national governments. Our success is now dependent on growing our funding and talent base. We believe we have room for more funding of $ ~4 million until 2025.
 
@@ -55,13 +55,9 @@ Until at least 2025, we will focus on existential risk mitigation. While long-te
 
 SI focuses primarily on fostering information processing. Unlike many think tanks, SI does not focus its theory of change around producing in-house policy analyses or recommendations. Instead, SI works with policymakers and academics to efficiently translate research into practice. This is why SI could fill a gap in an information-rich but time-scarce environment.
 
-
-
 ![](https://lh6.googleusercontent.com/r1q4VLLabw2k542ocWq_cTIw4jaQ3oZah7DmHL2MowWnFeBw1Y-lNufIXEgLE-ynpP4kEagLw7BC9bPW_PuSgYrt0lfcJles63MaLGQX0kEjL4e1hJYWaQh0oM5LpW9KDnV7-zWi)
 
 *SI’s theory of change*
-
-
 
 SI aims to be policy-relevant. SI is embedded in one of the few international policy hubs - Geneva - and adapts its strategy in response to arising opportunities. 2021 has marked a breakthrough in international policymakers’ responsiveness to longtermist concerns. In the United Nations Office of the Secretary General’s ‘Our Common Agenda’, SG Antonio Guterres [states](https://www.un.org/en/un75/common-agenda):
 
@@ -94,15 +90,11 @@ To illustrate how SI is making a difference and building up further potential, t
 
 *Researchers and policy brokers learning to speak each other’s language*
 
-
-
 Dr. Clarissa Rios Rojas from the Centre for the Study of Existential Risk (CSER) reached out to us to co-develop a workshop series bringing together a selected audience of more than 30 global catastrophic risk (GCR) researchers and policy brokers in the disarmament and disaster risk reduction sphere. The goal was to contribute to CSER’s ongoing efforts to build a science-policy interface for GCRs (abbreviated ‘GCR-SPI’). We were well-positioned to co-design this workshop due to our understanding of CSER’s work and mission, as well as our practical experience with current affairs and common frames in international policy.
 
 Clarissa reported that our joint brainstorming sessions, together with our framings and workshop facilitation were instrumental in the process of designing a productive GCR-SPI group. The participants also reported that they were surprised by the opportunities and insights created through the workshop. SI’s experience discussing GCRs with international policymakers and academics allowed for a more effective bridging and detection of gaps in understanding between researchers and policy practitioners, as well as between the longtermist field and more established paradigms.
 
 The workshop resulted in improved relationships between almost three dozen science-policy actors and academic researchers. Some have expressed interest in shifting their personal career’s focus on neglected GCRs and are discussing applications to appropriate funding programs with us. Some international organizations, like the UN Office for Disaster Risk Reduction (UNDRR) and the International Science Council, also explicitly stated an interest in developing a better understanding of GCRs as a result.
-
-
 
 **High-level dinner with senior leadership at the BWC’s Meeting of State Parties**
 
@@ -110,9 +102,7 @@ The workshop resulted in improved relationships between almost three dozen scien
 
 *Getting a feel for the public diplomatic discourse around the BWC*
 
-
-
-The Future of Humanity Institute’s Biosecurity Research Group (FHI Bio) reached out to us for their visit to the Biological Weapons Convention’s Meeting of States Parties in Geneva in November 2021. Beyond supplying them with practical information, we organized dinners and lunches to create and strengthen connections between us, other researchers, young diplomats, and senior leadership in biosecurity. A longtermist biosecurity grantmaker reported that they would have paid approximately $ 50,000 for the high-level dinner with senior leadership from key national delegations and international organizations. Our expenses for this dinner, including staff time, were between $ 6000-7000.
+The Future of Humanity Institute’s Biosecurity Research Group (FHI Bio) reached out to us for their visit to the Biological Weapons Convention’s Meeting of States Parties in Geneva in November 2021. Beyond supplying them with practical information, we organized dinners and lunches to create and strengthen connections between us, other researchers, young diplomats, and senior leadership in biosecurity. A longtermist biosecurity grantmaker reported that they would have paid approximately $ 50,000 for the high-level dinner with senior leadership from key national delegations and international organizations. Our expenses for this dinner, including staff time, were between $ 6,000-7,000.
 
 Without SI, FHI Bio would have been less likely to get an in-depth look behind the scenes of international diplomacy and unlikely to connect to key stakeholders in a setting where personal discussion allowed for the divulging of insider information and personal opinion. These insights and contacts have already proven useful to other long-term-oriented endeavors, too.
 
@@ -126,7 +116,7 @@ We have added further value to CSER’s work through our ongoing engagement. We 
 
 Similarly, our exchange with leadership and researchers at Oxford's Global Priorities Institute seems to have contributed to minor adjustments to [their plans](https://forum.effectivealtruism.org/posts/LfJtFiDDNqj7Pnwj8/update-on-gpi-s-activities-and-plans-for-2022#Development_of_additional_research_themes). A well-attended presentation of our work to >15 GPI researchers indicated lively interest from leading academics of direct relevance to SI’s goals. In discussion, we were able to highlight how rigorous research and its authors can support longtermist policy engagement through public backing. Hilary Greaves reported that she will help clarify concepts of existential risk for effective policy engagement as a result.
 
-Career changes have plausibly been another result of our work. Organizations such as 80,000 Hours, Effective Thesis, and others have been forwarding promising individuals to us for advice (~33 calls). Our advice is at least perceived as helpful. Examples range from a young leader deciding to stay in a major French think tank instead of moving on; a promising young scholar deciding to pursue a public policy master instead of going into politics; and a research consultant who decided to make their work more policy-relevant. We expect most of the value to show only after a few years.
+Career changes have plausibly been another result of our work. Organizations such as 80,000 Hours, Effective Thesis, and others have been forwarding promising individuals to us for advice (~33 calls). Our advice is at least perceived as helpful. Examples range from a young leader deciding to stay in a major French think tank instead of moving on; a promising young scholar deciding to pursue a public policy master's instead of going into politics; and a research consultant who decided to make their work more policy-relevant. We expect most of the value to show only after a few years.
 
 We have extensively engaged with and advised other policy-related projects on their strategy, communications, or the content of their workshops. We are actively coordinating with key policy actors to reduce potential harm from risky activities and actors. We also, on a roughly weekly basis, receive inquiries about job openings, internships, or our Longterm Governance Network from junior talent looking for mentorship and exchange, indicating a currently unserved need for more such network support.
 
@@ -152,8 +142,6 @@ We have signed a grant agreement of CHF 50,000 from the Swiss Government’s Int
 
 Since February 2022, our impact and learning have made us sufficiently confident to start applying for larger grants again. We recently have handed in proposals to EA Funds, the Survival and Flourishing Fund, FTX Future Fund, and are in touch with Effective Giving.
 
-
-
 **2. Deployment of in-person programs was almost impossible**
 
 Because of COVID-19, key events with the UN in March 2021 and at the High-Level Political Forum in July 2021, as well as others were converted to online programs. This made participation and hosting sessions less valuable, especially since our intensive in-person formats did not fit the shortened time slots. 
@@ -176,11 +164,11 @@ Furthermore, as SI works at the interface between existential risk research and 
 
 Existential risk research lacks many accessible examples and policy recommendations to articulate a constructive, positive narrative around existential risk mitigation. Talk about existential risk often puts off overly optimistic policy actors because they want to focus purely on progress. Conversely, proposed solutions to existential risk are often perceived as too reliant on techno-utopian worldviews, which are incompatible with many policy actors’ understanding of a sustainable lifestyle within planetary bounds.
 
-Different UN agencies and conventions rely on different narratives (e.g. security, global development, sustainability, human rights, etc.). SI needs to adapt to different narratives, depending on the context (e.g. which UN Convention, member-states, history). A potential negative consequence of this reality is that SI will end up working with different framings for different audiences, which may cause confusion. However, this negative consequence seems less likely if we accompany these  adaptations in messaging with efforts to foster cross-contextual understanding. 
+Different UN agencies and conventions rely on different narratives (e.g. security, global development, sustainability, human rights, etc.). SI needs to adapt to different narratives, depending on the context (e.g. which UN Convention, member-states, history). A potential negative consequence of this reality is that SI will end up working with different framings for different audiences, which may cause confusion. However, this negative consequence seems less likely if we accompany these adaptations in messaging with efforts to foster cross-contextual understanding. 
 
 Successful existential risk mitigation is thus highly dependent on the translation of the research into practical recommendations for policy change that are motivating and coherent across cultures and institutions. COVID-19, and more recently the Ukraine crisis and accompanying nuclear risks, have in this sense been a blessing in disguise. They provide reference points of global salience to exemplify to policy audiences how things could easily be even worse. 
 
-Building on these reference points, the UN’s Our Common Agenda presents a rare opportunity to directly work on future generations and existential risks in national and international political agendas. This is because they are explicitly introduced in the report and 17 out of its 69 proposals are directly relevant to longtermist goals. We need surge capacity to be able take advantage of the upcoming windows of opportunity it provides. Blog posts, talks, interviews, etc. are likely cheaper and plausibly more effective than academic articles for promoting ideas. 
+Building on these reference points, the UN’s Our Common Agenda presents a rare opportunity to directly work on future generations and existential risks in national and international political agendas. This is because they are explicitly introduced in the report and 17 out of its 69 proposals are directly relevant to longtermist goals. We need surge capacity to take advantage of the upcoming windows of opportunity it provides. Blog posts, talks, interviews, etc. are likely cheaper and plausibly more effective than academic articles for promoting ideas. 
 
 Continuous, iterative engagement with our target audience will be needed to ensure that longtermist considerations are well-understood. Many policy actors understand risk distributions even less than we initially thought, which makes the case for prioritizing existential risks difficult (“why focus on unlikely things when 99% of what’s already happening seems dangerous, too?”). Building understanding requires sustained exchange with policy actors, or common authoritative reference frames, such as shared experiences (e.g. COVID-19) or intergovernmental agendas (e.g. Our Common Agenda). Once key actors understand existential risks better and focus on them, it is much easier to design effective action.
 
@@ -194,37 +182,33 @@ Matchmaking has shown itself to be useful, as researchers are keen to be support
 
 The international policy perspective that we developed as part of founding and running SI seems unique and complements others well, including at organizations like FHI and CSER. Organizations similar to SI but focused on engaging with policy in individual nations, e.g. CLTR and Pour Demain, are coordinating their internationally relevant activities with us. 
 
-Our branding, network and early work have positioned us such that key policy actors we would like to collaborate with reach out to us proactively. The Swiss government proposed a collaboration on international law and existential risks via our board members. We had initially planned to devote significant resources to reaching out to organizations involved in the implementation process of the UN’s Our Common Agenda: we were pleasantly surprised when, based on our workshops and publications, they reached out to us first.
+Our branding, network and early work have positioned us such that key policy actors we would like to collaborate with reach out to us proactively. The Swiss government proposed a collaboration on international law and existential risks via our board members. We had initially planned to devote significant resources to engaging with organizations involved in the implementation process of the UN’s Our Common Agenda: we were pleasantly surprised when, based on our workshops and publications, they reached out to us first.
 
 Overall, we have spent most of our time developing content, framings, and formats to productively engage our audience. We can now dedicate more time to facilitating input and sessions, and less time to developing them.
-
-
 
 **6. It is possible to engage in international policy with low downside risks**
 
 As mentioned, some observers have expressed concern that engaging with the international policy sphere carries risks. Given our evaluation and the received feedback on our work, it seems unlikely that SI is causing harm. Longtermists with experience in international policy processes have reported that our work is not particularly risky. Conversely, those with less familiarity with the UN ecosystem are understandably more worried about downside risks. 
 
-Negative impact would most likely come from bad frames, activities or events that confuse key longtermist or policy concepts, put off allies, or focus their efforts on low-impact opportunities. Other risks we see are insufficient capacity for public relations management in case of unexpected crises, as well as claiming too much space that could discourage other, much needed longtermist policy engagement.
+Negative impact would most likely come from bad frames, activities or events that confuse key longtermist or policy concepts, put off allies, or focus their efforts on low-impact opportunities. Other risks we see are insufficient capacity for public relations management in case of unexpected crises, as well as claiming too much space that could discourage other, much-needed longtermist policy engagement.
 
 We are weighing different opinions on possible downside risks of our work on a case-by-case basis. One general choice we made is that we do not make policy recommendations ourselves. Instead, we always work jointly with subject matter experts to provide policy ideas. We focus on facilitation and general improvements in risk literacy, agenda-setting and decision-making processes. This builds capacity for the time when well-vetted recommendations can be widely promoted and reflects a consensus among longtermist actors that robust policy ideas are lacking, especially at the international level.  
 
 ![](https://lh3.googleusercontent.com/oBcthoaq5JmCZrWFQQHXwKBTN4_5xd_To0F5LwM0WbwbNoCtCL7FfcpDtc7UxRx7oC0v8cQBrJKs2IUwqKQp5VZ5kN38DUfwDuCaslX7zxoplfXRrZ6UStyyOA2qqGszWalBV6X3)
 
-*Why  facilitation seems impactful*
+*Why facilitation seems impactful*
 
 By being locally embedded in the Geneva policy ecosystem, we can make engaging with international processes less risky for external longtermist actors. We have been able to provide guidance to researchers, increasing their flexibility and reducing the probability of complications. 
 
 Our lack of funding plausibly increases the risks associated with our work because we have limited capacity to continuously adapt. We lack surge capacity to manage bigger crises should they arise, despite our cautious approach.
 
-
-
 **7. Our current research capacity is limited but our thinking valued**
 
-Research has not and won’t be SI’s main focus. Yet it seems important to document our theory of change, evidence base, lessons learned, and ideas for research we would like to see. Thus, throughout its first 12 months, SI has produced a diverse set of publications. Much of these reflected work that contributed to the foundation of SI. To increase confidence in our approach and build our field’s legitimacy, we decided to submit it to academic peer-review.
+Research has not and won’t be SI’s main focus. Yet it seems important to document our theory of change, evidence base, lessons learned, and ideas for research we would like to see. Thus, throughout its first 12 months, SI has produced a diverse set of publications. Much of these reflected work that contributed to the foundation of SI. To increase confidence in our approach and build our field’s legitimacy, we decided to submit it to academic peer review.
 
 In the process of writing and revising, we realized that we would save a lot of time with an editor and experienced research staff. Nevertheless, due to SI’s competitive advantage of getting policymakers and academics to exchange productively, we do not plan on building up in-house research, unless we unexpectedly receive donations worth more than two times our estimated room for more funding and recruit a highly qualified research lead.
 
-Due to SI’s practice-oriented theory of change, we decided to write practical reference pieces instead of academic publications. Nonetheless, we received highly encouraging peer reviews of “Computational Policy Process Studies” and our concept of “Long-term Institutional Fit”. In discussions with researchers at FHI, GPI and CSER, we have also been able to provide useful input. Further, we have received more than 50 enquiries for thesis supervision, research internships, strategy and career advice.
+Due to SI’s practice-oriented theory of change, we decided to write practical reference pieces instead of academic publications. Nonetheless, we received highly encouraging peer reviews of “Computational Policy Process Studies” and our concept of “Long-term Institutional Fit”. In discussions with researchers at FHI, GPI and CSER, we have also been able to provide useful input. Further, we have received more than 50 inquiries for thesis supervision, research internships, strategy and career advice.
 
 Given this, it could be valuable for somebody to further develop our research interests. For now, the opportunity costs in policy engagement seem too high for SI to build up more capacity.
 
@@ -234,16 +218,14 @@ Our biggest upcoming opportunity is that we have been solicited by the UN SG Off
 
 We plan on exploring what can be done at this agenda-setting level of international affairs, until at least after the UN’s Summit of the Future, scheduled for September 2023. We expect the development of this agenda and its resulting processes to 
 
-* Impact national priorities and policy windows via intergovernmental consensus building on global priorities and potential hard law development (e.g. updates to or new treaties),
+* Impact national priorities and policy windows via intergovernmental consensus-building on global priorities and potential hard law development (e.g. updates to or new treaties),
 * Identify new allies for longtermist policy engagement and beyond (e.g. [policy entrepreneurs or champions](https://advocacyguide.icpolicyadvocacy.org/521-identify-policy-brokers-or-champions)), and
 * Reframe international cooperation by providing the basis for the 2030 update to the [Sustainable Development Goals](https://sdgs.un.org/2030agenda).
-
-
 
 To make the most of this opportunity, SI will conduct the following activities building up to its participation at the Summit of the Future:
 
 * To inform the priorities of the UN’s High-Level Advisory Board on Effective Multilateralism (HLAB), we will write a briefing on x-risk as an intergenerational global public goods, provide advice on accounting for future generations beyond 2100 in expert consultations, and support the UN University in the development of the HLAB’s independent report.
-* To support the UN SG Office in advancing OCA’s focus on existential risks, we will support the development of the first Strategic Foresight and Global Risk Report through research contributions and develop an alliance of supportive nation states.
+* To support the UN SG Office in advancing OCA’s focus on existential risks, we will support the development of the first Strategic Foresight and Global Risk Report through research contributions and develop an alliance of supportive nation-states.
 * To improve our current engagement plan for the OCA, we will interview key stakeholders from the UN ecosystem, national governments, and longtermist organizations.
 * To stay on top of updates to the OCA, we will listen to national and organizational statements, read reports and resolutions, and write blog posts on important developments, aimed at policymakers and longtermist researchers.
 * To maintain an overview of related events, participating actors, and commonly employed framings, we will set up web-scraping infrastructure.
@@ -252,19 +234,15 @@ To make the most of this opportunity, SI will conduct the following activities b
 * To assess responses to existential risk concepts in different international “meme-spaces”, we aim to conduct at least two message testing studies and will explore collaborations with e.g. CLTR and LPP on this.
 * To get a better sense of the international policy zeitgeist and identify potential allies, we will participate in the World Health Assembly, Global Platform for Disaster Risk Reduction & the BWC’s 9th Review Conference.
 
-
-
 Many in the longtermist policy field have suggested the need for an actor that aggregates information, tracks opportunities and precipitates action around windows of opportunity, such as OCA. SI aims to position itself in this role by building the infrastructure and bandwidth for scalable, internationally coherent longtermist policy engagement.
 
-We will continuously assess progress made, and will need surge capacity to seize windows of opportunity as announcements are made on short timelines. We expect various national conferences and workshops throughout the next 18 months to be useful tools to achieve an increased focus on existential risk at the summit itself. To improve coordination, we are planning to host a retreat with key longtermist policy actors in January 2023. We hope to contribute to workshops with delegations and representatives throughout 2023 in countries around the world. After the Summit For the Future, we will publish an evaluation of our engagement and reconsider our mid-term planning.
+We will continuously assess progress made and need surge capacity to seize windows of opportunity as announcements are made on short timelines. We expect various national conferences and workshops throughout the next 18 months to be useful tools to achieve an increased focus on existential risk at the summit itself. To improve coordination, we are planning to host a retreat with key longtermist policy actors in January 2023. We hope to contribute to workshops with delegations and representatives throughout 2023 in countries around the world. After the Summit For the Future, we will publish an evaluation of our engagement and reconsider our mid-term planning.
 
 To solidify SI’s standing in the eyes of its local policy ecosystem, we will also: 
 
 * Support the Swiss government in its efforts to work on resilience to existential risk by contributing to reports, writing policy briefs and co-authoring a paper on the role of international law in this context.
 * Publish an interview analysis on decision-making in the face of existential risk.
 * Run our tabletop exercise on pandemic preparedness three times together with our partner organization at the University of Geneva, the Geneva Science-Policy Interface.
-
-
 
 To scale the organization sustainably, we plan to hire in waves, such that our team culture is consolidated and our core activities are not disrupted. We currently believe that we would be able to hire 3-5 people before needing to consolidate and restructure a first time.
 
@@ -273,10 +251,8 @@ To scale the organization sustainably, we plan to hire in waves, such that our t
 Looking back on SI’s achievements and at the opportunities ahead, by far, our biggest bottleneck is funding. To illustrate:
 
 1. Konrad is the only person who works full-time for SI and his salary is guaranteed until June 2022 only. 
-2. Max works at most 60% for SI, as his salary comes from the University of Geneva, forcing him to keep an employment there and work at ~140% FTE.
+2. Max works at most 60% for SI, as his salary comes from the University of Geneva, forcing him to stay employed there and work at ~140% FTE.
 3. There is no funding for additional staff and we have only one contractor who started this March.
-
-
 
 Our current funding needs are the following (we are happy to share budgets on request):
 
@@ -297,7 +273,7 @@ If you want to find out more, tell us where you think we’re making mistakes, s
 
 # 6. Ask us anything
 
-Please use the comments to ask us anything - feel free to ask for clarifications, question our plans, point out likely mistakes or propose ideas you think we’ve missed! 
+Please, [comment on this document to ask us anything](https://docs.google.com/document/u/1/d/1OEUIDDypb_LfaQshYuW1xEfMqZ5bJf9xM0Tihryf85M/) - feel free to ask for clarifications, question our plans, point out likely mistakes or propose ideas you think we’ve missed!
 
 # 7. Appendix
 
@@ -306,7 +282,7 @@ Please use the comments to ask us anything - feel free to ask for clarifications
 A list of all our outputs in our first year:
 
 1. Developed and ran a 2-day online workshop on building the global catastrophic risk science-policy interface in collaboration with the Centre for the Study of Existential Risk. The workshop included around 30 participants - half of them existential risk researchers and half risk management policy actors within international organizations. The workshop will lead to a joint report with CSER in 2022.
-2. Developed a tabletop [exercise on pandemic preparedness](https://drive.google.com/file/d/1pZ2mDOM9wYzEpc2tCdkDXhLWw3d1AjoL/view?usp=sharing). Received interest from BWC Implementation Support Unit, University of Geneva, Geneva Science-Policy Interface, Geneva Science and Diplomacy Anticipator, Geneva Center for Security Policy and University of Lyon to run sessions. Obtained 6 slots to run the TTX at the UN Library during the BWC’s 2021 Meeting of State Parties. Canceled the sessions because of lack of sign-ups, as diplomats likely did not have the time during the conference, were worried about COVID risks, or lacked approval to participate. 
+2. Developed a tabletop [exercise on pandemic preparedness](https://drive.google.com/file/d/1pZ2mDOM9wYzEpc2tCdkDXhLWw3d1AjoL/view?usp=sharing). 
 3. Developed a [2-day workshop for Trajan House researchers on understanding and engaging with the United Nations system](https://docs.google.com/presentation/d/1D5nOGdX4DjW0anmmTi_h-2U5AkQNzFue/edit?usp=sharing&ouid=110184294135560322785&rtpof=true&sd=true). Canceled to reduce COVID-19 risks. Ran a [2-hour online session](https://drive.google.com/file/d/14410-q5Dz2_s1HbY_oejBqtZWl_vYADZ/view?usp=sharing) instead.
 4. Developed and ran [a short course on the Philosophy, Science, and Practice of Longterm Governance](https://mediaserver.unige.ch/play/151903) at the University of Geneva’s summer school on the future of global governance.
 5. Organized an event on [navigating complexity and information overload in decision-making](https://www.youtube.com/watch?v=g-jpU8BhSVs) together with the Geneva Science-Policy Interface, the United Nations Research Institute for Social Development, and with speakers from the European Commission, World Health Organization, and the Institute for Government. 80 people attended and scored the event either good (4/5) or excellent (5/5).
