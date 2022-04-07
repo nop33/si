@@ -57,7 +57,7 @@ donateSection:
       content: |-
         **Name:** Simon Institute for Longterm Governance <br />
         **IBAN:** CH67 0021 5215 1374 8301 K <br />
-        This is not tax-deductible.
+        *This is tax-deductible in CH only.*
     - title: From D, NL, UK, or US? Or want to donate crypto?
       content: From the USA, UK, or Netherlands? You can [make tax-deductible
         donations via our partner organization "Effective Altruism
