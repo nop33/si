@@ -1,5 +1,5 @@
 ---
-title: "Frameworks & Methods"
+title: "Frameworks & methods"
 subtitle: ""
 featuredImage: un.jpg
 category: Field-building
