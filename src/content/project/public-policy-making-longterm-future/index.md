@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Frameworks & Methods"
 subtitle: ""
 featuredImage: un.jpg
 category: Field-building
@@ -9,23 +9,23 @@ isFeaturedOnHomepage: true
 textSections:
   - title: Summary
     content: >-
-      To improve the capacity of existing policy networks, we need frameworks
+      To improve the capacity of existing policy networks, we need approaches
       to assess current performance, identify priority areas, and measure the
       effectiveness of interventions. We conduct conceptual research to provide
-      anchorage for our recommendations and design empirical test, as well as 
-      to further theoretical advances. To promote empirical and hypothesis-driven 
+      frameworks for practical progress and methods for theoretical progress. 
+      To promote empirical and hypothesis-driven 
       policy process studies, we initiate research collaborations that build 
       bridges between two distant fields: computational modeling and policy process studies.
   - title: Network dynamics
     content: >-
-      [**A Computational Turn in Policy Process Studies: Co-evolving Network
+      Forthcoming in the journal _Complexity_: [**A Computational Turn in Policy Process Studies: Co-evolving Network
       Dynamics of Policy Change**](https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view)
 
 
       Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of co-evolving networks. Our model suggests that an actors’ influence depends on their environment and on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
   - title: Institutional fit
     content: >-
-      **[Policymaking for the Long-term Future Improving Institutional Fit](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
+      White paper: **[Policymaking for the Long-term Future: Improving Institutional Fit](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
       
       
       To effectively contribute to the resilience and advancement of
@@ -49,7 +49,7 @@ textSections:
  
   - title: Computational modelling
     content: >-
-      **[Advancing the field of computational policy process studies](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)** 
+      White paper: **[Advancing the field of computational policy process studies](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)** 
       
       
       While policy process theory has converged on the view that policymaking 
