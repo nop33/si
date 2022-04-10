@@ -4,7 +4,7 @@ subtitle: ""
 featuredImage: un.jpg
 category: Field-building
 tags:
-  - 
+  - Research
 isFeaturedOnHomepage: true
 textSections:
   - title: Summary
@@ -48,7 +48,7 @@ textSections:
       We are now preparing an academic publication to formally introduce the concept into the literature
  
    - title: Computational modelling
-    content: >-
+     content: >-
       **[Advancing the field of computational policy process studies](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)** 
       
       
@@ -68,7 +68,7 @@ textSections:
       models, describe the contours of a computational approach to policy process 
       modeling and define goals for future research that follow from this 
       computational turn.
-    sectionVideos:
+     sectionVideos:
       - src: https://www.youtube.com/embed/qLFAe8BXD-8
         title: ""
 card:
