@@ -16,15 +16,18 @@ textSections:
       to further theoretical advances. To promote empirical and hypothesis-driven 
       policy process studies, we initiate research collaborations that build 
       bridges between two distant fields: computational modeling and policy process studies.
-  - title: Academic papers
+  - title: Network dynamics
     content: >-
       [**A Computational Turn in Policy Process Studies: Co-evolving Network
       Dynamics of Policy Change**](https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view)
 
 
       Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of co-evolving networks. Our model suggests that an actors’ influence depends on their environment and on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
-  - title: White Papers
+  - title: Institutional fit
     content: >-
+      **[Policymaking for the Long-term Future Improving Institutional Fit](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
+      
+      
       To effectively contribute to the resilience and advancement of
       civilization, improvements have to be made on four dimensions: spatial,
       temporal, functional, and representational.
@@ -42,22 +45,29 @@ textSections:
       Throughout the white paper, we adapt existing theoretical frameworks from systems, political, and decision science and synthesize relevant evidence. We aim to inspire future scholarship and equip policy practitioners with an overview of how to transform policymaking for the long term.
 
 
-      **[Read the full draft here](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).** We are now preparing an academic publication to formally introduce the concept into the literature
+      We are now preparing an academic publication to formally introduce the concept into the literature
  
- 
-      While policy process theory has converged on the view that policymaking
+   - title: Computational modelling
+    content: >-
+      **[Advancing the field of computational policy process studies](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)** 
+      
+      
+      While policy process theory has converged on the view that policymaking 
       can be studied as a complex system, the literature has only minimally used
-      the methodological complement to the theory - experiments performed with
-      computational models. Implementations are rare, mainly pushed by computer
+      the methodological complement to the theory - 
+      computational modelling. Implementations are rare, mainly pushed by computer
       scientists in trans-disciplinary work and often so detached from
       mainstream theory that they form a separate line of research instead of
       testing theories from the social sciences.
-
-
-      This paper builds on the theory of policy processes and computational sciences to advance the computational turn of policy process studies. We examine how and why complexity science lends itself to study policymaking, propose a workflow to guide the creation of computational policy process models, describe the contours of a computational approach to policy process modeling and define goals for future research that follow from this computational turn.
-
-
-      [Read the full version.](https://www.researchgate.net/publication/351114474_Computational_Policy_Process_Studies)
+      
+      
+      This paper builds on the theory of policy processes and computational 
+      sciences to advance the computational turn of policy process studies. We 
+      examine how and why complexity science lends itself to study policymaking, 
+      propose a workflow to guide the creation of computational policy process 
+      models, describe the contours of a computational approach to policy process 
+      modeling and define goals for future research that follow from this 
+      computational turn.
     sectionVideos:
       - src: https://www.youtube.com/embed/qLFAe8BXD-8
         title: ""
