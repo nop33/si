@@ -1,10 +1,10 @@
 ---
-title: Network
+title: Outreach & coordination
 subtitle: ""
 featuredImage: connection.jpg
 category: Field-building
 tags:
-  - 
+  - Network
 isFeaturedOnHomepage: true
 textSections:
   - title: Summary
