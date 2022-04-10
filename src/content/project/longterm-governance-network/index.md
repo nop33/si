@@ -1,10 +1,10 @@
 ---
-title: Longterm Governance Network
+title: Network
 subtitle: ""
 featuredImage: connection.jpg
 category: Field-building
 tags:
-  - Coordination
+  - 
 isFeaturedOnHomepage: true
 textSections:
   - title: Summary
