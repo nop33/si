@@ -1,7 +1,7 @@
 ---
 title: Outreach & coordination
 subtitle: ""
-featuredImage: connection.jpg
+featuredImage: IMG_4154.JPG
 category: Field-building
 tags:
   - Network
