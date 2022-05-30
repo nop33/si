@@ -2,11 +2,11 @@
 name: Jacob Arbeid
 photo: jacobprofile-image.jpg
 group: Staff
-role: Field-building associate
+role: Policy & strategy associate
 links:
   linkedin: https://www.linkedin.com/in/jacob-arbeid-a0947b159/
 ---
-Jacob is a field-building associate at SI, focused on creating new infrastructure to better enable researchers and policymakers in the longterm governance field to coordinate and collaborate. 
+Jacob is a Policy & Strategy Associate at SI. He develops infrastructure to coordinate actors in the longterm governance field, conducts research, stress-tests SI's plans, and documents lessons learned.
 
 
 
