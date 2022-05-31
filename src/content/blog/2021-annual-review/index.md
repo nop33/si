@@ -1,7 +1,7 @@
 ---
 title: 2021 Annual Review
 date: 2022-01-13T15:22:56.933Z
-featuredImage: screenshotcserworkshop.png
+featuredImage: pxl_20211125_151334481.jpg
 authors:
   - name: Maxime Stauffer
     page: maxime-stauffer/index
