@@ -5,10 +5,10 @@ workWithUsSection:
   title: Work with us
   columnsWithButtons:
     - title: Apply
-      content: Signal your interest with a general application until we start hiring.
+      content: Apply to our [open positions](/jobs) or signal general interest.
       button:
         text: Apply
-        url: https://airtable.com/shr1fLH2prZYWukIM
+        url: https://airtable.com/shrmrPRmaSylt2ljL
     - title: Collaborate
       content: |-
         We are happy to support individuals working on related projects. 
