@@ -6,7 +6,9 @@ textSections:
     content: >
       Founded in 2021 and based in Geneva, Switzerland, the Simon Institute for Longterm Governance (SI) works to support the governance of emerging technologies, building on Herbert Simon's vision of future-proof policymaking processes. Operating at the interface of science and policy, SI synthesises research and connects thought leaders to decision-makers. 
 
+
       SI’s work is focused on the UN system as a key catalyst for multilateral cooperation, which is necessary for humanity to flourish sustainably. Being embedded in international Geneva and the wider Swiss foreign policy community, SI supports the Swiss Federation in its role as the global hub driving a scientific multilateralism focused on furthering humanist values. 
+
 
       The Strategy & Policy Associate will support SI’s co-founders with a broad range of activities. As SI’s first employee, this role is expected to grow into a leadership role as the organization expands. It is the first role out of four that we expect to hire for in 2022. As such, it will play a key role in defining the organization’s culture and strategy. 
 
@@ -14,10 +16,15 @@ textSections:
     content: >
       Policy
       * Conducting on-demand background research to support time-sensitive processes
+      
       * Running in-person seminars with high profile guests in policy and research
+
       * Coauthoring academic work on important aspects of SI’s work
+      
       * Liaising with key stakeholders from academia, governments and the UN system
+      
       * Prioritizing and coauthoring policy briefs, reports and other info products
+      
 
       Strategy
       * Red teaming and documenting organizational strategy and operations
