@@ -8,7 +8,7 @@ textSections:
       share your data. That is the aim of this privacy policy, and it applies to
       the activities of the Simon Institute for Longterm Governance, based in
       Geneva, Switzerland. If you have any questions, feel free to contact us
-      anytime at privacy@simoninstitute.ch
+      anytime at [privacy@simoninstitute.ch](mailto:privacy@simoninstitute.ch)
   - title: Information We Collect
     content: >-
       When you donate through our website, we receive your name, your email
