@@ -53,8 +53,8 @@ textSections:
       * An inclusive and feedback-rich culture with plenty of intellectual stimulation
       * A network from civil society, to academia, the private sector and governments
       * Visa sponsorship for exceptional non-EU candidates
-    - title: "Apply"
-      content: >
+  - title: "Apply"
+    content: >
       <iframe class="airtable-embed" src="https://airtable.com/embed/shrmrPRmaSylt2ljL?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
     
 seo:
