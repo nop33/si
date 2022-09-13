@@ -11,8 +11,8 @@ seo:
   title: ""
   description: ""
 ---
-Konrad is co-founder and chief operating officer of SI. He is responsible for our operations, facilitation, evaluations, fundraising, culture, and communications. Together with Max, he develops our vision and translates it into products. 
+Konrad is SI's chief operating officer and co-founder. He leads operations, events, fundraising, and culture.
 
-Previously, he co-founded and directed [Effective Altruism Geneva](https://eageneva.org/), where he managed fundraising, operations, and fellowship programmes. In this capacity, he also gave workshops and talks on effective giving, high-impact career planning, longtermism, and group rationality at various universities, companies, and international organizations. 
+Previously, he developed [Effective Altruism Geneva](https://eageneva.org/) into a nation-wide association, where he now serves on the board. Konrad has successfully advised hundreds of talented individuals on their donations and career and continues to do so in his free time.
 
-After dropping out of a bachelor’s in international relations to work full-time on Effective Altruism Geneva, he has been continuously self-studying. His interests include sociology, epistemology, psychology, and game theory.
+Konrad dropped out of a bachelor’s in international relations to professionalize Effective Altruism Geneva. His interests include sociology, ethics, psychology, epistemology, and game theory. In his free time, he likes to exercise, debate, meditate, dance, and make music.
