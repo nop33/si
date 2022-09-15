@@ -1,6 +1,6 @@
 ---
 title: SI at the Global Platform on Disaster Risk Reduction
-date: 2022-09-14T20:59:00.000Z
+date: 2022-06-14T20:59:00.000Z
 featuredImage: image-20222705-084858.jpeg
 authors:
   - name: Jacob Arbeid
