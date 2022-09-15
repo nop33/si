@@ -1,7 +1,7 @@
 ---
 name: Elias Kock
 photo: kockelias.jpg
-group: Collaborators
+group: Alumni
 role: Research affiliate
 links:
   website: ""
