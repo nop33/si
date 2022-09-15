@@ -10,7 +10,7 @@ tags:
   - Multilateralism
   - Updates
   - Events
-isEventFeaturedOnHomepage: true
+isEventFeaturedOnHomepage: false
 ---
 From May 23-28, SI’s CEO Maxime Stauffer attended the Global Platform on Disaster Risk Reduction (GPDRR) to speak on how the disaster risk field can better take into account global catastrophic risks, risks from emerging technology, and the impacts of risks on future generations.
 
