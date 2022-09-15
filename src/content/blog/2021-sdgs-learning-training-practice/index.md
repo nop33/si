@@ -11,7 +11,7 @@ authors:
 tags:
   - Events
   - UN
-isEventFeaturedOnHomepage: true
+isEventFeaturedOnHomepage: false
 seo:
   title: ""
   description: ""
