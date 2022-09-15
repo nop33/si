@@ -36,14 +36,14 @@ featuredProjectsSection:
       orientation: cards-on-the-left
 postsSection:
   newsSection:
-    title: Updates
+    title: Recent
     link:
       title: See all posts
       url: /blog/
   eventsSection:
     title: Highlight
     link:
-      title: See all updates
+      title: See all highlights
       url: /blog/tag/updates/
 seo:
   title: Simon Institute for Longterm Governance
