@@ -47,10 +47,9 @@ Our **goals** related to Our Common Agenda are the following:
 
 1. Overall aim: improve long-term survival and flourishing by successfully leveraging OCA as a vector of narrative and policy development for inclusion of future generations and x-risk mitigation.
 2. Specific aims:
-
-   1. Preserve and improve future generations and existential risk narrative by avoiding its dilution and contributing substantial input.
-   2. Ensure relevant OCA proposals succeed by contributing to their design, socialization and implementation.
-   3. Make sure that both, existential-risk-related and future generations-related proposals, inform one another to avoid superficial treatment of future generations on the one hand, and neglect of x-risk on the other.
+  1. Preserve and improve future generations and existential risk narrative by avoiding its dilution and contributing substantial input.
+  2. Ensure relevant OCA proposals succeed by contributing to their design, socialization and implementation.
+  3. Make sure that both, existential-risk-related and future generations-related proposals, inform one another to avoid superficial treatment of future generations on the one hand, and neglect of x-risk on the other.
 
 Our **approach** is to both pull and push:
 
