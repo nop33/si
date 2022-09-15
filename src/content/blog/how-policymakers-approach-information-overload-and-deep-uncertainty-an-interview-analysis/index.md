@@ -8,7 +8,6 @@ authors:
     page: elias-kock/index
 tags:
   - Resources
-  - ""
 isEventFeaturedOnHomepage: false
 ---
 *What is it like to be a policymaker during the COVID-19 pandemic?* 
