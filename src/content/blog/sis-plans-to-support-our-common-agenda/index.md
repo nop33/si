@@ -1,7 +1,7 @@
 ---
 title: SI's plans to support 'Our Common Agenda'
 date: 2022-08-17T18:07:00.000Z
-featuredImage: screenshot-2022-09-15-at-10.58.36.png
+featuredImage: screenshot-2022-09-15-at-12.12.26.png
 authors:
   - name: Maxime Stauffer
     page: maxime-stauffer/index
