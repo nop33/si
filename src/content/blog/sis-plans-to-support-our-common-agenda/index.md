@@ -37,9 +37,7 @@ We recommend actors who care about future generations to support OCA processes b
 1. **It offers an unprecedented opportunity:** out of 69 entry points, 15 are directly relevant to long-term governance. With concrete proposals for future generations and its consideration of existential risks, OCA offers unusually fertile ground for international efforts to secure posterity.
 2. **It will create path dependencies:** if successful, OCA will lead to the creation of new processes (e.g. Strategic Foresight and Global Risk Report), institutions (e.g. Futures Lab), and policy (e.g. Global Digital Compact) which will durably support future generations over decades. If unsuccessful, key framings or recommendations on existential risk and future generations might become diluted, politicized, stigmatized, or instrumentalized for other ends.
 
-## Strategy
-
-### Update to our theory of change
+## Update to our theory of change
 
 Our initial theory of change was designed to start engaging with OCA processes and sketch deliverables that would likely provide value. Four months later, thanks to rapid progress, SI has moved to a different situation and is now well connected to the UN staff in charge of delivering several proposals related to long-term governance. We can therefore formulate a more specific theory of change based on our refined understanding and the demands we received.
 
@@ -47,9 +45,10 @@ Our **goals** related to Our Common Agenda are the following:
 
 1. Overall aim: improve long-term survival and flourishing by successfully leveraging OCA as a vector of narrative and policy development for inclusion of future generations and x-risk mitigation.
 2. Specific aims:
-  * Preserve and improve future generations and existential risk narrative by avoiding its dilution and contributing substantial input.
-  * Ensure relevant OCA proposals succeed by contributing to their design, socialization and implementation.
-  * Make sure that both, existential-risk-related and future generations-related proposals, inform one another to avoid superficial treatment of future generations on the one hand, and neglect of x-risk on the other.
+
+* Preserve and improve future generations and existential risk narrative by avoiding its dilution and contributing substantial input.
+* Ensure relevant OCA proposals succeed by contributing to their design, socialization and implementation.
+* Make sure that both, existential-risk-related and future generations-related proposals, inform one another to avoid superficial treatment of future generations on the one hand, and neglect of x-risk on the other.
 
 Our **approach** is to both pull and push:
 
