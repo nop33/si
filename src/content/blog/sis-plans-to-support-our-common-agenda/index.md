@@ -14,7 +14,7 @@ tags:
   - UN
   - Multilateralism
   - Updates
-isEventFeaturedOnHomepage: true
+isEventFeaturedOnHomepage: false
 ---
 This post outlines SI’s strategic thinking around and current plan to engage with Our Common Agenda (OCA). The plan was developed in July 2022 and includes deliverables until Q2 2023. The plan will be updated after our internal Q3 strategy 2022 meeting.
 
