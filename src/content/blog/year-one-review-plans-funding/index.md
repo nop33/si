@@ -6,6 +6,8 @@ description: SI has proven its value through knowledge synthesis, workshop
   granted SI mandates to directly work on key policy processes relevant to
   global catastrophic risk reduction for the coming years.
 featuredImage: si.jpg
+tags:
+  - Updates
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
