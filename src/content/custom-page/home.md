@@ -23,17 +23,6 @@ keyfactsSection:
     link:
       title: Connect
       url: /get-involved/
-featuredProjectsSection:
-  title: Featured projects
-  projectsByCategory:
-    - category: Policy support
-      title: Policy support
-      description: Our knowledge and network improve global catastrophic risk governance.
-      orientation: cards-on-the-right
-    - category: Field-building
-      title: Field-building
-      description: We coordinate exchange and synthesize knowledge on long-term governance.
-      orientation: cards-on-the-left
 postsSection:
   newsSection:
     title: Recent
@@ -43,7 +32,7 @@ postsSection:
   eventsSection:
     title: Highlight
     link:
-      title: See all highlights
+      title: See all updates
       url: /blog/tag/updates/
 seo:
   title: Simon Institute for Longterm Governance
