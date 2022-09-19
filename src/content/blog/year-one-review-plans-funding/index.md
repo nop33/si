@@ -8,6 +8,7 @@ description: SI has proven its value through knowledge synthesis, workshop
 featuredImage: si.jpg
 tags:
   - Updates
+  - Strategy
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
