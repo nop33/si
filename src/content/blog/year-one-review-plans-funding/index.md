@@ -11,7 +11,7 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
-isEventFeaturedOnHomepage: false
+isEventFeaturedOnHomepage: true
 ---
 *We thank Jacob Arbeid for his immensely valuable edits & comments.*
 
