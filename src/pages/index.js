@@ -193,7 +193,7 @@ export const pageQuery = graphql`
       limit: 2
       filter: {
         fields: { contentType: { eq: "blog" } }
-        frontmatter: { tags: { nin: "Events" } }
+        frontmatter: { tags: { nin: "Updates" } }
       }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
@@ -221,7 +221,7 @@ export const pageQuery = graphql`
       filter: {
         fields: { contentType: { eq: "blog" } }
         frontmatter: {
-          tags: { in: "Events" }
+          tags: { in: "Updates" }
           isEventFeaturedOnHomepage: { eq: true }
         }
       }
