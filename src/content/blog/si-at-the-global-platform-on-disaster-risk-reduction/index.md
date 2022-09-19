@@ -8,7 +8,6 @@ authors:
 tags:
   - UN
   - Multilateralism
-  - Updates
   - Events
 isEventFeaturedOnHomepage: false
 ---

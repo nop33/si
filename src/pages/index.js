@@ -98,57 +98,6 @@ const Home = ({ data, location }) => {
             </CardsSection>
           </div>
         </BaseSection>
-        
-        <hr></hr>
-
-        <BaseSection>
-          {pageData.featuredProjectsSection.title && (
-            <h2 className="secondary-heading">
-              {pageData.featuredProjectsSection.title}
-            </h2>
-          )}
-          {pageData.featuredProjectsSection.projectsByCategory.map(projects => {
-            const projectsByCategory = allProjects.filter(
-              project => project.frontmatter.category === projects.category
-            )
-            const projectCards = projectsByCategory.map(project => {
-              const projectImage =
-                project.frontmatter?.featuredImage?.childImageSharp?.fluid
-              if (projectImage) {
-                projectImage.srcSet = updateSrcSet(projectImage.srcSet, 750)
-              }
-              return (
-                <Card
-                  key={`project_card_${project.fields.slug}`}
-                  url={project.fields.slug}
-                  image={projectImage}
-                  title={
-                    project.frontmatter.card?.title || project.frontmatter.title
-                  }
-                  subtitle={project.frontmatter.tags.join(" / ")}
-                  content={
-                    project.frontmatter.card?.description ||
-                    project.frontmatter.subtitle
-                  }
-                />
-              )
-            })
-
-            return (
-              <CardsWithText
-                orientation={projects.orientation}
-                title={projects.title}
-                description={projects.description}
-                cards={projectCards}
-                link={{
-                  title: `See all ${projects.title} projects`,
-                  url: constructProjectCategoryUrl(projects.category),
-                }}
-                key={`cards_with_text_section_${projects.title}`}
-              />
-            )
-          })}
-        </BaseSection>
       </PageLayout>
     </div>
   )
