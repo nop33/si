@@ -1,7 +1,8 @@
 items:
   - title: About
     url: /about/
-  - title: Get Involved
-    url: /get-involved/
   - title: Blog
     url: /blog/
+  - title: Get Involved
+    url: /get-involved/
+
