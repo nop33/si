@@ -27,17 +27,17 @@ Context:
 
 * Alongside these specific risks and opportunities, there are structural, or systemic, risks and opportunities that come from autonomous systems. Emerging technologies could destabilise our societies and thus make conflict more likely and more devastating.
 
-  * For instance, outsourcing military surveillance systems to AI which could easily be hacked
+    * For instance, outsourcing military surveillance systems to AI which could easily be hacked
 
 * Why does this matter for youth?
 
-  * Young people are disproportionately concentrated in conflict-affected areas
-  * Young people will be both the potential victims and potential creators of emerging technology that increases or reduces conflict and conflict damage
+    * Young people are disproportionately concentrated in conflict-affected areas
+    * Young people will be both the potential victims and potential creators of emerging technology that increases or reduces conflict and conflict damage
 
 * Why does this matter for future generations?
 
-  * Citizens of [future-majority countries](https://unfoundation.org/our-common-agenda/population-futures-report/) are disproportionately victims of conflict
-  * The application of emerging tech to conflict presents [existential risks](https://futureoflife.org/background/existential-risk/), which could threaten the existence of future generations altogether
+    * Citizens of [future-majority countries](https://unfoundation.org/our-common-agenda/population-futures-report/) are disproportionately victims of conflict
+    * The application of emerging tech to conflict presents [existential risks](https://futureoflife.org/background/existential-risk/), which could threaten the existence of future generations altogether
 
 Recommendations:
 
@@ -53,21 +53,21 @@ Context:
 
 * Many issues in Digital Governance can be traced back to the fact that modern Artificial Intelligence systems trained using machine learning are essentially ‘black boxes’:
 
-  * We can observe their inputs and outputs, but do not know for sure how they come to their decisions or how they will react in new situations
+    * We can observe their inputs and outputs, but do not know for sure how they come to their decisions or how they will react in new situations
 
 * Issues that fall under this category:
 
-  * The [AI Alignment problem](https://brianchristian.org/the-alignment-problem/)
-  * Aligning military AI such as lethal autonomous weapons 
-  * [AI bias and prejudice](https://partnershiponai.org/program/inclusive-research-design/) against minority groups and women
-  * AI threats to privacy
-  * AI-driven polarization 
+    * The [AI Alignment problem](https://brianchristian.org/the-alignment-problem/)
+    * Aligning military AI such as lethal autonomous weapons 
+    * [AI bias and prejudice](https://partnershiponai.org/program/inclusive-research-design/) against minority groups and women
+    * AI threats to privacy
+    * AI-driven polarization 
 
 * [A strand of research called ‘AI Safety’](https://cset.georgetown.edu/wp-content/uploads/CSET-Key-Concepts-in-AI-Safety-An-Overview.pdf) focuses on ensuring that AI systems are: 
 
-  * Interpretable (we know what causes them to behave the way they do)
-  * Robust (we can ensure that these systems will behave the same way in ‘training’ as in the real world)
-  * Specified (AIs have clear goals that align with human values)
+    * Interpretable (we know what causes them to behave the way they do)
+    * Robust (we can ensure that these systems will behave the same way in ‘training’ as in the real world)
+    * Specified (AIs have clear goals that align with human values)
 
 * However, there are just c.300 researchers working on AI Safety (with another several thousand working on the broader field of AI Ethics), but over 40,000 researchers working to improve the power of AI systems (according to Global AI Talent Watch 2020)
 
@@ -75,19 +75,19 @@ Context:
 
 * However, researchers are working on [making common standards](https://www.fhi.ox.ac.uk/wp-content/uploads/Standards_-FHI-Technical-Report.pdf) for interpretability, robustness and specification
 
-  * This is important science, but without a political push for all countries to adopt them, they will be useless
-  * The latter is particularly likely if countries form ‘blocs’ that adopt different sets of standards
-  * The UN is in a unique position to work with standard-setting bodies like the International Standards Organization to ensure safe AI standards with universal adoption
+    * This is important science, but without a political push for all countries to adopt them, they will be useless
+    * The latter is particularly likely if countries form ‘blocs’ that adopt different sets of standards
+    * The UN is in a unique position to work with standard-setting bodies like the International Standards Organization to ensure safe AI standards with universal adoption
 
 * Why this matters to youth:
 
-  * As AI systems advance, young people are disproportionately likely to be victims or discrimination, polarization or existential catastrophe
-  * Young people are also most likely to become AI safety researchers or push for political solutions
+    * As AI systems advance, young people are disproportionately likely to be victims or discrimination, polarization or existential catastrophe
+    * Young people are also most likely to become AI safety researchers or push for political solutions
 
 * Why this matters for future generations
 
-  * Future generations will inhabit the world we build for them; we must ensure that it is a flourishing, fair and human-centric one
-  * But also that it exists, and AI might be a key risk factor e.g. in nuclear arsenal management or the development of synthetic biology
+    * Future generations will inhabit the world we build for them; we must ensure that it is a flourishing, fair and human-centric one
+    * But also that it exists, and AI might be a key risk factor e.g. in nuclear arsenal management or the development of synthetic biology
 
 Recommendations:
 
