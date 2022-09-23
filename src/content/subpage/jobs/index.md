@@ -17,8 +17,14 @@ textSections:
 
   - title: "Operations associate"
     content: >
-      The Operations Associate will support SI’s mission with a broad range of activities. As SI grows, it will be increasingly important for us to put in place operational processes that allow us to expand sustainably and that enhance the team’s productivity and wellbeing. Similarly, putting on well-planned events and communicating our activities will be increasingly important for us to fulfill our goals. [Details >](/jobs/oa)
-    
+      The Operations Associate will support SI’s mission with a broad range of activities. As SI grows, it will be increasingly important for us to put in place operational processes that allow us to expand sustainably and that enhance the team’s productivity and wellbeing. Similarly, putting on well-planned events and communicating our activities will be increasingly important to fulfill our goals. [Details >](/jobs/oa)
+  - title: "Director of external affairs"
+    content: >
+      The Director of External Affairs will lead our engagement with international organizations, governments and the broader public. This role is travel-intense, as our stakeholders are spread across continents and in-person interaction is key to building trust and bandwidth. Together with the founders and incoming team, you will develop strategies for outreach and communications and likely develop your own team. [Details >](/jobs/dea)
+  - title: "Director of analysis"
+    content: >
+      The Director of Analysis will lead our knowledge synthesis and information product development. This role is a mix of on-demand policy brief writing, development of online resources and strategic analysis to help policymakers understand global priorities and support researchers in their understanding of policymaking. Together with the founders and the incoming team, you will produce educational content, knowledge repositiories and further organizational strategy. [Details >](/jobs/da)
+      
 seo:
   title: ""
   description: ""
