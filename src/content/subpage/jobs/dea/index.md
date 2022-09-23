@@ -7,7 +7,7 @@ textSections:
       Founded in 2021 and based in Geneva, Switzerland, the Simon Institute for Longterm Governance (SI) works to support the governance of emerging technologies and existential risks, building on Herbert Simon's vision of future-proof policymaking processes. Operating at the interface of science and policy, SI synthesizes research and connects thought leaders to decision-makers. 
 
 
-      SI’s work is focused on the UN system as a key catalyst for multilateral cooperation, which is necessary for humanity to flourish sustainably. Being embedded in international Geneva and the wider Swiss foreign policy community, SI supports Switzerland in its role as the global hub driving a scientific multilateralism focused on furthering universal values.
+      SI’s work is focused on the multilateral system as a key catalyst for global cooperation, which is necessary for humanity to flourish sustainably. Being embedded in international Geneva and the wider Swiss foreign policy community, SI supports Switzerland in its role as the global hub driving a scientific multilateralism focused on furthering universal values.
 
 
       The Director of External Affairs will lead our engagement with international organizations, governments and the broader public. This role is travel-intense, as our stakeholders are spread across continents and in-person interaction is key to building trust and bandwidth. Together with the founders and incoming team, you will develop strategies for outreach and communications and likely develop your own team.
@@ -71,7 +71,7 @@ textSections:
       
       * Experience in a disarmament, arms control or disaster risk reduction
       
-      * Perfect English - written & oral
+      * Perfect English - written & oral; fluency in French or another UN language desirable
       
       * Experience working in a rapidly evolving environment and leading teams
       
