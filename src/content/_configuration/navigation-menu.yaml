@@ -3,6 +3,8 @@ items:
     url: /about/
   - title: Blog
     url: /blog/
-  - title: Get Involved
+  - title: Contact
     url: /get-involved/
+  - title: We're hiring!
+    url: /jobs/
 
