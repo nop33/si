@@ -12,6 +12,7 @@ textSections:
       
       If you are excited about contributing to our mission, please apply - the first stage should take no more than 30 minutes. The second stage is a work test, the third a series of interviews. The fourth and final stage is a work trial. We pay all candidates CHF60 per hour invested beyond the initial application and cover all eventual travel and accommodation expenses. We will also offer a feedback call to all candidates who make it to the interview round.
       
+      
       Referral reward: We offer CHF2000 to anyone who refers a candidate to us that we end up hiring and who would otherwise not have been likely to apply. Get in touch to register your referral: work@simoninstitute.ch
 
   - title: "Operations associate"
