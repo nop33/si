@@ -7,13 +7,13 @@ textSections:
       Founded in 2021 and based in Geneva, Switzerland, the Simon Institute for Longterm Governance (SI) works to support the governance of emerging technologies and existential risks, building on Herbert Simon's vision of future-proof policymaking processes. Operating at the interface of science and policy, SI synthesizes research and connects thought leaders to decision-makers. 
 
 
-      SI’s work is focused on the UN system as a key catalyst for multilateral cooperation, which is necessary for humanity to flourish sustainably. Being embedded in international Geneva and the wider Swiss foreign policy community, SI supports the Swiss Federation in its role as the global hub driving a scientific multilateralism focused on furthering universal values.
+      SI’s work is focused on the UN system as a key catalyst for multilateral cooperation, which is necessary for humanity to flourish sustainably. Being embedded in international Geneva and the wider Swiss foreign policy community, SI supports Switzerland in its role as the global hub driving a scientific multilateralism focused on furthering universal values.
 
 
-      The Director of Analysis will lead our knowledge synthesis and information product development. This role is a mix of on-demand policy brief writing, development of online resources and strategic analysis to help policymakers understand global priorities and support researchers in their understanding of policymaking. Together with the founders and the incoming team, you will produce educational content, knowledge repositiories and further organizational strategy.
+      The Director of Analysis will lead our knowledge synthesis and information product development. This role is a mix of on-demand policy brief writing, development of online resources and strategic analysis to help policymakers understand global priorities and support researchers in their understanding of policymaking. Together with the founders and the incoming team, you will produce educational content, knowledge repositories and further organizational strategy.
 
 
-      The Director of Analysis is a full-time, in-person position. It is one of 3-4 roles that we expect to hire for until the end of the year. As such, it will play a key role in defining the organization’s culture and processes as we grow.
+      The Director of Analysis is a full-time, in-person position. It is one of 3-4 roles that we expect to hire for until the end of 2022. As such, it will play a key role in defining the organization’s culture and processes as we grow.
 
   - title: "What you will do"
     content: >
