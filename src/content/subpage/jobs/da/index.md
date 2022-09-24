@@ -55,7 +55,7 @@ textSections:
       The ideal candidate holds a PhD in a technical subject and is eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay at the organization for at least 3 years while it grows into a mature organization. As SI is young, you will have to show a lot of initiative and be willing to lean into stress to resolve conflicts. 
 
 
-      Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply.
+      Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. **As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply.**
 
       * Fluent English - written & oral
 
