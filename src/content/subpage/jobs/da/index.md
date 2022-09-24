@@ -73,7 +73,7 @@ textSections:
 
   - title: "What we offer"
     content: >
-      * Pay commensurate with experience, on an indefinite contract (~CHF 80’000-100’000/year)
+      * Pay commensurate with experience, on an indefinite contract (starting at CHF 80’000-100’000/year)
       
       * A dynamic environment with an ambitious co-founder team of 7 years
 
