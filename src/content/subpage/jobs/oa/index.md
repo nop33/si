@@ -68,7 +68,7 @@ textSections:
 
   - title: "What we expect"
     content: >
-      The ideal candidate will be ambitious and eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay for at least 3 years while we grow into a mature organization. As SI is young, you will have to show initiative, and demonstrate transparency and good communication to resolve conflicts and differences of opinion. We value the perspectives that come from operations, events and communications work and we expect the applicant to actively contribute to SI’s strategy. 
+      The ideal candidate will have 3+ years of work experience, is ambitious and eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay for at least 3 years while we grow into a mature organization. As SI is young, you will have to show initiative, and demonstrate transparency and good communication to resolve conflicts and differences of opinion. We value the perspectives that come from operations, events and communications work and we expect the applicant to actively contribute to SI’s strategy. 
 
 
       Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply.
