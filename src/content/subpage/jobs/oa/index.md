@@ -71,7 +71,7 @@ textSections:
       The ideal candidate will have 3+ years of work experience, is ambitious and eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay for at least 3 years while we grow into a mature organization. As SI is young, you will have to show initiative, and demonstrate transparency and good communication to resolve conflicts and differences of opinion. We value the perspectives that come from operations, events and communications work and we expect the applicant to actively contribute to SI’s strategy, and eventually grow their own team.
 
 
-      Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply.
+      Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply. If you’re on the fence about whether you’re a good fit, we think you should apply! 
 
 
       * Fluent English (bonus: proficient in French, B2 or above)
@@ -100,9 +100,6 @@ textSections:
       * Experience with, or knowledge of, fundraising
 
       * Experience with, or knowledge of, impact-modelling, impact evaluation and red-teaming
-
-
-      These aren’t necessary conditions: as this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We therefore encourage anyone who can handle the responsibilities listed above to apply. If you’re on the fence about whether you’re a good fit, we think you should apply! 
 
 
       SI works with a global community including people and organizations across the world. We are committed to fostering a culture of inclusion, and we encourage individuals with diverse backgrounds and experience to apply. We particularly encourage applications from women, citizens of low- and middle-income countries, gender minorities and people of color who are excited about contributing to our mission.
