@@ -4,8 +4,10 @@ title: How policymakers approach information overload and deep uncertainty - an
 date: 2022-08-15T09:08:29.484Z
 featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 authors:
-  - name: Elias Kock
-    page: elias-kock/index
+  - name: ""
+    page: ""
+    externalName: Elias Kock
+    externalLink: https://www.linkedin.com/in/elias-kock/
 tags:
   - Resources
 isEventFeaturedOnHomepage: false
