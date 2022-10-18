@@ -16,7 +16,7 @@ textSections:
       The Operations Associate is a full-time, in-person position. It is one of 3-4 roles that we expect to hire for until the end of 2022. As such, it will play a key role in defining the organization’s culture and processes as we grow.
       
       
-      **Application deadline: 21. October 2022**
+      **Application deadline: 30. October 2022 at 23:59 CEST**
 
   - title: "What you will do"
     content: >
