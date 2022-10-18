@@ -16,7 +16,7 @@ textSections:
       Referral reward: We offer $2000 to anyone who refers a candidate to us that we end up hiring and who would otherwise not have been likely to apply. Get in touch to register your referral: work@simoninstitute.ch
       
       
-      Deadline for all applications: Sunday, October 30th at 23:59 CEST.
+      **Application deadline for this round: 30. October 2022 at 23:59 CEST**
 
   - title: "Operations associate"
     content: >
