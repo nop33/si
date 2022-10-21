@@ -3,7 +3,7 @@ import React from "react"
 import NewsletterForm from "./newsletter-form"
 import SocialLinks from "./social-links"
 
-import { newsletter, socialMedia } from "./stay-in-touch.module.scss"
+import { newsletter } from "./stay-in-touch.module.scss"
 
 const StayInTouch = ({
   newsletterTitle,
@@ -19,7 +19,7 @@ const StayInTouch = ({
         {newsletterTitle && <h3>{newsletterTitle}</h3>}
         <NewsletterForm intro={newsletterIntro} />
       </div>
-      <div className={socialMedia}>
+      <div>
         {socialMediaTitle && <h3>{socialMediaTitle}</h3>}
         {socialMediaIntro && (
           <div

@@ -4,11 +4,11 @@ import { graphql, Link } from "gatsby"
 import { updateSrcSet } from "../utils"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import FeaturedTagsList from "../components/featured-tags-list"
 import BaseSection from "../components/sections/base"
-import Grid from "../components/sections/grid"
 import Card from "../components/card"
+import Grid from "../components/sections/grid"
 
 import "@fortawesome/fontawesome-svg-core/styles.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
@@ -38,7 +38,7 @@ const BlogIndex = ({ data, location }) => {
         location={location}
         subtitle={subtitle}
       >
-        <SEO
+        <Seo
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description}
         />

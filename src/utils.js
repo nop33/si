@@ -19,7 +19,7 @@ export function constructProjectTagUrl(tag) {
 }
 
 export const toHTML = value =>
-  remark().use(remarkHTML).processSync(value).toString()
+  remark.remark().use(remarkHTML).processSync(value).toString()
 
 export const updateSrcSet = (srcSet, maxWidth) => {
   if (!srcSet) return null

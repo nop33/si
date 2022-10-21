@@ -5,7 +5,7 @@ import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/base"
 import Person from "../components/person"
 import SocialLinks from "../components/social-links"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const MemberTemplate = ({ data, location }) => {
   const personData = data.markdownRemark.frontmatter
@@ -47,7 +47,7 @@ const MemberTemplate = ({ data, location }) => {
       backLink="/about#our-team"
       backLinkText="Team"
     >
-      <SEO
+      <Seo
         title={personData.seo?.title || personData.name}
         description={personData.seo?.description || excerpt}
       />

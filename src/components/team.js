@@ -5,7 +5,6 @@ import Image from "gatsby-image"
 import SocialLinks from "./social-links"
 
 import {
-  groups as groupsStyles,
   membersGroup,
   membersList,
   name,
@@ -63,7 +62,7 @@ const Team = () => {
   ]
 
   return (
-    <div className={groupsStyles}>
+    <div>
       {groups.map(group => {
         return (
           <div className={membersGroup} key={`group_${group.name}`}>

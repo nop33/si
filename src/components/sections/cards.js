@@ -1,12 +1,12 @@
 import React from "react"
 
 import ArrowedLink from "../arrowed-link"
-import Grid from "./grid"
 import {
   cardsSection,
   fixAlignment as fixAlignmentStyles,
   seeMoreLink,
 } from "./cards.module.scss"
+import Grid from "./grid"
 
 const CardsSection = ({
   children,

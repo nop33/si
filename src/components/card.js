@@ -3,14 +3,14 @@ import React from "react"
 import Image from "gatsby-image"
 
 import { Link } from "gatsby"
-import { card, imageContainer } from "./card.module.scss"
+import { card } from "./card.module.scss"
 
 const Card = ({ url, image, title, subtitle, content }) => {
   return (
     <div className={card}>
       <Link to={url}>
         <article itemScope itemType="http://schema.org/Article">
-          <div className={imageContainer}>
+          <div>
             <Image
               fluid={image}
               style={{ height: "100%" }}
