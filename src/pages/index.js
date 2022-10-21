@@ -1,14 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import { constructProjectCategoryUrl, updateSrcSet } from "../utils"
+import { updateSrcSet } from "../utils"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import BaseSection from "../components/sections/base"
 import KeyfactsSection from "../components/sections/keyfacts"
 import Keyfact from "../components/keyfact"
-import CardsWithText from "../components/sections/cards-with-text"
 import Card from "../components/card"
 import CardsSection from "../components/sections/cards"
 
@@ -16,7 +15,6 @@ const Home = ({ data, location }) => {
   const pageData = data.homepage.nodes[0].frontmatter
   const news = data.news.nodes
   const events = data.events.nodes
-  const allProjects = data.projects.nodes
 
   return (
     <div>
@@ -26,7 +24,7 @@ const Home = ({ data, location }) => {
         location={location}
         withImageBackgroundHeader={pageData.hasImageBackgroundHeader}
       >
-        <SEO
+        <Seo
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description || pageData.subtitle}
         />

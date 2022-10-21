@@ -5,7 +5,21 @@ import Image from "gatsby-image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons"
 
-import styles from "./navigation-menu.module.scss"
+import {
+  withBackgroundImage,
+  menuDesktop,
+  logoContainer,
+  logoLarge as logoLargeStyles,
+  logoSmall as logoSmallStyles,
+  menuDesktopItemsContainer,
+  openButton,
+  menuMobile,
+  isOpen,
+  menuMobileContainer,
+  closeButtonContainer,
+  closeButton,
+  menuMobileItemsContainer,
+} from "./navigation-menu.module.scss"
 
 import menu from "../content/_configuration/navigation-menu.yaml"
 
@@ -51,19 +65,19 @@ const NavigationMenu = ({ hasBackgroundImage }) => {
   }
 
   return (
-    <div className={hasBackgroundImage ? styles.withBackgroundImage : ""}>
-      <div className={styles.menuDesktop}>
-        <div className={styles.logoContainer}>
+    <div className={hasBackgroundImage ? withBackgroundImage : ""}>
+      <div className={menuDesktop}>
+        <div className={logoContainer}>
           <Link to="/">
-            <div className={styles.logoLarge}>
+            <div className={logoLargeStyles}>
               {logoLarge && <Image fixed={logoLarge} alt="SI logo" />}
             </div>
-            <div className={styles.logoSmall}>
+            <div className={logoSmallStyles}>
               {logoSmall && <Image fixed={logoSmall} alt="SI logo" />}
             </div>
           </Link>
         </div>
-        <div className={styles.menuDesktopItemsContainer}>
+        <div className={menuDesktopItemsContainer}>
           {menu.items.map(item => {
             return (
               <Link
@@ -76,7 +90,7 @@ const NavigationMenu = ({ hasBackgroundImage }) => {
             )
           })}
         </div>
-        <div className={styles.openButton}>
+        <div className={openButton}>
           <FontAwesomeIcon
             icon={faBars}
             onClick={toggleMobileMenu}
@@ -88,15 +102,11 @@ const NavigationMenu = ({ hasBackgroundImage }) => {
           />
         </div>
       </div>
-      <div
-        className={`${styles.menuMobile} ${
-          state.isMobileMenuOpen ? styles.isOpen : ""
-        }`}
-      >
-        <div className={styles.menuMobileContainer}>
-          <div className={styles.closeButtonContainer}>
+      <div className={`${menuMobile} ${state.isMobileMenuOpen ? isOpen : ""}`}>
+        <div className={menuMobileContainer}>
+          <div className={closeButtonContainer}>
             <div
-              className={styles.closeButton}
+              className={closeButton}
               onClick={toggleMobileMenu}
               onKeyPress={toggleMobileMenu}
               tabIndex={0}
@@ -106,7 +116,7 @@ const NavigationMenu = ({ hasBackgroundImage }) => {
               <FontAwesomeIcon icon={faTimes} size="2x" />
             </div>
           </div>
-          <div className={styles.menuMobileItemsContainer}>
+          <div className={menuMobileItemsContainer}>
             {menu.items.map(item => {
               return (
                 <Link

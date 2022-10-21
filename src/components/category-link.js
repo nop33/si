@@ -4,12 +4,12 @@ import { constructProjectCategoryUrl } from "../utils"
 
 import { Link } from "gatsby"
 
-import styles from "./category-link.module.scss"
+import { categoryLink } from "./category-link.module.scss"
 
 const CategoryLink = ({ children }) => {
   return (
     <Link
-      className={`${styles.categoryLink} golden`}
+      className={`${categoryLink} golden`}
       to={constructProjectCategoryUrl(children)}
     >
       {children}

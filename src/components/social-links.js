@@ -5,7 +5,13 @@ import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons"
 import { faTwitter } from "@fortawesome/free-brands-svg-icons"
 import { faLink } from "@fortawesome/free-solid-svg-icons"
 
-import styles from "./social-links.module.scss"
+import {
+  socialLinks,
+  centered as centeredStyles,
+  wide as wideStyles,
+  topSpacing as topSpacingStyles,
+  bottomSpacing as bottomSpacingStyles,
+} from "./social-links.module.scss"
 
 const SocialLinks = ({
   website,
@@ -20,11 +26,11 @@ const SocialLinks = ({
   return (
     <div
       className={`
-        ${styles.socialLinks}
-        ${centered && styles.centered}
-        ${wide && styles.wide}
-        ${topSpacing && styles.topSpacing}
-        ${bottomSpacing && styles.bottomSpacing}
+        ${socialLinks}
+        ${centered && centeredStyles}
+        ${wide && wideStyles}
+        ${topSpacing && topSpacingStyles}
+        ${bottomSpacing && bottomSpacingStyles}
       `}
     >
       {website && (

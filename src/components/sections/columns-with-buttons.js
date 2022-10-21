@@ -2,17 +2,21 @@ import React from "react"
 
 import { toHTML } from "../../utils"
 
-import styles from "./columns-with-buttons.module.scss"
+import {
+  columnsWithButtons,
+  column as columnStyles,
+  content,
+} from "./columns-with-buttons.module.scss"
 
 const ColumnsWithButtons = ({ columnsData }) => {
   return (
-    <div className={styles.columnsWithButtons}>
+    <div className={columnsWithButtons}>
       {columnsData.map(column => {
         return (
-          <div className={styles.column} key={`col_${column.title}`}>
+          <div className={columnStyles} key={`col_${column.title}`}>
             {column.title && <h3>{column.title}</h3>}
             <div
-              className={styles.content}
+              className={content}
               dangerouslySetInnerHTML={{
                 __html: toHTML(column.content),
               }}

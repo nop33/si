@@ -2,7 +2,16 @@ import React from "react"
 
 import Grid from "./grid"
 import ArrowedLink from "../arrowed-link"
-import styles from "./cards-with-text.module.scss"
+import {
+  cardsOnTheLeft,
+  cardsOnTheRight,
+  cardsFullWidth,
+  cardsSectionWrapper,
+  cardsSection,
+  textContent,
+  description as descriptionStyles,
+  seeMoreLink,
+} from "./cards-with-text.module.scss"
 import { toHTML } from "../../utils"
 
 const CardsWithTextSection = ({
@@ -14,9 +23,9 @@ const CardsWithTextSection = ({
   link,
 }) => {
   const orientationClass =
-    (orientation === "cards-on-the-left" && styles.cardsOnTheLeft) ||
-    (orientation === "cards-on-the-right" && styles.cardsOnTheRight) ||
-    (orientation === "cards-full-width" && styles.cardsFullWidth)
+    (orientation === "cards-on-the-left" && cardsOnTheLeft) ||
+    (orientation === "cards-on-the-right" && cardsOnTheRight) ||
+    (orientation === "cards-full-width" && cardsFullWidth)
   const numberOfColumns =
     (orientation === "cards-on-the-left" && 2) ||
     (orientation === "cards-on-the-right" && 2) ||
@@ -25,13 +34,13 @@ const CardsWithTextSection = ({
     <h3>{title}</h3>
   )
   return (
-    <div className={styles.cardsSectionWrapper}>
-      <div className={`${styles.cardsSection} ${orientationClass}`}>
-        <div className={styles.textContent}>
+    <div className={cardsSectionWrapper}>
+      <div className={`${cardsSection} ${orientationClass}`}>
+        <div className={textContent}>
           {heading}
           {description && (
             <div
-              className={styles.description}
+              className={descriptionStyles}
               dangerouslySetInnerHTML={{
                 __html: toHTML(description),
               }}
@@ -45,7 +54,7 @@ const CardsWithTextSection = ({
           direction="right"
           to={link?.url}
           text={link?.title}
-          className={`${styles.seeMoreLink} ${orientationClass}`}
+          className={`${seeMoreLink} ${orientationClass}`}
         />
       )}
     </div>
