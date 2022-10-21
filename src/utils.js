@@ -1,25 +1,25 @@
-const _ = require("lodash")
-const remark = require("remark")
-const remarkHTML = require("remark-html")
+import { kebabCase } from "lodash"
+import { remark } from "remark"
+import remarkHTML from "remark-html"
 
 export function generateIdFromTitle(title) {
   return title.toLowerCase().replace(/[^a-zA-Z]/g, "-")
 }
 
 export function constructBlogTagUrl(tag) {
-  return `/blog/tag/${_.kebabCase(tag)}/`
+  return `/blog/tag/${kebabCase(tag)}/`
 }
 
 export function constructProjectCategoryUrl(tag) {
-  return `/projects/category/${_.kebabCase(tag)}/`
+  return `/projects/category/${kebabCase(tag)}/`
 }
 
 export function constructProjectTagUrl(tag) {
-  return `/projects/tag/${_.kebabCase(tag)}/`
+  return `/projects/tag/${kebabCase(tag)}/`
 }
 
 export const toHTML = value =>
-  remark.remark().use(remarkHTML).processSync(value).toString()
+  remark().use(remarkHTML, { sanitize: false }).processSync(value).toString()
 
 export const updateSrcSet = (srcSet, maxWidth) => {
   if (!srcSet) return null
