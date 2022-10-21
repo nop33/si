@@ -104,20 +104,20 @@ module.exports = {
               })
             },
             query: `
-              {
-                allMarkdownRemark(
+            {
+              allMarkdownRemark(
                   filter: { fields: { contentType: { eq: "blog" } } }
                   sort: { order: DESC, fields: [frontmatter___date] },
                 ) {
-                  edges {
-                    node {
-                      excerpt
-                      html
-                      fields { slug }
-                      frontmatter {
-                        title
-                        date
-                      }
+                  nodes {
+                    excerpt
+                    html
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      title
+                      date
                     }
                   }
                 }
