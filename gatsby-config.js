@@ -147,6 +147,6 @@ module.exports = {
         modulePath: `${__dirname}/src/cms.js`,
       },
     },
-    `gatsby-plugin-preload-fonts`
+    `gatsby-plugin-preload-fonts`,
   ],
 }
