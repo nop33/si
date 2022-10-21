@@ -5,7 +5,12 @@ import Image from "gatsby-image"
 
 import BaseSection from "./base"
 import ArrowedLink from "../arrowed-link"
-import styles from "./footer.module.scss"
+import {
+  footerSection,
+  linksSection,
+  linksList,
+  copywriteSection,
+} from "./footer.module.scss"
 
 import footer from "../../content/_configuration/footer.yaml"
 
@@ -24,12 +29,12 @@ const Footer = () => {
 
   return (
     <footer>
-      <BaseSection className={styles.footerSection}>
-        <div className={styles.linksSection}>
+      <BaseSection className={footerSection}>
+        <div className={linksSection}>
           <Link to="/">
             <Image fixed={data.logoSmall.childImageSharp.fixed} alt="SI logo" />
           </Link>
-          <div className={styles.linksList}>
+          <div className={linksList}>
             {footer.links.map(link => {
               return (
                 <ArrowedLink
@@ -43,7 +48,7 @@ const Footer = () => {
             })}
           </div>
         </div>
-        <div className={styles.copywriteSection}>
+        <div className={copywriteSection}>
           <small>© {new Date().getFullYear()} SI</small>
           <small>
             <Link to="/legal/">Legal</Link>

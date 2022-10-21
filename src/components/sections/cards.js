@@ -2,7 +2,11 @@ import React from "react"
 
 import ArrowedLink from "../arrowed-link"
 import Grid from "./grid"
-import styles from "./cards.module.scss"
+import {
+  cardsSection,
+  fixAlignment as fixAlignmentStyles,
+  seeMoreLink,
+} from "./cards.module.scss"
 
 const CardsSection = ({
   children,
@@ -12,11 +16,7 @@ const CardsSection = ({
   fixAlignment,
 }) => {
   return (
-    <div
-      className={`${styles.cardsSection} ${
-        fixAlignment && styles.fixAlignment
-      }`}
-    >
+    <div className={`${cardsSection} ${fixAlignment && fixAlignmentStyles}`}>
       <h2 className="secondary-heading">{title}</h2>
       <Grid numberOfColumns={numberOfColumns}>{children}</Grid>
       {link && (
@@ -24,7 +24,7 @@ const CardsSection = ({
           direction="right"
           to={link?.url}
           text={link?.title}
-          className={styles.seeMoreLink}
+          className={seeMoreLink}
         />
       )}
     </div>

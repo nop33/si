@@ -5,7 +5,7 @@ import BackgroundImage from "gatsby-background-image"
 
 import { updateSrcSet } from "../utils"
 
-import styles from "./header-background.module.scss"
+import { headerBackground } from "./header-background.module.scss"
 
 const HeaderBackground = ({ children, className }) => {
   const data = useStaticQuery(
@@ -31,7 +31,7 @@ const HeaderBackground = ({ children, className }) => {
   return (
     <BackgroundImage
       Tag="section"
-      className={`${styles.headerBackground} ${className} header-background`}
+      className={`${headerBackground} ${className} header-background`}
       fluid={imageData}
       backgroundColor={`#040e18`}
     >
