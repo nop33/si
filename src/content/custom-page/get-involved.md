@@ -42,16 +42,12 @@ stayInTouchSection:
 donateSection:
   title: Donate
   intro:
-    content: >-
-      We currently estimate our room for more funding until the end of 2023 to be around CHF1,600,000.
-      Any amount directly enables us to do more. [Check out our plans and
-      strategy here.](/blog/tag/strategy/)
-
-
-      You can make tax-deductible donations via EA Geneva until SI’s nonprofit status is legally recognized in Switzerland. Just indicate in Step 4 that your donation is for SI.
+    content: We currently estimate our room for more funding until the end of 2023
+      to be around CHF1,600,000. Any amount directly enables us to do more.
+      [Check out our plans and strategy here.](/blog/tag/strategy/)
     button:
       text: Donate
-      url: https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388
+      url: https://docs.google.com/document/d/1SYvmxxe8_f2ZQmE3s77t60uqZB2RQTbg944E7w45UCM/edit?usp=sharing
   columnsWithButtons:
     - title: "Preferred method: SEPA bank transfer"
       content: |-
@@ -60,10 +56,10 @@ donateSection:
         *This is tax-deductible in CH only.*
     - title: From D, NL, UK, or US? Or want to donate crypto?
       content: From the USA, UK, or Netherlands? You can [make tax-deductible
-        donations via our partner organization "Effective Altruism
-        Funds"](https://funds.effectivealtruism.org/partners/simon-institute).
-        The EA Funds also take crypto. For donations from Germany, please [get
-        in touch](/get-involved/#get-in-touch).
+        donations via our partner organization "Giving What We
+        Can"](https://www.givingwhatwecan.org/charities/simon-institute). They
+        also take crypto. For donations from Germany, please [get in
+        touch](/get-involved/#get-in-touch).
 textSections:
   - title: Why support us?
     content: >-
