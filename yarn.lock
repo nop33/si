@@ -1262,6 +1262,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fastly/performance-observer-polyfill@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@fastly/performance-observer-polyfill/-/performance-observer-polyfill-1.1.1.tgz#2e64762fa2e43f32c01dcb2ac68421aded55bbb8"
+  integrity sha512-hmXJBYhIs77KPyg/IcPM5sDeQSPLrTzD6DqGfSUUtvEUoQxbW6nxHYCYJE8CP+Ay+OUqLZlTpW+w1OEOZWckzQ==
+
 "@fortawesome/fontawesome-common-types@6.2.0":
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.2.0.tgz#76467a94aa888aeb22aafa43eb6ff889df3a5a7f"
@@ -6208,6 +6213,14 @@ gatsby-remark-embed-video@^3.1.1:
     remark-burger "^1.0.1"
     unist-util-visit "^2.0.3"
 
+gatsby-remark-images-medium-zoom@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images-medium-zoom/-/gatsby-remark-images-medium-zoom-1.7.0.tgz#b9a55ebf29a4a15f9e7da7a8f4d0dfbe47aa5717"
+  integrity sha512-TLaq+ua+nO2CX/B/FnWB0OvJiLdplzbRCXrgCxYoZs3RkN5IfUu9BJYKEFjzx6J3uhwLvBA7XqE5cFOZ2cu4AQ==
+  dependencies:
+    "@fastly/performance-observer-polyfill" "^1.1.1"
+    medium-zoom "^1.0.4"
+
 gatsby-remark-images@^6.0.0:
   version "6.24.0"
   resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-6.24.0.tgz#e9d9058eee58548a33a2b514d92538b0dd59443b"
@@ -8626,6 +8639,11 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha512-dq+qelQ9akHpcOl/gUVRTxVIOkAJ1wR3QAvb4RsVjS8oVoFjDGTc679wJYmUmknUF5HwMLOgb5O+a3KxfWapPQ==
+
+medium-zoom@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/medium-zoom/-/medium-zoom-1.0.6.tgz#9247f21ca9313d8bbe9420aca153a410df08d027"
+  integrity sha512-UdiUWfvz9fZMg1pzf4dcuqA0W079o0mpqbTnOz5ip4VGYX96QjmbM+OgOU/0uOzAytxC0Ny4z+VcYQnhdifimg==
 
 mem@^8.1.1:
   version "8.1.1"
