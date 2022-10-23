@@ -25,3 +25,10 @@ CMS.registerEditorComponent({
     return obj.url
   },
 })
+
+// See https://github.com/netlify/netlify-cms/issues/5092#issuecomment-1256321540
+const css =
+  "[data-slate-editor] { -webkit-user-modify: read-write !important; }"
+const style = document.createElement("style")
+document.head.appendChild(style)
+style.appendChild(document.createTextNode(css))
