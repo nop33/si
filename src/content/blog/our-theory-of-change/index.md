@@ -36,7 +36,7 @@ At SI, we believe that:
 * Humanity needs to anticipate and mitigate **global catastrophic risks** and build resilient systems so that civilization can survive and flourish;
 * **Policymaking** in national governments and international organizations is the most influential form of explicit value-driven coordination and can, therefore, be used to help secure the existence and potential of our long-term future.
 
-We see at least 3 avenues to improve **long-term institutional fit** – the capacity of policymaking networks to safeguard and improve the long-term potential of humanity (for more see our [Working Paper No.1](https://www.simoninstitute.ch/project/public-policy-making-longterm-future/)):
+We see at least 3 avenues to improve **long-term institutional fit** – the capacity of policymaking networks to safeguard and improve the long-term potential of humanity (for more see our [Working Paper No.1](/project/public-policy-making-longterm-future/)):
 
 * **Dominant societal narratives** must incorporate future generations and an understanding of human progress on long timeframes;
 * **Institutions** must be reformed to take the interests of future generations into account;

@@ -20,7 +20,7 @@ isEventFeaturedOnHomepage: true
 
 # Summary
 
-A year ago, we [launched](https://forum.effectivealtruism.org/posts/eKn7TDxMSSsoHhcap/introducing-the-simon-institute-for-longterm-governance-si) the Simon Institute for Longterm Governance ([SI](https://www.simoninstitute.ch/)). In this post, we 
+A year ago, we [launched](https://forum.effectivealtruism.org/posts/eKn7TDxMSSsoHhcap/introducing-the-simon-institute-for-longterm-governance-si) the Simon Institute for Longterm Governance ([SI](/)). In this post, we 
 
 * Review our first twelve months;
 * Share our lessons learned;
@@ -258,7 +258,7 @@ Looking back on SI’s achievements and at the opportunities ahead, by far, our 
 
 We have handed in grant proposals to the FTX Future Fund, the Survival Flourishing Fund, and the EA Funds and are awaiting feedback. We are in touch with Effective Giving and Founders Pledge as well as a few private donors. We do not expect to receive major grants before the end of June. The sooner we get funding confirmed, the sooner Max can quit his job and we can start scaling up to leverage the UN’s Our Common Agenda and similarly promising opportunities for the mitigation of global catastrophic risks and the flourishing of future generations. 
 
-You can [donate crypto, $, £ and € tax-deductibly from the US, UK and NL via the EA Funds](https://www.simoninstitute.ch/get-involved/#donate). You can [donate CHF tax-deductibly via EA Geneva](https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388) or [direct bank transfer](https://www.simoninstitute.ch/get-involved/#donate). For donations from Germany, please, get in touch. 
+You can [donate crypto, $, £ and € tax-deductibly from the US, UK and NL via the EA Funds](/get-involved/#donate). You can [donate CHF tax-deductibly via EA Geneva](https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388) or [direct bank transfer](/get-involved/#donate). For donations from Germany, please, get in touch. 
 
 # 5. How to get in touch
 
@@ -283,7 +283,7 @@ A list of all our outputs in our first year:
 4. Developed and ran [a short course on the Philosophy, Science, and Practice of Longterm Governance](https://mediaserver.unige.ch/play/151903) at the University of Geneva’s summer school on the future of global governance.
 5. Organized an event on [navigating complexity and information overload in decision-making](https://www.youtube.com/watch?v=g-jpU8BhSVs) together with the Geneva Science-Policy Interface, the United Nations Research Institute for Social Development, and with speakers from the European Commission, World Health Organization, and the Institute for Government. 80 people attended and scored the event either good (4/5) or excellent (5/5).
 6. Organized [a session and gave a talk on the behavioral science of evidence-based decision-making](https://gspi.ch/activities/behavioral-insights-at-the-un-high-level-political-forum/) at the UN High-Level Political Forum. Was supposed to be a 2h in-person workshop on behavioral science & global catastrophic risk but canceled due to COVID-19.
-7. Ran [in-person event on “long-term decision-making in the face of global catastrophic biological risks”](https://www.simoninstitute.ch/blog/post/lunch-event-during-bwc-meeting-of-experts/) at the BWC’s Meeting of Experts. Low attendance due to COVID restrictions and unavailability of the Palais des Nations.
+7. Ran [in-person event on “long-term decision-making in the face of global catastrophic biological risks”](/blog/post/lunch-event-during-bwc-meeting-of-experts/) at the BWC’s Meeting of Experts. Low attendance due to COVID restrictions and unavailability of the Palais des Nations.
 8. Held a [dinner during BWC MSP](https://drive.google.com/file/d/13mRw4iC-trEI9ziAQR4b10FSSbDL3ntQ/view?usp=sharing) with high-profile attendees from diplomatic delegations, international organizations, and global catastrophic risk research organizations. Successfully framed global catastrophic risks and connected policymakers to academics.
 9. Gave 10 talks on 
 10. 1. Tabletop exercise for resilience at the Resilience Studies Symposium of the Geneva Transformative Governance Lab
@@ -302,16 +302,16 @@ A list of all our outputs in our first year:
     2. Co-authored policy brief on [Resilience to COVID-19 Pandemic](https://gspi.ch/activities/policy-brief-governance-in-the-age-of-complexity-building-resilience-to-covid-19-and-future-pandemics/)
     3. Published book chapter on [Modeling Armed Conflict](https://www.press.umich.edu/10155128/complex_systems_in_the_social_and_behavioral_sciences)
 14. Submitted 3 papers to peer-review
-15. 1. Finalized 1st working paper on ‘[Policymaking for the Long-term Future](https://www.simoninstitute.ch/project/public-policy-making-longterm-future/)’, published on the website and rejected by Futures. Got valuable peer-review feedback, revamp in the works.
-    2. Submitted paper on [’Computational Policy Processes’](https://www.simoninstitute.ch/project/computational-policy-process-studies/) to Complexity, got accepted after major revisions. 
+15. 1. Finalized 1st working paper on ‘[Policymaking for the Long-term Future](/project/public-policy-making-longterm-future/)’, published on the website and rejected by Futures. Got valuable peer-review feedback, revamp in the works.
+    2. Submitted paper on [’Computational Policy Processes’](/project/computational-policy-process-studies/) to Complexity, got accepted after major revisions. 
     3. 1. Forthcoming & completely revamped [preprint ”A Computational Turn in Policy Process Studies: Co-evolving Network Dynamics of Policy Change” here.](https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view)
     4. Finalized paper on [Strengthening Decisions in Policymaking: A Rapid Review of the Evidence on Four Strategies](https://drive.google.com/file/d/13hleWUU_vwDstHzt3ZemzPv_j0FSXEW_/view?usp=sharing) and submitted to Government Information Quarterly, got rejected.
 16. Published 6 blog posts
-17. 1. Published written piece on ‘[Setting Expectations for Extreme Risk Mitigation through Policy Change](https://www.simoninstitute.ch/blog/post/setting-expectations-for-extreme-risk-mitigation-through-policy-change/)’
-    2. Published written piece on ‘[Building the Field of Long-term Governance - SI’s Research Approach](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/)’
-    3. Published written piece on ‘[United Nations for the future - a collection of key international texts for long-term governance](https://www.simoninstitute.ch/blog/post/united-nations-for-the-future-a-collection-of-key-international-texts-for-long-term-governance/)’
+17. 1. Published written piece on ‘[Setting Expectations for Extreme Risk Mitigation through Policy Change](/blog/post/setting-expectations-for-extreme-risk-mitigation-through-policy-change/)’
+    2. Published written piece on ‘[Building the Field of Long-term Governance - SI’s Research Approach](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/)’
+    3. Published written piece on ‘[United Nations for the future - a collection of key international texts for long-term governance](/blog/post/united-nations-for-the-future-a-collection-of-key-international-texts-for-long-term-governance/)’
     4. Published GSPI blog post on [Decision-making in the face of global catastrophic biological risks](https://gspi.ch/activities/decision-making-in-the-face-of-extreme-biological-risks/)
-    5. Published an [overview of fields to improve decision-making in policy systems](https://www.simoninstitute.ch/blog/post/an-overview-of-fields-to-improve-decisions-in-policy-and-practice/)
+    5. Published an [overview of fields to improve decision-making in policy systems](/blog/post/an-overview-of-fields-to-improve-decisions-in-policy-and-practice/)
     6. Published [a blog post announcing the launch of SI](https://forum.effectivealtruism.org/posts/eKn7TDxMSSsoHhcap/introducing-the-simon-institute-for-longterm-governance-si)
 18. Published a [Very Short Guide to Decision-making on Wicked Problems](https://drive.google.com/file/d/1DJGYeqiXN-CMooKoBECq7VOvP69tWuFL/view)
 19. Developed 3 research projects

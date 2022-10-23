@@ -38,13 +38,13 @@ In conducting this research, we make choices about the questions we ask, modelin
 
 For context, we will start with an overview of our approach, before spelling out five crucial underlying beliefs. We conclude by outlining our current research directions. Figure 1 summarizes our research approach. 
 
-1. [Overview of SI’s research approach](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#overview-of-sis-research-approach)
-2. [Building a well-coordinated longtermist policy community](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#building-a-well-coordinated-longtermist-policy-community)
-3. [Understanding policymaking processes is useful](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-useful)
-4. [Understanding policymaking processes is tractable](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-tractable)
-5. [Improving mental models for more effective engagement](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#improving-mental-models-for-more-effective-engagement)
-6. [Knowledge foundations](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#knowledge-foundations)
-7. [Current research directions](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#current-research-directions-and-progress)
+1. [Overview of SI’s research approach](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#overview-of-sis-research-approach)
+2. [Building a well-coordinated longtermist policy community](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#building-a-well-coordinated-longtermist-policy-community)
+3. [Understanding policymaking processes is useful](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-useful)
+4. [Understanding policymaking processes is tractable](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-tractable)
+5. [Improving mental models for more effective engagement](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#improving-mental-models-for-more-effective-engagement)
+6. [Knowledge foundations](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#knowledge-foundations)
+7. [Current research directions](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#current-research-directions-and-progress)
 
 ![Overview of SI’s research approach](si_research_theory.png "Overview of SI’s research approach")
 
@@ -52,11 +52,11 @@ For context, we will start with an overview of our approach, before spelling out
 
 We conduct our research because we think the long-term future matters morally. To improve the future, policymaking is an important form of coordination with tremendous potential. 
 
-To leverage policy processes, we aim to systematically improve our understanding of policy change dynamics (see [section 3](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-useful) and [4](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-tractable)). Through the synthesis of relevant literature, we identify insights about the dynamics of policy processes and their implications for embedding concern for future generations within them. 
+To leverage policy processes, we aim to systematically improve our understanding of policy change dynamics (see [section 3](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-useful) and [4](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#understanding-policymaking-processes-is-tractable)). Through the synthesis of relevant literature, we identify insights about the dynamics of policy processes and their implications for embedding concern for future generations within them. 
 
-Additionally, we consider it critical to integrate an understanding of the day-to-day realities faced by policy professionals into our research and recommendations for policy engagement strategies (see [section 6](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#knowledge-foundations)). [SI's other activities](https://www.simoninstitute.ch/projects/) inform our research[](https://www.simoninstitute.ch/projects/) - working directly with international civil servants, diplomats, academics, and various other actors to foster a community of practice for long-term governance (see also [Rojas et al., 2021](https://www.cser.ac.uk/news/new-report-pathways-linking-science-and-policy-fie/)). 
+Additionally, we consider it critical to integrate an understanding of the day-to-day realities faced by policy professionals into our research and recommendations for policy engagement strategies (see [section 6](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#knowledge-foundations)). [SI's other activities](/projects/) inform our research[](/projects/) - working directly with international civil servants, diplomats, academics, and various other actors to foster a community of practice for long-term governance (see also [Rojas et al., 2021](https://www.cser.ac.uk/news/new-report-pathways-linking-science-and-policy-fie/)). 
 
-Building on the above, we aim to improve the effectiveness of longtermist policy efforts by (1) equipping policy actors who care for future generations with better strategies and mental models for engaging in complex policy processes (see [section 5](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#improving-mental-models-for-more-effective-engagement)), and by (2) strengthening coordination between these actors (see [section 2](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#building-a-well-coordinated-longtermist-policy-community)). 
+Building on the above, we aim to improve the effectiveness of longtermist policy efforts by (1) equipping policy actors who care for future generations with better strategies and mental models for engaging in complex policy processes (see [section 5](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#improving-mental-models-for-more-effective-engagement)), and by (2) strengthening coordination between these actors (see [section 2](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/#building-a-well-coordinated-longtermist-policy-community)). 
 
 Unlike other think tanks, we do not develop concrete policy recommendations, e.g. on extreme climate change, AI governance or biosecurity. Instead, our research aims to inform the strategy and activities of actors, individuals, or groups who care about the long-term future and engage with policy processes. 
 
@@ -149,12 +149,12 @@ Throughout 2021 and 2022, we are exploring the following six research questions:
 
 You can follow our progress here:
 
-* \[Working paper] [Policymaking for the Long-term Future: Improving Institutional Fit](https://www.simoninstitute.ch/project/public-policy-making-longterm-future/)
-* \[preprint] [Computational Policy Processes](https://www.simoninstitute.ch/project/computational-policy-process-studies/) 
-* \[Blog post] [Setting expectations for extreme risk mitigation through policy change](https://www.simoninstitute.ch/blog/post/setting-expectations-for-extreme-risk-mitigation-through-policy-change/)
+* \[Working paper] [Policymaking for the Long-term Future: Improving Institutional Fit](/project/public-policy-making-longterm-future/)
+* \[preprint] [Computational Policy Processes](/project/computational-policy-process-studies/) 
+* \[Blog post] [Setting expectations for extreme risk mitigation through policy change](/blog/post/setting-expectations-for-extreme-risk-mitigation-through-policy-change/)
 
 **Support us or collaborate with us**
 
-If you are interested in our work and would like to support or collaborate with us, please, do [get in touch](https://www.simoninstitute.ch/get-involved/#get-in-touch)!
+If you are interested in our work and would like to support or collaborate with us, please, do [get in touch](/get-involved/#get-in-touch)!
 
 *Photo credit: seedlings by [Ryan Lange](https://unsplash.com/@ryanlange?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*
