@@ -49,7 +49,7 @@ textSections:
       ### Resilience-focused
 
 
-      Global catastrophic risks have the potential to curtail our civilization's future and or reverse past progress. To build resilience to the most extreme shocks, humanity has to act at all levels of governance. We are focused on supporting policy networks contributing to the mitigation of low-probability high-impact events.
+      Global catastrophic risks have the potential to curtail our civilization's future or even reverse past progress. To build resilience to the most extreme shocks, humanity has to improve coordination at all levels of governance. We are focused on supporting policy networks contributing to the mitigation of low-probability high-impact events.
 
 
       ### Science-based
