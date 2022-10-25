@@ -2,7 +2,7 @@
 name: Nora Ammann
 photo: ammannnora.jpg
 group: Collaborators
-role: Research affiliate
+role: Conceptual research affiliate
 links:
   website: ""
   twitter: ""

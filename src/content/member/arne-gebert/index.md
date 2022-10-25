@@ -1,0 +1,9 @@
+---
+name: Arne Gebert
+photo: 1600649334303.jpeg
+group: Collaborators
+role: Data analysis associate
+links:
+  linkedin: https://www.linkedin.com/in/arne-gebert-b302b5140/
+disableDetailPage: true
+---
