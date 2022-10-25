@@ -20,7 +20,7 @@ const Card = ({ url, image, title, subtitle, content }) => {
           <div>
             <header>
               <h3 itemProp="headline">{title}</h3>
-              <small>{subtitle}</small>
+              {subtitle && <small>{subtitle}</small>}
             </header>
             <section>
               <div

@@ -24,16 +24,16 @@ const MemberTemplate = ({ data, location }) => {
   const header = (
     <div>
       {desktopImage && <Person photo={sources} name={personData.name} />}
-      {(personData.links.website ||
-        personData.links.twitter ||
-        personData.links.linkedin) && (
+      {(personData.links?.website ||
+        personData.links?.twitter ||
+        personData.links?.linkedin) && (
         <SocialLinks
           centered
           wide
           bottomSpacing
-          website={personData.links.website}
-          twitter={personData.links.twitter}
-          linkedin={personData.links.linkedin}
+          website={personData.links?.website}
+          twitter={personData.links?.twitter}
+          linkedin={personData.links?.linkedin}
         />
       )}
     </div>

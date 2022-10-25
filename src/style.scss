@@ -175,16 +175,13 @@ p {
 
 ul,
 ol {
-  margin-left: var(--spacing-0);
-  margin-right: var(--spacing-0);
-  padding: var(--spacing-0);
+  padding: var(--spacing-5);
   margin-bottom: var(--spacing-8);
   list-style-image: none;
 }
 
 ul li,
 ol li {
-  padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
 }
 
@@ -228,8 +225,15 @@ table {
   border-spacing: 0.25rem;
 }
 
-table thead tr th {
-  border-bottom: 1px solid var(--color-accent);
+table th,
+table td {
+  border: 1px solid var(--color-accent);
+  text-align: left;
+  padding: var(--spacing-2);
+}
+
+p > img {
+  max-width: 100%;
 }
 
 main {

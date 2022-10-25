@@ -10,7 +10,7 @@ projectsByCategories:
       We foster a network of practitioners, researchers, and donors working
       together towards long-term governance. To ground our work, we also
       [submit our thoughts to 
-      peer-review](https://www.simoninstitute.ch/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
+      peer-review](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
 
 
   - category: Policy support

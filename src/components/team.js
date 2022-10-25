@@ -113,9 +113,9 @@ const Team = () => {
                         personTextDetails}
                       <SocialLinks
                         topSpacing
-                        website={member.frontmatter.links.website}
-                        twitter={member.frontmatter.links.twitter}
-                        linkedin={member.frontmatter.links.linkedin}
+                        website={member.frontmatter.links?.website}
+                        twitter={member.frontmatter.links?.twitter}
+                        linkedin={member.frontmatter.links?.linkedin}
                       />
                     </div>
                   </div>

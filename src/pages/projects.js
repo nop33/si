@@ -45,7 +45,7 @@ const ProjectsPage = ({ data, location }) => {
                 title={
                   project.frontmatter.card?.title || project.frontmatter.title
                 }
-                subtitle={project.frontmatter.tags.join(" / ")}
+                subtitle={project.frontmatter.tags?.join(" / ")}
                 content={
                   project.frontmatter.card?.description ||
                   project.frontmatter.subtitle
