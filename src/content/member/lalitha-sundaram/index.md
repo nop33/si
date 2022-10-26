@@ -5,4 +5,5 @@ group: Collaborators
 role: Biotech research affiliate
 links:
   linkedin: https://www.linkedin.com/in/lalitha-sundaram-b64a292/
+disableDetailPage: true
 ---
