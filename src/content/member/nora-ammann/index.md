@@ -1,7 +1,7 @@
 ---
 name: Nora Ammann
 photo: ammannnora.jpg
-group: Collaborators
+group: Alumni
 role: Conceptual research affiliate
 links:
   website: ""
