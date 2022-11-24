@@ -44,7 +44,7 @@ If you want to learn more about the risks themselves, there are many great resou
 * The 2019 Global Health Security Index explains [why countries are insufficiently prepared for pandemics](https://www.ghsindex.org/). 
 * The New York Times reviews [the science of climate change](https://www.nytimes.com/article/climate-change-global-warming-faq.html).
 * The Centre on Long-Term Resilience provides [a UK policy-oriented account of global catastrophic risks](https://www.longtermresilience.org/futureproof). 
-* The latest Human Development Report provides an overview of [the types and severity of global catastrophic risks](http://hdr.undp.org/sites/default/files/hdr2020.pdf) (p. 106ff). 
+* The latest Human Development Report provides an overview of [the types and severity of global catastrophic risks](https://hdr.undp.org/content/human-development-report-2020) (p. 106ff). 
 
 ## Evidence shows that policy change under- and overreacts to policy problems.
 
