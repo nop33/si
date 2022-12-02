@@ -95,7 +95,10 @@ export const pageQuery = graphql`
       }
     }
     projects: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
+      filter: {
+        fields: { contentType: { eq: "project" } }
+        frontmatter: { hide: { ne: true } }
+      }
     ) {
       totalCount
       nodes {

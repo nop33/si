@@ -13,7 +13,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { fields: { contentType: { eq: "blog" } } }
+          filter: {
+            fields: { contentType: { eq: "blog" } }
+            frontmatter: { hide: { ne: true } }
+          }
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 1000
         ) {
@@ -67,7 +70,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { fields: { contentType: { in: ["subpage", "project"] } } }
+          filter: {
+            fields: { contentType: { in: ["subpage", "project"] } }
+            frontmatter: { hide: { ne: true } }
+          }
         ) {
           nodes {
             id

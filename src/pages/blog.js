@@ -88,7 +88,10 @@ export const pageQuery = graphql`
       }
     }
     posts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
+      filter: {
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: { hide: { ne: true } }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       totalCount

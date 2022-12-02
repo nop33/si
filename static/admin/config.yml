@@ -483,6 +483,13 @@ collections:
     editor:
       preview: false
     fields:
+      - {
+          label: "Hide",
+          name: "hide",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
       - { label: "Featured image", name: "featuredImage", widget: "image" }
@@ -599,6 +606,13 @@ collections:
     editor:
       preview: false
     fields:
+      - {
+          label: "Hide",
+          name: "hide",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Publish Date",

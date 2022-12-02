@@ -6,6 +6,7 @@ category: Field-building
 tags:
   - Network
 isFeaturedOnHomepage: true
+hide: false
 textSections:
   - title: Summary
     content: Long-term Governance is a young field with much room for growth.
