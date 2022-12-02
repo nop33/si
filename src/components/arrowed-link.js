@@ -18,9 +18,13 @@ const ArrowedLink = ({ direction, to, text, className, children, rel }) => {
       to={to}
       rel={rel}
     >
-      {direction === "left" && <FontAwesomeIcon icon={faChevronLeft} />}
+      {direction === "left" && (
+        <FontAwesomeIcon size="xs" icon={faChevronLeft} />
+      )}
       {text || children}
-      {direction === "right" && <FontAwesomeIcon icon={faChevronRight} />}
+      {direction === "right" && (
+        <FontAwesomeIcon size="xs" icon={faChevronRight} />
+      )}
     </Link>
   )
 }
