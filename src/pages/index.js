@@ -103,146 +103,127 @@ const Home = ({ data, location }) => {
 
 export default Home
 
-export const pageQuery = graphql`
-  query {
-    homepage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/home.md/" } }
-    ) {
-      nodes {
-        frontmatter {
-          seo {
-            title
-            description
-          }
+export const pageQuery = graphql`{
+  homepage: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/custom-page/home.md/"}}
+  ) {
+    nodes {
+      frontmatter {
+        seo {
           title
-          hasImageBackgroundHeader
-          subtitle
-          keyfactsSection {
+          description
+        }
+        title
+        hasImageBackgroundHeader
+        subtitle
+        keyfactsSection {
+          title
+          description
+          link {
+            title
+            url
+          }
+        }
+        featuredProjectsSection {
+          title
+          projectsByCategory {
+            category
             title
             description
+            orientation
+          }
+        }
+        postsSection {
+          newsSection {
+            title
             link {
               title
               url
             }
           }
-          featuredProjectsSection {
+          eventsSection {
             title
-            projectsByCategory {
-              category
+            link {
               title
-              description
-              orientation
-            }
-          }
-          postsSection {
-            newsSection {
-              title
-              link {
-                title
-                url
-              }
-            }
-            eventsSection {
-              title
-              link {
-                title
-                url
-              }
-            }
-          }
-        }
-      }
-    }
-    projects: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "project" } }
-        frontmatter: { isFeaturedOnHomepage: { eq: true } }
-      }
-    ) {
-      nodes {
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-          subtitle
-          card {
-            title
-            description
-          }
-          category
-          tags
-          featuredImage {
-            childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-      }
-    }
-    news: allMarkdownRemark(
-      limit: 2
-      filter: {
-        fields: { contentType: { eq: "blog" } }
-        frontmatter: { tags: { nin: "Updates" } }
-      }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-      }
-    }
-    events: allMarkdownRemark(
-      limit: 1
-      filter: {
-        fields: { contentType: { eq: "blog" } }
-        frontmatter: {
-          tags: { in: "Updates" }
-          isEventFeaturedOnHomepage: { eq: true }
-        }
-      }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
+              url
             }
           }
         }
       }
     }
   }
-`
+  projects: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "project"}}, frontmatter: {isFeaturedOnHomepage: {eq: true}}}
+  ) {
+    nodes {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        subtitle
+        card {
+          title
+          description
+        }
+        category
+        tags
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 500, maxHeight: 290, fit: COVER, cropFocus: CENTER) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+  }
+  news: allMarkdownRemark(
+    limit: 2
+    filter: {fields: {contentType: {eq: "blog"}}, frontmatter: {tags: {nin: "Updates"}}}
+    sort: {frontmatter: {date: DESC}}
+  ) {
+    nodes {
+      excerpt
+      fields {
+        slug
+      }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 500, maxHeight: 290) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+  }
+  events: allMarkdownRemark(
+    limit: 1
+    filter: {fields: {contentType: {eq: "blog"}}, frontmatter: {tags: {in: "Updates"}, isEventFeaturedOnHomepage: {eq: true}}}
+    sort: {frontmatter: {date: DESC}}
+  ) {
+    nodes {
+      excerpt
+      fields {
+        slug
+      }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 500, maxHeight: 290) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+  }
+}`

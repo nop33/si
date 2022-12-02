@@ -73,69 +73,59 @@ const ProjectsPage = ({ data, location }) => {
 
 export default ProjectsPage
 
-export const pageQuery = graphql`
-  query {
-    projectsPage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/projects.md/" } }
-    ) {
-      nodes {
-        frontmatter {
-          seo {
-            title
-            description
-          }
+export const pageQuery = graphql`{
+  projectsPage: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/custom-page/projects.md/"}}
+  ) {
+    nodes {
+      frontmatter {
+        seo {
           title
-          subtitle
-          projectsByCategories {
-            category
-            title
-            description
-          }
+          description
+        }
+        title
+        subtitle
+        projectsByCategories {
+          category
+          title
+          description
         }
       }
     }
-    projects: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "project" } }
-        frontmatter: { hide: { ne: true } }
+  }
+  projects: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "project"}}, frontmatter: {hide: {ne: true}}}
+  ) {
+    totalCount
+    nodes {
+      fields {
+        slug
       }
-    ) {
-      totalCount
-      nodes {
-        fields {
-          slug
-        }
-        frontmatter {
+      frontmatter {
+        title
+        subtitle
+        card {
           title
-          subtitle
-          card {
-            title
-            description
-          }
-          category
-          tags
-          featuredImage {
-            childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
-                ...GatsbyImageSharpFluid
-              }
+          description
+        }
+        category
+        tags
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 500, maxHeight: 290, fit: COVER, cropFocus: CENTER) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
       }
     }
-    tagsGroup: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
-      limit: 2000
-    ) {
-      group(field: frontmatter___category) {
-        fieldValue
-      }
+  }
+  tagsGroup: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "project"}}}
+    limit: 2000
+  ) {
+    group(field: {frontmatter: {category: SELECT}}) {
+      fieldValue
     }
   }
-`
+}`

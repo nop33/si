@@ -113,26 +113,24 @@ module.exports = {
                 })
               })
             },
-            query: `
-            {
-              allMarkdownRemark(
-                  filter: { fields: { contentType: { eq: "blog" } } }
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  nodes {
-                    excerpt
-                    html
-                    fields {
-                      slug
-                    }
-                    frontmatter {
-                      title
-                      date
-                    }
-                  }
-                }
-              }
-            `,
+            query: `{
+  allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "blog"}}}
+    sort: {frontmatter: {date: DESC}}
+  ) {
+    nodes {
+      excerpt
+      html
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        date
+      }
+    }
+  }
+}`,
             output: "/rss.xml",
             title: "SI's RSS Feed",
           },

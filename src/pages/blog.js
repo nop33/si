@@ -71,48 +71,43 @@ const BlogIndex = ({ data, location }) => {
 
 export default BlogIndex
 
-export const pageQuery = graphql`
-  query {
-    blogPage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/blog.md/" } }
-    ) {
-      nodes {
-        frontmatter {
-          seo {
-            title
-            description
-          }
-          title
-          subtitle
-        }
-      }
-    }
-    posts: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "blog" } }
-        frontmatter: { hide: { ne: true } }
-      }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      totalCount
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+export const pageQuery = graphql`{
+  blogPage: allMarkdownRemark(
+    filter: {fileAbsolutePath: {regex: "/custom-page/blog.md/"}}
+  ) {
+    nodes {
+      frontmatter {
+        seo {
           title
           description
-          featuredImage {
-            childImageSharp {
-              fluid(maxWidth: 500, maxHeight: 290) {
-                ...GatsbyImageSharpFluid
-              }
+        }
+        title
+        subtitle
+      }
+    }
+  }
+  posts: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "blog"}}, frontmatter: {hide: {ne: true}}}
+    sort: {frontmatter: {date: DESC}}
+  ) {
+    totalCount
+    nodes {
+      excerpt
+      fields {
+        slug
+      }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 500, maxHeight: 290) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
       }
     }
   }
-`
+}`

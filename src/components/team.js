@@ -16,41 +16,39 @@ import {
 } from "./team.module.scss"
 
 const Team = () => {
-  const membersQuery = useStaticQuery(graphql`
-    query {
-      allMarkdownRemark(
-        filter: { fields: { contentType: { eq: "member" } } }
-        sort: { fields: [frontmatter___name], order: DESC }
-      ) {
-        group(field: frontmatter___group) {
-          name: fieldValue
-          nodes {
-            fields {
-              slug
-            }
-            frontmatter {
-              name
-              group
-              role
-              photo {
-                childImageSharp {
-                  fixed(width: 85, height: 85, quality: 100) {
-                    ...GatsbyImageSharpFixed
-                  }
-                }
+  const membersQuery = useStaticQuery(graphql`{
+  allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "member"}}}
+    sort: {frontmatter: {name: DESC}}
+  ) {
+    group(field: {frontmatter: {group: SELECT}}) {
+      name: fieldValue
+      nodes {
+        fields {
+          slug
+        }
+        frontmatter {
+          name
+          group
+          role
+          photo {
+            childImageSharp {
+              fixed(width: 85, height: 85, quality: 100) {
+                ...GatsbyImageSharpFixed
               }
-              links {
-                website
-                twitter
-                linkedin
-              }
-              disableDetailPage
             }
           }
+          links {
+            website
+            twitter
+            linkedin
+          }
+          disableDetailPage
         }
       }
     }
-  `)
+  }
+}`)
 
   const membersGroups = membersQuery.allMarkdownRemark.group
 
