@@ -1,6 +1,5 @@
 ---
 title: Director of External Affairs
-subtitle: ""
 teaserText: >-
   The Director of External Affairs will lead our engagement with international organizations, governments and the broader public. This role is travel-intense, as our stakeholders are spread across continents and in-person interaction is key to building trust and bandwidth. Together with the founders and incoming team, you will develop strategies for outreach and communications and likely develop your own team.
 textSections:

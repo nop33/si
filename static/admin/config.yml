@@ -558,6 +558,64 @@ collections:
               widget: "text",
               required: false,
             }
+  - name: "job"
+    label: "Jobs"
+    folder: "src/content/job"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Hide",
+          name: "hide",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "teaserText", name: "teaserText", widget: "text" }
+      - label: "Text sections"
+        name: "textSections"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "markdown",
+              required: false,
+            }
+          - label: Section images
+            name: sectionImages
+            widget: list
+            required: false
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt text", name: "alt", widget: "string" }
+          - label: Section videos
+            name: sectionVideos
+            widget: list
+            required: false
+            fields:
+              - { label: "YouTube video URL", name: "src", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+      - label: "Custom SEO"
+        name: "seo"
+        widget: object
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "text",
+              required: false,
+            }
   - name: "subpage"
     label: "Standard layout pages"
     folder: "src/content/subpage"

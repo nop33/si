@@ -1,6 +1,5 @@
 ---
 title: Director of Analysis
-subtitle: ""
 hide: false
 teaserText: >-
   The Director of Analysis will lead our knowledge synthesis and information product development. This role is a mix of on-demand policy brief writing, development of online resources and strategic analysis to help policymakers understand global priorities and support researchers in their understanding of policymaking. Together with the founders and the incoming team, you will produce educational content, knowledge repositiories and further organizational strategy.
