@@ -71,7 +71,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       {
         allMarkdownRemark(
           filter: {
-            fields: { contentType: { in: ["subpage", "project"] } }
+            fields: { contentType: { in: ["subpage", "project", "job"] } }
             frontmatter: { hide: { ne: true } }
           }
         ) {
