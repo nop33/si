@@ -4,9 +4,9 @@ import { graphql } from "gatsby"
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
 import BaseSection from "../components/sections/base"
-import Card from "../components/card"
-import CardsWithText from "../components/sections/cards-with-text"
-import { updateSrcSet } from "../utils"
+import { toHTML } from "../utils"
+import { textContent } from "../components/sections/cards-with-text.module.scss"
+import ArrowedLink from "../components/arrowed-link"
 
 const JobsPage = ({ data, location }) => {
   const pageData = data.jobsPage.nodes[0].frontmatter
@@ -23,14 +23,34 @@ const JobsPage = ({ data, location }) => {
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description}
         />
-        <div>{pageData.intro}</div>
-        {jobs.map(job => {
-          return (
-            <div>
-              <h2>{job.title}</h2>
-            </div>
-          )
-        })}
+        <BaseSection className="narrow">
+          <div
+            className={textContent}
+            dangerouslySetInnerHTML={{
+              __html: toHTML(pageData.intro),
+            }}
+          ></div>
+        </BaseSection>
+        <BaseSection className="narrow" noTopPadding>
+          <h2>{pageData.openPositionsSection.title}</h2>
+          {jobs.length > 0
+            ? jobs.map((job, index) => (
+                <div key={`${job.frontmatter.title}-${index}`}>
+                  <h3>{job.frontmatter.title}</h3>
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: toHTML(job.frontmatter.teaserText),
+                    }}
+                  ></div>
+                  <ArrowedLink
+                    direction="right"
+                    to={job.fields.slug}
+                    text={pageData.openPositionsSection.seeDetailsLinkText}
+                  />
+                </div>
+              ))
+            : pageData.openPositionsSection.noOpenPositionsPlaceholder}
+        </BaseSection>
       </PageLayout>
     </div>
   )
@@ -51,6 +71,11 @@ export const pageQuery = graphql`
           }
           title
           intro
+          openPositionsSection {
+            title
+            noOpenPositionsPlaceholder
+            seeDetailsLinkText
+          }
         }
       }
     }
