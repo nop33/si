@@ -73,59 +73,69 @@ const ProjectsPage = ({ data, location }) => {
 
 export default ProjectsPage
 
-export const pageQuery = graphql`{
-  projectsPage: allMarkdownRemark(
-    filter: {fileAbsolutePath: {regex: "/custom-page/projects.md/"}}
-  ) {
-    nodes {
-      frontmatter {
-        seo {
+export const pageQuery = graphql`
+  {
+    projectsPage: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/custom-page/projects.md/" } }
+    ) {
+      nodes {
+        frontmatter {
+          seo {
+            title
+            description
+          }
           title
-          description
-        }
-        title
-        subtitle
-        projectsByCategories {
-          category
-          title
-          description
+          subtitle
+          projectsByCategories {
+            category
+            title
+            description
+          }
         }
       }
     }
-  }
-  projects: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "project"}}, frontmatter: {hide: {ne: true}}}
-  ) {
-    totalCount
-    nodes {
-      fields {
-        slug
+    projects: allMarkdownRemark(
+      filter: {
+        fields: { contentType: { eq: "project" } }
+        frontmatter: { hide: { ne: true } }
       }
-      frontmatter {
-        title
-        subtitle
-        card {
-          title
-          description
+    ) {
+      totalCount
+      nodes {
+        fields {
+          slug
         }
-        category
-        tags
-        featuredImage {
-          childImageSharp {
-            fluid(maxWidth: 500, maxHeight: 290, fit: COVER, cropFocus: CENTER) {
-              ...GatsbyImageSharpFluid
+        frontmatter {
+          title
+          subtitle
+          card {
+            title
+            description
+          }
+          category
+          tags
+          featuredImage {
+            childImageSharp {
+              fluid(
+                maxWidth: 500
+                maxHeight: 290
+                fit: COVER
+                cropFocus: CENTER
+              ) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }
       }
     }
-  }
-  tagsGroup: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "project"}}}
-    limit: 2000
-  ) {
-    group(field: {frontmatter: {category: SELECT}}) {
-      fieldValue
+    tagsGroup: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "project" } } }
+      limit: 2000
+    ) {
+      group(field: { frontmatter: { category: SELECT } }) {
+        fieldValue
+      }
     }
   }
-}`
+`

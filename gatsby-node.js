@@ -10,20 +10,25 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   // Get all markdown blog posts sorted by date
   const blogPostsResult = await graphql(
-    `{
-  allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "blog"}}, frontmatter: {hide: {ne: true}}}
-    sort: {frontmatter: {date: DESC}}
-    limit: 1000
-  ) {
-    nodes {
-      id
-      fields {
-        slug
+    `
+      {
+        allMarkdownRemark(
+          filter: {
+            fields: { contentType: { eq: "blog" } }
+            frontmatter: { hide: { ne: true } }
+          }
+          sort: { frontmatter: { date: DESC } }
+          limit: 1000
+        ) {
+          nodes {
+            id
+            fields {
+              slug
+            }
+          }
+        }
       }
-    }
-  }
-}`
+    `
   )
 
   if (blogPostsResult.errors) {
@@ -151,16 +156,18 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const tagTemplate = path.resolve("src/templates/tag.js")
 
-  const tagResult = await graphql(`{
-  tagsGroup: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "blog"}}}
-    limit: 2000
-  ) {
-    group(field: {frontmatter: {tags: SELECT}}) {
-      fieldValue
+  const tagResult = await graphql(`
+    {
+      tagsGroup: allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "blog" } } }
+        limit: 2000
+      ) {
+        group(field: { frontmatter: { tags: SELECT } }) {
+          fieldValue
+        }
+      }
     }
-  }
-}`)
+  `)
 
   if (tagResult.errors) {
     reporter.panicOnBuild(
@@ -186,16 +193,18 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     "src/templates/project-category.js"
   )
 
-  const projectsGroupResult = await graphql(`{
-  tagsGroup: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "project"}}}
-    limit: 2000
-  ) {
-    group(field: {frontmatter: {category: SELECT}}) {
-      fieldValue
+  const projectsGroupResult = await graphql(`
+    {
+      tagsGroup: allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "project" } } }
+        limit: 2000
+      ) {
+        group(field: { frontmatter: { category: SELECT } }) {
+          fieldValue
+        }
+      }
     }
-  }
-}`)
+  `)
 
   if (projectsGroupResult.errors) {
     reporter.panicOnBuild(
@@ -219,16 +228,18 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const projectsTagTemplate = path.resolve("src/templates/project-tag.js")
 
-  const projectsTagResult = await graphql(`{
-  tagsGroup: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "project"}}}
-    limit: 2000
-  ) {
-    group(field: {frontmatter: {tags: SELECT}}) {
-      fieldValue
+  const projectsTagResult = await graphql(`
+    {
+      tagsGroup: allMarkdownRemark(
+        filter: { fields: { contentType: { eq: "project" } } }
+        limit: 2000
+      ) {
+        group(field: { frontmatter: { tags: SELECT } }) {
+          fieldValue
+        }
+      }
     }
-  }
-}`)
+  `)
 
   if (projectsTagResult.errors) {
     reporter.panicOnBuild(

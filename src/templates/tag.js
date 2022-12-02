@@ -47,38 +47,43 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
 
 export default BlogTagTemplate
 
-export const pageQuery = graphql`query subpageByTag($tag: String) {
-  allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "blog"}}, frontmatter: {tags: {in: [$tag]}}}
-    sort: {frontmatter: {date: DESC}}
-    limit: 2000
-  ) {
-    totalCount
-    nodes {
-      excerpt
-      fields {
-        slug
+export const pageQuery = graphql`
+  query subpageByTag($tag: String) {
+    allMarkdownRemark(
+      filter: {
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: { tags: { in: [$tag] } }
       }
-      frontmatter {
-        date(formatString: "MMMM DD, YYYY")
-        title
-        description
-        featuredImage {
-          childImageSharp {
-            fluid(maxWidth: 500, maxHeight: 290) {
-              ...GatsbyImageSharpFluid
+      sort: { frontmatter: { date: DESC } }
+      limit: 2000
+    ) {
+      totalCount
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
+          featuredImage {
+            childImageSharp {
+              fluid(maxWidth: 500, maxHeight: 290) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }
       }
     }
-  }
-  tagsGroup: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "blog"}}}
-    limit: 2000
-  ) {
-    group(field: {frontmatter: {tags: SELECT}}) {
-      fieldValue
+    tagsGroup: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "blog" } } }
+      limit: 2000
+    ) {
+      group(field: { frontmatter: { tags: SELECT } }) {
+        fieldValue
+      }
     }
   }
-}`
+`

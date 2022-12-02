@@ -52,41 +52,46 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
 
 export default ProjectsGroupTemplate
 
-export const pageQuery = graphql`query projectByTag($tag: String) {
-  allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "project"}}, frontmatter: {tags: {in: [$tag]}}}
-    limit: 2000
-  ) {
-    totalCount
-    nodes {
-      excerpt
-      fields {
-        slug
+export const pageQuery = graphql`
+  query projectByTag($tag: String) {
+    allMarkdownRemark(
+      filter: {
+        fields: { contentType: { eq: "project" } }
+        frontmatter: { tags: { in: [$tag] } }
       }
-      frontmatter {
-        title
-        subtitle
-        card {
-          title
-          description
+      limit: 2000
+    ) {
+      totalCount
+      nodes {
+        excerpt
+        fields {
+          slug
         }
-        category
-        featuredImage {
-          childImageSharp {
-            fluid(maxWidth: 500, maxHeight: 290) {
-              ...GatsbyImageSharpFluid
+        frontmatter {
+          title
+          subtitle
+          card {
+            title
+            description
+          }
+          category
+          featuredImage {
+            childImageSharp {
+              fluid(maxWidth: 500, maxHeight: 290) {
+                ...GatsbyImageSharpFluid
+              }
             }
           }
         }
       }
     }
-  }
-  tagsGroup: allMarkdownRemark(
-    filter: {fields: {contentType: {eq: "project"}}}
-    limit: 2000
-  ) {
-    group(field: {frontmatter: {tags: SELECT}}) {
-      fieldValue
+    tagsGroup: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "project" } } }
+      limit: 2000
+    ) {
+      group(field: { frontmatter: { tags: SELECT } }) {
+        fieldValue
+      }
     }
   }
-}`
+`
