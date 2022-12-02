@@ -79,27 +79,33 @@ const SubpageTemplate = ({ data, location }) => {
       {desktopFeaturedImage && (
         <Image fluid={sources} alt={`${pageData.title} featured image`} />
       )}
-      <Tabs titles={pageData.textSections.map(section => section.title)}></Tabs>
-      {pageData.textSections.map(textSection => {
-        const id = generateIdFromTitle(textSection.title)
-        return (
-          <BaseSection id={id} key={`subpage_section_${id}`}>
-            <SideBySide title={textSection.title}>
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: toHTML(textSection.content),
-                }}
-              ></div>
-              {textSection.sectionImages && (
-                <ImageList images={textSection.sectionImages} />
-              )}
-              {textSection.sectionVideos && (
-                <VideoList videos={textSection.sectionVideos} />
-              )}
-            </SideBySide>
-          </BaseSection>
-        )
-      })}
+      {pageData.textSections && pageData.textSections.length > 0 && (
+        <>
+          <Tabs
+            titles={pageData.textSections.map(section => section.title)}
+          ></Tabs>
+          {pageData.textSections.map(textSection => {
+            const id = generateIdFromTitle(textSection.title)
+            return (
+              <BaseSection id={id} key={`subpage_section_${id}`}>
+                <SideBySide title={textSection.title}>
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: toHTML(textSection.content),
+                    }}
+                  ></div>
+                  {textSection.sectionImages && (
+                    <ImageList images={textSection.sectionImages} />
+                  )}
+                  {textSection.sectionVideos && (
+                    <VideoList videos={textSection.sectionVideos} />
+                  )}
+                </SideBySide>
+              </BaseSection>
+            )
+          })}
+        </>
+      )}
     </PageLayout>
   )
 }
