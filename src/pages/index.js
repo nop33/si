@@ -219,8 +219,7 @@ export const pageQuery = graphql`
       filter: {
         fields: { contentType: { eq: "blog" } }
         frontmatter: {
-          tags: { in: "Updates" }
-          isEventFeaturedOnHomepage: { eq: true }
+          isHighlighted: { eq: true }
         }
       }
       sort: { frontmatter: { date: DESC } }

@@ -721,8 +721,8 @@ collections:
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: "Featured in home page Events section",
-          name: "isEventFeaturedOnHomepage",
+          label: "Featured in home page Highlight section",
+          name: "isHighlighted",
           widget: "boolean",
           default: false,
           required: false,

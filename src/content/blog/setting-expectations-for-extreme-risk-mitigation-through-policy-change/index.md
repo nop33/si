@@ -24,7 +24,7 @@ authors:
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
 tags:
   - Resources
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 Would you let your children hop on a plane that has a 1 in 6 chance of crashing? 1 in 10? 1 in 100? Probably not, and you are right: the risk is too high for people we care about. In his recent book, [The Precipice](http://www.tobyord.com/book), Toby Ord estimates a 1 in 6 chance of a global catastrophe occurring this century, destroying all of civilization's long-term potential. Such global catastrophic risks concern the entire world population and succeeding generations.
 

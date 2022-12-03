@@ -24,7 +24,7 @@ tags:
   - Strategy
   - Transparency
   - Resources
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 ## Introduction
 
