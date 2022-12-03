@@ -11,7 +11,7 @@ tags:
   - Strategy
   - Transparency
   - Updates
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 After demonstrating the [potential for substantial impact in its first nine months of existence](/blog/post/2021-annual-review/), SI enters the final stage of its startup period. 2022 marks the beginning of an extended organizational focus on leveraging the windows of opportunity provided by the UN SG’s “Our Common Agenda” (OCA).
 

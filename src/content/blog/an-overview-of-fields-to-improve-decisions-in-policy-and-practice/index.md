@@ -16,7 +16,7 @@ authors:
     externalLink: https://www.linkedin.com/in/iandavidmoss/
 tags:
   - Resources
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 *This overview was initially developed by the Effective Institutions Project in May 2021 and has been lightly adapted by Maxime Stauffer and Konrad Seifert. With thanks also to Aman Patel, Angela María Aristizábal, Marisa Jurczyk, Michael Noetel and Willem Roekens.*
 

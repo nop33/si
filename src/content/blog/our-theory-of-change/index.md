@@ -13,7 +13,7 @@ authors:
 tags:
   - Strategy
   - Transparency
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 seo:
   description: >-
     If humanity survives the next few centuries, there is a fair chance that the

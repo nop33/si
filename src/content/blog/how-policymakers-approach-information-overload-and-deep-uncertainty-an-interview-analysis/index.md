@@ -10,7 +10,7 @@ authors:
     externalLink: https://www.linkedin.com/in/elias-kock/
 tags:
   - Resources
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 *What is it like to be a policymaker during the COVID-19 pandemic?* 
 
