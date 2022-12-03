@@ -49,7 +49,7 @@ const GetInvolvedPage = ({ data, location }) => {
       <BaseSection id={workWithUsSectionId}>
         <SideBySide title={pageData.workWithUsSection.title} isWide>
           <ColumnsWithButtons
-            columnsData={pageData.workWithUsSection.columnsWithButtons}
+            data={pageData.workWithUsSection.columnsWithButtons}
           />
         </SideBySide>
       </BaseSection>
@@ -72,9 +72,9 @@ const GetInvolvedPage = ({ data, location }) => {
       </BaseSection>
       <BaseSection id={donateSectionId}>
         <SideBySide title={pageData.donateSection.title} isWide>
-          <ColumnsWithButtons columnsData={[pageData.donateSection.intro]} />
+          <ColumnsWithButtons data={[pageData.donateSection.intro]} />
           <ColumnsWithButtons
-            columnsData={pageData.donateSection.columnsWithButtons}
+            data={pageData.donateSection.columnsWithButtons}
           />
         </SideBySide>
       </BaseSection>

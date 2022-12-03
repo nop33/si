@@ -1,14 +1,48 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, PageProps } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
 import BaseSection from "../components/sections/base"
-import { toHTML } from "../utils"
-import { textContent } from "../components/sections/cards-with-text.module.scss"
+import { generateIdFromTitle, toHTML } from "../utils"
 import ArrowedLink from "../components/arrowed-link"
+import styled from "styled-components"
 
-const JobsPage = ({ data, location }) => {
+interface JobsPageProps extends PageProps {
+  data: {
+    jobsPage: {
+      nodes: {
+        frontmatter: {
+          seo: {
+            title: string
+            description: string
+          }
+          title: string
+          intro: string
+          openPositionsSection: {
+            title: string
+            noOpenPositionsPlaceholder: string
+            seeDetailsLinkText: string
+          }
+        }
+      }[]
+    }
+    jobs: {
+      totalCount: number
+      nodes: {
+        fields: {
+          slug: string
+        }
+        frontmatter: {
+          title: string
+          teaserText: string
+        }
+      }[]
+    }
+  }
+}
+
+const JobsPage = ({ data, location }: JobsPageProps) => {
   const pageData = data.jobsPage.nodes[0].frontmatter
   const { nodes: jobs, totalCount } = data.jobs
 
@@ -23,15 +57,18 @@ const JobsPage = ({ data, location }) => {
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description}
         />
-        <BaseSection className="narrow">
-          <div
-            className={textContent}
+        <BaseSection className="narrow" id="intro">
+          <Intro
             dangerouslySetInnerHTML={{
               __html: toHTML(pageData.intro),
             }}
-          ></div>
+          ></Intro>
         </BaseSection>
-        <BaseSection className="narrow" noTopPadding>
+        <BaseSection
+          className="narrow"
+          noTopPadding
+          id={generateIdFromTitle(pageData.openPositionsSection.title)}
+        >
           <h2>{pageData.openPositionsSection.title}</h2>
           {jobs.length > 0
             ? jobs.map((job, index) => (
@@ -97,4 +134,8 @@ export const pageQuery = graphql`
       }
     }
   }
+`
+
+const Intro = styled.div`
+  font-size: var(--fontSize-3);
 `
