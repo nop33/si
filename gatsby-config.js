@@ -167,5 +167,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-preload-fonts`,
+    `gatsby-plugin-styled-components`,
   ],
 }
