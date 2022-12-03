@@ -23,13 +23,13 @@ const PageLayout = ({
   location,
   title,
   subtitle,
-  headerLinks,
+  headerLinks = false,
   children,
-  backLink,
-  backLinkText,
-  withImageBackgroundHeader,
+  backLink = false,
+  backLinkText = false,
+  withImageBackgroundHeader = false,
 }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
+  const rootPath = "/"
   const isRootPath = location.pathname === rootPath
 
   const className = isRootPath ? homepage : subpage

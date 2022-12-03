@@ -7,7 +7,7 @@ import { updateSrcSet } from "../utils"
 
 import { headerBackground } from "./header-background.module.scss"
 
-const HeaderBackground = ({ children, className }) => {
+const HeaderBackground = ({ children, className = "" }) => {
   const data = useStaticQuery(
     graphql`
       query {
