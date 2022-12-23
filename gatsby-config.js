@@ -37,6 +37,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/src/content/job`,
+        name: `job`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/src/content/member`,
         name: `member`,
       },
@@ -106,26 +113,24 @@ module.exports = {
                 })
               })
             },
-            query: `
-            {
+            query: `{
               allMarkdownRemark(
-                  filter: { fields: { contentType: { eq: "blog" } } }
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  nodes {
-                    excerpt
-                    html
-                    fields {
-                      slug
-                    }
-                    frontmatter {
-                      title
-                      date
-                    }
+                filter: {fields: {contentType: {eq: "blog"}}}
+                sort: {frontmatter: {date: DESC}}
+              ) {
+                nodes {
+                  excerpt
+                  html
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    date
                   }
                 }
               }
-            `,
+            }`,
             output: "/rss.xml",
             title: "SI's RSS Feed",
           },

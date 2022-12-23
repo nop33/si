@@ -104,7 +104,7 @@ const Home = ({ data, location }) => {
 export default Home
 
 export const pageQuery = graphql`
-  query {
+  {
     homepage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/home.md/" } }
     ) {
@@ -193,7 +193,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "blog" } }
         frontmatter: { tags: { nin: "Updates" } }
       }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         excerpt
@@ -223,7 +223,7 @@ export const pageQuery = graphql`
           isEventFeaturedOnHomepage: { eq: true }
         }
       }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         excerpt

@@ -17,12 +17,12 @@ import {
 
 const Team = () => {
   const membersQuery = useStaticQuery(graphql`
-    query {
+    {
       allMarkdownRemark(
         filter: { fields: { contentType: { eq: "member" } } }
-        sort: { fields: [frontmatter___name], order: DESC }
+        sort: { frontmatter: { name: DESC } }
       ) {
-        group(field: frontmatter___group) {
+        group(field: { frontmatter: { group: SELECT } }) {
           name: fieldValue
           nodes {
             fields {

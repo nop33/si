@@ -72,7 +72,7 @@ const BlogIndex = ({ data, location }) => {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
+  {
     blogPage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/blog.md/" } }
     ) {
@@ -88,8 +88,11 @@ export const pageQuery = graphql`
       }
     }
     posts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "blog" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: { hide: { ne: true } }
+      }
+      sort: { frontmatter: { date: DESC } }
     ) {
       totalCount
       nodes {

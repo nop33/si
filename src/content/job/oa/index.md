@@ -1,6 +1,7 @@
 ---
 title: Operations Associate
-subtitle: ""
+teaserText: >-
+  The Operations Associate will support SI’s mission with a broad range of activities. As SI grows, it will be increasingly important for us to put in place operational processes that allow us to expand sustainably and that enhance the team’s productivity and wellbeing. Similarly, putting on well-planned events and communicating our activities will be increasingly important to fulfill our goals.
 textSections:
   - title: "Context"
     content: >
@@ -14,8 +15,7 @@ textSections:
 
 
       The Operations Associate is a full-time, in-person position. It is one of 3-4 roles that we expect to hire for until the end of 2022. As such, it will play a key role in defining the organization’s culture and processes as we grow.
-      
-      
+
   - title: "What you will do"
     content: >
       This is a dynamic role: we expect the applicant to be interested in taking the initiative in continually identifying new things that SI should be doing, and we’re excited to hear new ideas.
@@ -25,7 +25,7 @@ textSections:
 
 
       **Operations (~50%)**
-      
+
       * Team executive assistance (including helping team members with productivity processes, organizing travels and appointments, and assisting with emails)
 
       * Project management
@@ -42,19 +42,19 @@ textSections:
 
       * Documentation of operational processes to improve team coordination and productivity
 
-      
+
 
       **Events (~30%)**
-      
+
       * Event planning and management (including concept design, budgeting, location and food search, developing contingency plans, and partnership-building with local & international events partners)
 
       * Organizing retreats for our academic and policy networks
 
       * Coordinating the writing of briefings for events
-      
+
 
       **Communications (~10%)**
-      
+
       * Writing monthly organizational updates for select partners
 
       * Writing a quarterly newsletter for our broader network
@@ -62,7 +62,6 @@ textSections:
       * Copywriting and website updates
 
       * LinkedIn and Twitter updates
-
 
   - title: "What we expect"
     content: >
@@ -105,26 +104,25 @@ textSections:
   - title: "What we offer"
     content: >
       * Pay & title are negotiable and commensurate with experience (starting at CHF 80’000-100’000/year)
-      
+
       * An indefinite contract
-      
+
       * A dynamic environment with an ambitious co-founder team of 7 years
 
       * An opportunity for varied personal development in an impact-focused organization
-      
+
       * An inclusive and feedback-rich culture with plenty of intellectual stimulation
 
       * An office in the beautiful Maison de la Paix in Geneva’s international district
-      
+
       * A network from civil society, to academia, the private sector and governments
-      
+
       * Visa sponsorship for exceptional non-EU candidates
   - title: "Apply"
     content: >
       <iframe class="airtable-embed" src="https://airtable.com/embed/shrmrPRmaSylt2ljL?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-    
+
 seo:
   title: ""
   description: ""
 ---
-

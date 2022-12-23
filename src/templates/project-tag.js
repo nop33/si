@@ -89,7 +89,7 @@ export const pageQuery = graphql`
       filter: { fields: { contentType: { eq: "project" } } }
       limit: 2000
     ) {
-      group(field: frontmatter___tags) {
+      group(field: { frontmatter: { tags: SELECT } }) {
         fieldValue
       }
     }

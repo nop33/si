@@ -54,7 +54,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "blog" } }
         frontmatter: { tags: { in: [$tag] } }
       }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       limit: 2000
     ) {
       totalCount
@@ -81,7 +81,7 @@ export const pageQuery = graphql`
       filter: { fields: { contentType: { eq: "blog" } } }
       limit: 2000
     ) {
-      group(field: frontmatter___tags) {
+      group(field: { frontmatter: { tags: SELECT } }) {
         fieldValue
       }
     }

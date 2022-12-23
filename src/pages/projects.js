@@ -74,7 +74,7 @@ const ProjectsPage = ({ data, location }) => {
 export default ProjectsPage
 
 export const pageQuery = graphql`
-  query {
+  {
     projectsPage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/projects.md/" } }
     ) {
@@ -95,7 +95,10 @@ export const pageQuery = graphql`
       }
     }
     projects: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
+      filter: {
+        fields: { contentType: { eq: "project" } }
+        frontmatter: { hide: { ne: true } }
+      }
     ) {
       totalCount
       nodes {
@@ -130,7 +133,7 @@ export const pageQuery = graphql`
       filter: { fields: { contentType: { eq: "project" } } }
       limit: 2000
     ) {
-      group(field: frontmatter___category) {
+      group(field: { frontmatter: { category: SELECT } }) {
         fieldValue
       }
     }
