@@ -8,7 +8,7 @@ authors:
 tags:
   - Updates
   - Transparency
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 As summer is coming to an end, we wanted to share an update with you.
 
