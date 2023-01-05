@@ -7,8 +7,8 @@ links:
   linkedin: https://ch.linkedin.com/in/malou-mahaut-louise-estier-088a87193
 disableDetailPage: false
 ---
-Malou is a law & policy associate. To advance the application of SI's ideas, she ensures legal applicability; researches international governance vehicles; and develops pedagogical approaches.
+Malou is a law & policy associate. To advance our work, she researches the legal implications of our ideas; analyses international processes; and supports the development of our pedagogical approaches.
 
-Prior to her work with SI, Malou graduated from Utrecht University with an LLM focusing on the law of the sea; was an International Coordinator at the European Youth Parliament.
+Prior to her work with SI, Malou graduated from Utrecht University with an LLM focusing on the law of the sea, and was an International Coordinator at the European Youth Parliament.
 
-Malou wrote a prescient book about the outbreak of a deadly pandemic in high school. Her interest in the governance of global public goods stems from her enjoyment of the seas, especially through sailing.
+In high school, Malou became concerned with pandemics and wrote a prescient book about a catastrophic outbreak in Geneva. Her interest in the governance of global public goods might be traced back to her appreciation of the seas, especially through sailing.
