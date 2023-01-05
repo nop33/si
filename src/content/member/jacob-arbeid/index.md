@@ -2,7 +2,7 @@
 name: Jacob Arbeid
 photo: jacobprofile-image.jpg
 group: Staff
-role: Strategy & Policy Associate
+role: Strategy & policy associate
 links:
   linkedin: https://www.linkedin.com/in/jacob-arbeid-a0947b159/
 ---
