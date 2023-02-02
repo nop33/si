@@ -1,12 +1,22 @@
 ---
+hide: true
 title: Director of Analysis
-hide: false
-teaserText: >-
-  The Director of Analysis will lead our knowledge synthesis and information product development. This role is a mix of on-demand policy brief writing, development of online resources and strategic analysis to help policymakers understand global priorities and support researchers in their understanding of policymaking. Together with the founders and the incoming team, you will produce educational content, knowledge repositiories and further organizational strategy.
+teaserText: The Director of Analysis will lead our knowledge synthesis and
+  information product development. This role is a mix of on-demand policy brief
+  writing, development of online resources and strategic analysis to help
+  policymakers understand global priorities and support researchers in their
+  understanding of policymaking. Together with the founders and the incoming
+  team, you will produce educational content, knowledge repositiories and
+  further organizational strategy.
 textSections:
-  - title: "Context"
+  - title: Context
     content: >
-      Founded in 2021 and based in Geneva, Switzerland, the Simon Institute for Longterm Governance (SI) works to support the governance of emerging technologies and existential risks, building on Herbert Simon's vision of future-proof policymaking processes. Operating at the interface of science and policy, SI synthesizes research and connects thought leaders to decision-makers. 
+      Founded in 2021 and based in Geneva, Switzerland, the Simon Institute for
+      Longterm Governance (SI) works to support the governance of emerging
+      technologies and existential risks, building on Herbert Simon's vision of
+      future-proof policymaking processes. Operating at the interface of science
+      and policy, SI synthesizes research and connects thought leaders to
+      decision-makers. 
 
 
       SI’s work is focused on the multilateral system as a key catalyst for global cooperation, which is necessary for humanity to flourish sustainably. Being embedded in international Geneva and the wider Swiss foreign policy community, SI supports Switzerland in its role as the global hub driving a scientific multilateralism focused on furthering universal values.
@@ -16,10 +26,12 @@ textSections:
 
 
       The Director of Analysis is a full-time, in-person position. It is one of 3-4 roles that we expect to hire for until the end of 2022. As such, it will play a key role in defining the organization’s culture and processes as we grow.
-
-  - title: "What you will do"
+  - title: What you will do
     content: >
-      You will lead the development of SI’s capacity to provide knowledge to our collaborators, for example on artificial intelligence, synthetic biology, policymaking, the multilateral system, global catastrophic risks and how to govern with concern for future generations.
+      You will lead the development of SI’s capacity to provide knowledge to our
+      collaborators, for example on artificial intelligence, synthetic biology,
+      policymaking, the multilateral system, global catastrophic risks and how
+      to govern with concern for future generations.
 
 
       **Policy**
@@ -47,10 +59,15 @@ textSections:
       * Developing a quantitative model of SI’s theory of change to assist with monitoring, evaluation and learning
 
       * Writing grant applications and corresponding with funders
-
-  - title: "What we expect"
+  - title: What we expect
     content: >
-      The ideal candidate holds a PhD in a technical subject and is eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay at the organization for at least 3 years while it grows into a mature organization. As SI is young, you will have to show a lot of initiative and be willing to lean into stress to resolve conflicts. 
+      The ideal candidate holds a PhD in a technical subject and is eager to
+      learn and develop themselves. You will have to be willing to move to
+      Geneva, as we do not yet have the capacity for continuous remote work. We
+      expect you to be motivated to stay at the organization for at least 3
+      years while it grows into a mature organization. As SI is young, you will
+      have to show a lot of initiative and be willing to lean into stress to
+      resolve conflicts. 
 
 
       Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. **As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply.**
@@ -68,10 +85,10 @@ textSections:
       * Advanced knowledge of the literature on existential risk & future generations
 
       * Basic understanding of the multilateral system and international affairs
-
-  - title: "What we offer"
+  - title: What we offer
     content: >
-      * Pay commensurate with experience, on an indefinite contract (starting at CHF 90’000-120’000/year - negotiable)
+      * Pay commensurate with experience, on an indefinite contract (starting at
+      CHF 90’000-120’000/year - negotiable)
 
       * A dynamic environment with an ambitious co-founder team of 7 years
 
@@ -84,10 +101,12 @@ textSections:
       * A network from civil society, to academia, the private sector and governments
 
       * Visa sponsorship for exceptional non-EU candidates
-  - title: "Apply"
+  - title: Apply
     content: >
-      <iframe class="airtable-embed" src="https://airtable.com/embed/shrmrPRmaSylt2ljL?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
+      <iframe class="airtable-embed"
+      src="https://airtable.com/embed/shrmrPRmaSylt2ljL?backgroundColor=green"
+      frameborder="0" onmousewheel="" width="100%" height="533"
+      style="background: transparent; border: 1px solid #ccc;"></iframe>
 seo:
   title: ""
   description: ""
