@@ -40,4 +40,4 @@ Three leverage points were identified, along with three promising interventions:
 
 ![Table of identified leverage points and promising interventions](screenshot-2022-09-15-at-11.27.51.png)
 
-[C﻿lick here to read the full report](https://drive.google.com/file/d/1qkiEHpmFl4K2pXGJz3QnXKyoiKRWqrWJ/view?usp=sharing) by Elias Kock.
+[C﻿lick here to read the full report](https://drive.google.com/file/d/1qkiEHpmFl4K2pXGJz3QnXKyoiKRWqrWJ/view?usp=sharing).
