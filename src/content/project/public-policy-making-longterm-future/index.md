@@ -16,13 +16,6 @@ textSections:
       To promote empirical and hypothesis-driven 
       policy process studies, we initiate research collaborations that build 
       bridges between two distant fields: computational modeling and policy process studies.
-  - title: Network dynamics
-    content: >-
-      Forthcoming in the journal _Complexity_: [**A Computational Turn in Policy Process Studies: Co-evolving Network
-      Dynamics of Policy Change**](https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view)
-
-
-      Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of co-evolving networks. Our model suggests that an actors’ influence depends on their environment and on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
   - title: Institutional fit
     content: >-
       White paper: **[Policymaking for the Long-term Future: Improving Institutional Fit](https://drive.google.com/file/d/1Fl11Q_hiRIT8F9PC7FieTEr0wiiyJaxi/view).**
@@ -45,7 +38,14 @@ textSections:
       Throughout the white paper, we adapt existing theoretical frameworks from systems, political, and decision science and synthesize relevant evidence. We aim to inspire future scholarship and equip policy practitioners with an overview of how to transform policymaking for the long term.
 
 
-      We are now preparing an academic publication to formally introduce the concept into the literature
+      We are now preparing an academic publication to formally introduce the concept into the literature.
+  - title: Network dynamics
+    content: >-
+      [**A Computational Turn in Policy Process Studies: Co-evolving Network
+      Dynamics of Policy Change**]([https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view](https://www.hindawi.com/journals/complexity/2022/8210732/))
+
+
+      Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of co-evolving networks. Our model suggests that an actors’ influence depends on their environment and on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
  
   - title: Computational modelling
     content: >-
