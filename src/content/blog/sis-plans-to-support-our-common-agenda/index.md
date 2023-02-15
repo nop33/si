@@ -55,7 +55,7 @@ Our **approach** is to both pull and push:
 1. Pull: we design our activities based on OCA proposals which offer entry points for our engagement. This allows us to reverse-engineer our planning and outputs such that we can be maximally useful to UN agencies and member-states. This work will often result in providing reports and briefings to the relevant proposals.
 2. Push: we identify opportunities within the future generations and existential risk field to translate into OCA processes, and we also proactively work with UN officials and member-states to support them in understanding the benefits of these opportunities. This work will often result in organizing coordination retreats, dinners with key individuals, and parallel briefings.
 
-Our **tactics** are threefold and feed into each other:
+Our **tactics** are twofold and feed into each other:
 
 1. Provide expert input on existential risk, future generations and institutional design through written submissions, studies, briefings, retreats and more. 
 2. Foster diplomatic support for future-oriented ideas by member-states, NGO and other stakeholders by briefing them and coordinating their engagement through bilateral meetings, retreats, and more.
