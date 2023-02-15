@@ -7,17 +7,16 @@ projectsByCategories:
   - category: Field-building
     title: Field-building
     description: >-
-      We foster a network of practitioners, researchers, and donors working
-      together towards long-term governance. To ground our work, we also
-      [submit our thoughts to 
+      This page is due for an update. We foster a network of practitioners, 
+      researchers, and donors working together towards long-term governance. 
+      To ground our work, we also[submit our thoughts to 
       peer-review](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
 
 
   - category: Policy support
     title: Policy support
     description: >-
-      This section is due for an update. Please, check out our blog for recent information on what we are up to.
-      
+      This page is due for an update.
       
       We help international civil servants and researchers resolve coordination
       bottlenecks at the global catastrophic risk science-policy interface.
