@@ -14,7 +14,7 @@ textSections:
       The Operations Associate will support SI’s mission with a broad range of activities. As SI grows, it will be increasingly important for us to put in place operational processes that allow us to expand sustainably and that enhance the team’s productivity and wellbeing. Similarly, putting on well-planned events and communicating our activities will be increasingly important for us to fulfill our goals.
 
 
-      The Operations Associate is a full-time, in-person position. It is one of 3-4 roles that we expect to hire for until the end of 2022. As such, it will play a key role in defining the organization’s culture and processes as we grow.
+      The Operations Associate is a full-time, in-person position. As such, it will play a key role in defining the organization’s culture and processes as we grow.
 
   - title: "What you will do"
     content: >
