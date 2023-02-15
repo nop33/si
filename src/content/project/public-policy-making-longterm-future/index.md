@@ -42,7 +42,7 @@ textSections:
   - title: Network dynamics
     content: >-
       [**A Computational Turn in Policy Process Studies: Co-evolving Network
-      Dynamics of Policy Change**]([https://drive.google.com/file/d/1rzxTj_ZGI27sRALHviiZblfE89Z6naJH/view](https://www.hindawi.com/journals/complexity/2022/8210732/))
+      Dynamics of Policy Change**](https://www.hindawi.com/journals/complexity/2022/8210732/)
 
 
       Building on a critical review of the application of complexity theory to policy process studies, we present and implement a baseline model of policy processes using the logic of co-evolving networks. Our model suggests that an actors’ influence depends on their environment and on exogenous events facilitating dialogue and consensus-building. Our results validate previous opinion dynamics models and generate novel patterns. Our discussion provides ground for further research and outlines the path for the field to achieve a computational turn.
