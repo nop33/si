@@ -15,4 +15,4 @@ Konrad is SI's chief operating officer and co-founder. He leads operations, fund
 
 Previously, he co-founded [Effective Altruism Switzerland](https://effectivealtruism.ch/) (EA Switzerland) and turnt it into a professional organization with an annual budget of about half a million Swiss francs. He now serves on its board of directors and volunteers as a donation and career adviser.
 
-After growing frustrated with the field of international relations, Konrad dropped out to focus on independent projects. His intellectual interests include sociology, ethics, psychology, epistemology, economics and game theory. In his free time, he likes to discuss, meditate, dance, and make music.
+After growing frustrated with the field of international relations, Konrad dropped out to focus on independent projects. His intellectual interests include sociology, ethics, psychology, epistemology, economics and game theory. In his free time, he enjoys productive discussions, meditation, dancing, and making music.
