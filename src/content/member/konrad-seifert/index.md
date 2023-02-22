@@ -11,8 +11,8 @@ seo:
   title: ""
   description: ""
 ---
-Konrad is SI's chief operating officer and co-founder. He leads operations, events, fundraising, and culture.
+Konrad is SI's chief operating officer and co-founder. He leads operations, fundraising, workshops, outreach and culture.
 
-Previously, he developed the student association Effective Altruism (EA) Geneva into [a nation-wide association](https://effectivealtruism.ch/) with employees and a stable funding base. He now serves on EA Switzerland's board and continues to advise hundreds of talented individuals on their donations and career.
+Previously, he co-founded [Effective Altruism Switzerland](https://effectivealtruism.ch/) (EA Switzerland) and turnt it into a professional organization with an annual budget of about half a million Swiss francs. He now serves on its board of directors and volunteers as a donation and career adviser.
 
-Konrad dropped out of a bachelor’s in international relations after receiving funding to professionalize EA Geneva. His interests include sociology, ethics, psychology, epistemology, and game theory. In his free time, he likes to discuss, meditate, dance, and make music.
+After growing frustrated with the field of international relations, Konrad dropped out to focus on independent projects. His intellectual interests include sociology, ethics, psychology, epistemology, economics and game theory. In his free time, he likes to discuss, meditate, dance, and make music.
