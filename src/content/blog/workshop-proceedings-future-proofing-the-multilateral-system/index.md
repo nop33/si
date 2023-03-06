@@ -3,7 +3,7 @@ hide: false
 title: "Workshop proceedings: future-proofing the multilateral system"
 date: 2023-03-06T11:10:21.779Z
 description: ""
-featuredImage: UserSI_a_futurist_group_reflecting_on_artificial_intelligence_i_f3b2fd04-236a-4b50-af49-21893f14a793.png
+featuredImage: IMG_2982.jpg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
