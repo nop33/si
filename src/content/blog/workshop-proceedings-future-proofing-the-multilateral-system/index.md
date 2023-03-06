@@ -2,11 +2,7 @@
 hide: false
 title: "Workshop proceedings: future-proofing the multilateral system"
 date: 2023-03-06T11:10:21.779Z
-description: From the 13th-16th January, the Simon Institute hosted 30 actors
-  from across the multilateral system and academia to discuss risks from
-  technological development (particularly in AI and biotechnology), future
-  generations, and other related topics. Read more about the workshop’s outcomes
-  here.
+description: ""
 featuredImage: usersi_a_big_group_of_diverse_people_reflecting_on_the_future_o_79b4ef39-5ce1-48d2-9b5d-8e16fa06d4a3.png
 authors:
   - name: Jacob Arbeid
