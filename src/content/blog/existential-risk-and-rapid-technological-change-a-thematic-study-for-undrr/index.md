@@ -37,7 +37,7 @@ The mid-term review of the Sendai Framework for Disaster Risk Reduction provides
 
 [Open the thematic study (pdf) in a new tab here.](https://drive.google.com/file/d/1727WOJXMp0zExBVB91YbtVdO_7oqIctV/view)
 
-\---
+___
 
 Historically, the risks from emerging technologies have often been small compared to their benefits. That is no longer the case. Because of the increasing pace of technological change across the globe, it is becoming more difficult for risk governance to keep up. While new technologies can bring society enormous benefits and significantly contribute to achieving global goals such as the UN Sustainable Development Goals, they usually have unintended effects, often cause harm accidentally, and are sometimes misused.
 
