@@ -27,7 +27,7 @@ authors:
 tags:
   - Resources
   - Publications
-isHighlighted: false
+isHighlighted: true
 ---
 On 10th March 2022, UN Secretary-General, [António Guterres, stated that](https://reliefweb.int/report/world/climate-crisis-past-point-no-return-secretary-general-says-listing-global-threats):
 
