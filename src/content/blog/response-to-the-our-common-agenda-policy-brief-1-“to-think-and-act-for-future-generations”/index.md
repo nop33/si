@@ -1,6 +1,6 @@
 ---
 hide: false
-title: "Response to the Our Common Agenda Policy Brief 1: “To Think and Act for
+title: "Response to Our Common Agenda Policy Brief 1: “To Think and Act for
   Future Generations”"
 date: 2023-03-21T15:08:00.000Z
 featuredImage: usersi_the_general_assembly_of_planet_earth_celebrating_the_dec_f888cfd5-b6e7-40db-9efe-a983aa3a515b.png
@@ -55,7 +55,9 @@ The United Nations Futures Lab should inform all of the other Our Common Agenda 
 
 The Futures Lab should also **lead the substantial work on capacity building,** knowledge synthesis, and **monitoring** needed to implement future-proofing and foresight for future generations at the multilateral level. It should support the development of government-funded infrastructure for implementing future-proofing at a national level.
 
-We recommend the Futures Lab to **collaborate with forecasting institutions** such as the [Good Judgment Project](https://goodjudgment.com/) or [Metaculus](https://www.metaculus.com/about/), which have extensive knowledge and experience in informing decision-making through [expert forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001473).
+We recommend that the Futures Lab **collaborate with forecasting institutions** such as the [Good Judgment Project](https://goodjudgment.com/) or [Metaculus](https://www.metaculus.com/about/), which have extensive knowledge and experience in informing decision-making through [expert forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001473).
+
+We also recommend that the Futures Lab **collaborate with leading strategic foresight institutions** such as the [OECD foresight unit](https://www.oecd.org/strategic-foresight/) to conduct a rigorous exploration and analysis of possible future scenarios relating to global catastrophic and existential risk in order to inform strategic decision-making in the face of uncertainty. 
 
 3. **Adopting a Declaration for Future Generations**
 
@@ -73,4 +75,4 @@ Following the [recommendations from Hale et al. (2023)](https://www.bsg.ox.ac.uk
   * Fostering long-term development 
 * A commitment to review and reaffirm the principles once per generation.
 
-We recommend a **full draft** of the Declaration for Future Generations be developed **by the preparatory ministerial meetin**g on September 18th, 2023, to allow for sufficient time to refine its content before adopting the declaration at the Summit of the Future.
+We recommend that a **full draft** of the Declaration for Future Generations be developed **by the preparatory ministerial meetin**g on September 18th, 2023, to allow for sufficient time to refine its content before adopting the declaration at the Summit of the Future.
