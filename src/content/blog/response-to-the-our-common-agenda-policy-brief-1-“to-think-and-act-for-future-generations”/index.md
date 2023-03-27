@@ -47,7 +47,7 @@ Appointing a Special Envoy for Future Generations would be instrumental in givin
 
 We need to recognize that certain low- and middle-income countries are lacking capacity to institutionalize considerations for future generations. The Special Envoy for Future Generations should **develop best practices** for protecting the interests of future generations **when institutional capacity is lacking,** by involving the civil society as stewards.
 
-We recommend the Secretary General of the United Nations **appoint this Envoy for Future Generations at the preparatory ministerial meeting.** With a dedicated voice for future generations ahead of the Summit of the Future, the Envoy could build momentum and ambitions around the objectives of the Summit in 2024.
+We recommend Member States to swiftly **nominate a candidate for the Envoy for Future Generations to be appointed at the preparatory ministerial meeting.** With a dedicated voice for future generations ahead of the Summit of the Future, the Envoy would build momentum and ambitions around the objectives of the Summit in 2024.
 
 2. **Building ambition for the Futures Lab**
 
