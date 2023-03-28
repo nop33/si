@@ -18,7 +18,7 @@ The Simon Institute for Longterm Governance teamed up with [Riesgos Catastrófic
 
 ### General comments on the Emergency Platform
 
-We take very seriously the concerns raised by certain Member States during the presentation of an Emergency Platform, including the risk of duplication of processes and the need for more clarity regarding its trigger. We hope that through consultations and an updated proposal that carefully takes these concerns into consideration, Member States will adopt the proposal of an Emergency Platform. As the Covid-19 Pandemic has highlighted, the current multilateral system is not equipped to react fast and in a coordinated manner to global crises. An Emergency Platform would be a significant step in preparing the world to face future shocks.
+We take very seriously the **concerns raised by certain Member States** during the presentation of an Emergency Platform, including the risk of duplication of processes and the need for more clarity regarding its trigger. We hope that through **consultations and an updated proposal** that carefully takes these concerns into consideration, Member States will adopt the proposal of an Emergency Platform. As the Covid-19 Pandemic has highlighted, the current multilateral system is not equipped to react fast and in a coordinated manner to global crises. An Emergency Platform would be a **significant step** in preparing the world to face future shocks.
 
 The Emergency Platform could be a valuable mechanism to help coordinate complex global shocks that require inter-institutional cooperation and **urgent decision-making** that can respond to complex crises, and prevent shock cascades.
 
