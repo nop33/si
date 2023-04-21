@@ -6,7 +6,7 @@ role: Operations associate
 links:
   linkedin: https://www.linkedin.com/in/sofiamikton/
 ---
-Sofia supports the smooth execution of SI's projects and legal obligations as an operations associate. She maintains and improves our infrastructure, documents and communicates our activities, and manages events.
+Sofia supports the fulfillment of SI's projects and obligations. She maintains and improves our infrastructure, documents and communicates our activities, and manages events.
 
 Previously, Sofia was a Program Coordinator at the Swiss Existential Risks Initiative and an Operations Associate at Effective Altruism Switzerland. She has also worked in various roles for media outlets across Canada, Luxembourg, and Switzerland.
 
