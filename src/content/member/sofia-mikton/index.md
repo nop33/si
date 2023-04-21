@@ -1,6 +1,6 @@
 ---
 name: Sofia Mikton
-photo: https://media.licdn.com/dms/image/C4E03AQFScwoHY8ZkMw/profile-displayphoto-shrink_800_800/0/1662911587557?e=1687392000&v=beta&t=0MzykWucljpxezNl-qh7aLVJFuo9HS-tH77MOTKc8vk
+photo: sofiaprofilepicture.jpeg
 group: Staff
 role: Operations associate
 links:
