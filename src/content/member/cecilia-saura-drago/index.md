@@ -1,6 +1,6 @@
 ---
 name: Cecilia Saura Drago
-photo: https://media.licdn.com/dms/image/C4D03AQGgBarQ4orA0g/profile-displayphoto-shrink_800_800/0/1606814689416?e=1687392000&v=beta&t=B6po0D-EGqhM12iEFtkouK0a-QwZGQENkbnJLetM1gU
+photo: ceciliaprofilepicture.jpeg
 group: Staff
 role: Director of Operations
 links:
