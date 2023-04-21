@@ -8,6 +8,6 @@ links:
 ---
 Cecilia leads the implementation of SI's strategy. She manages people and internal processes, oversees and facilitates organizational development, and collaborates closely with the co-CEOs.
 
-Previously, Cecilia was Director of Client Success at KUDO, worked for the International Union for Conservation of Nature in roles ranging , as well as for the University of Geneva.
+Previously, Cecilia was Director of Client Success at KUDO, and fulfilled a wide range of roles at the International Union for Conservation of Nature, as well as the University of Geneva.
 
-Cecilia holds degrees in Translation and Scientific Communication, speaks English, French, Italian, Japanese, and Spanish
+Cecilia holds degrees in Translation and Scientific Communication and speaks English, French, Italian, Japanese, and Spanish.
