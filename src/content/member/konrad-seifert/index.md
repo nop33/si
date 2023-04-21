@@ -11,8 +11,8 @@ seo:
   title: ""
   description: ""
 ---
-Konrad is a co-founder of SI. Together with Max, he develops our strategy, designs programs, builds products and nourishes SI's ecosystem. 
+Konrad is a co-founder of SI. Together with Max, he develops our strategy, designs programs, builds products, and nourishes SI's ecosystem. 
 
-Previously, Konrad co-founded [Effective Altruism Switzerland](https://effectivealtruism.ch/) (EA Switzerland), an association supporting philanthropists and entrepreneurs in giving effectively and building impactful projects. He is still actively involved in the community and serves on its board of directors.
+Previously, Konrad co-founded and led [Effective Altruism Switzerland](https://effectivealtruism.ch/), developing theories of change with philanthropists and entrepreneurs. He now serves on the association's board of directors, overseeing an annual budget of over one million Swiss Francs.
 
-After becoming disillusioned with the scholarship, Konrad dropped out of his bachelor's in international relations to focus on independent projects. His intellectual interests include sociology, ethics, psychology, epistemology, and game theory. In his free time, he enjoys productive discussions, writing, dancing, and making music.
+Konrad grew disillusioned with the scholarship in international relations and dropped out to focus on independent projects. His interests include organizational behavior, epistemology, and development economics.
