@@ -2,7 +2,7 @@
 name: Konrad Seifert
 photo: konrad_seifert_profile_picture.png
 group: Staff
-role: Co-founder & COO
+role: Co-CEO
 links:
   website: https://konrads.link/
   twitter: https://twitter.com/praeterpropter
@@ -11,8 +11,8 @@ seo:
   title: ""
   description: ""
 ---
-Konrad is SI's chief operating officer and co-founder. He leads operations, fundraising, workshops, outreach and culture.
+Konrad is a co-founder of SI. Together with Max, he develops our strategy, designs programs, builds products, and nourishes SI's ecosystem. 
 
-Previously, he co-founded [Effective Altruism Switzerland](https://effectivealtruism.ch/) (EA Switzerland) and turnt it into a professional organization with an annual budget of about half a million Swiss francs. He now serves on its board of directors and volunteers as a donation and career adviser.
+Previously, Konrad co-founded and led [Effective Altruism Switzerland](https://effectivealtruism.ch/), developing theories of change with philanthropists and entrepreneurs. He now serves on the association's board of directors, overseeing an annual budget of over one million Swiss Francs.
 
-After growing frustrated with the field of international relations, Konrad dropped out to focus on independent projects. His intellectual interests include sociology, ethics, psychology, epistemology, economics and game theory. In his free time, he enjoys productive discussions, meditation, dancing, and making music.
+Konrad grew disillusioned with the scholarship in international relations and dropped out to focus on independent projects. His interests include organizational behavior, epistemology, and development economics.
