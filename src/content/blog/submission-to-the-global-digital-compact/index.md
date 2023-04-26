@@ -6,6 +6,12 @@ featuredImage: 68747470733a2f2f63646e2e646973636f72646170702e636f6d2f61747461636
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+  - name: Konrad Seifert
+    page: konrad-seifert/index
+tags:
+  - Multilateralism
+  - Resources
+  - UN
 isHighlighted: false
 ---
 As part of the UN's Our Common Agenda, an intergovernmental process on digital issues has been put in place between the Office of the Technology Envoy and the General Assembly co-facilitators Rwanda and Sweden. This consultative process aims to agree on a roadmap for a ‘Global Digital Compact’ oulining international responses to digital developments.
