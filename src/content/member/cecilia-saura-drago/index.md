@@ -2,7 +2,7 @@
 name: Cecilia Saura Drago
 photo: ceciliaprofilepicture.jpeg
 group: Staff
-role: Director of Operations
+role: Director of operations
 links:
   linkedin: https://www.linkedin.com/in/csauradrago/
 ---
