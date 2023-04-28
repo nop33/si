@@ -146,4 +146,4 @@ Future generations have the same moral worth as those currently living today. On
 
 ### Get involved
 
-TThe FAIR framework introduced above provides a basis for future-proofing policies. We would like to refine the conceptualization and applicability of this framework through your experience. Please provide your feedback, ideas and examples via [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeSvKKjc4O7GkZ3bkHeGvjSJyegIYZlxgGw_yEIHEXyDWJf3Q/viewform).
+The FAIR framework introduced above provides a basis for future-proofing policies. We would like to refine the conceptualization and applicability of this framework through your experience. Please provide your feedback, ideas and examples via [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeSvKKjc4O7GkZ3bkHeGvjSJyegIYZlxgGw_yEIHEXyDWJf3Q/viewform).
