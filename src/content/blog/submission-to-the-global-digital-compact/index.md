@@ -27,8 +27,7 @@ In the last 6 months, the Simon Institute for Longterm Governance held three wor
 1. Emphasize the convergence of problems and solutions in AI regulation, and thus advocate for the development of reliable interpretability tools.
 2. Balance expertise with democratic input, engaging with private sector and academia while ensuring citizens have a say in designing the future.
 3. Advocate for accountability of foundation models, as current regulation  is ambiguous regarding the liability for harms caused.
-4. Foster risk-informed research and development foundation models at all levels of governance, with a focus on low-probability high-impact risks.
-
+4. Leverage AI for sustainable development while reducing low-probability high-impact risks from foundation models.
 
 **Recommendations**
 
