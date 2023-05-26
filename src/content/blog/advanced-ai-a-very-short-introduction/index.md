@@ -23,8 +23,9 @@ To assist in educating international policy actors on the need for sustainable t
 * Data is the information used to train the system. More data = better systems. 
 * Computing power or [‘compute’](https://openai.com/research/ai-and-compute) constitutes the chips used to run the systems. AI compute is difficult to build and has a [vast supply chain](https://www.tsmc.com/english/aboutTSMC/dc_infographics_supplychain).
 * Recently, most advances have come from using more compute. Scaling AI compute leads to [emergent](https://cims.nyu.edu/~sbowman/eightthings.pdf) (i.e unpredicted) advancements. This also means the cost of developing advanced AI is rapidly rising, though the potential for profits is too. 
-* Advanced AI is a [‘black box’.](https://www.nature.com/articles/d41586-022-00858-1) The iterative process of AI system development means it is currently impossible to know what is happening within and to robustly align the system with human requirements. There are two types of misalignment
-* * [Outer misalignment](https://en.wikipedia.org/wiki/AI_alignment#Learning_human_values_and_preferences): humans cannot specify goals to the AI that match our aims
+* Advanced AI is a [‘black box’.](https://www.nature.com/articles/d41586-022-00858-1) The iterative process of AI system development means it is currently impossible to know what is happening within and to robustly align the system with human requirements. There are two types of misalignment:
+
+  * [Outer misalignment](https://en.wikipedia.org/wiki/AI_alignment#Learning_human_values_and_preferences): humans cannot specify goals to the AI that match our aims
   * [Inner misalignment:](https://en.wikipedia.org/wiki/AI_alignment#Inner_alignment_and_emergent_goals) the AI ‘evolves’ goals through Reinforcement Learning that do not match human-specified ones. This form of misalignment is probably the bigger risk.
 * The most advanced systems are ‘large language models’ like ChatGPT: these are a subset of ‘foundation models’ 
 
