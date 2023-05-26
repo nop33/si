@@ -36,7 +36,8 @@ To assist in educating international policy actors on the need for sustainable t
 **Risks from biotech:**
 
 * Engineered pathogens causing new pandemics that could kill billions or even pose an existential risk.  The originator could be:
-* * States ([bioweapons programmes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1326447/))
+
+  * States ([bioweapons programmes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1326447/))
   * Terrorists ([bioterrorism](https://www.fhi.ox.ac.uk/wp-content/uploads/C-Nelson-Engineered-Pathogens.pdf))
   * Established laboratories [(lab leaks](https://www.lemonde.fr/en/science/article/2022/11/13/virology-a-timeline-of-lab-accidents-biological-attacks-and-increasingly-dangerous-experiments_6004113_10.html))
   * Individual [‘biohackers’](https://www.nature.com/scitable/blog/bio2.0/the_promises_demands_and_risks/) (DIY lab leaks)
