@@ -1,6 +1,6 @@
 ---
 hide: false
-title: "Risks and opportunities from biotechnology: a short brief"
+title: "A short brief on biotechnology: risks and opportunities"
 date: 2023-05-26T18:41:30.429Z
 featuredImage: synthetic-genomics-ipo-teaser.jpg
 authors:
@@ -8,9 +8,9 @@ authors:
     page: jacob-arbeid/index
 isHighlighted: false
 ---
-The last few years have witnessed exciting developments in the field of biotechnology, driven in part by the machine learning revolution. However, as the Covid-19 pandemic shows, humanity is vulnerable to biological threats, natural or anthropogenic in origin.
+The last few years have witnessed exciting developments in the field of biotechnology, driven in part by the machine learning revolution. However, as the Covid-19 pandemic shows, humanity is vulnerable to biological threats, whether natural or anthropogenic in origin.
 
-To assist in educating international policy actors on the need for sustainable technological development, we're publishing a short brief that can serve as a reference point for our policy partners. As well as constituting a guide to understanding recent rapid developments in synthetic biotechnology (specifically synthetic genomics), we will also continually update this document to maintain it as a living repository of key developments.
+To assist international policy actors in the development of sustainable technological development, we're publishing a short brief as a reference. As well as constituting a guide to understanding recent rapid developments in synthetic biotechnology (specifically synthetic genomics), we will also continually update this document to maintain it as a living repository of key developments.
 
 ### Risks and opportunities from biotechnology
 
