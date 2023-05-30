@@ -77,7 +77,7 @@ To assist international policy actors in the development of sustainable technolo
 
 **Prominent experts speaking about the risks and solutions:**
 
-* Geoff Hinton, ‘Godfather of AI’, on AI risks
-* [Stuart Russell, author of the main AI textbook, speaks at WEF](https://www.weforum.org/agenda/2022/01/artificial-intelligence-stuart-russell-radio-davos/)
+* [Geoff Hinton, ‘Godfather of AI’, on AI risks](https://www.bbc.co.uk/news/world-us-canada-65452940)
+* [](https://www.bbc.co.uk/news/world-us-canada-65452940)[Stuart Russell, author of the main AI textbook, speaks at WEF](https://www.weforum.org/agenda/2022/01/artificial-intelligence-stuart-russell-radio-davos/)
 
 If you would like to suggest additions or have other feedback, please email [konrad@simoninstitute.ch.](mailto:konrad@simoninstitute.ch)
