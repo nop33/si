@@ -6,6 +6,8 @@ featuredImage: synthetic-genomics-ipo-teaser.jpg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+  - name: Konrad Seifert
+    page: konrad-seifert/index
 isHighlighted: false
 ---
 The last few years have witnessed exciting developments in the field of biotechnology, driven in part by the machine learning revolution. However, as the Covid-19 pandemic shows, humanity is vulnerable to biological threats, whether natural or man-made. Biotechnological progress is increasing the risk of extreme pandemics.
