@@ -1,7 +1,7 @@
 ---
 name: Jacob Arbeid
 photo: jacobprofile-image.jpg
-group: Staff
+group: Alumni
 role: Program associate
 links:
   linkedin: https://www.linkedin.com/in/jacob-arbeid-a0947b159/
