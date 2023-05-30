@@ -1,6 +1,6 @@
 ---
 hide: false
-title: "A short brief Biotechnology: risks and opportunities"
+title: "Biotechnology: a brief on risks and opportunities"
 date: 2023-05-26T18:41:30.429Z
 featuredImage: synthetic-genomics-ipo-teaser.jpg
 authors:
