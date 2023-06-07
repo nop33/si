@@ -4,10 +4,10 @@ title: "Artificial intelligence: a brief on risks and opportunities"
 date: 2023-05-30T12:22:37.144Z
 featuredImage: 21.png
 authors:
-  - name: Jacob Arbeid
-    page: jacob-arbeid/index
   - name: Konrad Seifert
     page: konrad-seifert/index
+  - name: Jacob Arbeid
+    page: jacob-arbeid/index
 isHighlighted: false
 ---
 The last few years have witnessed striking progress in artificial intelligence, driven by the machine learning revolution. However, as ChatGPT foreshadows, humanity is not prepared to govern extremely powerful AI systems as it remains difficult to understand their functioning and direct their influence.
@@ -18,7 +18,7 @@ To assist international policy actors in the development of sustainable technolo
 
 **1-sentence summary:** Artificial Intelligence (AI) has transformative potential for personal well-being, economic growth, and scientific advancement, but risks of misaligned systems range from exacerbated inequality to loss of human control, with solutions including research, auditing, and standard-setting.
 
-**Definitions:** AI is the science of building systems that perform cognitive tasks similar to humans. Recent advances have been due to [](https://www.ibm.com/topics/machine-learning)reinforcement learning, a subset of [machine learning](https://www.ibm.com/topics/machine-learning). 
+**Definition:** Artificial intelligence is the science of building systems that can understand, plan, and execute without continuous human supervision. Recent breakthroughs, like GPT-4 (the [foundation model](https://en.wikipedia.org/wiki/Foundation_models) behind ChatGPT), use [deep learning](https://en.wikipedia.org/wiki/Deep_learning) to train on large data sets autonomously and are then refined through [reinforcement learning from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback). 
 
 **The technical details: how artificial intelligence (specifically machine learning) works:**
 
@@ -41,23 +41,21 @@ To assist international policy actors in the development of sustainable technolo
 
 **Opportunities from AI:**
 
-* [Economic growth](https://globalprioritiesinstitute.org/philip-trammell-and-anton-korinek-economic-growth-under-transformative-ai/) through increased productivity
-* [Scientific advancement](https://www.cold-takes.com/transformative-ai-timelines-part-1-of-4-what-kind-of-ai/) leading to better medicine, solar panels etc.
-* [Better mediation tools](https://www.nature.com/articles/s41562-022-01383-x) leading to more cooperation
-* [Increasing inter-country equality](https://dan.bjorkegren.com/blog/2023/03/ai-development/) is possible as Low and Middle-Income Countries (LMICs) gain access to better info & tools
+* [Economic growth](https://globalprioritiesinstitute.org/philip-trammell-and-anton-korinek-economic-growth-under-transformative-ai/) through increased productivity from human augmentation;
+* [Reduced inequality](https://dan.bjorkegren.com/blog/2023/03/ai-development/) through the democratization of training and education;
+* [Increased cooperation](https://www.nature.com/articles/s41562-022-01383-x) through enhanced facilitation and mediation;
+* [Scientific advancement](https://www.cold-takes.com/transformative-ai-timelines-part-1-of-4-what-kind-of-ai/) leads to better medicine, clean energy, and more.
 
 **Risks from AI:**
 
-* AIs’ ‘black box’ nature might make it impossible for humans to understand the world if AIs automate enough processes
-* AIs might create ‘increasing returns to scale’ on data, technology deployment, and human capital, widening inter-country and intra-country inequality.
-* Automation of data processing can facilitate authoritarianism
-* Increasing adoption of AI systems has impacts on [judicial fairness](https://verfassungsblog.de/procedural-fairness-ai/)
-* Military risks: automating warfare through [lethal autonomous weapons](https://www.icrc.org/en/document/icrc-position-autonomous-weapon-systems) or the [integration of AI into nuclear command and control (NC3](https://www.cser.ac.uk/resources/autonomy-nuclear-weapons/)) poses risks to international stability
-* Uncontrolled AI systems can become an [existential threat](https://oecd.ai/en/wonk/existential-threat), as they might recursively self-improve despite misalignment
+* Increasing inequality, bias, and misinformation issues in generative media from incomplete training datasets and the black-box [improvisational nature](https://time.com/6280533/ai-chatbots-improv-machines/) of AI systems leading to difficulties assessing authenticity of outputs and discriminating against underrepresented populations
+* Unprecedented instability due to drastic changes in key organizing features of our societies through automation - e.g. job displacement, community organization, international affairs, or social media
+* Autonomous misinformation or weapon systems increasing the number of conflicts through highly targeted, low-cost approaches and reducing the barrier to deployment and increasing willingness to take risks of terrorist and state actors
+* Loss of human control and agency due to the increasing returns in effectiveness of larger models, recursive self-improvement in AI agents, and exploitation of vulnerabilities of the human psyche - leading to the potential capture of organizations, markets, regulators and entire populations due to the incomplete consideration of all human values in AI goals
 
-**Governance gaps in AI:**
+**Key governance gaps in AI:**
 
-* Insufficient [democratic governance](https://www.governance.ai/post/what-do-we-mean-when-we-talk-about-ai-democratisation) of AI and data (AI access should likely not be broadened)
+* Insufficient [democratic governance](https://www.governance.ai/post/what-do-we-mean-when-we-talk-about-ai-democratisation) of AI and data regulation (AI development and access should not be broadened)
 * No internationally implemented standards for safety and interpretability of AI behavior
 * Barriers to cooperation between major AI developers
 
