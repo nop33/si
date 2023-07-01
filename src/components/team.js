@@ -56,8 +56,8 @@ const Team = () => {
 
   const groups = [
     membersGroups.find(group => group.name === "Staff"),
-    membersGroups.find(group => group.name === "Collaborators"),
     membersGroups.find(group => group.name === "Governing board"),
+    membersGroups.find(group => group.name === "Collaborators"),
     membersGroups.find(group => group.name === "Advisers"),
   ]
 
