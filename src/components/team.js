@@ -20,7 +20,7 @@ const Team = () => {
     {
       allMarkdownRemark(
         filter: { fields: { contentType: { eq: "member" } } }
-        sort: { frontmatter: { name: DESC } }
+        sort: { frontmatter: { name: ASC } }
       ) {
         group(field: { frontmatter: { group: SELECT } }) {
           name: fieldValue
