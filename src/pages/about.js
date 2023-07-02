@@ -20,13 +20,11 @@ const AboutPage = ({ data, location }) => {
   const herbertSimonSectionId = generateIdFromTitle(
     pageData.herbertSimonSection.title
   )
-  const sponsorsSectionId = generateIdFromTitle(pageData.sponsorsSection.title)
 
   const tabTitles = [
     ...pageData.textSections.map(section => section.title),
     pageData.teamSection.title,
     pageData.herbertSimonSection.title,
-    pageData.sponsorsSection.title,
   ]
 
   const herbertImage =
@@ -77,19 +75,6 @@ const AboutPage = ({ data, location }) => {
           ></div>
         </SideBySide>
       </BaseSection>
-      <BaseSection id={sponsorsSectionId}>
-        <SideBySide title={pageData.sponsorsSection.title}>
-          {pageData.sponsorsSection.sponsors.map(sponsor => {
-            return (
-              <Image
-                fixed={sponsor.logo.childImageSharp.fixed}
-                alt={sponsor.title}
-                key={`sponsor_${sponsor.title}`}
-              />
-            )
-          })}
-        </SideBySide>
-      </BaseSection>
     </PageLayout>
   )
 }
@@ -123,19 +108,6 @@ export const pageQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 1920) {
                   ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          sponsorsSection {
-            title
-            sponsors {
-              title
-              logo {
-                childImageSharp {
-                  fixed(width: 250, quality: 95, grayscale: true) {
-                    ...GatsbyImageSharpFixed_noBase64
-                  }
                 }
               }
             }
