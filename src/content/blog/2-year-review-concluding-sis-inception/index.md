@@ -13,7 +13,7 @@ authors:
 tags:
   - Updates
   - Strategy
-isHighlighted: false
+isHighlighted: true
 ---
 ## Overview
 
