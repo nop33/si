@@ -4,10 +4,10 @@ title: How to reduce AI harms and risks at once
 date: 2023-07-06T11:34:25.302Z
 featuredImage: usersi_ai_governance_how_to_tackle_inequality_and_safety_in_one_b06ab45b-cae9-45d1-abb3-f4993755921d.png
 authors:
-  - name: Jason Hausenloy
+  - name: ""
     page: ""
     externalLink: https://www.linkedin.com/in/jason-hausenloy/
-    externalName: ""
+    externalName: "Jason Hausenloy"
 tags:
   - AI
 isHighlighted: false
