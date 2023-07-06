@@ -4,10 +4,10 @@ title: How to reduce AI harms and risks at once
 date: 2023-07-06T11:34:25.302Z
 featuredImage: usersi_ai_governance_how_to_tackle_inequality_and_safety_in_one_b06ab45b-cae9-45d1-abb3-f4993755921d.png
 authors:
-  - name: Jason Hausenloy
+  - name: ""
     page: ""
     externalLink: https://www.linkedin.com/in/jason-hausenloy/
-    externalName: ""
+    externalName: "Jason Hausenloy"
 tags:
   - AI
 isHighlighted: false
@@ -44,4 +44,4 @@ To effectively manage the potential and risks of AI, the conversation must not b
 
 - - -
 
-**Note from the editor:** Jason Hausenloy is a 17-year-old high school student from Singapore joining SI as an AI policy affiliate for the summer. Jason is also a [visiting fellow](https://cpr.unu.edu/people/researchers/20450.html?ref=jasonhausenloy.com) at the United Nations University Centre for Policy Research ([UNU-CPR](https://cpr.unu.edu/research/projects/geneva.html?ref=jasonhausenloy.com)), writing a foundational report on international governance structures and AI. Previously, he researched the role of third-party countries such as Singapore or Switzerland in mitigating AI races with Professor Anthony Aguirre at the Future Of Life Institute. Most recently, he worked at the Infocomm Media Development Authority, Singapore's AI standard-setting body, where he helped map Singapore's AI Verify framework and NIST AI-RMF. He is an Atlas Fellow, was selected by Tyler Cowen as an [Emergent Ventures winner](https://marginalrevolution.com/marginalrevolution/2023/02/emergent-ventures-winners-24th-cohort.html), and contributed to SI's [thematic study](https://www.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on the risks from emerging technology published by the UN.
+**Note from the editor:** Jason Hausenloy is a 17-year-old high school student from Singapore joining SI as an AI policy affiliate for the summer. Jason is also a [visiting fellow](https://cpr.unu.edu/people/researchers/20450.html?ref=jasonhausenloy.com) at the United Nations University Centre for Policy Research ([UNU-CPR](https://cpr.unu.edu/research/projects/geneva.html?ref=jasonhausenloy.com)), writing a foundational report on international governance structures and AI. Previously, he researched the role of third-party countries such as Singapore or Switzerland in mitigating AI races with Professor Anthony Aguirre at the Future Of Life Institute. Most recently, he worked at the Infocomm Media Development Authority, Singapore's AI standard-setting body, where he helped map Singapore's AI Verify framework and NIST AI-RMF. He is an Atlas Fellow, was selected by Tyler Cowen as an [Emergent Ventures winner](https://marginalrevolution.com/marginalrevolution/2023/02/emergent-ventures-winners-24th-cohort.html), and contributed to SI's [thematic study](https://www.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on the risks from emerging technology published by UNDRR.
