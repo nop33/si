@@ -180,4 +180,4 @@ For its first two years, SI was primarily dedicated to addressing a range of gap
 
 In practice, these plans involve several strategic approaches. First, SI aims to empower Low and Middle-Income Countries to participate in tech governance discussions, working to both understand their unique needs and ensuring they are included in key dialogues. Second, SI aims to support multilateral institutions, Member States, and other policy actors by offering technological and process design expertise through recommendations, expert briefings, and continued contributions to key processes and reports. Lastly, SI hopes to continue serving as a bridge between policy actors and technology experts, and work towards establishing a robust, long-term governance community in Geneva.
 
-If you’re interested in discussing our plans in more detail, collaborating, or supporting our work, please reach out to konrad@simoninstute.ch.
+If you’re interested in discussing our plans in more detail, collaborating, or supporting our work, please reach out to konrad@simoninstitute.ch.
