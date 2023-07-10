@@ -1,7 +1,7 @@
 ---
 name: Jason Hausenloy
 photo: 1676102906456.jpeg
-group: Collaborators
+group: Alumni
 role: AI policy affiliate
 links:
   linkedin: https://www.linkedin.com/in/jason-hausenloy/
