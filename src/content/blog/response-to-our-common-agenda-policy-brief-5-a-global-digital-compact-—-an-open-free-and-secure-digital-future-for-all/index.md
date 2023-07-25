@@ -44,9 +44,9 @@ AI holds enormous potential to benefit society, and could unlock extraordinary o
 * Economic disruption and [job losses](https://www.bbc.com/news/technology-65102150) arising as AI automation replaces millions of jobs and disrupts global labor markets. 
 * The rise of misinformation and breakdown of civil public discourse as AI exploits social media algorithms to perpetuate false narratives and create [deepfakes](https://www.theguardian.com/technology/2020/jan/13/what-are-deepfakes-and-how-can-you-spot-them).
 * Entrenched discrimination resulting from the continual training of AI systems on datasets that reflect and [perpetuate existing societal biases](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). 
-* Widespread destruction or international conflict resulting from the misuse or failure of AI-powered autonomous weapons systems. powered by AI.
+* Widespread destruction or international conflict resulting from the misuse or failure of AI-powered autonomous weapons systems.
 
-With the rapid development of AI, and the generative, opaque nature of the technology, it is not enough to focus on present and near-term harms. We must also [acknowledge the less-visible, potential risks](https://arxiv.org/abs/2306.06924) of AI, especially those that could lead to the loss of human control and pose an existential risk to humanity. The growing field of AI Safety is [focusing on](https://cset.georgetown.edu/publication/key-concepts-in-ai-safety-an-overview/) mitigating such risks by researching how to create safe and secure AI systems aligned with human interests and values. 
+With the rapid development of AI, and the generative, opaque nature of the technology, it is not enough to focus on present and near-term harms. We must also [acknowledge the less visible, potential risks](https://arxiv.org/abs/2306.06924) of AI, especially those that could lead to the loss of human control and pose an existential risk to humanity. The growing field of AI Safety is [focusing on](https://cset.georgetown.edu/publication/key-concepts-in-ai-safety-an-overview/) mitigating such risks by researching how to create safe and secure AI systems aligned with human interests and values. 
 
 #### To reduce harms and risks, we need to focus on foundation models
 
