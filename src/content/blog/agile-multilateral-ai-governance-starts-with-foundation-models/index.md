@@ -8,6 +8,8 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
+tags:
+  - AI
 isHighlighted: false
 ---
 ### The need to act yet remain agile 
