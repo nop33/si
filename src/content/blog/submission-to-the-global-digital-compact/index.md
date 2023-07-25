@@ -12,6 +12,7 @@ tags:
   - Multilateralism
   - Resources
   - UN
+  - AI
 isHighlighted: false
 ---
 As part of the UN's Our Common Agenda, an intergovernmental process on digital governance has been put in place to produce the ‘Global Digital Compact’. The Office of the Tech Envoy and the co-facilitators, Rwanda and Sweden, are now leading a consultative period to outline an international tech governance roadmap.
