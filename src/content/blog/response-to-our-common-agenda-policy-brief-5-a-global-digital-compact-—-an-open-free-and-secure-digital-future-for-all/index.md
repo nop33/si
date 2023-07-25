@@ -9,6 +9,8 @@ authors:
     page: malou-estier/index
   - name: Belinda Cleeland
     page: belinda-cleeland/index
+tags:
+  - AI
 isHighlighted: false
 ---
 The Executive Office of the Secretary-General (EOSG) of the United Nations is publishing [a series of policy briefs](https://www.un.org/en/common-agenda/policy-briefs) to inform the Our Common Agenda processes. The Simon Institute for Longterm Governance teamed up with [Riesgos Catastróficos Globales](https://riesgoscatastroficosglobales.com/) to review the policy briefs and provide substantial input to contribute to the impact of these efforts. 
