@@ -18,11 +18,11 @@ The Executive Office of the Secretary-General (EOSG) of the United Nations is pu
 * The Executive Office of the Secretary-General (EOSG) of the United Nations is publishing a series of policy briefs to inform the [Our Common Agenda](https://www.un.org/en/common-agenda) processes. On May 25th 2023, the EOSG published its fifth policy brief on the [Global Digital Compact](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-gobal-digi-compact-en.pdf).
 * The Global Digital Compact is an intergovernmental process led by two Member State co-facilitators, currently Sweden and Rwanda, with the aim of “shaping a shared vision on digital cooperation by providing an inclusive global framework.” (Policy brief, p. 2) The process is building upon the [Secretary General's Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/), as well as the ‘[Our Common Agenda](https://www.un.org/en/common-agenda)’ report, and should be included as part of a larger Pact for the Future adopted at the [Summit of the Future](https://www.un.org/en/common-agenda/summit-of-the-future) in September 2024. 
 * This policy brief presents objectives, principles and recommendations to be included in the Global Digital Compact. It focuses on:
-* * Closing the digital divide and advancing the Sustainable Development Goals
+  * Closing the digital divide and advancing the Sustainable Development Goals
   * Ensuring an open and safe online environment for all
   * Governing artificial intelligence for the benefit of humanity
 * Some of the principles proposed in this brief include:
-* * Closing the digital divide and empowering people through capacity-building
+  * Closing the digital divide and empowering people through capacity-building
   * Making targeted investments in digital public infrastructure and services
   * Making human rights the foundation of a digital future
   * Ensuring that data are governed for the benefit of all and in ways that avoid harming people and communities
