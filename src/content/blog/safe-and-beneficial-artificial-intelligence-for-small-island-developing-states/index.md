@@ -14,7 +14,7 @@ tags:
   - AI
 isHighlighted: false
 ---
-**[Read the full brief here](https://drive.google.com/file/d/1tdsZcdrgQ-oQV7ydcRqXpTIGa-5TuL4m/view?usp=sharing)**
+**-- [Read the full brief here](https://drive.google.com/file/d/1tdsZcdrgQ-oQV7ydcRqXpTIGa-5TuL4m/view?usp=sharing) --**
 
 Artificial Intelligence (AI) is set to revolutionize our world. As noted by the UN Secretary-General Antonio Guterres in his remarks to the UN Security Council on 18 July 2023, *“The spread and reach of this new technology in all its forms are utterly unprecedented (...) It is clear that AI will have an impact on every area of our lives - including the three pillars of the United Nations. It has the potential to turbocharge global development, from monitoring the climate crisis to breakthroughs in medical research (...) But even its own designers have no idea where their stunning technological breakthrough may lead.”* With the rapid pace of AI’s development and the uncertainty of how the technology will evolve, the establishment of effective governance structures for AI is an urgent priority. 
 
@@ -26,4 +26,4 @@ The group of SIDS has been working together to promote their collective sustaina
 
 Continuing the 10-year cycle of SIDS international development conferences, world leaders will convene in Antigua & Barbuda in 2024 to agree on a bold new program of action that will set the development priorities for SIDS for the coming decade. This presents SIDS with a golden opportunity to define their AI-related priorities and at the same time provide a unified and powerful voice from LMICs, taking a leading role in multilateral AI governance debates to ensure that AI is governed in an inclusive manner.
 
-**[Read the full brief here](https://drive.google.com/file/d/1tdsZcdrgQ-oQV7ydcRqXpTIGa-5TuL4m/view?usp=sharing)**
+**-- [Read the full brief here](https://drive.google.com/file/d/1tdsZcdrgQ-oQV7ydcRqXpTIGa-5TuL4m/view?usp=sharing) --**
