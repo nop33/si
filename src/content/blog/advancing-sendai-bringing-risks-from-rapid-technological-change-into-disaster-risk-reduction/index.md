@@ -15,6 +15,8 @@ tags:
   - undrr
 isHighlighted: false
 ---
-Throughout 2022 and early 2023, [the Sendai Framework for Disaster Risk Reduction](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030) underwent a period of review. During this time, multilateral actors were invited to re-examine current approaches to understanding, governing, and preventing risks. For SI, this review period provided an opportunity to incorporate risks from rapid technological change into key multilateral discussions surrounding disaster risk reduction (DRR). Below, you can view a web story that outlines how these risks were brought to the DRR community. 
+Throughout 2022 and early 2023, [the Sendai Framework for Disaster Risk Reduction](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030) underwent a period of review. During this time, multilateral actors were invited to re-examine current approaches to understanding, governing, and preventing risks. For SI, this review period provided an opportunity to incorporate risks from rapid technological change into key multilateral discussions surrounding disaster risk reduction (DRR). Below, you can view a [web story](https://simoninstitute.shorthandstories.com/sendai/index.html) that outlines how these risks were brought to the DRR community. 
+
+(Click on the image to open the web story in a new tab.)
 
 [![](cover.png)](https://simoninstitute.shorthandstories.com/sendai/index.html)
