@@ -1,7 +1,7 @@
 ---
 hide: false
-title: "Advancing Sendai: Bringing Risks from Rapid Technological Change into
-  Disaster Risk Reduction"
+title: "Advancing Sendai: bringing risks from rapid technological change into
+  disaster risk reduction"
 date: 2023-06-30T12:03:40.007Z
 featuredImage: sendai_enhanced-no-tech.jpg
 authors:
