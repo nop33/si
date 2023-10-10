@@ -1,5 +1,5 @@
 ---
-title: Get involved
+title: Contact
 subtitle: ""
 workWithUsSection:
   title: Work with us
@@ -11,20 +11,16 @@ workWithUsSection:
         url: https://airtable.com/shrmrPRmaSylt2ljL
     - title: Collaborate
       content: |-
-        We are happy to support individuals working on related projects. 
-
-        [Get in touch](/get-involved/#get-in-touch) ↓
+        We are happy to support individuals working on related projects.
       button:
-        text: ""
-        url: ""
+        text: Get in touch
+        url: "#get-in-touch"
     - title: Partner
       content: |-
         We are building lasting relationships with aligned institutions.
-
-        [Get in touch](/get-involved/#get-in-touch) ↓
       button:
-        text: ""
-        url: ""
+        text: Get in touch
+        url: "#get-in-touch"
 getInTouchSection:
   title: Get in touch
   intro: |
@@ -42,7 +38,8 @@ stayInTouchSection:
 donateSection:
   title: Donate
   intro:
-    content: We currently estimate our room for more funding until the end of 2023
+    content:
+      We currently estimate our room for more funding until the end of 2023
       to be around CHF1,600,000. Any amount directly enables us to do more.
       [Check out our plans and strategy here.](/blog/tag/strategy/)
     button:
@@ -59,26 +56,8 @@ donateSection:
         donations via our partner organization "Giving What We
         Can"](https://www.givingwhatwecan.org/charities/simon-institute). They
         also take crypto. For donations from Germany, please [get in
-        touch](/get-involved/#get-in-touch).
-textSections:
-  - title: Why support us?
-    content: >-
-      ### Science to policy
-
-
-      The knowledge base on longtermism and global catastrophic risks is expanding rapidly. SI empowers policymakers to make sense of all the information and act in the face of uncertainty.
-
-
-      ### Timely and timeless
-
-
-      SI’s mission and approach resonate with current trends and demands in policy networks. Our targeted support and long-term focus make us a unique ally for sustainable change.
-
-
-      ### Multilateral
-
-
-      We build crucial cooperation between actors with competing preferences by facilitating mutual understanding, information exchange, collective prioritization and policy learning.
+        touch](/contact/#get-in-touch).
+textSections: []
 seo:
   title: ""
   description: Interested in our approach? We're always looking for new ideas,

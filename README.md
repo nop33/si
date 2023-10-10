@@ -18,22 +18,22 @@ Changes in the **main** branch of this repository will be deployed on the produc
 
 ## Pages
 
-| Page                       | Description                                                                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Home page**              | The page available at https://www.simoninstitute.ch/                                                                                                                     |
-| **Blog overview page**     | The page available at https://www.simoninstitute.ch/blog/ listing all blog posts                                                                                         |
-| **Blog post page**         | The page displaying the actual blog post                                                                                                                                 |
-| **Blog tag page**          | The page displaying all blog posts of a particular tag, available at https://www.simoninstitute.ch/blog/tag/[name-of-the-tag]/                                           |
-| **Member detail page**     | The page displaying information about a team member, available at https://www.simoninstitute.ch/about/member/[name-of-team-member]/                                      |
-| **Projects overview page** | The page available at https://www.simoninstitute.ch/our-work/ listing all projects.                                                                                      |
-| **Project detail page**    | The page displaying information about a particular project, available at https://www.simoninstitute.ch/project/[name-of-the-project]/                                    |
-| **Projects category page** | A page listing all projects of a particular category, available at https://www.simoninstitute.ch/our-work/category/[name-of-the-category]/                               |
-| **Projects tag page**      | A page listing all projects that have a particular tag, available at https://www.simoninstitute.ch/our-work/tag/[name-of-the-tag]/                                       |
-| **Legal page**             | The page available at https://www.simoninstitute.ch/legal/                                                                                                               |
-| **About page**             | The page available at https://www.simoninstitute.ch/about/                                                                                                               |
-| **Get involved page**      | The page available at https://www.simoninstitute.ch/get-involved/                                                                                                        |
-| **Thank you page**         | The page available at https://www.simoninstitute.ch/thank-you/, used as a redirect page for when someone contacts you through the contact form of the Get involved page. |
-| **404 page**               | The page someone lands to when the URL they are trying to load does not correspond to any page.                                                                          |
+| Page                       | Description                                                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Home page**              | The page available at https://www.simoninstitute.ch/                                                                                                                |
+| **Blog overview page**     | The page available at https://www.simoninstitute.ch/blog/ listing all blog posts                                                                                    |
+| **Blog post page**         | The page displaying the actual blog post                                                                                                                            |
+| **Blog tag page**          | The page displaying all blog posts of a particular tag, available at https://www.simoninstitute.ch/blog/tag/[name-of-the-tag]/                                      |
+| **Member detail page**     | The page displaying information about a team member, available at https://www.simoninstitute.ch/about/member/[name-of-team-member]/                                 |
+| **Projects overview page** | The page available at https://www.simoninstitute.ch/our-work/ listing all projects.                                                                                 |
+| **Project detail page**    | The page displaying information about a particular project, available at https://www.simoninstitute.ch/project/[name-of-the-project]/                               |
+| **Projects category page** | A page listing all projects of a particular category, available at https://www.simoninstitute.ch/our-work/category/[name-of-the-category]/                          |
+| **Projects tag page**      | A page listing all projects that have a particular tag, available at https://www.simoninstitute.ch/our-work/tag/[name-of-the-tag]/                                  |
+| **Legal page**             | The page available at https://www.simoninstitute.ch/legal/                                                                                                          |
+| **About page**             | The page available at https://www.simoninstitute.ch/about/                                                                                                          |
+| **Contact page**           | The page available at https://www.simoninstitute.ch/contact/                                                                                                        |
+| **Thank you page**         | The page available at https://www.simoninstitute.ch/thank-you/, used as a redirect page for when someone contacts you through the contact form of the Contact page. |
+| **404 page**               | The page someone lands to when the URL they are trying to load does not correspond to any page.                                                                     |
 
 ## Content
 
@@ -73,7 +73,7 @@ For more details, see the documentation of the custom pages:
 
 - [Home page][docs-home-page]
 - [About page][docs-about-page]
-- [Get involved page][docs-get-involved-page]
+- [Contact page][docs-contact-page]
 - [Projects overview page][docs-projects-overview-page]
 
 ### \_configuration
@@ -124,6 +124,6 @@ The website relies on the following services:
 [docs-subpage]: docs/subpage.md
 [docs-home-page]: docs/home-page.md
 [docs-about-page]: docs/about-page.md
-[docs-get-involved-page]: docs/get-involved-page.md
+[docs-contact-page]: docs/contact-page.md
 [docs-projects-overview-page]: docs/projects-overview-page.md
 [update-content-branch]: https://github.com/Simon-Institute-for-Longterm-Governance/si-website/tree/update-content

@@ -16,14 +16,14 @@ keyfactsSection:
     link:
       title: More
       url: /our-work/
-  - title: Get involved
+  - title: Contact
     description:
       Interested? We're always looking for input and support. We are also
       happy to share insights and provide feedback. Get in touch or donate to
       contribute to the future.
     link:
       title: Connect
-      url: /get-involved/
+      url: /contact/
 postsSection:
   newsSection:
     title: Recent

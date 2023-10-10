@@ -156,6 +156,6 @@ You can follow our progress here:
 
 **Support us or collaborate with us**
 
-If you are interested in our work and would like to support or collaborate with us, please, do [get in touch](/get-involved/#get-in-touch)!
+If you are interested in our work and would like to support or collaborate with us, please, do [get in touch](/contact/#get-in-touch)!
 
 _Photo credit: seedlings by [Ryan Lange](https://unsplash.com/@ryanlange?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._

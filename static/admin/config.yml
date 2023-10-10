@@ -199,9 +199,9 @@ collections:
                   required: false,
                 }
 
-      - label: "Get Involved page"
-        name: "get-involved"
-        file: "src/content/custom-page/get-involved.md"
+      - label: "Contact page"
+        name: "contact"
+        file: "src/content/custom-page/contact.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - {

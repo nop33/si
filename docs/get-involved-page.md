@@ -1,4 +1,4 @@
-# Get involved page content type
+# Contact page content type
 
 ## seo.title
 
