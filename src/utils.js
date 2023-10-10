@@ -11,11 +11,11 @@ export function constructBlogTagUrl(tag) {
 }
 
 export function constructProjectCategoryUrl(tag) {
-  return `/projects/category/${kebabCase(tag)}/`
+  return `/our-work/category/${kebabCase(tag)}/`
 }
 
 export function constructProjectTagUrl(tag) {
-  return `/projects/tag/${kebabCase(tag)}/`
+  return `/our-work/tag/${kebabCase(tag)}/`
 }
 
 export const toHTML = value =>

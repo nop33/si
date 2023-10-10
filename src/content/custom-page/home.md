@@ -9,15 +9,16 @@ keyfactsSection:
     link:
       title: More
       url: /about/
-  - title: Projects
+  - title: Our work
     description: We help policymakers understand risks, identify bottlenecks and
       equip them with tools to render knowledge explicit, reduce information
       asymmetries, and deliberate productively.
     link:
       title: More
-      url: /projects/
+      url: /our-work/
   - title: Get involved
-    description: Interested? We're always looking for input and support. We are also
+    description:
+      Interested? We're always looking for input and support. We are also
       happy to share insights and provide feedback. Get in touch or donate to
       contribute to the future.
     link:

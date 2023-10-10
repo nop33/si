@@ -5,7 +5,7 @@ import { toHTML } from "../utils"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 import ColumnsWithButtons from "../components/sections/columns-with-buttons"

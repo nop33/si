@@ -25,10 +25,10 @@ Changes in the **main** branch of this repository will be deployed on the produc
 | **Blog post page**         | The page displaying the actual blog post                                                                                                                                 |
 | **Blog tag page**          | The page displaying all blog posts of a particular tag, available at https://www.simoninstitute.ch/blog/tag/[name-of-the-tag]/                                           |
 | **Member detail page**     | The page displaying information about a team member, available at https://www.simoninstitute.ch/about/member/[name-of-team-member]/                                      |
-| **Projects overview page** | The page available at https://www.simoninstitute.ch/projects/ listing all projects.                                                                                      |
+| **Projects overview page** | The page available at https://www.simoninstitute.ch/our-work/ listing all projects.                                                                                      |
 | **Project detail page**    | The page displaying information about a particular project, available at https://www.simoninstitute.ch/project/[name-of-the-project]/                                    |
-| **Projects category page** | A page listing all projects of a particular category, available at https://www.simoninstitute.ch/projects/category/[name-of-the-category]/                               |
-| **Projects tag page**      | A page listing all projects that have a particular tag, available at https://www.simoninstitute.ch/projects/tag/[name-of-the-tag]/                                       |
+| **Projects category page** | A page listing all projects of a particular category, available at https://www.simoninstitute.ch/our-work/category/[name-of-the-category]/                               |
+| **Projects tag page**      | A page listing all projects that have a particular tag, available at https://www.simoninstitute.ch/our-work/tag/[name-of-the-tag]/                                       |
 | **Legal page**             | The page available at https://www.simoninstitute.ch/legal/                                                                                                               |
 | **About page**             | The page available at https://www.simoninstitute.ch/about/                                                                                                               |
 | **Get involved page**      | The page available at https://www.simoninstitute.ch/get-involved/                                                                                                        |

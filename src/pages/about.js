@@ -6,7 +6,7 @@ import Image from "gatsby-image"
 import { toHTML } from "../utils"
 
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 import Team from "../components/team"

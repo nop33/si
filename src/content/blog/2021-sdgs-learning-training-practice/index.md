@@ -1,4 +1,5 @@
 ---
+hide: false
 title: 2021 UN High-Level Political Forum
 date: 2021-07-07T09:39:09.443Z
 description: ""
@@ -8,6 +9,7 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Facilitation
 tags:
   - Events
   - UN
@@ -15,7 +17,6 @@ isHighlighted: false
 seo:
   title: ""
   description: ""
-hide: false
 ---
 Together with the Geneva Science-Policy Interface, SI contributes "Behavioral Solutions for Evidence-based Decision-making" to the UN High-Level Political Forum Session 4: Fostering Evidence-Based Decision-making for Sustainable and Just COVID Recovery and Transformative SDG implementation.
 

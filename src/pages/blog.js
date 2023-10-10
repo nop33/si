@@ -5,8 +5,8 @@ import { updateSrcSet } from "../utils"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import FeaturedTagsList from "../components/featured-tags-list"
-import BaseSection from "../components/sections/base"
+import FeaturedTagsList from "../components/FeaturedTagsList"
+import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
 import Grid from "../components/sections/grid"
 
@@ -42,7 +42,7 @@ const BlogIndex = ({ data, location }) => {
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description}
         />
-        <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
+        <FeaturedTagsList type="blog" tags={featuredTags.blogTags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {

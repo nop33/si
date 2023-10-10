@@ -8,6 +8,7 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
+category: Knowledge Synthesis
 tags:
   - AI
 isHighlighted: false

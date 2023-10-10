@@ -3,7 +3,7 @@ import { graphql, PageProps } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import { generateIdFromTitle, toHTML } from "../utils"
 import ArrowedLink from "../components/arrowed-link"
 import styled from "styled-components"

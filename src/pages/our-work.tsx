@@ -3,8 +3,8 @@ import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import FeaturedTagsList from "../components/featured-tags-list"
-import BaseSection from "../components/sections/base"
+import FeaturedTagsList from "../components/FeaturedTagsList"
+import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
 import CardsWithText from "../components/sections/cards-with-text"
 import { updateSrcSet } from "../utils"
@@ -12,7 +12,6 @@ import { updateSrcSet } from "../utils"
 const ProjectsPage = ({ data, location }) => {
   const pageData = data.projectsPage.nodes[0].frontmatter
   const { nodes, totalCount } = data.projects
-  const categories = data.tagsGroup.group.map(tag => tag.fieldValue)
 
   return (
     <div>
@@ -25,7 +24,7 @@ const ProjectsPage = ({ data, location }) => {
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description || pageData.subtitle}
         />
-        <FeaturedTagsList isProjectCategories tags={categories} />
+
         {pageData.projectsByCategories.map(projectsByCategory => {
           const projects = nodes.filter(
             project =>
@@ -55,7 +54,10 @@ const ProjectsPage = ({ data, location }) => {
           })
 
           return (
-            <BaseSection key={`section_${projectsByCategory.title}`}>
+            <BaseSection
+              key={`section_${projectsByCategory.title}`}
+              id={`section_${projectsByCategory.title}`}
+            >
               <CardsWithText
                 orientation="cards-full-width"
                 title={projectsByCategory.title}
@@ -76,7 +78,7 @@ export default ProjectsPage
 export const pageQuery = graphql`
   {
     projectsPage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/projects.md/" } }
+      filter: { fileAbsolutePath: { regex: "/custom-page/our-work.md/" } }
     ) {
       nodes {
         frontmatter {
@@ -96,8 +98,8 @@ export const pageQuery = graphql`
     }
     projects: allMarkdownRemark(
       filter: {
-        fields: { contentType: { eq: "project" } }
-        frontmatter: { hide: { ne: true } }
+        fields: { contentType: { eq: "blog" } }
+        frontmatter: { category: { ne: "" } }
       }
     ) {
       totalCount
@@ -127,14 +129,6 @@ export const pageQuery = graphql`
             }
           }
         }
-      }
-    }
-    tagsGroup: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "project" } } }
-      limit: 2000
-    ) {
-      group(field: { frontmatter: { category: SELECT } }) {
-        fieldValue
       }
     }
   }

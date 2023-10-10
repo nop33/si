@@ -6,7 +6,7 @@ import { toHTML, constructProjectTagUrl } from "../utils"
 
 import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import SideBySide from "../components/sections/side-by-side"
 import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"

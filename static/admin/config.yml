@@ -374,7 +374,7 @@ collections:
                 }
       - label: "Projects overview page"
         name: "projects-overview"
-        file: "src/content/custom-page/projects.md"
+        file: "src/content/custom-page/our-work.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - {
@@ -718,6 +718,14 @@ collections:
               widget: "string",
               required: false,
             }
+      - label: "Project category"
+        name: "category"
+        widget: "relation"
+        collection: "project-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
+        required: false
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
