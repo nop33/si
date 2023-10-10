@@ -1,29 +1,37 @@
 ---
 title: Our work
-subtitle: This page is due for an update. Please, check out our blog for recent
-  information on what we are up to.
+subtitle: ""
 projectsByCategories:
   - category: Knowledge Synthesis
     title: Knowledge Synthesis
     description: >-
-      We foster a network of practitioners, 
-      researchers, and donors working together towards long-term governance. 
-      To ground our work, we also [submit our thoughts to peer-review](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
+      We synthesize knowledge, creating reports, briefings, and
+      presentations at the intersection of long-term governance, technology
+      governance, and multilateralism. We translate complex scientific,
+      technological and policy concepts into accessible language, to ensure that
+      decision-makers understand and act on policy-relevant developments
+      effectively.
 
   - category: Policy Support
     title: Policy support
     description: >-
-      We help international civil servants and researchers resolve coordination
-      bottlenecks at the global catastrophic risk science-policy interface.
+      We inform multilateral policy processes, especially via the UN and
+      OECD systems, through written recommendations, panel engagements, and
+      specialized advice to policy actors. We focus on processes that promote
+      long-term thinking, enhance risk mitigation, and strengthen global
+      technology governance.
 
   - category: Facilitation
     title: Facilitation
     description: >-
-      This page is due for an update.
+      With strong connections in academia, the multilateral system, and
+      leading research labs, we’re able to effectively bring stakeholders
+      together. We foster collaboration and information sharing through our
+      workshops, meetings, and events, bridging the gap between technological
+      innovation and policymaking, and nurturing a network of like-minded
+      actors.
 
 seo:
   title: ""
-  description: Policymaking is characterized by complexity. We help policy
-    networks grapple productively with it in our workshops, coordinate a network
-    for long-term governance, and conduct research to increase our impact.
+  description: ""
 ---
