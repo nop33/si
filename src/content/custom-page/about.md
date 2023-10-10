@@ -4,72 +4,96 @@ subtitle: ""
 textSections:
   - title: Overview
     content: >-
+      ### Vision
+
+
+      At SI, we envision a world where humanity coordinates effectively so that life can flourish. 
+
+
+      We believe in the potential of human ingenuity and technology to create a future where life can thrive. But we worry about escalating harms or large-scale disaster if change is not well-governed. By enhancing multilateral coordination, we hope to contribute to long-term survival and well-being.
+
+
       ### Mission
 
 
-      SI's mission is to increase the capacity of policy networks to mitigate global catastrophic risks and build resilience for civilization to flourish.
+      SI’s mission is to support multilateral governance actors to think long-term and develop instruments that reduce global catastrophic risks, improve quality of life, and promote agency for present and future generations. 
+
+
+      In collaboration with international organizations, governments, think tanks and leading research labs, we translate technical knowledge into actionable policy advice and facilitate decision-making processes with diverse actors, thereby enhancing multilateral governance processes.
 
 
       ### Why?
 
 
-      From biotechnology to the development of transformative AI, humanity is facing emerging challenges of unprecedented scale. The existence of future generations with lives worth living depends on our civilization’s ability to safeguard them from global catastrophic risks. But the multilateralism needed to govern these low-probability, high-impact events is out of sight.
+      From biotechnology to artificial intelligence, humanity is confronting opportunities and challenges of an unprecedented scale. The welfare of both present and future generations depends on our ability to safely introduce and harness powerful technologies, while mitigating extreme risks. 
 
 
-      ### How?
+      In our increasingly interconnected world, the multilateral system retains a vital role. Yet, to effectively steer the changes shaping humanity's future, the multilateral system must evolve, becoming more agile, and infused with greater technical expertise.
 
 
-      We connect research with practice to support a risk- and resilience-focused multilateralism enhanced by science. Our tools, knowledge, and community help to cope with competing objectives and uncertainty. Based in Geneva, Switzerland, we support policy networks centered around the United Nations. As a non-profit, SI can focus on lasting, impartial impact.
+      ### Our Work
 
 
-      ### Policy networks?
-
-
-      A wide range of actors inside and outside of political institutions contribute to the creation of policy: elected officials, civil servants, academics, civil society, lobbyists, and more. It is this dynamic co-creation process SI seeks to support.
-  - title: Our focus areas
+      Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, held numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. To learn more about our work, you can see [here](https://www.simoninstitute.ch/our-work/).
+  - title: Focus areas
     content: >-
-      ### Policy support
+      ### Cultivating effective multilateralism 
 
 
-      We develop science-policy workshops, training programs, and provide advice with a focus on improving the collective capacity of policy networks to reduce global catastrophic risks by exchanging information and coordinating in a timely manner.
+      Humanity is facing challenges that are increasingly global in scale and can only be effectively addressed by countries working together. As an inclusive platform to coordinate international action, the multilateral system is the best available avenue for pursuing shared solutions. SI works with actors across the multilateral system to find synergies, share information, and build capacity.
 
 
-      ### Field-building
+      ### Enhancing global technology governance
 
 
-      We seek to better understand policymaking by synthesizing knowledge and testing the usefulness of our hypotheses and tools. To that end, we also coordinate a network of practitioners and researchers who share knowledge and experience.
+      New technologies hold immense potential and risks. Effective governance is vital, yet the speed of technological change often outpaces policy adjustments. At SI, we support policymakers by translating the latest science on technological risks and opportunities into concrete advice. By collaborating with policymakers to shape governance structures, we aim to enhance global technology governance to be more responsive, agile, and inclusive.
+
+
+      ### Shifting policy focus towards the long-term
+
+
+      The attention of the multilateral system is consumed by current affairs, leading to a frequent neglect of emerging risks, especially those from complex, new technologies. SI endeavors to shift policy mindsets by providing insight into frontier technologies, raising awareness about the importance of long-term thinking, and advocating for policies that consider future generations.
   - title: Our approach
     content: >-
-      ### Value-driven
+      ### Collaborative
 
 
-      Human civilization is progressively reaching higher levels of well-being. Despite shocks, such as large-scale epidemics and world wars, more people are living longer and healthier than ever before. Humanity's progress and abilities suggest that the future of life could be vast in size and of unprecedented quality. We work to increase the chances of that happening.
+      At SI, we focus on building strong partnerships, and are committed to providing timely and practical support. Our approach has earned us the trust of a diverse range of partners and established our reputation as skilled conveners, fostering many productive collaborations across tech, policy, and academia. As an independent non-profit, we can focus on lasting, impartial impact.
 
 
-      ### Resilience-focused
+      ### Forward-Looking
 
 
-      Global catastrophic risks have the potential to curtail our civilization's future or even reverse past progress. To build resilience to the most extreme shocks, humanity has to improve coordination at all levels of governance. We are focused on supporting policy networks contributing to the mitigation of low-probability high-impact events.
+      We're dedicated to bridging the gap between technological innovation and policy-making, with a longstanding focus on technological change and global catastrophic risks predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
+  - title: "Transparency "
+    content: >-
+      ### Governance
 
 
-      ### Science-based
+      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit?usp=sharing). 
 
 
-      Complementary to those researching the nature of global catastrophic risks, we research the dynamics of the relevant policy networks. We unite knowledge on policy processes, human behavior, and global catastrophic risks to test hypotheses for achieving resilience.
+      ### Reporting
+
+
+      Our funding comes from various private and philanthropic donors, all of whom respect our independence in resource allocation. You can refer to our annual reports for further information about our activities and funding sources.
+
+
+      **2021-2022** [Annual Report](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
 teamSection:
   title: Our team
 herbertSimonSection:
   title: Herbert Simon
   photo: ../../images/herbert_simon.jpg
   content: >-
-    Herbert Simon (1916 - 2001) was a political scientist, cognitive
-    psychologist, computer scientist, and economist.
+    Herbert Simon (1916 - 2001) was an American political scientist, cognitive
+    psychologist, computer scientist, and economist. 
 
 
-    His research represents much of the knowledge SI is building on and aims to contribute to. He shared our goals long before we had conceived of them.
+    He received a Turing Award in 1975, and a Nobel Prize in Economics in 1978, and is best known for formalizing the concept of bounded rationality – the idea that rational decision-making is limited by uncertainty and available computational power. 
 
 
-    Herbert formalized the concept of bounded rationality, i.e. that humans make decisions under uncertainty with cognitive constraints. In 1978, he received the Nobel Prize in Economics and in 1975 a Turing Award. He is known for having seminally contributed to the fields of behavioral economics, public administration, complexity science, and artificial intelligence.
+    Herbert's contributions to decision-making theory heavily influenced our early research, while his insights into technological development and organizational behavior continue to be of relevance to our work today. We draw particular inspiration from his belief that we should not occupy ourselves with merely predicting the future, but rather work to create the future we want. 
 
 
     We thank Katherine, Barbara, and Peter Simon for having granted us the honor of naming the Institute for Longterm Governance after their father.
@@ -80,10 +104,9 @@ sponsorsSection:
       logo: ../../images/zulip-logo-gradient.png
 seo:
   title: About us
-  description: We connect research with practice to support a risk- and
-    resilience-focused multilateralism enhanced by science. Our tools,
-    knowledge, and community help to cope with competing objectives and
-    uncertainty. Based in Geneva, Switzerland, we support policy networks
-    centered around the United Nations. As a non-profit, SI can focus on
-    lasting, impartial impact.
+  description: "Based in Geneva, Switzerland, the Simon Institute for Longterm
+    Governance (SI) works to mitigate global catastrophic risks, building on
+    Herbert Simon's vision of future-oriented policymaking. With a focus on
+    fostering international cooperation, we center our efforts on the
+    multilateral system. "
 ---
