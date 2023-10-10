@@ -3,7 +3,7 @@
   "private": true,
   "description": "SI's website powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Ilias Trichopoulos <hi@iliascreates.com>",
+  "author": "Ilias Trichopoulos <hlias.nop@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
