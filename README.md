@@ -111,6 +111,22 @@ The website relies on the following services:
 - [Basin][basin]: Backend of the contact form.
 - [Airtable][airtable]: Application form.
 
+## Local development
+
+### CMS
+
+Add the following at the top of the `/static/admin/config.yml` file:
+
+```yaml
+local_backend: true
+```
+
+and run:
+
+```
+yarn start:cms
+```
+
 [gatsby]: https://www.gatsbyjs.com/
 [netlify]: https://www.netlify.com/
 [basin]: https://usebasin.com/

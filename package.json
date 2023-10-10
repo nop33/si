@@ -65,6 +65,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "preload-fonts": "gatsby-preload-fonts"
+    "preload-fonts": "gatsby-preload-fonts",
+    "start:cms": "npx decap-server"
   }
 }
