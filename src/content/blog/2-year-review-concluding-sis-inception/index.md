@@ -10,7 +10,7 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Knowledge Synthesis
+category:
 tags:
   - Updates
   - Strategy
