@@ -2,7 +2,7 @@
 name: Malou Estier
 photo: maloue_portrait.jpg
 group: Core team
-role: Program associate
+role: Law & policy associate
 links:
   linkedin: https://ch.linkedin.com/in/malou-mahaut-louise-estier-088a87193
 disableDetailPage: false

@@ -1,7 +1,7 @@
 ---
 name: Dr. Igor Linkov
 photo: igor16-igor-linkov.jpg
-group: Governing board
+group: Alumni
 role: Board member
 links:
   website: https://scholar.google.com/citations?user=7TKZ0DgAAAAJ&hl=en
