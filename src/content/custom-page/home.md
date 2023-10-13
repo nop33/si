@@ -15,8 +15,8 @@ keyfactsSection:
     description: >
       In practice, we raise awareness about global catastrophic risks, bridge
       the gap between innovation and policy, and advocate for the interests of
-      future generations, all with the aim of ensuring a flourishing future. Our
-      activities encompass research, policy support, and facilitation.
+      future generations in policymaking processes. Our activities encompass
+      research, policy support, and facilitation.
     link:
       title: More
       url: /projects/
