@@ -1,7 +1,7 @@
 ---
 name: Haydn Belfield
 photo: belfieldhaydn.jpg
-group: Advisers
+group: Advisers and Collaborators
 role: GCR governance
 links:
   website: ""

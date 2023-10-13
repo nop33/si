@@ -18,7 +18,7 @@ The text displayed in the header of the Legal page below the title.
 
 ## projectsByCategory
 
-The list of the subsections.
+The list of the subsections. Linking the subsection with a category, it will render all blog posts that have the same category assigned to them.
 
 ### category
 

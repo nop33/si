@@ -13,8 +13,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { fields: { contentType: { eq: "blog" } } }
-          sort: { fields: [frontmatter___date], order: ASC }
+          filter: {
+            fields: { contentType: { eq: "blog" } }
+            frontmatter: { hide: { ne: true } }
+          }
+          sort: { frontmatter: { date: DESC } }
           limit: 1000
         ) {
           nodes {
@@ -67,7 +70,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { fields: { contentType: { in: ["subpage", "project"] } } }
+          filter: {
+            fields: { contentType: { in: ["subpage", "project", "job"] } }
+            frontmatter: { hide: { ne: true } }
+          }
         ) {
           nodes {
             id
@@ -156,7 +162,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         filter: { fields: { contentType: { eq: "blog" } } }
         limit: 2000
       ) {
-        group(field: frontmatter___tags) {
+        group(field: { frontmatter: { tags: SELECT } }) {
           fieldValue
         }
       }
@@ -193,7 +199,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         filter: { fields: { contentType: { eq: "project" } } }
         limit: 2000
       ) {
-        group(field: frontmatter___category) {
+        group(field: { frontmatter: { category: SELECT } }) {
           fieldValue
         }
       }
@@ -212,7 +218,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   projectCategories.forEach(tag => {
     createPage({
-      path: `/projects/category/${_.kebabCase(tag.fieldValue)}/`,
+      path: `/our-work/category/${_.kebabCase(tag.fieldValue)}/`,
       component: projectsGroupTemplate,
       context: {
         tag: tag.fieldValue,
@@ -228,7 +234,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         filter: { fields: { contentType: { eq: "project" } } }
         limit: 2000
       ) {
-        group(field: frontmatter___tags) {
+        group(field: { frontmatter: { tags: SELECT } }) {
           fieldValue
         }
       }
@@ -247,7 +253,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   projectTags.forEach(tag => {
     createPage({
-      path: `/projects/tag/${_.kebabCase(tag.fieldValue)}/`,
+      path: `/our-work/tag/${_.kebabCase(tag.fieldValue)}/`,
       component: projectsTagTemplate,
       context: {
         tag: tag.fieldValue,

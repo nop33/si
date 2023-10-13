@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
-import FeaturedTagsList from "../components/featured-tags-list"
-import BaseSection from "../components/sections/base"
-import Grid from "../components/sections/grid"
+import Seo from "../components/seo"
+import FeaturedTagsList from "../components/FeaturedTagsList"
+import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
+import Grid from "../components/sections/grid"
 
 import featuredTags from "../content/_configuration/featured-tags.yaml"
 
@@ -20,8 +20,8 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
         subtitle={`${totalCount} post${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
-        <SEO title={`${pageContext.tag} posts`} />
-        <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
+        <Seo title={`${pageContext.tag} posts`} />
+        <FeaturedTagsList type="blog" tags={featuredTags.blogTags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {
@@ -54,7 +54,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "blog" } }
         frontmatter: { tags: { in: [$tag] } }
       }
-      sort: { fields: [frontmatter___date], order: ASC }
+      sort: { frontmatter: { date: DESC } }
       limit: 2000
     ) {
       totalCount
@@ -81,7 +81,7 @@ export const pageQuery = graphql`
       filter: { fields: { contentType: { eq: "blog" } } }
       limit: 2000
     ) {
-      group(field: frontmatter___tags) {
+      group(field: { frontmatter: { tags: SELECT } }) {
         fieldValue
       }
     }

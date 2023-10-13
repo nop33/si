@@ -1,7 +1,7 @@
 ---
 name: Dr. Catherine Rhodes
 photo: rhodes-dab-pic-catherine-rhodes.jpg
-group: Governing board
+group: Alumni
 role: Board member
 links:
   website: ""

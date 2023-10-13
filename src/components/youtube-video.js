@@ -1,15 +1,15 @@
 import React from "react"
 
-import styles from "./youtube-video.module.scss"
+import { video, responsiveIframe } from "./youtube-video.module.scss"
 
 const YouTubeVideo = ({ src, title }) => {
   var regExp = /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#&?]*).*/
   var match = src.match(regExp)
 
   return (
-    <div className={styles.video}>
+    <div className={video}>
       <iframe
-        className={styles.responsiveIframe}
+        className={responsiveIframe}
         src={`https://www.youtube.com/embed/${match[1]}`}
         title={title}
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

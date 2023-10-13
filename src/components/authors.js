@@ -2,7 +2,7 @@ import React from "react"
 
 import { Link } from "gatsby"
 
-import styles from "./authors.module.scss"
+import { authors as authorsStyles } from "./authors.module.scss"
 
 const Authors = ({ authors }) => {
   const displayAuthors = authors.filter(
@@ -12,7 +12,7 @@ const Authors = ({ authors }) => {
     return null
   }
   return (
-    <address className={styles.authors}>
+    <address className={authorsStyles}>
       <span>By </span>
       {displayAuthors.map((author, index) => {
         let name

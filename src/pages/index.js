@@ -1,14 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import { constructProjectCategoryUrl, updateSrcSet } from "../utils"
+import { updateSrcSet } from "../utils"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
-import BaseSection from "../components/sections/base"
+import Seo from "../components/seo"
+import BaseSection from "../components/sections/BaseSection"
 import KeyfactsSection from "../components/sections/keyfacts"
 import Keyfact from "../components/keyfact"
-import CardsWithText from "../components/sections/cards-with-text"
 import Card from "../components/card"
 import CardsSection from "../components/sections/cards"
 
@@ -16,7 +15,6 @@ const Home = ({ data, location }) => {
   const pageData = data.homepage.nodes[0].frontmatter
   const news = data.news.nodes
   const events = data.events.nodes
-  const allProjects = data.projects.nodes
 
   return (
     <div>
@@ -26,7 +24,7 @@ const Home = ({ data, location }) => {
         location={location}
         withImageBackgroundHeader={pageData.hasImageBackgroundHeader}
       >
-        <SEO
+        <Seo
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description || pageData.subtitle}
         />
@@ -106,7 +104,7 @@ const Home = ({ data, location }) => {
 export default Home
 
 export const pageQuery = graphql`
-  query {
+  {
     homepage: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/custom-page/home.md/" } }
     ) {
@@ -155,47 +153,13 @@ export const pageQuery = graphql`
         }
       }
     }
-    projects: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "project" } }
-        frontmatter: { isFeaturedOnHomepage: { eq: true } }
-      }
-    ) {
-      nodes {
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-          subtitle
-          card {
-            title
-            description
-          }
-          category
-          tags
-          featuredImage {
-            childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-      }
-    }
     news: allMarkdownRemark(
       limit: 2
       filter: {
         fields: { contentType: { eq: "blog" } }
         frontmatter: { tags: { nin: "Updates" } }
       }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         excerpt
@@ -220,12 +184,9 @@ export const pageQuery = graphql`
       limit: 1
       filter: {
         fields: { contentType: { eq: "blog" } }
-        frontmatter: {
-          tags: { in: "Updates" }
-          isEventFeaturedOnHomepage: { eq: true }
-        }
+        frontmatter: { isHighlighted: { eq: true } }
       }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         excerpt

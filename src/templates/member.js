@@ -2,10 +2,10 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import Person from "../components/person"
 import SocialLinks from "../components/social-links"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const MemberTemplate = ({ data, location }) => {
   const personData = data.markdownRemark.frontmatter
@@ -24,16 +24,16 @@ const MemberTemplate = ({ data, location }) => {
   const header = (
     <div>
       {desktopImage && <Person photo={sources} name={personData.name} />}
-      {(personData.links.website ||
-        personData.links.twitter ||
-        personData.links.linkedin) && (
+      {(personData.links?.website ||
+        personData.links?.twitter ||
+        personData.links?.linkedin) && (
         <SocialLinks
           centered
           wide
           bottomSpacing
-          website={personData.links.website}
-          twitter={personData.links.twitter}
-          linkedin={personData.links.linkedin}
+          website={personData.links?.website}
+          twitter={personData.links?.twitter}
+          linkedin={personData.links?.linkedin}
         />
       )}
     </div>
@@ -47,7 +47,7 @@ const MemberTemplate = ({ data, location }) => {
       backLink="/about#our-team"
       backLinkText="Team"
     >
-      <SEO
+      <Seo
         title={personData.seo?.title || personData.name}
         description={personData.seo?.description || excerpt}
       />

@@ -24,7 +24,7 @@ authors:
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
 tags:
   - Resources
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 Would you let your children hop on a plane that has a 1 in 6 chance of crashing? 1 in 10? 1 in 100? Probably not, and you are right: the risk is too high for people we care about. In his recent book, [The Precipice](http://www.tobyord.com/book), Toby Ord estimates a 1 in 6 chance of a global catastrophe occurring this century, destroying all of civilization's long-term potential. Such global catastrophic risks concern the entire world population and succeeding generations.
 
@@ -44,7 +44,7 @@ If you want to learn more about the risks themselves, there are many great resou
 * The 2019 Global Health Security Index explains [why countries are insufficiently prepared for pandemics](https://www.ghsindex.org/). 
 * The New York Times reviews [the science of climate change](https://www.nytimes.com/article/climate-change-global-warming-faq.html).
 * The Centre on Long-Term Resilience provides [a UK policy-oriented account of global catastrophic risks](https://www.longtermresilience.org/futureproof). 
-* The latest Human Development Report provides an overview of [the types and severity of global catastrophic risks](http://hdr.undp.org/sites/default/files/hdr2020.pdf) (p. 106ff). 
+* The latest Human Development Report provides an overview of [the types and severity of global catastrophic risks](https://hdr.undp.org/content/human-development-report-2020) (p. 106ff). 
 
 ## Evidence shows that policy change under- and overreacts to policy problems.
 

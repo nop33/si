@@ -1,7 +1,7 @@
 import React from "react"
 
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import ArrowedLink from "../components/arrowed-link"
 
 import data from "../content/_configuration/404.yaml"

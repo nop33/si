@@ -6,11 +6,11 @@ import { toHTML, constructProjectTagUrl } from "../utils"
 
 import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
-import SideBySide from "../components/sections/side-by-side"
+import BaseSection from "../components/sections/BaseSection"
+import SideBySide from "../components/sections/SideBySide"
 import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import VideoList from "../components/video-list"
 
 import { generateIdFromTitle, updateSrcSet } from "../utils"
@@ -71,7 +71,7 @@ const SubpageTemplate = ({ data, location }) => {
       headerLinks={category && tags && headerLinks}
       location={location}
     >
-      <SEO
+      <Seo
         title={pageData.seo?.title || pageData.title}
         description={pageData.seo?.description || pageData.subtitle}
         image={seoFeaturedImage}
@@ -79,27 +79,33 @@ const SubpageTemplate = ({ data, location }) => {
       {desktopFeaturedImage && (
         <Image fluid={sources} alt={`${pageData.title} featured image`} />
       )}
-      <Tabs titles={pageData.textSections.map(section => section.title)}></Tabs>
-      {pageData.textSections.map(textSection => {
-        const id = generateIdFromTitle(textSection.title)
-        return (
-          <BaseSection id={id} key={`subpage_section_${id}`}>
-            <SideBySide title={textSection.title}>
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: toHTML(textSection.content),
-                }}
-              ></div>
-              {textSection.sectionImages && (
-                <ImageList images={textSection.sectionImages} />
-              )}
-              {textSection.sectionVideos && (
-                <VideoList videos={textSection.sectionVideos} />
-              )}
-            </SideBySide>
-          </BaseSection>
-        )
-      })}
+      {pageData.textSections && pageData.textSections.length > 0 && (
+        <>
+          <Tabs
+            titles={pageData.textSections.map(section => section.title)}
+          ></Tabs>
+          {pageData.textSections.map(textSection => {
+            const id = generateIdFromTitle(textSection.title)
+            return (
+              <BaseSection id={id} key={`subpage_section_${id}`}>
+                <SideBySide title={textSection.title}>
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: toHTML(textSection.content),
+                    }}
+                  ></div>
+                  {textSection.sectionImages && (
+                    <ImageList images={textSection.sectionImages} />
+                  )}
+                  {textSection.sectionVideos && (
+                    <VideoList videos={textSection.sectionVideos} />
+                  )}
+                </SideBySide>
+              </BaseSection>
+            )
+          })}
+        </>
+      )}
     </PageLayout>
   )
 }

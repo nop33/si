@@ -2,7 +2,7 @@
 title: Pandemic resilience - a tabletop exercise
 subtitle: ""
 featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
-category: Policy support
+category: Facilitation
 tags:
   - Workshop
 isFeaturedOnHomepage: true

@@ -9,7 +9,7 @@ tags:
   - Resources
   - UN
   - Multilateralism
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 In August 2022, SI was invited to contribute to two consultations held by the United Nations Foundation and High-Level Advisory Board member Poonam Ghimire on ‘Peace and Security’ and ‘Digital Governance’. 
 

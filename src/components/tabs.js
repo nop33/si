@@ -2,7 +2,7 @@ import React from "react"
 
 import { generateIdFromTitle } from "../utils"
 
-import TableOfContents from "./table-of-contents"
+import TableOfContents from "./TableOfContents"
 
 const Tabs = ({ titles }) => {
   const links = titles

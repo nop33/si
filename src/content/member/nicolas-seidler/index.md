@@ -1,7 +1,7 @@
 ---
 name: Nicolas Seidler
 photo: nicolas-seidler-executive-director-gspi-geneva-science-policy-interface.jpg
-group: Governing board
+group: Alumni
 role: Board member
 links:
   website: ""

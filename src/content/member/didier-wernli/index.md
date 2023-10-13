@@ -1,7 +1,7 @@
 ---
 name: Dr. Didier Wernli
 photo: wernlididier.jpg
-group: Advisers
+group: Alumni
 role: Global governance
 links:
   website: https://www.researchgate.net/profile/Didier-Wernli
