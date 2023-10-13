@@ -24,6 +24,10 @@ The markdown content of the section. :warning: Images are not yet supported.
 
 The title of the teams section.
 
+## teamSection.groups
+
+A list of team groups. You can re-order them and define a different title for each team group.
+
 ## herbertSimonSection
 
 The title, photo and markdown content of the Herbert Simon section.
