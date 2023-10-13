@@ -3,7 +3,7 @@ import { remark } from "remark"
 import remarkHTML from "remark-html"
 
 export function generateIdFromTitle(title) {
-  return title.toLowerCase().replace(/[^a-zA-Z]/g, "-")
+  return title?.toLowerCase().replace(/[^a-zA-Z]/g, "-")
 }
 
 export function constructBlogTagUrl(tag) {
