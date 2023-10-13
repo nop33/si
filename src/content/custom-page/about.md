@@ -82,6 +82,11 @@ textSections:
       **2021-2022** [Annual Report](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
 teamSection:
   title: Our team
+  groups:
+    - name: Core team
+      title: Core team
+    - name: Advisers and Collaborators
+      title: Advisers and collaborators
 herbertSimonSection:
   title: Herbert Simon
   photo: ../../images/herbert_simon.jpg

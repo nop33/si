@@ -163,6 +163,21 @@ collections:
             widget: object
             fields:
               - { label: "Title", name: "title", widget: "string" }
+              - label: "Team groups"
+                name: groups
+                widget: list
+                fields:
+                  - label: "Displayed title"
+                    name: "title"
+                    widget: "string"
+                    required: false
+                  - label: "Group"
+                    name: "name"
+                    widget: "relation"
+                    collection: "team-groups"
+                    search_fields: ["name"]
+                    value_field: "name"
+                    display_fields: ["name"]
           - label: "Herbert Simon section"
             name: "herbertSimonSection"
             widget: object
@@ -472,6 +487,16 @@ collections:
       preview: false
     fields:
       - { label: "Category title", name: "title", widget: "string" }
+  - name: "team-groups"
+    label: "Team groups"
+    folder: "src/content/_team-groups"
+    create: true
+    slug: "index"
+    path: "{{name}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Team group name", name: "name", widget: "string" }
   - name: "project"
     label: "Projects"
     folder: "src/content/project"
@@ -762,9 +787,11 @@ collections:
       - { label: "Photo", name: "photo", widget: "image", required: false }
       - label: "Group"
         name: "group"
-        widget: "select"
-        options:
-          ["Advisers", "Governing board", "Collaborators", "Staff", "Alumni"]
+        widget: "relation"
+        collection: "team-groups"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
       - { label: "Role", name: "role", widget: "string" }
       - label: "External links"
         name: "links"

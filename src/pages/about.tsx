@@ -9,10 +9,10 @@ import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/BaseSection"
 import SideBySide from "../components/sections/SideBySide"
 import Tabs from "../components/tabs"
-import Team from "../components/team"
 import Seo from "../components/seo"
 
 import { generateIdFromTitle, updateSrcSet } from "../utils"
+import Team from "../components/team"
 
 const AboutPage = ({ data, location }) => {
   const pageData = data.allMarkdownRemark.nodes[0].frontmatter
@@ -60,13 +60,13 @@ const AboutPage = ({ data, location }) => {
       })}
       <BaseSection id={teamSectionId}>
         <SideBySide title={pageData.teamSection.title} isWide>
-          <Team />
+          <Team groups={pageData.teamSection.groups} />
         </SideBySide>
       </BaseSection>
       <div id={herbertSimonSectionId}>
         <Image fluid={herbertImage} alt={pageData.herbertSimonSection.title} />
       </div>
-      <BaseSection>
+      <BaseSection id="herbert-simon">
         <SideBySide title={pageData.herbertSimonSection.title} elevateTitle>
           <div
             dangerouslySetInnerHTML={{
@@ -100,6 +100,10 @@ export const pageQuery = graphql`
           }
           teamSection {
             title
+            groups {
+              name
+              title
+            }
           }
           herbertSimonSection {
             title

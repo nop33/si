@@ -1,7 +1,7 @@
 ---
 name: Isaak Mengesha
 photo: mengeshaisaak.jpg
-group: Collaborators
+group: Advisers and Collaborators
 role: Technical research affiliate
 links:
   website: ""
