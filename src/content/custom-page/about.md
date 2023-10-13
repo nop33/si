@@ -25,19 +25,19 @@ textSections:
       ### Why?
 
 
-      From biotechnology to artificial intelligence, humanity is confronting opportunities and challenges of an unprecedented scale. The welfare of both present and future generations depends on our ability to safely introduce and harness powerful technologies, while mitigating extreme risks. 
+      From biotechnology to artificial intelligence, humanity is confronting opportunities and challenges of an unprecedented scale. The welfare of both present and future generations depends on our ability to safely introduce and harness powerful technologies, while mitigating extreme risks. 
 
 
-      In our increasingly interconnected world, the multilateral system retains a vital role. Yet, to effectively steer the changes shaping humanity's future, the multilateral system must evolve, becoming more agile, and infused with greater technical expertise.
+      In our increasingly interconnected world, the multilateral system retains a vital role. Yet, to effectively steer the changes shaping humanity's future, it must evolve, becoming more agile, and infused with greater technical expertise. 
 
 
       ### Our Work
 
 
-      Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, held numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. To learn more about our work, you can see [here](https://www.simoninstitute.ch/our-work/).
-  - title: Focus areas
+      Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, held numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. To learn more about our work, you can see [here](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/).
+  - title: Our focus areas
     content: >-
-      ### Cultivating effective multilateralism 
+      ### Cultivating effective multilateralism
 
 
       Humanity is facing challenges that are increasingly global in scale and can only be effectively addressed by countries working together. As an inclusive platform to coordinate international action, the multilateral system is the best available avenue for pursuing shared solutions. SI works with actors across the multilateral system to find synergies, share information, and build capacity.
@@ -49,7 +49,7 @@ textSections:
       New technologies hold immense potential and risks. Effective governance is vital, yet the speed of technological change often outpaces policy adjustments. At SI, we support policymakers by translating the latest science on technological risks and opportunities into concrete advice. By collaborating with policymakers to shape governance structures, we aim to enhance global technology governance to be more responsive, agile, and inclusive.
 
 
-      ### Shifting policy focus towards the long-term
+      ### Shifting policy focus to the long-term
 
 
       The attention of the multilateral system is consumed by current affairs, leading to a frequent neglect of emerging risks, especially those from complex, new technologies. SI endeavors to shift policy mindsets by providing insight into frontier technologies, raising awareness about the importance of long-term thinking, and advocating for policies that consider future generations.
@@ -58,14 +58,14 @@ textSections:
       ### Collaborative
 
 
-      At SI, we focus on building strong partnerships, and are committed to providing timely and practical support. Our approach has earned us the trust of a diverse range of partners and established our reputation as skilled conveners, fostering many productive collaborations across tech, policy, and academia. As an independent non-profit, we can focus on lasting, impartial impact.
+      At SI, we focus on cultivating strong partnerships, and are committed to providing timely, practical support. Our approach has earned the trust of a diverse range of partners, and solidified our reputation as skilled facilitators capable of fostering productive discussions across technology, policy, and academia. As an independent non-profit, we can focus on lasting, impartial impact.
 
 
       ### Forward-Looking
 
 
       We're dedicated to bridging the gap between technological innovation and policy-making, with a longstanding focus on technological change and global catastrophic risks predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
-  - title: "Transparency "
+  - title: Transparency
     content: >-
       ### Governance
 
@@ -95,10 +95,10 @@ herbertSimonSection:
     psychologist, computer scientist, and economist. 
 
 
-    He received a Turing Award in 1975, and a Nobel Prize in Economics in 1978, and is best known for formalizing the concept of bounded rationality – the idea that rational decision-making is limited by uncertainty and available computational power. 
+    He received a Turing Award in 1975, and a Nobel Prize in Economics in 1978, and is best known for formalizing the concept of bounded rationality – the idea that rational decision-making is limited by uncertainty and available computational power. 
 
 
-    Herbert's contributions to decision-making theory heavily influenced our early research, while his insights into technological development and organizational behavior continue to be of relevance to our work today. We draw particular inspiration from his belief that we should not occupy ourselves with merely predicting the future, but rather work to create the future we want. 
+    Herbert's contributions to decision-making theory heavily influenced our early research, while his insights into technological development and organizational behavior continue to be of relevance to our work today. We draw particular inspiration from his belief that we should not occupy ourselves with merely predicting the future, but rather work to create the future we want. 
 
 
     We thank Katherine, Barbara, and Peter Simon for having granted us the honor of naming the Institute for Longterm Governance after their father.
