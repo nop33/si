@@ -10,7 +10,7 @@ import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
 import Team from "../components/team"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 import { generateIdFromTitle, updateSrcSet } from "../utils"
 
@@ -41,7 +41,7 @@ const AboutPage = ({ data, location }) => {
       subtitle={pageData.subtitle}
       location={location}
     >
-      <SEO
+      <Seo
         title={pageData.seo?.title || pageData.title}
         description={pageData.seo?.description || pageData.subtitle}
       />

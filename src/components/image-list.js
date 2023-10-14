@@ -2,11 +2,11 @@ import React from "react"
 
 import Image from "gatsby-image"
 
-import styles from "./image-list.module.scss"
+import { imageList } from "./image-list.module.scss"
 
 const ImageList = ({ images }) => {
   return (
-    <div className={styles.imageList}>
+    <div className={imageList}>
       {images.map((sectionImage, index) => {
         return (
           <Image

@@ -12,7 +12,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import metadata from "../content/_configuration/metadata.yaml"
 
-const SEO = ({ description, lang, meta, title, image: metaImage }) => {
+const Seo = ({ description, lang, meta, title, image: metaImage }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -105,13 +105,13 @@ const SEO = ({ description, lang, meta, title, image: metaImage }) => {
   )
 }
 
-SEO.defaultProps = {
+Seo.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
 }
 
-SEO.propTypes = {
+Seo.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
@@ -123,4 +123,4 @@ SEO.propTypes = {
   }),
 }
 
-export default SEO
+export default Seo

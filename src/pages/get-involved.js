@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import { toHTML } from "../utils"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
 import Tabs from "../components/tabs"
@@ -41,7 +41,7 @@ const GetInvolvedPage = ({ data, location }) => {
       subtitle={pageData.subtitle}
       location={location}
     >
-      <SEO
+      <Seo
         title={pageData.seo?.title || pageData.title}
         description={pageData.seo?.description || pageData.subtitle}
       />

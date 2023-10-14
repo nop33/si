@@ -7,13 +7,13 @@ import {
   faChevronLeft,
 } from "@fortawesome/free-solid-svg-icons"
 
-import styles from "./arrowed-link.module.scss"
+import { arrowedLink, forward, backward } from "./arrowed-link.module.scss"
 
 const ArrowedLink = ({ direction, to, text, className, children, rel }) => {
   return (
     <Link
-      className={`golden ${className} ${styles.arrowedLink} ${
-        direction === "right" ? styles.forward : styles.backward
+      className={`golden ${className} ${arrowedLink} ${
+        direction === "right" ? forward : backward
       }`}
       to={to}
       rel={rel}

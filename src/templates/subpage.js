@@ -10,7 +10,7 @@ import BaseSection from "../components/sections/base"
 import SideBySide from "../components/sections/side-by-side"
 import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import VideoList from "../components/video-list"
 
 import { generateIdFromTitle, updateSrcSet } from "../utils"
@@ -71,7 +71,7 @@ const SubpageTemplate = ({ data, location }) => {
       headerLinks={category && tags && headerLinks}
       location={location}
     >
-      <SEO
+      <Seo
         title={pageData.seo?.title || pageData.title}
         description={pageData.seo?.description || pageData.subtitle}
         image={seoFeaturedImage}

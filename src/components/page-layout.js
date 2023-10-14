@@ -8,7 +8,16 @@ import HeaderBackground from "./header-background"
 import NavigationMenu from "./navigation-menu"
 import Footer from "./sections/footer"
 
-import styles from "./page-layout.module.scss"
+import {
+  homepage,
+  subpage,
+  headerContentWrapper,
+  textContent,
+  subtitle as subtitleStyles,
+  headerLinks as headerLinksStyles,
+  allPages,
+  hasImageBackground,
+} from "./page-layout.module.scss"
 
 const PageLayout = ({
   location,
@@ -23,26 +32,24 @@ const PageLayout = ({
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
 
-  const className = isRootPath ? styles.homepage : styles.subpage
+  const className = isRootPath ? homepage : subpage
 
   const headerContent = (
-    <div className={`global-content-wrapper ${styles.headerContentWrapper}`}>
+    <div className={`global-content-wrapper ${headerContentWrapper}`}>
       <NavigationMenu
         hasBackgroundImage={withImageBackgroundHeader}
       ></NavigationMenu>
-      <div className={styles.textContent}>
+      <div className={textContent}>
         <h1>{title}</h1>
-        {subtitle && <div className={styles.subtitle}>{subtitle}</div>}
-        {headerLinks && <div className={styles.headerLinks}>{headerLinks}</div>}
+        {subtitle && <div className={subtitleStyles}>{subtitle}</div>}
+        {headerLinks && <div className={headerLinksStyles}>{headerLinks}</div>}
       </div>
     </div>
   )
 
   return (
-    <article className={`${styles.allPages} ${className}`}>
-      <header
-        className={withImageBackgroundHeader ? styles.hasImageBackground : ""}
-      >
+    <article className={`${allPages} ${className}`}>
+      <header className={withImageBackgroundHeader ? hasImageBackground : ""}>
         {withImageBackgroundHeader ? (
           <HeaderBackground>{headerContent}</HeaderBackground>
         ) : (

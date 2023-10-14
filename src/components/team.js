@@ -4,7 +4,16 @@ import Image from "gatsby-image"
 
 import SocialLinks from "./social-links"
 
-import styles from "./team.module.scss"
+import {
+  membersGroup,
+  membersList,
+  name,
+  role,
+  member as memberStyles,
+  hasDetailPage,
+  photo,
+  details,
+} from "./team.module.scss"
 
 const Team = () => {
   const membersQuery = useStaticQuery(graphql`
@@ -53,12 +62,12 @@ const Team = () => {
   ]
 
   return (
-    <div className={styles.groups}>
+    <div>
       {groups.map(group => {
         return (
-          <div className={styles.membersGroup} key={`group_${group.name}`}>
+          <div className={membersGroup} key={`group_${group.name}`}>
             <h3>{group.name}</h3>
-            <div className={styles.membersList}>
+            <div className={membersList}>
               {group.nodes.map(member => {
                 const personProfilePicture = (
                   <Image
@@ -69,15 +78,14 @@ const Team = () => {
 
                 const personTextDetails = (
                   <div>
-                    <div className={styles.name}>{member.frontmatter.name}</div>
-                    <div className={styles.role}>{member.frontmatter.role}</div>
+                    <div className={name}>{member.frontmatter.name}</div>
+                    <div className={role}>{member.frontmatter.role}</div>
                   </div>
                 )
                 return (
                   <div
-                    className={`${styles.member} ${
-                      !member.frontmatter.disableDetailPage &&
-                      styles.hasDetailPage
+                    className={`${memberStyles} ${
+                      !member.frontmatter.disableDetailPage && hasDetailPage
                     }`}
                     key={`team_${member.fields.slug}`}
                   >
@@ -86,18 +94,16 @@ const Team = () => {
                         <Link
                           to={member.fields.slug}
                           key={member.fields.slug}
-                          className={styles.photo}
+                          className={photo}
                         >
                           {personProfilePicture}
                         </Link>
                       )}
                     {member.frontmatter?.photo &&
                       member.frontmatter.disableDetailPage && (
-                        <div className={styles.photo}>
-                          {personProfilePicture}
-                        </div>
+                        <div className={photo}>{personProfilePicture}</div>
                       )}
-                    <div className={styles.details}>
+                    <div className={details}>
                       {!member.frontmatter.disableDetailPage && (
                         <Link to={member.fields.slug} key={member.fields.slug}>
                           {personTextDetails}

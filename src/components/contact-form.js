@@ -1,24 +1,24 @@
 import React from "react"
 
-import styles from "./si-form.module.scss"
+import { siForm, intro as introStyles, fieldGroup } from "./si-form.module.scss"
 
 const ContactForm = ({ intro }) => {
   return (
     <form
-      className={styles.siForm}
+      className={siForm}
       action="https://usebasin.com/f/1c08954fd352"
       method="post"
     >
       {intro && (
         <div
-          className={styles.intro}
+          className={introStyles}
           dangerouslySetInnerHTML={{
             __html: intro,
           }}
         />
       )}
       <div>
-        <div className={styles.fieldGroup}>
+        <div className={fieldGroup}>
           <label htmlFor="contact-name">Name</label>
           <input
             id="contact-name"
@@ -28,7 +28,7 @@ const ContactForm = ({ intro }) => {
             required
           />
         </div>
-        <div className={styles.fieldGroup}>
+        <div className={fieldGroup}>
           <label htmlFor="contact-email">Email</label>
           <input
             id="contact-email"
@@ -38,7 +38,7 @@ const ContactForm = ({ intro }) => {
             required
           />
         </div>
-        <div className={styles.fieldGroup}>
+        <div className={fieldGroup}>
           <label htmlFor="contact-message">Message</label>
           <textarea
             id="contact-message"

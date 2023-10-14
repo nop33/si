@@ -3,18 +3,22 @@ import { Link } from "gatsby"
 
 import BaseSection from "./sections/base"
 
-import styles from "./table-of-contents.module.scss"
+import {
+  tableOfContentsSection,
+  oneLineSection,
+  tableOfContents,
+  oneLine as oneLineStyles,
+  multipleLines,
+} from "./table-of-contents.module.scss"
 
 const TableOfContents = ({ links, oneLine }) => {
   return (
     <BaseSection
-      className={`${styles.tableOfContentsSection} ${
-        oneLine && styles.oneLineSection
-      }`}
+      className={`${tableOfContentsSection} ${oneLine && oneLineSection}`}
     >
       <div
-        className={`${styles.tableOfContents} ${
-          oneLine ? styles.oneLine : styles.multipleLines
+        className={`${tableOfContents} ${
+          oneLine ? oneLineStyles : multipleLines
         }`}
       >
         <ul>

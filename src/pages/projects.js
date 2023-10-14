@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import FeaturedTagsList from "../components/featured-tags-list"
 import BaseSection from "../components/sections/base"
-import CardsWithText from "../components/sections/cards-with-text"
 import Card from "../components/card"
+import CardsWithText from "../components/sections/cards-with-text"
 import { updateSrcSet } from "../utils"
 
 const ProjectsPage = ({ data, location }) => {
@@ -21,7 +21,7 @@ const ProjectsPage = ({ data, location }) => {
         subtitle={`${totalCount} project${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
-        <SEO
+        <Seo
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description || pageData.subtitle}
         />

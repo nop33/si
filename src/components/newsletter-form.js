@@ -1,28 +1,28 @@
 import React from "react"
 
-import styles from "./si-form.module.scss"
+import { siForm, intro as introStyles, fieldGroup } from "./si-form.module.scss"
 
 const NewsletterForm = ({ intro }) => {
   return (
     <form
-      className={styles.siForm}
+      className={siForm}
       action="https://simoninstitute.us1.list-manage.com/subscribe/post?u=5d7bba8c78d25d980050b3a16&amp;id=dfb580ce4c"
       method="post"
     >
       {intro && (
         <div
-          className={styles.intro}
+          className={introStyles}
           dangerouslySetInnerHTML={{
             __html: intro,
           }}
         />
       )}
       <div>
-        <div className={styles.fieldGroup}>
+        <div className={fieldGroup}>
           <label htmlFor="mce-NAME">Name</label>
           <input id="mce-NAME" type="text" name="NAME" aria-label="Name" />
         </div>
-        <div className={styles.fieldGroup}>
+        <div className={fieldGroup}>
           <label htmlFor="mce-EMAIL">Email</label>
           <input
             id="mce-EMAIL"
