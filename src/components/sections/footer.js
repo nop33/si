@@ -3,7 +3,7 @@ import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import BaseSection from "./base"
+import BaseSection from "./BaseSection"
 import ArrowedLink from "../arrowed-link"
 import {
   footerSection,

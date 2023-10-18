@@ -6,7 +6,7 @@ import { updateSrcSet } from "../utils"
 
 import Authors from "../components/authors"
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import ArrowedLink from "../components/arrowed-link"
 import TagsList from "../components/tags-list"
 import Seo from "../components/seo"

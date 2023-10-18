@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import BaseSection from "./sections/base"
+import BaseSection from "./sections/BaseSection"
 
 import {
   tableOfContentsSection,
@@ -11,10 +11,19 @@ import {
   multipleLines,
 } from "./table-of-contents.module.scss"
 
-const TableOfContents = ({ links, oneLine }) => {
+interface TableOfContents {
+  links: {
+    title?: string
+    url: string
+  }[]
+  oneLine?: boolean
+}
+
+const TableOfContents = ({ links, oneLine }: TableOfContents) => {
   return (
     <BaseSection
       className={`${tableOfContentsSection} ${oneLine && oneLineSection}`}
+      id="table-of-contents"
     >
       <div
         className={`${tableOfContents} ${

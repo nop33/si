@@ -16,6 +16,7 @@ seo:
   title: ""
   description: ""
 ---
+
 ## Summary
 
 The Simon Institute for Longterm Governance (SI) aims to increase the long-term impact of policymaking processes.
@@ -24,7 +25,7 @@ In its first 24 months, from March 15th, 2021 to March 15th, 2023, SI’s core o
 
 1. prove its approach by generating early signs of counterfactual impact;
 2. narrow down its focus until 2026; and
-3. raise funding to employ at least 5 full-time equivalents (FTE). *\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]*
+3. raise funding to employ at least 5 full-time equivalents (FTE). _\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]_
 
 In 2021, SI will
 
@@ -51,11 +52,11 @@ We will define a detailed plan for 2022 in Q4 of 2021. We currently expect to co
 
 After at most 1.5 years of work, via surveys and case studies, we expect to see:
 
-* Policymakers use insights and tools from our trainings in their work;
-* Policymakers better understand global catastrophic risks and longtermism;
-* Longtermists better understand international policymaking;
-* Individuals improve their career plans;
-* Our research can pass academic peer-review.
+- Policymakers use insights and tools from our trainings in their work;
+- Policymakers better understand global catastrophic risks and longtermism;
+- Longtermists better understand international policymaking;
+- Individuals improve their career plans;
+- Our research can pass academic peer-review.
 
 ### 2021 Objectives
 
@@ -63,33 +64,33 @@ After at most 1.5 years of work, via surveys and case studies, we expect to see:
 
 ##### 1.1 Tools
 
-* 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
-* 1.1.2 Test workshop on behavioral insights for complex problem solving (Q2&3)
-* 1.1.3 Test training on multi-objective prioritization in policymaking (Q4)
+- 1.1.1 Test table-top exercise on pandemic preparedness (Q3&4)
+- 1.1.2 Test workshop on behavioral insights for complex problem solving (Q2&3)
+- 1.1.3 Test training on multi-objective prioritization in policymaking (Q4)
 
 ##### 1.2 Research
 
-* 1.2.1 Publish working paper on “policymaking for the long-term future” (Q2)
-* 1.2.2 Publish method paper on “computational policy process studies” (Q2)
-* 1.2.3 Publish “needs analysis for complex problem-solving in international policy networks” (Q2)
-* 1.2.4 Publish working paper on “dynamics of policy change and their implications for long-term policymaking” (Q3)
-* 1.2.5 Publish working paper on “strategies for effective longtermist advocacy” (Q3)
-* 1.2.6 Publish “review of leverage points to strengthen individual decision-making in the face of complexity” (Q3)
-* 1.2.7 Submit funding proposal on “computational policy process studies” to Swiss National Science Foundation (Q3)
-* 1.2.8 Publish working paper on “strengthening policy processes for the longterm future” (Q4)
-* 1.2.9 Publish “an agenda for research and practice in longterm governance” (Q4)
+- 1.2.1 Publish working paper on “policymaking for the long-term future” (Q2)
+- 1.2.2 Publish method paper on “computational policy process studies” (Q2)
+- 1.2.3 Publish “needs analysis for complex problem-solving in international policy networks” (Q2)
+- 1.2.4 Publish working paper on “dynamics of policy change and their implications for long-term policymaking” (Q3)
+- 1.2.5 Publish working paper on “strategies for effective longtermist advocacy” (Q3)
+- 1.2.6 Publish “review of leverage points to strengthen individual decision-making in the face of complexity” (Q3)
+- 1.2.7 Submit funding proposal on “computational policy process studies” to Swiss National Science Foundation (Q3)
+- 1.2.8 Publish working paper on “strengthening policy processes for the longterm future” (Q4)
+- 1.2.9 Publish “an agenda for research and practice in longterm governance” (Q4)
 
 #### 2. Building capacity
 
-* 2.1 Fundraise minimum CHF 113k by Q3 and push for up to CHF 2m in Q4
-* 2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF) *\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]*
-* 2.3 Build up a good reputation among target audience (events rated ≥8/10)
+- 2.1 Fundraise minimum CHF 113k by Q3 and push for up to CHF 2m in Q4
+- 2.2 Recruit 1 additional full-time equivalent of priority roles as soon as 2 years of salary can be guaranteed (~200’000 CHF) _\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]_
+- 2.3 Build up a good reputation among target audience (events rated ≥8/10)
 
 #### 3. Launching and set up SI
 
-* 3.1 Launch website and public announcement in Q1
-* 3.2 Build SI’s legal foundation in Q1
-* 3.3 Design management and operations systems throughout Q1-3
+- 3.1 Launch website and public announcement in Q1
+- 3.2 Build SI’s legal foundation in Q1
+- 3.3 Design management and operations systems throughout Q1-3
 
 ### Testing tools and research
 
@@ -115,7 +116,7 @@ To maintain capacity throughout 2022, SI requires to fundraise at least CHF 113�
 
 #### Hiring
 
-*\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]*
+_\[EDIT 2021-09-14: after consulting with advisers, we have decided not to hire additional staff until at least March 2022 to collect more data to prove our concept]_
 
 To scale at capacity and build runway, we currently expect to be able to make use of as much as CHF 2’000’000 in the first 2-years of operations. This would allow us to hire an additional 5 full-time equivalents (FTE) and thereby drastically increase our capacity to run workshops, collect and analyze data, improve our strategy and support the translation of longtermist ideas into policy practices.
 
@@ -172,4 +173,4 @@ To adapt systematically and avoid losing momentum, we use the following mechanis
 2. Quarterly strategic meeting: staff revisits the annual plan and adapts the project schedule as a function of progress to design a detailed plan for each quarter.
 3. Semiannual board meeting: in February and October, the governing board discusses progress and adapts the strategy accordingly.
 
-**[Read all this way? Consider donating.](/get-involved/#donate)**
+**[Read all this way? Consider donating.](/contact/#donate)**

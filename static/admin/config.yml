@@ -163,6 +163,21 @@ collections:
             widget: object
             fields:
               - { label: "Title", name: "title", widget: "string" }
+              - label: "Team groups"
+                name: groups
+                widget: list
+                fields:
+                  - label: "Displayed title"
+                    name: "title"
+                    widget: "string"
+                    required: false
+                  - label: "Group"
+                    name: "name"
+                    widget: "relation"
+                    collection: "team-groups"
+                    search_fields: ["name"]
+                    value_field: "name"
+                    display_fields: ["name"]
           - label: "Herbert Simon section"
             name: "herbertSimonSection"
             widget: object
@@ -199,9 +214,9 @@ collections:
                   required: false,
                 }
 
-      - label: "Get Involved page"
-        name: "get-involved"
-        file: "src/content/custom-page/get-involved.md"
+      - label: "Contact page"
+        name: "contact"
+        file: "src/content/custom-page/contact.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - {
@@ -374,7 +389,7 @@ collections:
                 }
       - label: "Projects overview page"
         name: "projects-overview"
-        file: "src/content/custom-page/projects.md"
+        file: "src/content/custom-page/our-work.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - {
@@ -472,6 +487,16 @@ collections:
       preview: false
     fields:
       - { label: "Category title", name: "title", widget: "string" }
+  - name: "team-groups"
+    label: "Team groups"
+    folder: "src/content/_team-groups"
+    create: true
+    slug: "index"
+    path: "{{name}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Team group name", name: "name", widget: "string" }
   - name: "project"
     label: "Projects"
     folder: "src/content/project"
@@ -718,6 +743,14 @@ collections:
               widget: "string",
               required: false,
             }
+      - label: "Project category"
+        name: "category"
+        widget: "relation"
+        collection: "project-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
+        required: false
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
@@ -754,9 +787,11 @@ collections:
       - { label: "Photo", name: "photo", widget: "image", required: false }
       - label: "Group"
         name: "group"
-        widget: "select"
-        options:
-          ["Advisers", "Governing board", "Collaborators", "Staff", "Alumni"]
+        widget: "relation"
+        collection: "team-groups"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
       - { label: "Role", name: "role", widget: "string" }
       - label: "External links"
         name: "links"

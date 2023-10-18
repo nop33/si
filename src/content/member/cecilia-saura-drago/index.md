@@ -1,11 +1,12 @@
 ---
 name: Cecilia Saura Drago
 photo: ceciliaprofilepicture.jpeg
-group: Staff
+group: Core team
 role: Director of operations
 links:
   linkedin: https://www.linkedin.com/in/csauradrago/
 ---
+
 Cecilia leads the operation of SI’s programs. She manages people and internal processes, and facilitates organizational development in close collaboration with SI co-founders.
 
 Previously, Cecilia was Director of Client Management for Europe, Middle East and Africa at [KUDO](https://kudoway.com/) and, earlier, fulfilled a wide range of roles at the [International Union for Conservation of Nature](https://www.iucn.org/).

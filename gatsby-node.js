@@ -218,7 +218,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   projectCategories.forEach(tag => {
     createPage({
-      path: `/projects/category/${_.kebabCase(tag.fieldValue)}/`,
+      path: `/our-work/category/${_.kebabCase(tag.fieldValue)}/`,
       component: projectsGroupTemplate,
       context: {
         tag: tag.fieldValue,
@@ -253,7 +253,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   projectTags.forEach(tag => {
     createPage({
-      path: `/projects/tag/${_.kebabCase(tag.fieldValue)}/`,
+      path: `/our-work/tag/${_.kebabCase(tag.fieldValue)}/`,
       component: projectsTagTemplate,
       context: {
         tag: tag.fieldValue,

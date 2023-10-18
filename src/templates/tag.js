@@ -3,8 +3,8 @@ import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import FeaturedTagsList from "../components/featured-tags-list"
-import BaseSection from "../components/sections/base"
+import FeaturedTagsList from "../components/FeaturedTagsList"
+import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
 import Grid from "../components/sections/grid"
 
@@ -21,7 +21,7 @@ const BlogTagTemplate = ({ pageContext, data, location }) => {
         location={location}
       >
         <Seo title={`${pageContext.tag} posts`} />
-        <FeaturedTagsList isBlogTags tags={featuredTags.blogTags} />
+        <FeaturedTagsList type="blog" tags={featuredTags.blogTags} />
         <BaseSection>
           <Grid>
             {nodes.map(post => {

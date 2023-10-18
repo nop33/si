@@ -19,14 +19,14 @@ keyfactsSection:
       research, policy support, and facilitation.
     link:
       title: More
-      url: /projects/
+      url: /our-work/
   - title: Get involved
     description: "If you’re interested in learning more about our work,
       collaborating with us, or supporting our efforts, feel free to get in
       touch. We’re always happy to connect and share insights. "
     link:
       title: Connect
-      url: /get-involved/
+      url: /contact/
 featuredProjectsSection:
   title: Featured projects
   projectsByCategory:
@@ -51,8 +51,9 @@ postsSection:
       url: /blog/tag/updates/
 seo:
   title: Simon Institute for Longterm Governance
-  description: We help policy networks understand extreme risks, identify
-    coordination bottlenecks and equip them with tools and heuristics to render
-    tacit knowledge explicit, reduce information asymmetries and deliberate
-    productively.
+  description: Based in Geneva, Switzerland, the Simon Institute for Longterm
+    Governance (SI) works to mitigate global catastrophic risks, building on
+    Herbert Simon's vision of future-oriented policymaking. With a focus on
+    fostering international cooperation, we center our efforts on the
+    multilateral system.
 ---

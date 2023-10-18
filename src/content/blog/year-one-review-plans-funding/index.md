@@ -259,7 +259,7 @@ Looking back on SI’s achievements and at the opportunities ahead, by far, our 
 
 We have handed in grant proposals to the FTX Future Fund, the Survival Flourishing Fund, and the EA Funds and are awaiting feedback. We are in touch with Effective Giving and Founders Pledge as well as a few private donors. We do not expect to receive major grants before the end of June. The sooner we get funding confirmed, the sooner Max can quit his job and we can start scaling up to leverage the UN’s Our Common Agenda and similarly promising opportunities for the mitigation of global catastrophic risks and the flourishing of future generations.
 
-You can [donate crypto, $, £ and € tax-deductibly from the US, UK and NL via the EA Funds](/get-involved/#donate). You can [donate CHF tax-deductibly via EA Geneva](https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388) or [direct bank transfer](/get-involved/#donate). For donations from Germany, please, get in touch.
+You can [donate crypto, $, £ and € tax-deductibly from the US, UK and NL via the EA Funds](/contact/#donate). You can [donate CHF tax-deductibly via EA Geneva](https://secure.squarespace.com/checkout/donate?donatePageId=5c003973c2241b0a1e7b9388) or [direct bank transfer](/contact/#donate). For donations from Germany, please, get in touch.
 
 ## 5. How to get in touch
 

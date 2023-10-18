@@ -1,10 +1,9 @@
 items:
   - title: About
     url: /about/
-#  - title: Projects
-#    url: /projects/
+  - title: Our work
+    url: /our-work/
   - title: Blog
     url: /blog/
   - title: Contact
-    url: /get-involved/
-
+    url: /contact/

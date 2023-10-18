@@ -5,8 +5,8 @@ import { toHTML } from "../utils"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import BaseSection from "../components/sections/base"
-import SideBySide from "../components/sections/side-by-side"
+import BaseSection from "../components/sections/BaseSection"
+import SideBySide from "../components/sections/SideBySide"
 import Tabs from "../components/tabs"
 import ColumnsWithButtons from "../components/sections/columns-with-buttons"
 import ContactForm from "../components/contact-form"
@@ -14,7 +14,7 @@ import StayInTouch from "../components/stay-in-touch"
 
 import { generateIdFromTitle } from "../utils"
 
-const GetInvolvedPage = ({ data, location }) => {
+const ContactPage = ({ data, location }) => {
   const pageData = data.allMarkdownRemark.nodes[0].frontmatter
   const workWithUsSectionId = generateIdFromTitle(
     pageData.workWithUsSection.title
@@ -96,12 +96,12 @@ const GetInvolvedPage = ({ data, location }) => {
   )
 }
 
-export default GetInvolvedPage
+export default ContactPage
 
 export const pageQuery = graphql`
   query {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/custom-page/get-involved.md/" } }
+      filter: { fileAbsolutePath: { regex: "/custom-page/contact.md/" } }
     ) {
       nodes {
         frontmatter {

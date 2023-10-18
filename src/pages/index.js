@@ -5,7 +5,7 @@ import { updateSrcSet } from "../utils"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import KeyfactsSection from "../components/sections/keyfacts"
 import Keyfact from "../components/keyfact"
 import Card from "../components/card"
@@ -153,40 +153,6 @@ export const pageQuery = graphql`
         }
       }
     }
-    projects: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "project" } }
-        frontmatter: { isFeaturedOnHomepage: { eq: true } }
-      }
-    ) {
-      nodes {
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-          subtitle
-          card {
-            title
-            description
-          }
-          category
-          tags
-          featuredImage {
-            childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-      }
-    }
     news: allMarkdownRemark(
       limit: 2
       filter: {
@@ -218,9 +184,7 @@ export const pageQuery = graphql`
       limit: 1
       filter: {
         fields: { contentType: { eq: "blog" } }
-        frontmatter: {
-          isHighlighted: { eq: true }
-        }
+        frontmatter: { isHighlighted: { eq: true } }
       }
       sort: { frontmatter: { date: DESC } }
     ) {

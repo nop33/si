@@ -7,7 +7,7 @@ textSections:
       ### Vision
 
 
-      At SI, we envision a world where humanity coordinates effectively so that life can flourish. 
+      At SI, we envision a world where humanity coordinates effectively so that life can flourish. 
 
 
       We believe in the potential of human ingenuity and technology to create a future where life can thrive. But we worry about escalating harms or large-scale disaster if change is not well-governed. By enhancing multilateral coordination, we hope to contribute to long-term survival and well-being.
@@ -16,7 +16,7 @@ textSections:
       ### Mission
 
 
-      SI’s mission is to support multilateral governance actors to think long-term and develop instruments that reduce global catastrophic risks, improve quality of life, and promote agency for present and future generations. 
+      SI’s mission is to support multilateral governance actors to think long-term and develop instruments that reduce global catastrophic risks, improve quality of life, and promote agency for present and future generations. 
 
 
       In collaboration with international organizations, governments, think tanks and leading research labs, we translate technical knowledge into actionable policy advice and facilitate decision-making processes with diverse actors, thereby enhancing multilateral governance processes.
@@ -65,8 +65,28 @@ textSections:
 
 
       We're dedicated to bridging the gap between technological innovation and policy-making, with a longstanding focus on technological change and global catastrophic risks predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
+  - title: Transparency
+    content: >-
+      ### Governance
+
+
+      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit?usp=sharing). 
+
+
+      ### Reporting
+
+
+      Our funding comes from various private and philanthropic donors, all of whom respect our independence in resource allocation. You can refer to our annual reports for further information about our activities and funding sources.
+
+
+      **2021-2022** [Annual Report](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
 teamSection:
   title: Our team
+  groups:
+    - name: Core team
+      title: Core team
+    - name: Advisers and Collaborators
+      title: Advisers and collaborators
 herbertSimonSection:
   title: Herbert Simon
   photo: ../../images/herbert_simon.jpg
