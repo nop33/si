@@ -1,3 +1,3 @@
 ---
-title: Knowledge Synthesis
+title: Knowledge synthesis
 ---
