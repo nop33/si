@@ -8,6 +8,7 @@ authors:
     page: konrad-seifert/index
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Knowledge synthesis
 tags:
   - AI
 isHighlighted: false
