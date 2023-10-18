@@ -70,7 +70,7 @@ textSections:
       ### Governance
 
 
-      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit?usp=sharing). 
+      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit#heading=h.58e2f7lgs9no). 
 
 
       ### Reporting
