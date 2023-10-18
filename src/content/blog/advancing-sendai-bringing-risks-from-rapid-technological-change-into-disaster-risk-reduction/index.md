@@ -9,7 +9,7 @@ authors:
     page: cecilia-saura-drago/index
   - name: Sofia Mikton
     page: sofia-mikton/index
-category:
+category: Policy support
 tags:
   - sendaiframework
   - disasterrisk
