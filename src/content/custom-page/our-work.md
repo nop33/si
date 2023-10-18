@@ -12,11 +12,10 @@ projectsByCategories:
       effectively.
   - category: Policy Support
     title: Policy support
-    description: We inform multilateral policy processes, especially via the UN and
-      OECD systems, through written recommendations, panel engagements, and
-      specialized advice to policy actors. We focus on processes that promote
-      long-term thinking, enhance risk mitigation, and strengthen global
-      technology governance.
+    description: We inform multilateral policy processes through written
+      recommendations, panel engagements, and specialized advice to policy
+      actors. We focus on processes that promote long-term thinking, enhance
+      risk mitigation, and strengthen global technology governance.
   - category: Facilitation
     title: Facilitation
     description: With strong connections in academia, the multilateral system, and
