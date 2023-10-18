@@ -2,7 +2,7 @@
 title: Our work
 subtitle: ""
 projectsByCategories:
-  - category: Knowledge Synthesis
+  - category: Knowledge synthesis
     title: Knowledge synthesis
     description: We synthesize knowledge, creating reports, briefings, and
       presentations at the intersection of long-term governance, technology
@@ -10,7 +10,7 @@ projectsByCategories:
       technological and policy concepts into accessible language, to ensure that
       decision-makers understand and act on policy-relevant developments
       effectively.
-  - category: Policy Support
+  - category: Policy support
     title: Policy support
     description: We inform multilateral policy processes through written
       recommendations, panel engagements, and specialized advice to policy
