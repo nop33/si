@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
 import Seo from "../components/seo"
-import FeaturedTagsList from "../components/FeaturedTagsList"
 import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
 import CardsWithText from "../components/sections/cards-with-text"
@@ -11,15 +10,11 @@ import { updateSrcSet } from "../utils"
 
 const ProjectsPage = ({ data, location }) => {
   const pageData = data.projectsPage.nodes[0].frontmatter
-  const { nodes, totalCount } = data.projects
+  const { nodes } = data.projects
 
   return (
     <div>
-      <PageLayout
-        title={pageData.title}
-        subtitle={`${totalCount} project${totalCount === 1 ? "" : "s"}`}
-        location={location}
-      >
+      <PageLayout title={pageData.title} subtitle={""} location={location}>
         <Seo
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description || pageData.subtitle}
@@ -44,11 +39,8 @@ const ProjectsPage = ({ data, location }) => {
                 title={
                   project.frontmatter.card?.title || project.frontmatter.title
                 }
-                subtitle={project.frontmatter.tags?.join(" / ")}
-                content={
-                  project.frontmatter.card?.description ||
-                  project.frontmatter.subtitle
-                }
+                subtitle={project.frontmatter.date}
+                content={project.frontmatter.description || project.excerpt}
               />
             )
           })
@@ -102,28 +94,19 @@ export const pageQuery = graphql`
         frontmatter: { category: { ne: "" } }
       }
     ) {
-      totalCount
       nodes {
+        excerpt
         fields {
           slug
         }
         frontmatter {
+          date(formatString: "MMMM DD, YYYY")
           title
-          subtitle
-          card {
-            title
-            description
-          }
           category
-          tags
+          description
           featuredImage {
             childImageSharp {
-              fluid(
-                maxWidth: 500
-                maxHeight: 290
-                fit: COVER
-                cropFocus: CENTER
-              ) {
+              fluid(maxWidth: 500, maxHeight: 290) {
                 ...GatsbyImageSharpFluid
               }
             }
