@@ -10,7 +10,7 @@ workWithUsSection:
         text: Apply
         url: https://airtable.com/shrmrPRmaSylt2ljL
     - title: Collaborate
-      content: We’re happy to collaborate with individuals working on related projects.
+      content: We're happy to collaborate with those involved in similar work.
       button:
         text: Get in touch
         url: "#get-in-touch"
