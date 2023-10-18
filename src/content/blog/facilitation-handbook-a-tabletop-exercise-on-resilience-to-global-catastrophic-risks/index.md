@@ -6,6 +6,7 @@ featuredImage: pxl_20211125_133721334.jpg
 authors:
   - name: Maxime Stauffer
     page: maxime-stauffer/index
+category: Facilitation
 tags:
   - Resources
 isHighlighted: false

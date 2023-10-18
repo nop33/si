@@ -28,13 +28,13 @@ textSections:
       From biotechnology to artificial intelligence, humanity is confronting opportunities and challenges of an unprecedented scale. The welfare of both present and future generations depends on our ability to safely introduce and harness powerful technologies, while mitigating extreme risks. 
 
 
-      In our increasingly interconnected world, the multilateral system retains a vital role. Yet, to effectively steer the changes shaping humanity's future, it must evolve, becoming more agile, and infused with greater technical expertise. 
+      In our increasingly interconnected world, the multilateral system retains a vital role. Yet, to effectively steer the changes shaping humanity's future, it must evolve, becoming more agile, and enriched with greater technical expertise. 
 
 
       ### Our Work
 
 
-      Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, held numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. To learn more about our work, you can see [here](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/).
+      Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, hosted numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. You can see [here](https://www.simoninstitute.ch/our-work/) to learn more about our work.
   - title: Our focus areas
     content: >-
       ### Cultivating effective multilateralism
@@ -70,7 +70,7 @@ textSections:
       ### Governance
 
 
-      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit?usp=sharing). 
+      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit#heading=h.58e2f7lgs9no). 
 
 
       ### Reporting

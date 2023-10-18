@@ -9,6 +9,7 @@ authors:
     page: malou-estier/index
   - name: Belinda Cleeland
     page: belinda-cleeland/index
+category: Policy support
 tags:
   - AI
 isHighlighted: false

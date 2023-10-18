@@ -9,6 +9,7 @@ featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Facilitation
 tags:
   - Biosecurity
   - UN

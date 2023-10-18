@@ -15,6 +15,7 @@ authors:
   - externalName: Sarah Dryhurst
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Knowledge synthesis
 tags:
   - publications
   - disasterrisk

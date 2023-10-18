@@ -7,6 +7,9 @@ featuredImage: IMG_2982.jpg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Facilitation
+tags:
+  - events
 isHighlighted: false
 ---
 **Summary:** From the 13th-16th January, the Simon Institute hosted 30 actors from across the multilateral system and academia to discuss risks from technological development (particularly in AI and biotechnology), future generations and other related topics. You can read the workshop’s outcomes [here](https://drive.google.com/file/d/1T8DsNQJEFYLQB-OYc3A_ftvccPfxKAJB/view?usp=sharing).

@@ -24,6 +24,7 @@ authors:
   - externalName: Jasmin Kaur
   - externalName: Shrestha Rath
   - externalName: Yung-Hsuan Wu
+category: Knowledge synthesis
 tags:
   - Resources
   - Publications

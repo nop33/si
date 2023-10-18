@@ -10,11 +10,16 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category:
+category: null
 tags:
   - Updates
   - Strategy
 isHighlighted: true
+seo:
+  description: "In April 2021, we launched the Simon Institute for Longterm
+    Governance (SI). In this post, we provide a review of SI’s work since
+    inception. We outline why we founded SI, our approach to impact, our first
+    two years in numbers, our impact so far, and our plans moving forward. "
 ---
 
 ## Overview
