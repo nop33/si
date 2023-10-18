@@ -39,7 +39,10 @@ donateSection:
   intro:
     content: We currently estimate our room for more funding until the end of 2025
       to be between CHF 2,800,000 - 5,500,000. Any amount will directly help us
-      to do more.
+      to do more. You can view our 2021-2022 financial report
+      [here](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing),
+      and our 2021-2022 activity report
+      [here](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing).
     button:
       text: Donate
       url: https://docs.google.com/document/d/1SYvmxxe8_f2ZQmE3s77t60uqZB2RQTbg944E7w45UCM/edit?usp=sharing
