@@ -10,14 +10,13 @@ workWithUsSection:
         text: Apply
         url: https://airtable.com/shrmrPRmaSylt2ljL
     - title: Collaborate
-      content: |-
-        We’re happy to support or collaborate with individuals working on related projects.
+      content: We’re happy to collaborate with individuals working on related projects.
       button:
         text: Get in touch
         url: "#get-in-touch"
     - title: Partner
-      content: |-
-        We’re always seeking to build lasting relationships with aligned institutions.
+      content: We’re always seeking to build lasting relationships with aligned
+        institutions.
       button:
         text: Get in touch
         url: "#get-in-touch"
@@ -38,8 +37,7 @@ stayInTouchSection:
 donateSection:
   title: Donate
   intro:
-    content:
-      We currently estimate our room for more funding until the end of 2025
+    content: We currently estimate our room for more funding until the end of 2025
       to be between CHF 2,800,000 - 5,500,000. Any amount will directly help us
       to do more.
     button:
@@ -52,8 +50,7 @@ donateSection:
         **IBAN:** CH67 0021 5215 1374 8301 K <br />
         *This is tax-deductible in CH only.*
     - title: From the Netherlands, the UK, or the US?
-      content:
-        If you’re from one of these countries, you can [make tax-deductible
+      content: If you’re from one of these countries, you can [make tax-deductible
         donations via our partner organization "Giving What We
         Can"](https://www.givingwhatwecan.org/charities/simon-institute). They
         also accept crypto. For donations from Germany and other countries,
