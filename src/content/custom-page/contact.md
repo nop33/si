@@ -48,6 +48,8 @@ donateSection:
       content: |-
         **Name:** Simon Institute for Longterm Governance <br />
         **IBAN:** CH67 0021 5215 1374 8301 K <br />
+
+
         *This is tax-deductible in Switzerland only.*
     - title: From the Netherlands, the UK, or the US?
       content: If you’re from one of these countries, you can [make tax-deductible
