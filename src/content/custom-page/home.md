@@ -11,7 +11,7 @@ keyfactsSection:
     link:
       title: More
       url: /about/
-  - title: Our Work
+  - title: Our work
     description: >
       In practice, we raise awareness about global catastrophic risks, bridge
       the gap between innovation and policy, and advocate for the interests of
