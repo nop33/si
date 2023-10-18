@@ -51,7 +51,7 @@ donateSection:
 
 
         *This is tax-deductible in Switzerland only.*
-    - title: From the Netherlands, the UK, or the US?
+    - title: From NL, the UK, or the US?
       content: If you’re from one of these countries, you can [make tax-deductible
         donations via our partner organization "Giving What We
         Can"](https://www.givingwhatwecan.org/charities/simon-institute). They
