@@ -58,13 +58,13 @@ textSections:
       ### Collaborative
 
 
-      At SI, we focus on cultivating strong partnerships, and are committed to providing timely, practical support. Our approach has earned the trust of a diverse range of partners, and solidified our reputation as skilled facilitators capable of fostering productive discussions across technology, policy, and academia. As an independent non-profit, we can focus on lasting, impartial impact.
+      At SI, we focus on cultivating lasting partnerships and providing timely, practical support. As an independent non-profit, we remain agile, in order to pivot and divert resources towards the most relevant and promising opportunities for lasting impact. Our transparent approach has earned the trust of a diverse range of partners, and solidified our reputation as skilled facilitators capable of catalyzing productive discussions across technology, policy, and academia.
 
 
-      ### Forward-Looking
+      ### Forward-looking
 
 
-      We're dedicated to bridging the gap between technological innovation and policy-making, with a longstanding focus on technological change and global catastrophic risks predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
+      We're dedicated to bridging the gap between technological innovation and policymaking, with a longstanding focus on technological change and global catastrophic risks, predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
   - title: Transparency
     content: >-
       ### Governance
