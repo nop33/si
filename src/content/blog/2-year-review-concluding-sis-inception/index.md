@@ -28,8 +28,6 @@ In April 2021, we launched the Simon Institute for Longterm Governance ([SI](htt
 * Our work and impact so far 
 * Our plans moving forward
 
-
-
 ## Why We Founded SI
 
 The Simon Institute for Longterm Governance (SI) was founded in April 2021, with the goal of enhancing the multilateral system's ability to anticipate and mitigate global catastrophic risks. In the last decade, advances in [artificial intelligence](https://www.simoninstitute.ch/blog/post/artificial-intelligence-a-brief-on-risks-and-opportunities/) and [biotechnology](https://www.simoninstitute.ch/blog/post/biotechnology-a-brief-on-risks-and-opportunities/) have increased the prospects of drastic technological breakthroughs and risks which the multilateral system is currently not equipped to govern. Short-term incentives continue to make it difficult for policymakers to think on longer time scales, consider the needs of future generations, and address emerging risks. 
@@ -66,20 +64,17 @@ In 2021, in response to a wave of global shocks, including Covid-19 and the grow
 
 For SI, the Summit provided a chance to advocate for future-oriented issues currently missing from multilateral discussions, such as risks from advanced technologies. Through a series of workshops, meetings, and events, SI convened researchers and policymakers to bridge knowledge gaps on emerging technological issues, promote information exchange, and spark joint contributions to multilateral processes.
 
-
-
 * In October 2021, SI co-organized a two-day workshop with the Centre for the Study of Existential Risk (CSER) to inform policymakers and risk researchers on OCA processes. 
 * In September 2022, SI held a two-day workshop with 25 researchers to inform them about UN processes and coordinate OCA activity. This workshop led to joint contributions to the Global Digital Compact and Global Risk and Opportunities report. 
 * In October and November 2022, SI went to New York to meet key actors working towards the Summit of the Future and coordinate plans. SI met with the UN Foundation, the permanent missions of Sweden, Denmark, Luxembourg and the Netherlands, the Executive Office of the Secretary General, the UN Office for Disaster Risk Reduction, the UNU Centre for Policy Research, the UN Crisis Response Group, and the Office of the Tech Envoy.
 * In January 2023, SI organized a [two-day workshop](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with 28 risk researchers and UN actors to coordinate efforts on governing rapid technological change across the disarmament, disaster risk reduction, health and development domains. As a result: 
-* The University of Oxford initiated an alliance for future generations;
-* The right hand of the co-facilitator of the Global Digital Compact (GDC) prioritized understanding and making progress on AI governance via the GDC; 
-* The UN Foundation and Executive Office of the Secretary General (EOSG) invited SI to give a workshop to Member State delegations on governing emerging technologies 
-* SI was provided with an opportunity to respond to numerous EOSG [policy briefs](https://www.un-ilibrary.org/content/papers/27082245);
-* The EOSG invited one of the workshop participants, Cecil Abungu, to make an expert [statement in front of the UN General Assembly](https://media.un.org/en/asset/k14/k14h13uj4d?kalturaStartTime=1250&kalturaStartTime=1204). 
+
+  * The University of Oxford initiated an alliance for future generations;
+  * The right hand of the co-facilitator of the Global Digital Compact (GDC) prioritized understanding and making progress on AI governance via the GDC; 
+  * The UN Foundation and Executive Office of the Secretary General (EOSG) invited SI to give a workshop to Member State delegations on governing emerging technologies 
+  * SI was provided with an opportunity to respond to numerous EOSG [policy briefs](https://www.un-ilibrary.org/content/papers/27082245);
+  * The EOSG invited one of the workshop participants, Cecil Abungu, to make an expert [statement in front of the UN General Assembly](https://media.un.org/en/asset/k14/k14h13uj4d?kalturaStartTime=1250&kalturaStartTime=1204). 
 * In March 2023, SI organized a 1.5 day workshop with the UN Foundation and the International Chamber of Commerce to develop messaging on the importance of technological change and the need to protect future generations ahead of the Summit. Participants were also invited to discuss the future of multilateralism with Micheal Møller, the 12th director-general of the United Nations Office at Geneva.
-
-
 
 Without SI’s contributions… 
 
@@ -88,8 +83,6 @@ Without SI’s contributions… 
 3. UN actors working towards the Summit would be less informed about risks from rapid technological change, particularly about those stemming from AI and biotechnology. 
 4. SI would have less bandwidth with UN actors – with in-person meetings and workshops helping to build trust and mutual understanding. 
 5. Key actors informing the Summit of the Future would work independently rather than collaboratively towards shared goals. 
-
-
 
 At the 2024 Summit of the Future, an action-oriented [Pact for the Future](https://www.un.org/en/common-agenda/summit-of-the-future) will be adopted, detailing practical measures to enshrine and promote the rights of future generations. To prevent key framings on future generations from becoming diluted, politicized, or misused, SI focused on informing key documents and processes feeding into the pact. 
 
@@ -162,7 +155,7 @@ Without SI’s work…
 
 Moving forward, SI plans to reduce its focus on building the field of long-term governance and instead engage more actively in multilateral processes. 
 
-### SI became a professional organization filling an underserved niche
+### 5. SI became a professional organization filling an underserved niche
 
 Over the past two years, the starkest progress SI made was in establishing itself as a functional and recognized organization. SI went from an abstract project with no office and no funding, to an institutionalized, well-resourced organization with promising signs of value-add to multilateral processes. 
 
@@ -174,8 +167,6 @@ Without SI… 
 
 18. No organization would explicitly focus on long-term governance in both Geneva and New York, or at the intersection of global catastrophic risks, technology governance, and multilateralism.
 19. There would be less hope in the broad network that the multilateral system could succeed at reducing catastrophic risks stemming from advanced technologies.
-
-
 
 ## Our Plans Moving Forward
 
