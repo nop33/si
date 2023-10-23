@@ -56,13 +56,13 @@ The Priorities, Goals and Projects outlined in the Strategy Implementation Plan 
 
 ## Terminology
 
-* Implementation plan: Our 2 to 3-year action roadmap.
-* Short-term strategic context: Current trends in issues and governance shaping our priorities in the next 2-3 years.
-* Priorities: Key focus areas for upcoming years.
-* Goals: Desired outcomes within each priority.
-* Projects: Time-bound sets of deliverables (outputs) that aim to achieve goals; can span multiple priorities.
-* Finances: Budget (lower and upper bound expenses to deliver the plan)
-* Monitoring, evaluation and learning plan: Our process to monitor, assess, and adapt.
+* **Implementation plan:** Our 2 to 3-year action roadmap.
+* **Short-term strategic context:** Current trends in issues and governance shaping our priorities in the next 2-3 years.
+* **Priorities:** Key focus areas for upcoming years.
+* **Goals:** Desired outcomes within each priority.
+* **Projects:** Time-bound sets of deliverables (outputs) that aim to achieve goals; can span multiple priorities.
+* **Finances:** Budget (lower and upper bound expenses to deliver the plan)
+* **Monitoring, evaluation and learning plan:** Our process to monitor, assess, and adapt.
 
 ## Overview of SI’s full planning structure
 
