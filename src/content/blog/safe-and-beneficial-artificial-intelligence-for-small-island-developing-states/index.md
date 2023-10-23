@@ -2,6 +2,13 @@
 hide: false
 title: Safe and beneficial artificial intelligence for Small-Island Developing States
 date: 2023-07-25T21:40:08.172Z
+description: Given that the impacts of AI will affect all countries, the
+  processes to establish these mechanisms must be inclusive if their outcomes
+  are to be effective. Low and middle-income countries (LMICs), especially, must
+  actively participate in the development of AI governance to ensure that the
+  unique challenges they face are accounted for, that they will be able to
+  equitably benefit from AI technologies, and to guard against the potential for
+  growing inequalities and unevenly distributed risks.
 featuredImage: sids_1.1.png
 authors:
   - name: Malou Estier
