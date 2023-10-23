@@ -2,7 +2,7 @@
 name: Prof. Karsten Donnay
 photo: donnaykarstenb.jpg
 group: Advisers and Collaborators
-role: Digital democracy adviser
+role: Digital democracy
 links:
   website: https://www.karstendonnay.net/
   twitter: https://twitter.com/karstendonnay
