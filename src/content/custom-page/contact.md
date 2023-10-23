@@ -50,7 +50,7 @@ donateSection:
     - title: "Preferred method: SEPA bank transfer"
       content: |-
         * **IBAN (CHF):** CH08 0900 0000 1623 4735 0
-        * **Beneficiary:** Simon Institute for Longterm Governance Genève
+        * **Beneficiary:** Simon Institute for Longterm Governance
         * **Bank address:** PostFinance AG, Mingerstrasse 20, 3030 Bern
         * **BIC:** POFICHBEXXX   
         * **Clearing-Nr.:** 090002
