@@ -37,6 +37,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/src/content/job`,
+        name: `job`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/src/content/member`,
         name: `member`,
       },
@@ -71,8 +78,10 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: mediaMaxWidth,
+              linkImagesToOriginal: false,
             },
           },
+          `gatsby-remark-images-medium-zoom`,
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -84,6 +93,7 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          `gatsby-remark-external-links`,
         ],
       },
     },
@@ -92,26 +102,35 @@ module.exports = {
       options: {
         feeds: [
           {
-            query: `
-              {
-                allMarkdownRemark(
-                  filter: { fields: { contentType: { eq: "blog" } } }
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  edges {
-                    node {
-                      excerpt
-                      html
-                      fields { slug }
-                      frontmatter {
-                        title
-                        date
-                      }
-                    }
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + node.fields.slug,
+                  custom_elements: [{ "content:encoded": node.html }],
+                })
+              })
+            },
+            query: `{
+              allMarkdownRemark(
+                filter: {fields: {contentType: {eq: "blog"}}}
+                sort: {frontmatter: {date: DESC}}
+              ) {
+                nodes {
+                  excerpt
+                  html
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    date
                   }
                 }
               }
-            `,
+            }`,
             output: "/rss.xml",
             title: "SI's RSS Feed",
           },
@@ -138,7 +157,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        exclude: [`/thank-you`, `/admin`],
+        excludes: [`/thank-you`, `/admin`],
       },
     },
     {
@@ -147,6 +166,7 @@ module.exports = {
         modulePath: `${__dirname}/src/cms.js`,
       },
     },
-    `gatsby-plugin-preload-fonts`
+    `gatsby-plugin-preload-fonts`,
+    `gatsby-plugin-styled-components`,
   ],
 }

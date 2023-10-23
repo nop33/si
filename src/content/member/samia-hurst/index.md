@@ -1,7 +1,7 @@
 ---
 name: Prof. Samia Hurst-Majno
 photo: hurstsamia.jpg
-group: Advisers
+group: Advisers and Collaborators
 role: Ethics
 links:
   website: http://forumethix-ch.blogspot.com/

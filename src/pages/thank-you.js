@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import ArrowedLink from "../components/arrowed-link"
 
 const ThankYouPage = ({ data, location }) => {

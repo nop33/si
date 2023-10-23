@@ -9,11 +9,12 @@ featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Facilitation
 tags:
   - Biosecurity
   - UN
   - Events
-isEventFeaturedOnHomepage: false
+isHighlighted: false
 ---
 The Geneva Science-Policy Interface (GSPI) and the Simon Institute for Longterm Governance (SI) are pleased to invite you to explore the in-person table-top exercise Preparedness. Sessions will be held at the UN Library between November 25 and November 30, 2021.
 

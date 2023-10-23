@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PageLayout from "../components/page-layout"
-import SEO from "../components/seo"
-import FeaturedTagsList from "../components/featured-tags-list"
-import BaseSection from "../components/sections/base"
-import Grid from "../components/sections/grid"
+import Seo from "../components/seo"
+import FeaturedTagsList from "../components/FeaturedTagsList"
+import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
+import Grid from "../components/sections/grid"
 
 const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
   const { nodes, totalCount } = data.allMarkdownRemark
@@ -19,8 +19,8 @@ const ProjectsGroupTemplate = ({ pageContext, data, location }) => {
         subtitle={`${totalCount} project${totalCount === 1 ? "" : "s"}`}
         location={location}
       >
-        <SEO title={`${pageContext.tag} projects`} />
-        <FeaturedTagsList isProjectTags tags={tags} />
+        <Seo title={`${pageContext.tag} projects`} />
+        <FeaturedTagsList type="project" tags={tags} />
         <BaseSection>
           <Grid>
             {nodes.map(project => {
@@ -89,7 +89,7 @@ export const pageQuery = graphql`
       filter: { fields: { contentType: { eq: "project" } } }
       limit: 2000
     ) {
-      group(field: frontmatter___tags) {
+      group(field: { frontmatter: { tags: SELECT } }) {
         fieldValue
       }
     }

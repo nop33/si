@@ -163,6 +163,21 @@ collections:
             widget: object
             fields:
               - { label: "Title", name: "title", widget: "string" }
+              - label: "Team groups"
+                name: groups
+                widget: list
+                fields:
+                  - label: "Displayed title"
+                    name: "title"
+                    widget: "string"
+                    required: false
+                  - label: "Group"
+                    name: "name"
+                    widget: "relation"
+                    collection: "team-groups"
+                    search_fields: ["name"]
+                    value_field: "name"
+                    display_fields: ["name"]
           - label: "Herbert Simon section"
             name: "herbertSimonSection"
             widget: object
@@ -199,9 +214,9 @@ collections:
                   required: false,
                 }
 
-      - label: "Get Involved page"
-        name: "get-involved"
-        file: "src/content/custom-page/get-involved.md"
+      - label: "Contact page"
+        name: "contact"
+        file: "src/content/custom-page/contact.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - {
@@ -374,7 +389,7 @@ collections:
                 }
       - label: "Projects overview page"
         name: "projects-overview"
-        file: "src/content/custom-page/projects.md"
+        file: "src/content/custom-page/our-work.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - {
@@ -472,6 +487,16 @@ collections:
       preview: false
     fields:
       - { label: "Category title", name: "title", widget: "string" }
+  - name: "team-groups"
+    label: "Team groups"
+    folder: "src/content/_team-groups"
+    create: true
+    slug: "index"
+    path: "{{name}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Team group name", name: "name", widget: "string" }
   - name: "project"
     label: "Projects"
     folder: "src/content/project"
@@ -483,6 +508,13 @@ collections:
     editor:
       preview: false
     fields:
+      - {
+          label: "Hide",
+          name: "hide",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "text", required: false }
       - { label: "Featured image", name: "featuredImage", widget: "image" }
@@ -551,6 +583,64 @@ collections:
               widget: "text",
               required: false,
             }
+  - name: "job"
+    label: "Jobs"
+    folder: "src/content/job"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Hide",
+          name: "hide",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "teaserText", name: "teaserText", widget: "text" }
+      - label: "Text sections"
+        name: "textSections"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "markdown",
+              required: false,
+            }
+          - label: Section images
+            name: sectionImages
+            widget: list
+            required: false
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt text", name: "alt", widget: "string" }
+          - label: Section videos
+            name: sectionVideos
+            widget: list
+            required: false
+            fields:
+              - { label: "YouTube video URL", name: "src", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+      - label: "Custom SEO"
+        name: "seo"
+        widget: object
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "text",
+              required: false,
+            }
   - name: "subpage"
     label: "Standard layout pages"
     folder: "src/content/subpage"
@@ -599,6 +689,13 @@ collections:
     editor:
       preview: false
     fields:
+      - {
+          label: "Hide",
+          name: "hide",
+          widget: "boolean",
+          default: false,
+          required: false,
+        }
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Publish Date",
@@ -646,11 +743,19 @@ collections:
               widget: "string",
               required: false,
             }
+      - label: "Project category"
+        name: "category"
+        widget: "relation"
+        collection: "project-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
+        required: false
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: "Featured in home page Events section",
-          name: "isEventFeaturedOnHomepage",
+          label: "Featured in home page Highlight section",
+          name: "isHighlighted",
           widget: "boolean",
           default: false,
           required: false,
@@ -682,9 +787,11 @@ collections:
       - { label: "Photo", name: "photo", widget: "image", required: false }
       - label: "Group"
         name: "group"
-        widget: "select"
-        options:
-          ["Advisers", "Governing board", "Collaborators", "Staff", "Alumni"]
+        widget: "relation"
+        collection: "team-groups"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
       - { label: "Role", name: "role", widget: "string" }
       - label: "External links"
         name: "links"

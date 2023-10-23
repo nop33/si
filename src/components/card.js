@@ -3,14 +3,14 @@ import React from "react"
 import Image from "gatsby-image"
 
 import { Link } from "gatsby"
-import styles from "./card.module.scss"
+import { card } from "./card.module.scss"
 
 const Card = ({ url, image, title, subtitle, content }) => {
   return (
-    <div className={styles.card}>
+    <div className={card}>
       <Link to={url}>
         <article itemScope itemType="http://schema.org/Article">
-          <div className={styles.imageContainer}>
+          <div>
             <Image
               fluid={image}
               style={{ height: "100%" }}
@@ -20,7 +20,7 @@ const Card = ({ url, image, title, subtitle, content }) => {
           <div>
             <header>
               <h3 itemProp="headline">{title}</h3>
-              <small>{subtitle}</small>
+              {subtitle && <small>{subtitle}</small>}
             </header>
             <section>
               <div

@@ -1,7 +1,7 @@
 ---
 name: Anja Kaspersen
 photo: kaspersenanja.jpg
-group: Advisers
+group: Alumni
 role: Science-diplomacy
 links:
   website: ""

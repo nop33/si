@@ -1,7 +1,7 @@
 ---
 name: Amb. Salman Bal
 photo: balsalman.jpg
-group: Advisers
+group: Alumni
 role: International affairs
 links:
   website: ""

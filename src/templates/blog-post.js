@@ -6,10 +6,10 @@ import { updateSrcSet } from "../utils"
 
 import Authors from "../components/authors"
 import PageLayout from "../components/page-layout"
-import BaseSection from "../components/sections/base"
+import BaseSection from "../components/sections/BaseSection"
 import ArrowedLink from "../components/arrowed-link"
 import TagsList from "../components/tags-list"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -49,7 +49,7 @@ const BlogPostTemplate = ({ data, location }) => {
       title={post.frontmatter.title}
       subtitle={subtitle}
     >
-      <SEO
+      <Seo
         title={post.frontmatter.seo?.title || post.frontmatter.title}
         description={
           post.frontmatter.seo?.description ||
