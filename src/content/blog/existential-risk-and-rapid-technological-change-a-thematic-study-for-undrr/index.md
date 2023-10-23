@@ -36,9 +36,7 @@ On 10th March 2022, UN Secretary-General, [António Guterres, stated that](https
 
 The mid-term review of the Sendai Framework for Disaster Risk Reduction provides an opportunity to tackle this task. Thus, the UN Office for Disaster Risk Reduction [commissioned the Simon Institute for Longterm Governance to synthesize the evidence](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on the worst-case scenario at a global scale: an existential catastrophe, driven by rapid technological progress. Of particular concern are advances in biotechnology and artificial intelligence, as major drivers of accelerating change. Importantly, both existential risk and technological hazards are within the scope of the Sendai Framework yet highly neglected.
 
-[Open the thematic study (pdf) in a new tab here.](https://drive.google.com/file/d/1727WOJXMp0zExBVB91YbtVdO_7oqIctV/view)
-
-___
+**\-- [Read the full thematic study here](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) --**
 
 Historically, the risks from emerging technologies have often been small compared to their benefits. That is no longer the case. Because of the increasing pace of technological change across the globe, it is becoming more difficult for risk governance to keep up. While new technologies can bring society enormous benefits and significantly contribute to achieving global goals such as the UN Sustainable Development Goals, they usually have unintended effects, often cause harm accidentally, and are sometimes misused.
 
@@ -56,3 +54,5 @@ To ensure tangible progress toward these goals, we recommend 
 2. The incorporation of lower-probability, high-impact risk in existing funding instruments.
 
 This would constitute momentous progress towards global existential risk reduction, making the world a safer place for current and future generations.
+
+**\-- [Read the full thematic study here](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) --**
