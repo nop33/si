@@ -18,7 +18,7 @@ authors:
 tags:
   - strategy
   - updates
-isHighlighted: true
+isHighlighted: false
 ---
 ## Executive Summary
 
