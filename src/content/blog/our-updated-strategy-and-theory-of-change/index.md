@@ -150,7 +150,8 @@ To solve challenges in a rapidly changing environment, collaboration is key. Con
 
 To illustrate our Theory of Change, we have applied it in the context of AI governance, as detailed below.
 
-`<table>
+<table>
+
   <tr>
    <td><strong>Contextual factors</strong>
    </td>
@@ -199,4 +200,4 @@ To illustrate our Theory of Change, we have applied it in the context of AI gove
    <td><strong>A world where humanity coordinates so that life can flourish</strong>
    </td>
   </tr>
-</table>`
+</table>
