@@ -311,11 +311,11 @@ Based on the strategic context outlined above, we establish SI's three-year prio
 
 **Target audience:** International organizations (IOs) and their member states’ permanent missions who drive international progress on technology governance.
 
-**Goal 1.1:** Increase demand for the effective international governance of rapid technological change by supporting permanent missions in developing their expertise on frontier technologies. We put a particular focus on supporting Permanent Representatives who facilitate relevant intergovernmental processes.  (e.g. UN Global Digital Compact, SIDS Conference, G20 Summit, UN Summit of the Future, OECD Global Forum on Technology).
+**Goal 1.1:** Increase demand for the effective international governance of rapid technological change by supporting permanent missions in developing their expertise on frontier technologies. We put a particular focus on supporting Permanent Representatives who facilitate relevant intergovernmental processes.  
 
-**Goal 1.2:** Support international tech governance processes in relevant IO secretariats and advisory bodies by providing topical expertise, additional brain power and process support.  (e.g. the UN EOSG/OSET/ODA/DRR, AU, ASEAN, OECD, ISO, ITU, IPU, Internet Society).
+**Goal 1.2:** Support international tech governance processes in relevant IO secretariats and advisory bodies by providing topical expertise, additional brain power and process support.  
 
-**Goal 1.3:** Foster improved information exchange and action within the multilateral system by developing a support ecosystem of actors directly involved in international tech governance processes. This includes key representatives from IOs and member states, as well as philanthropic organizations, research labs and NGOs.  (e.g. UNU-CPR, UNIDIR, UN Foundation, The Elders).
+**Goal 1.3:** Foster improved information exchange and action within the multilateral system by developing a support ecosystem of actors directly involved in international tech governance processes. This includes key representatives from IOs and member states, as well as philanthropic organizations, research labs and NGOs. 
 
 ### Priority 2: Foster alignment between multilateral activity and other technology governance processes 
 
@@ -325,11 +325,11 @@ Based on the strategic context outlined above, we establish SI's three-year prio
 
 **Target audience:** national governments, private sector governance teams, advocacy organizations, academic institutes, and philanthropic organizations.
 
-**Goal 2.1:** Foster civil society engagement in multilateral processes by offering insight and contribution opportunities to advocates, researchers, educators, journalists, mediators and philanthropists.  (e.g. WEF, Future of Life Institute, Longview Philanthropy, DiploFoundation, QUNO, HD Centre, GCSP, GESDA, GSPI, UN Library, IHEID, TFS, GovAI, ICFG).
+**Goal 2.1:** Foster civil society engagement in multilateral processes by offering insight and contribution opportunities to advocates, researchers, educators, journalists, mediators and philanthropists. 
 
-**Goal 2.2:** Contribute to the development of effective multi-stakeholder bodies by studying how leading private labs can best be included in international tech governance processes and engaging with their private governance initiatives.  (like the Frontier Model Forum and the Partnership on AI.)
+**Goal 2.2:** Contribute to the development of effective multi-stakeholder bodies by studying how leading private labs can best be included in international tech governance processes and engaging with their private governance initiatives. 
 
-**Goal 2.3:** Boost national awareness of multilateral affairs and policy coherence by providing tailored insights into multilateral processes to national technology governance initiatives.  (Like the UK Frontier Model Taskforce or the Chinese Global AI Governance Initiative.)
+**Goal 2.3:** Boost national awareness of multilateral affairs and policy coherence by providing tailored insights into multilateral processes to national technology governance initiatives. 
 
 ### Priority 3: Reinforce SI’s structure and operations
 
@@ -344,11 +344,3 @@ Expected resource allocation: 15-25%
 **Goal 3.2:** Strengthen and grow the SI workforce to ~10 full-time employees.
 
 **Goal 3.3:** Enhance internal systems, e.g. constituency management, assignment flows, communications plan, accounting, standardized reporting and a well-balanced governance structure, to boost agility, transparency, and accountability.
-
-## Project Examples
-
-Below are two examples per goal, taken from recent, ongoing and future projects that contribute to the achievement of SI’s 2023-2025 goals and priorities. 
-
-Planned projects are reviewed regularly. They are prioritized or discontinued based on changes to SI’s broader strategic context and/or capacity.
-
-For simplicity, we cluster projects under one priority and goal, even though projects can often contribute to multiple priorities and goals.
