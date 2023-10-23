@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Our plans until 2025
+title: Our strategy and plans until 2025
 date: 2023-10-23T12:14:57.658Z
 description: Until the end of 2025, SI will focus on improving the multilateral
   system’s capacity for the governance of rapid technological change, with a
