@@ -20,7 +20,7 @@ const ProjectsPage = ({ data, location }) => {
           description={pageData.seo?.description || pageData.subtitle}
         />
 
-        {pageData.projectsByCategories.map(projectsByCategory => {
+        {pageData.projectsByCategories.map((projectsByCategory, index) => {
           const projects = nodes.filter(
             project =>
               project.frontmatter.category === projectsByCategory.category
@@ -46,28 +46,32 @@ const ProjectsPage = ({ data, location }) => {
           })
 
           return (
-            <BaseSection
-              key={`section_${projectsByCategory.title}`}
-              id={`section_${projectsByCategory.title}`}
-            >
-              <CardsWithText
-                orientation="cards-full-width"
-                title={projectsByCategory.title}
-                description={projectsByCategory.description}
-                cards={projectCards.slice(0, 3)}
-                headingWeight={2}
-                link={
-                  projectCards.length > 3
-                    ? {
-                        url: constructProjectCategoryUrl(
-                          projectsByCategory.category
-                        ),
-                        title: "See all",
-                      }
-                    : undefined
-                }
-              />
-            </BaseSection>
+            <>
+              <BaseSection
+                key={`section_${projectsByCategory.title}`}
+                id={`section_${projectsByCategory.title}`}
+              >
+                <CardsWithText
+                  orientation="cards-full-width"
+                  title={projectsByCategory.title}
+                  description={projectsByCategory.description}
+                  cards={projectCards.slice(0, 3)}
+                  headingWeight={2}
+                  link={
+                    projectCards.length > 3
+                      ? {
+                          url: constructProjectCategoryUrl(
+                            projectsByCategory.category
+                          ),
+                          title: "See all",
+                        }
+                      : undefined
+                  }
+                />
+              </BaseSection>
+
+              {index + 1 < pageData.projectsByCategories.length && <hr></hr>}
+            </>
           )
         })}
       </PageLayout>
