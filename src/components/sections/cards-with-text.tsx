@@ -32,7 +32,12 @@ const CardsWithTextSection = ({
   <Wrapper>
     <div className={className}>
       <TextContent>
-        {title && (headingWeight === 2 ? <h2>{title}</h2> : <h3>{title}</h3>)}
+        {title &&
+          (headingWeight === 2 ? (
+            <h2 className="secondary-heading">{title}</h2>
+          ) : (
+            <h3>{title}</h3>
+          ))}
         {description && (
           <Description
             dangerouslySetInnerHTML={{
