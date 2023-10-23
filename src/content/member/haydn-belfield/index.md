@@ -2,7 +2,7 @@
 name: Haydn Belfield
 photo: belfieldhaydn.jpg
 group: Advisers and Collaborators
-role: GCR governance
+role: GCR governance adviser
 links:
   website: ""
   twitter: https://twitter.com/HaydnBelfield
