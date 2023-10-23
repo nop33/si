@@ -79,19 +79,12 @@ June 2023 to the end of 2025.
 To define our priorities, we analyze the current short-term strategic context to identify key developments that shape SI and its environment. These developments occur on a short timescale, from the last \~3 years to the next \~5 years. Key implications for SI are in italics.
 
 <table>
-
   <tr>
    <td colspan="2" ><strong>Global governance context</strong>
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>The world is likely moving from a unipolar to a bipolar or multipolar order.</strong>
-
-</li>
-</ol>
+   <td><strong>1. The world is likely moving from a unipolar to a bipolar or multipolar order.</strong>
    </td>
    <td> 
 <ul>
@@ -106,13 +99,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>Multilateral governance processes are contested via north-south tensions.</strong>
-
-</li>
-</ol>
+   <td><strong>2. Multilateral governance processes are contested via north-south tensions.</strong>
    </td>
    <td> 
 <ul>
@@ -129,13 +116,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>Tensions between the US and China are increasing.</strong>
-
-</li>
-</ol>
+   <td><strong>3. Tensions between the US and China are increasing.</strong>
    </td>
    <td> 
 <ul>
@@ -154,13 +135,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>AI progress is exacerbating existing challenges and inducing new ones.</strong>
-
-</li>
-</ol>
+   <td><strong>4. AI progress is exacerbating existing challenges and inducing new ones.</strong>
    </td>
    <td> 
 <ul>
@@ -175,13 +150,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>Heightened public awareness will amplify political discourse.</strong>
-
-</li>
-</ol>
+   <td><strong>5. Heightened public awareness will amplify political discourse.</strong>
    </td>
    <td> 
 <ul>
@@ -196,13 +165,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>The number of private, national, regional and multilateral AI governance processes are increasing.</strong>
-
-</li>
-</ol>
+   <td><strong>6. The number of private, national, regional and multilateral AI governance processes are increasing.</strong>
    </td>
    <td> 
 <ul>
@@ -217,13 +180,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>Multilateral policy coherence is increasingly crucial to achieve.</strong>
-
-</li>
-</ol>
+   <td><strong>7. Multilateral policy coherence is increasingly crucial to achieve.</strong>
    </td>
    <td> 
 <ul>
@@ -243,13 +200,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>SI has built credibility and networks to substantially contribute to multilateral frontier tech governance. </strong>
-
-</li>
-</ol>
+   <td><strong>8. SI has built credibility and networks to substantially contribute to multilateral frontier tech governance. </strong>
    </td>
    <td> 
 <ul>
@@ -262,13 +213,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>Funders are reducing their giving due to economic uncertainty, while AI governance is gaining popularity amongst philanthropists.</strong>
-
-</li>
-</ol>
+   <td><strong>9. Funders are reducing their giving due to economic uncertainty, while AI governance is gaining popularity amongst philanthropists.</strong>
    </td>
    <td> 
 <ul>
@@ -279,13 +224,7 @@ To define our priorities, we analyze the current short-term strategic context to
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li><strong>The SI team is young, still forming its expertise and building its infrastructure.</strong>
-
-</li>
-</ol>
+   <td><strong>10. The SI team is young, still forming its expertise and building its infrastructure.</strong>
    </td>
    <td> 
 <ul>
