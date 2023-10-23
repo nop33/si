@@ -26,8 +26,6 @@ In this post, we outline our strategy and plans until 2025. We include:
 * Our priorities and goals for 2023-2025
 * Project examples
 
-
-
 ## Executive Summary
 
 Until the end of 2025, SI will focus on improving the multilateral system’s capacity for the governance of rapid technological change, with a specific focus on AI. We see our **strategic context** as follows:
@@ -44,23 +42,21 @@ Given this context, our **priorities** are to:
 
 Key **goals** for each priority are:
 
-1.1. Increase national demand for measured international action.
+* 1.1. Increase national demand for measured international action.
+* 1.2. Support tech governance processes in leading international organizations.
+* 1.3. Foster exchange and action within the multilateral tech governance system.
 
-1.2. Support tech governance processes in leading international organizations.
 
-1.3. Foster exchange and action within the multilateral tech governance system.
 
-2.1. Enhance civil society engagement in multilateral processes.
+* 2.1. Enhance civil society engagement in multilateral processes.
+* 2.2. Contribute to the development of effective multi-stakeholder bodies.
+* 2.3. Boost national awareness of multilateral affairs for international coherence.
 
-2.2. Contribute to the development of effective multi-stakeholder bodies.
 
-2.3. Boost national awareness of multilateral affairs for international coherence.
 
-3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.
-
-3.2. Strengthen and grow the SI workforce to ~10 full-time employees.
-
-3.3. Enhance SI’s operations, governance, and knowledge management.
+* 3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.
+* 3.2. Strengthen and grow the SI workforce to ~10 full-time employees.
+* 3.3. Enhance SI’s operations, governance, and knowledge management.
 
 Through these activities, we hope to contribute to building governance systems that are fit for the 21st century.
 
@@ -69,8 +65,6 @@ Through these activities, we hope to contribute to building governance systems t
 The SI Strategy Implementation Plan is established every 2 to 3 years to implement the SI Strategy and the objectives outlined therein. It empowers SI to plan and take more focused actions in response to the broader global context and anticipated developments during those specific time frames.
 
 The Priorities, Goals and Projects outlined in the Strategy Implementation Plan are reviewed regularly throughout its time frame to guide resource allocation and take into account any contextual changes. Progress is tracked and measured through the SI Monitoring, Evaluation and Learning plan. 
-
-
 
 ## **Terminology**
 
@@ -81,8 +75,6 @@ The Priorities, Goals and Projects outlined in the Strategy Implementation Plan 
 * Projects: Time-bound sets of deliverables (outputs) that aim to achieve goals; can span multiple priorities.
 * Finances: Budget (lower and upper bound expenses to deliver the plan)
 * Monitoring, evaluation and learning plan: Our process to monitor, assess, and adapt.
-
-
 
 ## Overview of SI’s full planning structure
 
@@ -98,11 +90,8 @@ June 2023 to the end of 2025.
 
 To define our priorities, we analyze the current short-term strategic context to identify key developments that shape SI and its environment. These developments occur on a short timescale, from the last \~3 years to the next \~5 years. Key implications for SI are in italics.
 
-## Short-term strategic context
-
-To define our priorities, we analyze the current short-term strategic context to identify key developments that shape SI and its environment. These developments occur on a short timescale, from the last \~3 years to the next \~5 years. Key implications for SI are in *italics*.
-
 `<table>
+
   <tr>
    <td colspan="2" ><strong>Global governance context</strong>
    </td>
@@ -112,6 +101,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>The world is likely moving from a unipolar to a bipolar or multipolar order.</strong>
+
 </li>
 </ol>
    </td>
@@ -132,6 +122,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>Multilateral governance processes are contested via north-south tensions.</strong>
+
 </li>
 </ol>
    </td>
@@ -154,6 +145,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>Tensions between the US and China are increasing.</strong>
+
 </li>
 </ol>
    </td>
@@ -178,6 +170,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>AI progress is exacerbating existing challenges and inducing new ones.</strong>
+
 </li>
 </ol>
    </td>
@@ -198,6 +191,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>Heightened public awareness will amplify political discourse.</strong>
+
 </li>
 </ol>
    </td>
@@ -218,6 +212,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>The number of private, national, regional and multilateral AI governance processes are increasing.</strong>
+
 </li>
 </ol>
    </td>
@@ -238,6 +233,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>Multilateral policy coherence is increasingly crucial to achieve.</strong>
+
 </li>
 </ol>
    </td>
@@ -263,6 +259,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>SI has built credibility and networks to substantially contribute to multilateral frontier tech governance. </strong>
+
 </li>
 </ol>
    </td>
@@ -281,6 +278,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>Funders are reducing their giving due to economic uncertainty, while AI governance is gaining popularity amongst philanthropists.</strong>
+
 </li>
 </ol>
    </td>
@@ -297,6 +295,7 @@ To define our priorities, we analyze the current short-term strategic context to
 <ol>`
 
 `<li><strong>The SI team is young, still forming its expertise and building its infrastructure.</strong>
+
 </li>
 </ol>
    </td>
@@ -316,8 +315,6 @@ To define our priorities, we analyze the current short-term strategic context to
 
 Based on the strategic context outlined above, we establish SI's three-year priorities and set specific goals for each.
 
-
-
 ### Priority 1: Advance multilateral technology governance
 
 **Short description:** boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances, in particular artificial intelligence (AI). To leverage synergies between processes, SI engages key stakeholders across different fora, regional organizations, the UN, and specialized international agencies. This priority represents the majority of SI’s work and allows SI to build the insights and connections necessary to achieve priority 2.
@@ -332,10 +329,7 @@ Based on the strategic context outlined above, we establish SI's three-year prio
 
 **Goal 1.3:** Foster improved information exchange and action within the multilateral system by developing a support ecosystem of actors directly involved in international tech governance processes. This includes key representatives from IOs and member states, as well as philanthropic organizations, research labs and NGOs.  (e.g. UNU-CPR, UNIDIR, UN Foundation, The Elders).
 
-
-
-### \
-Priority 2: Foster alignment between multilateral activity and other technology governance processes 
+### Priority 2: Foster alignment between multilateral activity and other technology governance processes 
 
 **Short description:** Advise national and non-governmental actors working on technology governance, in particular on frontier AI, to act and communicate in ways that enhance multilateral progress, instead of risking further fragmentation. Drawing from our work on priority 1, this work entails advising national governments, private sector, and civil society to reinforce multilateral activity.
 
@@ -348,8 +342,6 @@ Priority 2: Foster alignment between multilateral activity and other technology 
 **Goal 2.2:** Contribute to the development of effective multi-stakeholder bodies by studying how leading private labs can best be included in international tech governance processes and engaging with their private governance initiatives.  (like the Frontier Model Forum and the Partnership on AI.)
 
 **Goal 2.3:** Boost national awareness of multilateral affairs and policy coherence by providing tailored insights into multilateral processes to national technology governance initiatives.  (Like the UK Frontier Model Taskforce or the Chinese Global AI Governance Initiative.)
-
-
 
 ### Priority 3: Reinforce SI’s structure and operations
 
@@ -364,8 +356,6 @@ Expected resource allocation: 15-25%
 **Goal 3.2:** Strengthen and grow the SI workforce to ~10 full-time employees.
 
 **Goal 3.3:** Enhance internal systems, e.g. constituency management, assignment flows, communications plan, accounting, standardized reporting and a well-balanced governance structure, to boost agility, transparency, and accountability.
-
-
 
 ## Project Examples
 
