@@ -68,6 +68,8 @@ The Priorities, Goals and Projects outlined in the Strategy Implementation Plan 
 
 ![](screenshot-2023-10-23-at-14.22.35.png)
 
+
+
 ![](screenshot-2023-10-23-at-14.22.43.png)
 
 ## Timeframe
@@ -276,7 +278,7 @@ Based on the strategic context outlined above, we establish SI's three-year prio
 
 Target audience: SI operational network (staff members, internal stakeholders, donors and funders, strategic partners).
 
-Expected resource allocation: 15-25%
+**Expected resource allocation:** 15-25%
 
 **Goal 3.1:** Raise between 3.4MM-5.5MM CHF from a diverse set of funders.
 
