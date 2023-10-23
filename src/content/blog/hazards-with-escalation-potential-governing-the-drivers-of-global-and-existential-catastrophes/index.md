@@ -40,10 +40,6 @@ Nuclear explosions are an example of a hazard with escalation potential. Nuclear
 
 Overall, this report aimed to identify hazards with a similar potential to escalate and cause global-scale catastrophes. To do so, the authors reviewed existing literature on catastrophic and existential risks, conducted a survey with over 250 domain experts on various hazard types, and sought additional expert consultations. In total, among the 302 hazards cataloged in the [Hazard Information Profiles](https://undrr.org/publication/hazard-information-profiles-hips) developed by the UNDRR and the ISC, a subset of 10 geological, biological, technological, and social hazards were identified as possessing global escalation potential. They further identified climate change and artificial intelligence as the two most influential forces capable of creating, altering, or exacerbating these threats. 
 
-**\-- [Read the full brief here](https://www.undrr.org/publication/hazards-escalation-potential-governing-drivers-global-and-existential-catastrophes) --**
-
-
-
 ![](screenshot-2023-09-01-at-13.32.45.png)
 
 The report argues that the characteristics shared by these 10 hazards with escalation potential and two influential forces warrant greater government attention. Most disaster prevention and response mechanisms are not fit-for purpose to manage these types of risks. Governance systems tend to be prepared to respond to events of common frequency and manageable magnitude, but not to worst case scenarios. Events like Ebola and COVID-19 can provide valuable insights into escalation patterns and vulnerabilities in disaster response systems for risk governance actors. A comprehensive understanding of the shared traits among escalating hazards can similarly help by refining risk modeling and aiding in identifying actions that effectively halt disaster expansion.
@@ -51,3 +47,5 @@ The report argues that the characteristics shared by these 10 hazards with escal
 ![](figure2.png)
 
 The report further highlights that future disasters may become increasingly complex in nature, potentially combining all characteristics outlined in the table above. Should such an event occur, a global or existential catastrophe could ensue. In light of these threats, the authors call for the international risk governance community to focus greater attention on hazards with escalation potential, and the forces that drive their development. If governments can effectively address the most severe threats, their ability to respond to all hazards will improve significantly.
+
+**\-- [Read the full brief here](https://www.undrr.org/publication/hazards-escalation-potential-governing-drivers-global-and-existential-catastrophes) --**
