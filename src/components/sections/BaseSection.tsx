@@ -4,8 +4,8 @@ import React, { ReactNode } from "react"
 import styled, { css } from "styled-components"
 
 interface BaseSectionProps {
-  id: string
   children: ReactNode
+  id?: string
   noTopPadding?: boolean
   className?: string
 }
