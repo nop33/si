@@ -39,9 +39,19 @@ Key **goals** for each priority are:
 * 1.1. Increase national demand for measured international action.
 * 1.2. Support tech governance processes in leading international organizations.
 * 1.3. Foster exchange and action within the multilateral tech governance system.
+
+
+
+
+
 * 2.1. Enhance civil society engagement in multilateral processes.
 * 2.2. Contribute to the development of effective multi-stakeholder bodies.
 * 2.3. Boost national awareness of multilateral affairs for international coherence.
+
+
+
+
+
 * 3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.
 * 3.2. Strengthen and grow the SI workforce to ~10 full-time employees.
 * 3.3. Enhance SI’s operations, governance, and knowledge management.
