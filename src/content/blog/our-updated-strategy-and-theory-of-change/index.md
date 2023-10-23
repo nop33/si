@@ -28,7 +28,7 @@ Our strategy and theory of change act as our organization's guiding star. The co
 
 ![](screenshot-2023-10-23-at-15.33.21.png)
 
-# Vision 
+## Vision 
 
 *Our vision outlines why we do what we do. It describes the long-term outcome we want to see from our work.*
 
@@ -36,7 +36,7 @@ Our strategy and theory of change act as our organization's guiding star. The co
 
 At SI we believe in the potential of human ingenuity and technology to create a future where life can thrive. But we fear the possibility of escalating harms or large-scale disaster if change is not well-governed. By promoting and enhancing coordination amongst global actors, we hope to contribute to long-term survival and happiness.
 
-# Mission 
+## Mission 
 
 *Our mission specifies how we intend to achieve our vision. It describes the broad actions we will take and who we will work with.*
 
@@ -150,51 +150,51 @@ To solve challenges in a rapidly changing environment, collaboration is key. Con
 
 To illustrate our Theory of Change, we have applied it in the context of AI governance, as detailed below.
 
- <td>\*\*Contextual factors\*\*
+ `<td>\*\*Contextual factors\*\*`
 
-   </td>
-   <td>Artificial Intelligence (AI) is set to fundamentally transform our society. However, the technology is developing rapidly and there is uncertainty as to how it will evolve. The pace of this technological development is already outstripping the capacity of governance structures to keep up. Most national regulatory efforts are trying to address proven harms and risks, but are struggling to account for potential future global shocks. Given the concentration of leading AI labs in a select few countries, and the anticipated impact of AI across the globe,  multilateral governance is imperative. At present however, there is no multilateral solution to handle AI. 
+`   </td>
+   <td>Artificial Intelligence (AI) is set to fundamentally transform our society. However, the technology is developing rapidly and there is uncertainty as to how it will evolve. The pace of this technological development is already outstripping the capacity of governance structures to keep up. Most national regulatory efforts are trying to address proven harms and risks, but are struggling to account for potential future global shocks. Given the concentration of leading AI labs in a select few countries, and the anticipated impact of AI across the globe,  multilateral governance is imperative. At present however, there is no multilateral solution to handle AI. `
 
-   </td>
-   <td>\*\*Implications\*\*
+`   </td>
+   <td>\*\*Implications\*\*`
 
-   </td>
-   <td>New multilateral governance structures and mechanisms will need to be built in order to effectively leverage the opportunities AI brings, whilst minimizing the associated risks. These will have to be agile, forward-looking and highly technical to keep up with fast-paced technological developments and to address both the potential global catastrophic risks, as well as the opportunities that AI can bring.
+`   </td>
+   <td>New multilateral governance structures and mechanisms will need to be built in order to effectively leverage the opportunities AI brings, whilst minimizing the associated risks. These will have to be agile, forward-looking and highly technical to keep up with fast-paced technological developments and to address both the potential global catastrophic risks, as well as the opportunities that AI can bring.`
 
-   </td>
-   <td>\*\*Mission\*\*
+`   </td>
+   <td>\*\*Mission\*\*`
 
-   </td>
-   <td>SI will support multilateral actors in their efforts to develop governance mechanisms and institutions, disseminating knowledge and promoting long-term perspectives, to ensure that humanity can make the most of this technology, without losing control of it. 
+`   </td>
+   <td>SI will support multilateral actors in their efforts to develop governance mechanisms and institutions, disseminating knowledge and promoting long-term perspectives, to ensure that humanity can make the most of this technology, without losing control of it. `
 
-   </td>
-   <td>\*\*Inputs\*\*
+`   </td>
+   <td>\*\*Inputs\*\*`
 
-   </td>
-   <td>SI will monitor international policy processes related to AI in order to identify windows of opportunity and promising instruments for multilateral AI governance. Background research on various national perspectives, policy developments and priorities related to AI will support engagement with key stakeholders (e.g. permanent missions, their ministers and the secretariats of international organization) and facilitation of interactions between them (e.g. including private AI labs). SI’s translation of the relevant technological developments into policy relevant information will contribute to successful AI governance.
+`   </td>
+   <td>SI will monitor international policy processes related to AI in order to identify windows of opportunity and promising instruments for multilateral AI governance. Background research on various national perspectives, policy developments and priorities related to AI will support engagement with key stakeholders (e.g. permanent missions, their ministers and the secretariats of international organization) and facilitation of interactions between them (e.g. including private AI labs). SI’s translation of the relevant technological developments into policy relevant information will contribute to successful AI governance.`
 
-   </td>
-   <td>\*\*Outputs\*\*
+`   </td>
+   <td>\*\*Outputs\*\*`
 
-   </td>
-   <td>SI will synthesize information and produce knowledge products such as blog posts, briefing notes and reports in collaboration with member state-led organizations, explaining key issues in AI governance. Inputs will be made to the development of specific policy processes, such as the UN’s Global Digital Compact and the UN’s Multistakeholder Advisory Body on AI. Events will be organized to help build networks of key stakeholders, for example bringing together low- and middle-income countries to discuss their involvement in global AI governance.
+`   </td>
+   <td>SI will synthesize information and produce knowledge products such as blog posts, briefing notes and reports in collaboration with member state-led organizations, explaining key issues in AI governance. Inputs will be made to the development of specific policy processes, such as the UN’s Global Digital Compact and the UN’s Multistakeholder Advisory Body on AI. Events will be organized to help build networks of key stakeholders, for example bringing together low- and middle-income countries to discuss their involvement in global AI governance.`
 
-   </td>
-   <td>\*\*Short-term outcomes\*\*
+`   </td>
+   <td>\*\*Short-term outcomes\*\*`
 
-   </td>
-   <td>In the short-term, low- and middle-income countries will become more informed about AI governance issues and related global catastrophic risks, stepping-up their engagement and boosting otherwise blocked AI governance processes as a result. Better connections will be built between the major public and private sector actors, and the relevant AI labs will become more involved in multilateral governance discussions, improving the quality and accuracy of outcomes.
+`   </td>
+   <td>In the short-term, low- and middle-income countries will become more informed about AI governance issues and related global catastrophic risks, stepping-up their engagement and boosting otherwise blocked AI governance processes as a result. Better connections will be built between the major public and private sector actors, and the relevant AI labs will become more involved in multilateral governance discussions, improving the quality and accuracy of outcomes.`
 
-   </td>
-   <td>\*\*Long-term outcomes\*\*
+`   </td>
+   <td>\*\*Long-term outcomes\*\*`
 
-   </td>
-   <td>In the long-term, an ecosystem of old and new institutions for AI governance will coordinate to ensure that risks are effectively managed and technological benefits are equally distributed. This will contribute to improving the well-being of current and future generations alike., thereby incrementally achieving our vision.
+`   </td>
+   <td>In the long-term, an ecosystem of old and new institutions for AI governance will coordinate to ensure that risks are effectively managed and technological benefits are equally distributed. This will contribute to improving the well-being of current and future generations alike., thereby incrementally achieving our vision.`
 
-   </td>
-   <td>\*\*Vision\*\*
+`   </td>
+   <td>\*\*Vision\*\*`
 
-   </td>
-   <td>\*\*A world where humanity coordinates so that life can flourish\*\*
+`   </td>
+   <td>\*\*A world where humanity coordinates so that life can flourish\*\*`
 
-   </td>
+`   </td>`
