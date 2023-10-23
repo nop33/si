@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
 import CardsWithText from "../components/sections/cards-with-text"
-import { updateSrcSet } from "../utils"
+import { constructProjectCategoryUrl, updateSrcSet } from "../utils"
 
 const ProjectsPage = ({ data, location }) => {
   const pageData = data.projectsPage.nodes[0].frontmatter
@@ -54,8 +54,18 @@ const ProjectsPage = ({ data, location }) => {
                 orientation="cards-full-width"
                 title={projectsByCategory.title}
                 description={projectsByCategory.description}
-                cards={projectCards}
+                cards={projectCards.slice(0, 3)}
                 headingWeight={2}
+                link={
+                  projectCards.length > 3
+                    ? {
+                        url: constructProjectCategoryUrl(
+                          projectsByCategory.category
+                        ),
+                        title: "See all",
+                      }
+                    : undefined
+                }
               />
             </BaseSection>
           )
@@ -93,6 +103,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "blog" } }
         frontmatter: { category: { ne: "" } }
       }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         excerpt

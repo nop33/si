@@ -190,13 +190,13 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   })
 
   const projectsGroupTemplate = path.resolve(
-    "src/templates/project-category.js"
+    "src/templates/project-category.tsx"
   )
 
   const projectsGroupResult = await graphql(`
     {
       tagsGroup: allMarkdownRemark(
-        filter: { fields: { contentType: { eq: "project" } } }
+        filter: { fields: { contentType: { eq: "blog" } } }
         limit: 2000
       ) {
         group(field: { frontmatter: { category: SELECT } }) {
