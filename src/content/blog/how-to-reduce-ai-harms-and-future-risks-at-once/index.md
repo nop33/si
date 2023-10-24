@@ -8,6 +8,7 @@ authors:
     page: ""
     externalLink: https://www.linkedin.com/in/jason-hausenloy/
     externalName: Jason Hausenloy
+category: Knowledge synthesis
 tags:
   - publications
   - AI
