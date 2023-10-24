@@ -3,17 +3,16 @@ title: Preparedness Exercises @ BWC Meeting of States Parties
 date: 2021-11-25T13:08:43.006Z
 description: The Geneva Science-Policy Interface (GSPI) and the Simon Institute
   for Longterm Governance (SI) are pleased to invite you to explore the
-  in-person table-top exercise Preparedness. Sessions will be held at the UN
-  Library between November 25 and November 30, 2021.
+  in-person table-top exercise...
 featuredImage: ross-sneddon-swldowk0jp8-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 category: Facilitation
 tags:
-  - Biosecurity
-  - UN
-  - Events
+  - events
+  - biosecurity
+  - multilateralism
 isHighlighted: false
 ---
 The Geneva Science-Policy Interface (GSPI) and the Simon Institute for Longterm Governance (SI) are pleased to invite you to explore the in-person table-top exercise Preparedness. Sessions will be held at the UN Library between November 25 and November 30, 2021.
