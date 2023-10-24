@@ -2,12 +2,9 @@
 title: Setting expectations for global catastrophic risk mitigation through
   policy change
 date: 2021-06-21T14:11:57.950Z
-description: Our motivation for writing this post comes from observing an
-  increasing number of calls for preparedness which require institutional
-  paradigm shifts of the kind that is observed mostly on centennial scales. Many
-  of the risks that humanity is currently facing seem more urgent. We hope to
-  contribute to accelerating the adoption of a new preparedness paradigm by
-  reviewing what we know about policy change.
+description: "As the world temporarily ground to a halt in 2020, it became clear
+  that the world is not prepared for shocks worse than COVID-19. To prepare, we
+  need policy change ... "
 featuredImage: axel-antas-bergkvist-zrszqdnfkq8-unsplash.jpg
 authors:
   - name: Maxime Stauffer
@@ -23,7 +20,8 @@ authors:
     externalName: Jan Pieter Snoeij
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
 tags:
-  - Resources
+  - publications
+  - global-catastrophic-risks
 isHighlighted: false
 ---
 Would you let your children hop on a plane that has a 1 in 6 chance of crashing? 1 in 10? 1 in 100? Probably not, and you are right: the risk is too high for people we care about. In his recent book, [The Precipice](http://www.tobyord.com/book), Toby Ord estimates a 1 in 6 chance of a global catastrophe occurring this century, destroying all of civilization's long-term potential. Such global catastrophic risks concern the entire world population and succeeding generations.
