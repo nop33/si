@@ -3,7 +3,7 @@ title: Our theory of change
 date: 2021-04-23T08:25:47.541Z
 description: "Our theory of change illustrates how we intend to contribute to
   the long-term flourishing of civilization. In this post, we outline our
-  overarching strategic thinking ... "
+  overarching strategic thinking... "
 featuredImage: as12-51-7524.jpg
 authors:
   - name: ""
