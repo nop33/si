@@ -1,8 +1,9 @@
 ---
 title: Navigating complexity and information overload in decision-making
 date: 2021-03-31T22:00:00.000Z
-description: 'On April 1st, we co-hosted the event "Towards 2030: Navigating
-  complexity and information overload in decision-making"... '
+description: "On April 1st, we co-hosted the event \"Towards 2030: Navigating
+  complexity and information overload in decision-making\" as part of UNRISD's
+  \"From Science to Practice\" series..."
 featuredImage: matthew-tenbruggencate-0hjwobhghjs-unsplash.jpg
 authors:
   - name: Konrad Seifert
