@@ -9,7 +9,6 @@ authors:
     page: konrad-seifert/index
 tags:
   - Strategy
-  - Transparency
   - Updates
 isHighlighted: false
 ---
