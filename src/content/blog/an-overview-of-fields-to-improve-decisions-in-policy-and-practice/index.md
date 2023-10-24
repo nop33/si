@@ -1,8 +1,9 @@
 ---
 title: An overview of fields to improve decision-making in policy systems
 date: 2021-06-21T12:02:00.000Z
-description: "At SI, we support international policy actors in dealing with
-  uncertainty, complexity, time-pressure and global catastrophic risks... "
+description: At SI, we support international policy actors in dealing with
+  uncertainty, complexity, time-pressure and global catastrophic risks. Below is
+  a compilation of fields and resources...
 featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png
 authors:
   - name: ""
