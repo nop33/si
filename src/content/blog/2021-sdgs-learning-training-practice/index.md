@@ -9,10 +9,10 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category:
+category: null
 tags:
   - Events
-  - UN
+  - multilateralism
 isHighlighted: false
 seo:
   title: ""
