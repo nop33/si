@@ -9,6 +9,7 @@ authors:
     externalLink: https://www.linkedin.com/in/jason-hausenloy/
     externalName: Jason Hausenloy
 tags:
+  - publications
   - AI
 isHighlighted: false
 ---
