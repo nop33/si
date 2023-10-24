@@ -25,7 +25,7 @@ keyfactsSection:
       collaborating with us, or supporting our efforts, feel free to get in
       touch. We’re always happy to connect and share insights. "
     link:
-      title: Connect
+      title: Contact
       url: /contact/
 featuredProjectsSection:
   title: Featured projects
