@@ -1,14 +1,14 @@
 ---
 title: How we will evaluate our impact
 date: 2021-03-12T10:40:00.000Z
-description: ""
+description: "Given the difficulty of measuring effects on policy networks, we
+  anchor our strategy in a detailed theory of change. While organizational ... "
 featuredImage: josue-isai-ramos-figueroa-qvbynmunj9a-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
   - Strategy
-  - Transparency
 seo:
   title: ""
   description: ""
