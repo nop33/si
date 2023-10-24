@@ -8,7 +8,7 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
-category: null
+category: Knowledge synthesis
 tags:
   - publications
   - AI
