@@ -18,8 +18,6 @@ tags:
   - updates
 isHighlighted: false
 ---
-## The SI Strategy 
-
 Our strategy and theory of change act as our organization's guiding star. The contents of them act as the foundation upon which we build our 2-3 year plans, monitor our progress, and reorient ourselves to achieve our organizational goals.
 
 ![](screenshot-2023-10-23-at-15.33.21.png)
