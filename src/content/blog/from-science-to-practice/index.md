@@ -10,7 +10,7 @@ authors:
     page: konrad-seifert/index
 tags:
   - Events
-  - UN
+  - multilateralism
 isHighlighted: false
 seo:
   title: ""
