@@ -4,7 +4,7 @@ title: United Nations for the future - a collection of key texts for long-term
 date: 2021-07-01T13:50:04.479Z
 description: "Future generations are front and center of many foundational
   international governance texts. Yet, consideration of their interests
-  regularly falls into oblivion ... "
+  regularly falls into oblivion... "
 featuredImage: library-of-congress-xpes12kkvug-unsplash.jpg
 authors:
   - name: Konrad Seifert
