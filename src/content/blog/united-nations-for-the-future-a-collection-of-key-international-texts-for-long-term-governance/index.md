@@ -2,20 +2,16 @@
 title: United Nations for the future - a collection of key texts for long-term
   governance
 date: 2021-07-01T13:50:04.479Z
-description: With this collection, we highlight fertile ground for the
-  refinement of a shared understanding of the long term, building on decades of
-  diplomacy that have successfully made long-term flourishing a key motivation
-  for international cooperation. It reminds us of the recency of international
-  institutions, their hopeful vision and the work that remains to be done to
-  secure long-term survival and flourishing.
+description: "Future generations are front and center of many foundational
+  international governance texts. Yet, consideration of their interests
+  regularly falls into oblivion ... "
 featuredImage: library-of-congress-xpes12kkvug-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
-  - Resources
-  - Multilateralism
-  - UN
+  - publications
+  - multilateralism
 isHighlighted: false
 ---
 Future generations are front and center of many foundational international governance texts. Yet, consideration of their interests regularly falls into oblivion because short-term problems captivate our limited attention.
