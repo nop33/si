@@ -2,11 +2,7 @@
 hide: false
 title: Our updated theory of change
 date: 2023-10-23T13:29:43.243Z
-description: >
-  Our strategy and theory of change act as our organization's guiding star. The
-  contents of them act as the foundation upon which we build our 2-3 year plans,
-  monitor our progress, and reorient ourselves to achieve our organizational
-  goals.
+description: ""
 featuredImage: usersi_3d_wordless_graphic_warm_colours_kazumasa_nagai_building_bd430556-0f4a-436c-abba-7a4fb8333b76.png
 authors:
   - name: Maxime Stauffer
