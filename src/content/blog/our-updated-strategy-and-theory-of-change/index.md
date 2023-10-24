@@ -194,3 +194,5 @@ To illustrate our Theory of Change, we have applied it in the context of AI gove
    </td>
   </tr>
 </table>
+
+For more on how we plan to implement our updated strategy and theory of change, you can view our [plans until 2025](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/).
