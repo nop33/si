@@ -6,8 +6,7 @@ authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
-  - Updates
-  - Transparency
+  - updates
 isHighlighted: false
 ---
 As summer is coming to an end, we wanted to share an update with you.
