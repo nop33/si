@@ -9,7 +9,7 @@ authors:
     externalLink: https://www.cs.cmu.edu/simon/bio.html
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Knowledge synthesis
+category: ""
 tags:
   - herbert-simon
   - AI
