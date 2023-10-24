@@ -7,6 +7,7 @@ featuredImage: usersi_strengthening_the_international_response_to_complex_glob_f
 authors:
   - name: Malou Estier
     page: malou-estier/index
+category: Policy support
 tags:
   - multilateralism
   - publications
