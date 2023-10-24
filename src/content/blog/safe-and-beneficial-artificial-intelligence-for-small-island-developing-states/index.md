@@ -12,6 +12,7 @@ authors:
   - name: Maxime Stauffer
     page: maxime-stauffer/index
 tags:
+  - publications
   - AI
 isHighlighted: false
 ---
