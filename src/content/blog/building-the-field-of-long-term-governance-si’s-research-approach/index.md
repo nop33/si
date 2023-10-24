@@ -3,7 +3,7 @@ title: Building the field of long-term governance - SI’s approach
 date: 2021-06-21T13:27:44.048Z
 description: "Part of our work at SI is to conduct research on how to integrate
   the interests of future generations into policymaking processes. We call this
-  field long-term governance ... "
+  field long-term governance... "
 featuredImage: ryan-lange-rgrkijnnefi-unsplash.jpg
 authors:
   - name: ""
