@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Our updated strategy and theory of change
+title: Our updated theory of change
 date: 2023-10-23T13:29:43.243Z
 description: >
   Our strategy and theory of change act as our organization's guiding star. The
