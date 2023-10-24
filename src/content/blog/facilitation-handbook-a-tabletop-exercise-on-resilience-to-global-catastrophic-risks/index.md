@@ -8,7 +8,8 @@ authors:
     page: maxime-stauffer/index
 category: Facilitation
 tags:
-  - Resources
+  - publications
+  - global-catastrophic-risks
 isHighlighted: false
 ---
 Strengthening science-policy capacity to mitigate Global Catastrophic Risks (GCRs) is difficult. As GCRs have not happened in the recent past, policy actors struggle to conceive of them and their consequences. As researchers are not regularly involved in policy processes, they struggle to align their research directions and timelines with policy needs.
