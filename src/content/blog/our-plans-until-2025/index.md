@@ -2,7 +2,9 @@
 hide: false
 title: Our plans until 2025
 date: 2023-10-23T12:14:57.658Z
-description: ""
+description: Until the end of 2025, SI will focus on improving the multilateral
+  system’s capacity for the governance of rapid technological change, with a
+  specific focus on AI ...
 featuredImage: usersi_3d_wordless_graphic_pastel_kazumasa_nagai_building_gover_b0430038-7e43-43f2-996f-bc61b5b69feb.png
 authors:
   - name: Maxime Stauffer
