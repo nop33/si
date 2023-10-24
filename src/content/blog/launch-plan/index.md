@@ -14,7 +14,7 @@ authors:
   - name: Maxime Stauffer
     page: maxime-stauffer/index
 tags:
-  - Strategy
+  - strategy
 seo:
   title: ""
   description: ""
