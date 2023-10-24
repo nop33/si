@@ -8,7 +8,7 @@ authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
-  - Strategy
+  - strategy
 seo:
   title: ""
   description: ""
