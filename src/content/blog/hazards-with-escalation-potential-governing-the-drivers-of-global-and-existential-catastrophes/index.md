@@ -3,7 +3,8 @@ hide: false
 title: "Hazards with escalation potential - governing the drivers of global and
   existential catastrophes "
 date: 2023-09-01T11:23:06.324Z
-description: ""
+description: The international community increasingly seeks to understand the
+  large-scale risks we face, and the role institutions can play in...
 featuredImage: usersi_wordless_colorful_pastel_graphic_demonstrating_the_escal_708802da-b972-4861-a3fb-734c9bb03ba4.png
 authors:
   - name: Maxime Stauffer
@@ -19,9 +20,8 @@ authors:
 category: Knowledge synthesis
 tags:
   - publications
-  - disasterrisk
+  - risk-governance
   - undrr
-  - isc
 isHighlighted: true
 ---
 In 2021, UN-Secretary General António Guterres issued ['Our Common Agenda'](https://www.un.org/en/common-agenda), a report outlining a vision for the future of global cooperation. In the report, he states: 
