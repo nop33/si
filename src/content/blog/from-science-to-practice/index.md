@@ -10,7 +10,7 @@ authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
 tags:
-  - Events
+  - events
   - multilateralism
 isHighlighted: false
 seo:
