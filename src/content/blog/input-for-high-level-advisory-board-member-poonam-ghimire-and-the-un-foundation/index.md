@@ -5,10 +5,10 @@ featuredImage: frw8jeqwyaa1wx9.jpeg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Policy support
 tags:
-  - Resources
-  - UN
-  - Multilateralism
+  - events
+  - multilateralism
 isHighlighted: false
 ---
 In August 2022, SI was invited to contribute to two consultations held by the United Nations Foundation and High-Level Advisory Board member Poonam Ghimire on ‘Peace and Security’ and ‘Digital Governance’. 
