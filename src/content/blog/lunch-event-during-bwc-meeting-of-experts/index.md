@@ -5,6 +5,7 @@ featuredImage: download.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Facilitation
 tags:
   - events
   - biosecurity
