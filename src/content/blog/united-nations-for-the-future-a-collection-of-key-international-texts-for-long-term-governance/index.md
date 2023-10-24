@@ -9,6 +9,7 @@ featuredImage: library-of-congress-xpes12kkvug-unsplash.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Knowledge synthesis
 tags:
   - publications
   - multilateralism
