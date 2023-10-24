@@ -4,7 +4,7 @@ date: 2021-03-13T10:41:13.991Z
 description: >+
   The Simon Institute for Longterm Governance (SI) aims to increase the
   long-term impact of policymaking processes. In its first 24 months SI’s core
-  objectives are to ... 
+  objectives are to... 
 
 featuredImage: annie-spratt-kzo9xqmo_ta-unsplash.jpg
 authors:
