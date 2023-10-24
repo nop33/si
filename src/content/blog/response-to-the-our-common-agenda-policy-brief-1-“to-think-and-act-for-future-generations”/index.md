@@ -7,6 +7,7 @@ featuredImage: usersi_the_general_assembly_of_planet_earth_celebrating_the_dec_f
 authors:
   - name: Malou Estier
     page: malou-estier/index
+category: Policy support
 tags:
   - multilateralism
   - future-generations
