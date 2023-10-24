@@ -9,7 +9,7 @@ authors:
     externalName: Elias Kock
     externalLink: https://www.linkedin.com/in/elias-kock/
 tags:
-  - Resources
+  - publications
 isHighlighted: false
 ---
 *What is it like to be a policymaker during the COVID-19 pandemic?* 
