@@ -11,6 +11,7 @@ authors:
     page: belinda-cleeland/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
+category: Knowledge synthesis
 tags:
   - publications
   - AI
