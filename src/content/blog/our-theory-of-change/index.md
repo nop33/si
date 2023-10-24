@@ -1,9 +1,9 @@
 ---
 title: Our theory of change
 date: 2021-04-23T08:25:47.541Z
-description: If humanity survives the next few centuries, there is a fair chance
-  that the vast majority of human life, culture, science, technology, and
-  happiness lies ahead, rather than behind us.
+description: "Our theory of change illustrates how we intend to contribute to
+  the long-term flourishing of civilization. In this post, we outline our
+  overarching strategic thinking ... "
 featuredImage: as12-51-7524.jpg
 authors:
   - name: ""
@@ -12,7 +12,6 @@ authors:
     externalLink: https://www.linkedin.com/in/felix-haas-542b4b30/
 tags:
   - Strategy
-  - Transparency
 isHighlighted: false
 seo:
   description: >-
