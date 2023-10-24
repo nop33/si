@@ -30,7 +30,7 @@ In 2021, UN-Secretary General António Guterres issued ['Our Common Agenda'](htt
 
 The international community increasingly seeks to understand the large-scale risks we face, and the role institutions can play in better preventing, preparing and managing the hazards that give rise to these risks. In response to this growing demand, the Simon Institute for Longterm Governance (SI) partnered with the [United Nations Office for Disaster Risk Reduction](https://www.undrr.org/) (UNDRR) and the [International Science Council](https://council.science/) (ISC) to produce a report on hazards that have the potential to lead to catastrophic or existential risks, and strategies for governing the forces that drive them. 
 
-**\-- [Read the full brief here](https://www.undrr.org/publication/hazards-escalation-potential-governing-drivers-global-and-existential-catastrophes) --**
+**\-- [Read the full report here](https://www.undrr.org/publication/hazards-escalation-potential-governing-drivers-global-and-existential-catastrophes) --**
 
 Hazards with escalation potential are those that, when combined with additional vulnerabilities, possess the capacity to develop into global catastrophic or existential risks – events that could lead to a global population loss exceeding 10% or the irreversible collapse of humanity. These hazards often exhibit common characteristics, such as far-reaching geographical impacts, an ability to affect multiple sectors, or the potential to grow exponentially. Notably, they have the capacity to disrupt multiple interconnected systems (e.g. the internet and other global communication networks) and can bypass established response mechanisms (e.g. an emergency response system reliant upon internet access). 
 
@@ -46,4 +46,4 @@ The report argues that the characteristics shared by these 10 hazards with escal
 
 The report further highlights that future disasters may become increasingly complex in nature, potentially combining all characteristics outlined in the table above. Should such an event occur, a global or existential catastrophe could ensue. In light of these threats, the authors call for the international risk governance community to focus greater attention on hazards with escalation potential, and the forces that drive their development. If governments can effectively address the most severe threats, their ability to respond to all hazards will improve significantly.
 
-**\-- [Read the full brief here](https://www.undrr.org/publication/hazards-escalation-potential-governing-drivers-global-and-existential-catastrophes) --**
+**\-- [Read the full report here](https://www.undrr.org/publication/hazards-escalation-potential-governing-drivers-global-and-existential-catastrophes) --**

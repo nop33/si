@@ -167,6 +167,6 @@ Without SI… 
 
 ## Our Plans Moving Forward
 
-Going forward, SI plans to shift its focus towards the promotion of multilateral governance for AI. Leveraging existing networks and knowledge, SI hopes to help boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances. We also plan to advise national and non-governmental actors working on frontier AI, to act and communicate in ways that enhance multilateral progress, instead of spurring further fragmentation. 
+Going forward, SI plans to shift its focus towards the promotion of multilateral governance for AI. Leveraging existing networks and knowledge, SI hopes to help boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances. We also plan to advise national and non-governmental actors working on frontier AI, to act and communicate in ways that enhance multilateral progress, instead of spurring further fragmentation. You can see [here](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/) to read more about our plans until 2025.
 
 If you’re interested in discussing our work in more detail, collaborating, or supporting our work, please reach out to konrad@simoninstute.ch.

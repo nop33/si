@@ -12,11 +12,11 @@ keyfactsSection:
       title: More
       url: /about/
   - title: Our work
-    description: >
-      In practice, we raise awareness about global catastrophic risks, bridge
-      the gap between innovation and policy, and advocate for the interests of
-      future generations in policymaking processes. Our activities encompass
-      research, policy support, and facilitation.
+    description: In practice, we raise awareness about global catastrophic risks,
+      bridge the gap between innovation and policy, and advocate for the
+      interests of future generations in policymaking processes, all with the
+      aim of ensuring a flourishing future. Our activities encompass research,
+      policy support, and facilitation.
     link:
       title: More
       url: /our-work/
