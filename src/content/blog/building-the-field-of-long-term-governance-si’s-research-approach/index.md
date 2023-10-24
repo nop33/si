@@ -1,11 +1,9 @@
 ---
 title: Building the field of long-term governance - SI’s approach
 date: 2021-06-21T13:27:44.048Z
-description: In conducting our work, we make choices about the questions we ask,
-  modelling assumptions we make, which literature to rely on, etc. In this short
-  piece, we make explicit the underlying beliefs that inform these decisions. By
-  doing so, we hope to explain our approach, invite constructive criticism and
-  live up to our standard of reasoning transparency.
+description: "Part of our work at SI is to conduct research on how to integrate
+  the interests of future generations into policymaking processes. We call this
+  field long-term governance ... "
 featuredImage: ryan-lange-rgrkijnnefi-unsplash.jpg
 authors:
   - name: ""
@@ -21,9 +19,8 @@ authors:
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
     externalName: Jan Pieter Snoeij
 tags:
-  - Strategy
-  - Transparency
-  - Resources
+  - strategy
+  - long-term-governance
 isHighlighted: false
 ---
 
