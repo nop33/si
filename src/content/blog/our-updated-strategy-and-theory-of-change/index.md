@@ -118,7 +118,7 @@ To solve challenges in a rapidly changing environment, collaboration is key. Con
 
 #### Outputs
 
-**Knowledge:** **We synthesize knowledge with underrepresented stakeholders and institutions to produce politically and scientifically legitimate knowledge products on long-term governance issues, filling a critical gap in the multilateral system.**
+**Knowledge:** We synthesize knowledge with underrepresented stakeholders and institutions to produce politically and scientifically legitimate knowledge products on long-term governance issues, filling a critical gap in the multilateral system.
 
 **Policy input:** We contribute directly to policy processes via participation in and statements at high-level multilateral events, stakeholder consultations, and written responses to key multilateral processes and publications.
 
