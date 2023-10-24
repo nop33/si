@@ -26,15 +26,15 @@ Our strategy and theory of change act as our organization's guiding star. The co
 
 ## Vision 
 
-*Our vision outlines why we do what we do. It describes the long-term outcome we want to see from our work.*
+*Our vision outlines **why** we do what we do. It describes the long-term outcome we want to see from our work.*
 
 **A world where humanity coordinates so that life can flourish.**
 
-At SI we believe in the potential of human ingenuity and technology to create a future where life can thrive. But we fear the possibility of escalating harms or large-scale disaster if change is not well-governed. By promoting and enhancing coordination amongst global actors, we hope to contribute to long-term survival and happiness.
+At SI we believe in the potential of human ingenuity and technology to create a future where life can thrive. But we fear the possibility of escalating harms or large-scale disaster if change is not well-governed. By promoting and enhancing coordination amongst global actors, we hope to contribute to long-term survival and well-being.
 
 ## Mission 
 
-*Our mission specifies how we intend to achieve our vision. It describes the broad actions we will take and who we will work with.*
+*Our mission specifies **how** we intend to achieve our vision. It describes the broad actions we will take and who we will work with.*
 
 **Supporting multilateral governance actors to think long-term and develop instruments that reduce global catastrophic risks, improve quality of life, and promote agency for present and future generations.** 
 
@@ -68,9 +68,9 @@ SI’s vision, mission, objectives and priorities rest upon a solid foundation, 
 
 ## Theory of Change
 
-Our theory of change expands on our mission to describe in more detail how the actions of SI will lead to the changes necessary for us to achieve our vision. It builds on five contextual factors, which lead to the implications that shape our mission. It then outlines how the inputs we provide will lead to outputs and, finally, to the short and long-term outcomes that can turn our vision into reality.
+Our theory of change **expands on our mission** to describe in more detail how the actions of SI will lead to the changes necessary for us to achieve our vision. It builds on five contextual factors, which lead to the implications that shape our mission. It then outlines how the inputs we provide will lead to outputs and, finally, to the short and long-term outcomes that can turn our vision into reality.
 
-![](screenshot-2023-10-23-at-15.36.11.png)
+![](si-toc-final-.png)
 
 #### Context
 
@@ -78,19 +78,19 @@ SI has identified five contextual factors - and their implications - that underp
 
 **1. History is speeding up**
 
-Globalization and accelerating technological change are fundamentally reshaping how we live, work, and interact with each other. However, as our world is becoming more complex, our governance systems – from local governments to multilateral institutions –  struggle to keep up with the pace and scale of change. Many are not designed to deal with the new realities we face. 
+Globalization and accelerating technological change are fundamentally reshaping how we live, work, and interact with each other. However, as our world is becoming more complex, our governance systems – from local governments to multilateral institutions –  struggle to keep up with the pace and scale of change. Many are not designed to deal with the new realities we face.
 
-**→ Implication:** Governance structures need to evolve; to become more agile and responsive to match the rapid pace and complexity of the societal and technological change we are witnessing today. 
+**→ Implication:** Governance structures need to evolve; to become more agile and responsive to match the rapid pace and complexity of the societal and technological change we are witnessing today.
 
 **2. Institutions are permeated by short-term incentives**
 
-Governance systems continue to be permeated by short-term incentives, resulting in a neglect of long-term issues, and a neglect of future generations' interests. 
+Governance systems continue to be permeated by short-term incentives, resulting in a neglect of long-term issues, and a neglect of future generations' interests.
 
-**→ Implication:** Long-term governance can serve as a valuable frame for countering short-term incentives by by encouraging actors to account for the long-term impacts of policy decisions, the interests of future generations, and the need to skillfully balance technological risks and benefits.
+**→ Implication:** Long-term governance can serve as a valuable frame for countering short-term incentives by encouraging actors to account for the long-term impacts of policy decisions, the interests of future generations, and the need to skillfully balance technological risks and benefits.
 
 **3. Multilateral coordination is crucial, yet lacking**
 
-As our world becomes more interconnected, actions frequently have consequences across national borders. As new risks with progressively more catastrophic potential arise, international coordination is increasingly necessary to manage them. Our current multilateral system is not fit to govern some of the most severe risks we face today. 
+As our world becomes more interconnected, actions frequently have consequences across national borders. As new risks with progressively more catastrophic potential arise, international coordination is increasingly necessary to manage them. Our current multilateral system is not fit to govern some of the most severe risks we face today.
 
 **→ Implication:** Despite its shortcomings, the multilateral system remains key for global coordination. It can host critical dialogues, lead global consensus-building, and direct local and regional decision-making. Greater effort should go towards strengthening the multilateral system to address the global challenges we face.
 
@@ -102,7 +102,7 @@ Governance ecosystems are sets of international instruments and institutions tha
 
 **5. A practical, transparent and agile approach can foster progress**
 
-To solve challenges in a rapidly changing environment, collaboration is key. Contributing to specific, relevant policy processes in an agile and transparent manner can build trust and traction with key stakeholders and is much more likely to produce effective results.
+To solve challenges in a rapidly changing environment, collaboration is key. Contributing to specific, relevant policy processes in an agile and transparent manner can build trust with key stakeholders and is much more likely to produce effective solutions.
 
 **→ Implication:** Transparency and agility should be the guiding principles behind the work of an effective organization working in the multilateral governance space. SI must therefore remain independent of pressures from governments, private actors, military groups, or political parties; communicate openly about its goals, activities, approaches and funding in order to cultivate trust; and maintain the ability to pivot easily to divert resources towards the most relevant and promising opportunities for impact.
 
@@ -110,25 +110,25 @@ To solve challenges in a rapidly changing environment, collaboration is key. Con
 
 **Monitoring:** We monitor policy processes relevant to long-term governance issues to ensure a comprehensive understanding of all significant developments in the multilateral governance ecosystem, evaluating where and how inputs and interventions can be the most effective.
 
-**Research:** We conduct research on long-term governance,; on risks and opportunities associated with rapid technological change, strategies for governing technological progress, and methods for including future generations' interests in policy-making processes. 
+**Research:** We conduct research on long-term governance, on risks and opportunities associated with rapid technological change, strategies for governing technological progress, and methods for including future generations' interests in policy-making processes.
 
-**Outreach:** We proactively conduct outreach to a diverse range of stakeholders to build new partnerships that yield insights, exchange best practices, promote coordination, and fill gaps in the long-term governance ecosystem.
+**Outreach:** We proactively reach out to a diverse range of stakeholders to build partnerships that yield insights, exchange best practices, promote coordination, and fill gaps in the long-term governance ecosystem.
 
 **Translation:** We translate complex scientific, technological and policy concepts into accessible language, targeting information to specific audiences, with a focus on bridging the gap between science and technology experts and policy experts.
 
 #### Outputs
 
-**Knowledge:** We synthesize knowledge with key partners and institutions to produce politically and scientifically legitimate knowledge products on long-term governance issues, filling a critical gap in the multilateral system. 
+**Knowledge:** **We synthesize knowledge with underrepresented stakeholders and institutions to produce politically and scientifically legitimate knowledge products on long-term governance issues, filling a critical gap in the multilateral system.**
 
 **Policy input:** We contribute directly to policy processes via participation in and statements at high-level multilateral events, stakeholder consultations, and written responses to key multilateral processes and publications.
 
 **Networks:** We build strong policy networks by fostering exchange between diverse stakeholders who share concerns about future generations, technology governance, and catastrophic risks.
 
-**Events:** We host workshops, meetings, training programmes and other events related to specific policy processes, or to enable general community building and knowledge sharing about long-term governance. 
+**Events:** We host workshops, meetings, training programmes and other events related to specific policy processes, or to enable general community building and knowledge sharing about long-term governance.
 
 #### Short-Term Outcomes
 
-**Multilateral governance actors are better informed and connected:** Through our work, multilateral governance actors receive a clearer grasp of scientific and technological progress, and science and technology actors gain a better understanding of policy-making processes. Both parties increase their knowledge about long-term governance topics and interface more frequently. As a result, policy makers in public and private institutions are better able to determine priorities and make recommendations grounded in crucial contextual insights. 
+**Multilateral governance actors are better informed and connected:** Through our work, multilateral governance actors receive a clearer grasp of scientific and technological progress, and science and technology actors gain a better understanding of policy-making processes. Both parties increase their knowledge about long-term governance topics and interface more frequently. As a result, policy makers in public and private institutions are better able to determine priorities and make recommendations grounded in crucial contextual insights.
 
 **Increased awareness of global catastrophic risks:** Through our work, there is greater awareness and understanding of the nature of global catastrophic risks and the need to govern them effectively, especially those risks stemming from emerging technologies. As a result, policymaking processes more routinely take into account these kinds of risks and appropriate risk governance approaches start to become institutionalized.
 
@@ -136,7 +136,7 @@ To solve challenges in a rapidly changing environment, collaboration is key. Con
 
 #### Long-Term Outcomes
 
-**A strong and resilient multilateral system:** Over time, multilateral institutions have seen improved coordination amongst various actors. Governance ecosystems have become more coherent and long-term focused, improving the the multilateral system's ability to address risks and accelerating societal changes. 
+**A strong and resilient multilateral system:** Over time, multilateral institutions have seen improved coordination amongst various actors. Governance ecosystems become more coherent and long-term focused, improving the multilateral system's ability to address risks and accelerating societal changes.
 
 **Humanity benefits from technology, whilst minimizing risks:** Over time, policymaking processes have evolved to become highly agile, responsive and inclusive, enabling humanity to make the most of new technologies by putting in place effective governance structures to manage any risks. 
 
@@ -147,11 +147,10 @@ To solve challenges in a rapidly changing environment, collaboration is key. Con
 To illustrate our Theory of Change, we have applied it in the context of AI governance, as detailed below.
 
 <table>
-
   <tr>
    <td><strong>Contextual factors</strong>
    </td>
-   <td>Artificial Intelligence (AI) is set to fundamentally transform our society. However, the technology is developing rapidly and there is uncertainty as to how it will evolve. The pace of this technological development is already outstripping the capacity of governance structures to keep up. Most national regulatory efforts are trying to address proven harms and risks, but are struggling to account for potential future global shocks. Given the concentration of leading AI labs in a select few countries, and the anticipated impact of AI across the globe,  multilateral governance is imperative. At present however, there is no multilateral solution to handle AI. 
+   <td>Artificial Intelligence (AI) is set to fundamentally transform our society. However, the technology is developing rapidly and there is uncertainty as to how it will evolve. The pace of this technological development is already outstripping the capacity of governance structures to keep up. Most national regulatory efforts are trying to address proven harms and risks, but are struggling to account for potential future global shocks. Given the concentration of leading AI labs in a select few countries, and the anticipated impact of AI across the globe, multilateral governance is imperative. At present however, there are no multilateral institutions with the ability to handle transformative AI. 
    </td>
   </tr>
   <tr>
@@ -175,19 +174,19 @@ To illustrate our Theory of Change, we have applied it in the context of AI gove
   <tr>
    <td><strong>Outputs</strong>
    </td>
-   <td>SI will synthesize information and produce knowledge products such as blog posts, briefing notes and reports in collaboration with member state-led organizations, explaining key issues in AI governance. Inputs will be made to the development of specific policy processes, such as the UN’s Global Digital Compact and the UN’s Multistakeholder Advisory Body on AI. Events will be organized to help build networks of key stakeholders, for example bringing together low- and middle-income countries to discuss their involvement in global AI governance.
+   <td>SI will synthesize information and produce knowledge products such as blog posts, briefing notes and reports in collaboration with leading international organizations, explaining key issues in AI governance. Inputs will be made to the development of specific policy processes, such as the UN’s Global Digital Compact and the UN’s Multistakeholder Advisory Body on AI. Events will be organized to help build networks of key stakeholders, for example bringing together low- and middle-income countries to discuss their involvement in global AI governance.
    </td>
   </tr>
   <tr>
    <td><strong>Short-term outcomes</strong>
    </td>
-   <td>In the short-term, low- and middle-income countries will become more informed about AI governance issues and related global catastrophic risks, stepping-up their engagement and boosting otherwise blocked AI governance processes as a result. Better connections will be built between the major public and private sector actors, and the relevant AI labs will become more involved in multilateral governance discussions, improving the quality and accuracy of outcomes.
+   <td>In the short-term, low- and middle-income countries will become more informed about AI governance issues and related global catastrophic risks, moving AI governance up their list of priorities and stepping-up their engagement as a result. Better connections will be built between the major public and private sector actors, and relevant AI labs will become more involved in multilateral governance discussions, improving the quality and accuracy of outcomes.
    </td>
   </tr>
   <tr>
    <td><strong>Long-term outcomes</strong>
    </td>
-   <td>In the long-term, an ecosystem of old and new institutions for AI governance will coordinate to ensure that risks are effectively managed and technological benefits are equally distributed. This will contribute to improving the well-being of current and future generations alike., thereby incrementally achieving our vision.
+   <td>In the long-term, an ecosystem of old and new institutions for AI governance will coordinate to ensure that risks are effectively managed and technological benefits are equally distributed. This will contribute to improving the well-being of current and future generations alike.
    </td>
   </tr>
   <tr>
