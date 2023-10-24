@@ -8,8 +8,9 @@ authors:
     page: ""
     externalName: Elias Kock
     externalLink: https://www.linkedin.com/in/elias-kock/
+category: Knowledge synthesis
 tags:
-  - Resources
+  - publications
 isHighlighted: false
 ---
 *What is it like to be a policymaker during the COVID-19 pandemic?* 

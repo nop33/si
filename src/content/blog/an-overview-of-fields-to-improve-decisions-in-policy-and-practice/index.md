@@ -1,10 +1,9 @@
 ---
 title: An overview of fields to improve decision-making in policy systems
 date: 2021-06-21T12:02:00.000Z
-description: "At SI, we support international policy actors in dealing with
+description: At SI, we support international policy actors in dealing with
   uncertainty, complexity, time-pressure and global catastrophic risks. Below is
-  a compilation of fields and resources we draw from and that might be valuable
-  for others. "
+  a compilation of fields and resources...
 featuredImage: an-overview-of-fields-to-improve-decisions-in-policy-and-practice.png
 authors:
   - name: ""
@@ -14,8 +13,9 @@ authors:
     externalLink: https://www.linkedin.com/in/lauraeagreen/
   - externalName: Ian David Moss
     externalLink: https://www.linkedin.com/in/iandavidmoss/
+category: Knowledge synthesis
 tags:
-  - Resources
+  - publications
 isHighlighted: false
 ---
 *This overview was initially developed by the Effective Institutions Project in May 2021 and has been lightly adapted by Maxime Stauffer and Konrad Seifert. With thanks also to Aman Patel, Angela María Aristizábal, Marisa Jurczyk, Michael Noetel and Willem Roekens.*

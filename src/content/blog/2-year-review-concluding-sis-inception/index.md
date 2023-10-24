@@ -2,10 +2,7 @@
 hide: false
 title: "2-year review: concluding SI's inception"
 date: 2023-07-01T14:55:09.918Z
-description: "In April 2021, we launched the Simon Institute for Longterm
-  Governance (SI). In this post, we provide a review of SI’s work since
-  inception. We outline why we founded SI, our first two years in numbers, our
-  impact so far, and our plans moving forward. "
+description: ""
 featuredImage: usersi_3d_pastel_graphic_of_the_inception_of_an_organization_go_cc000ce6-63e6-4ea2-b36a-49f94c721652.png
 authors:
   - name: Sofia Mikton

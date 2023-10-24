@@ -3,8 +3,7 @@ title: Year one - review, plans & funding
 date: 2022-04-07T10:02:04.088Z
 description: SI has proven its value through knowledge synthesis, workshop
   facilitation and high-level events. This combination of activities has granted
-  SI mandates to directly work on key policy processes relevant to global
-  catastrophic risk reduction for the coming years.
+  SI mandates to directly work on...
 featuredImage: si.jpg
 authors:
   - name: Konrad Seifert

@@ -5,10 +5,11 @@ featuredImage: download.jpg
 authors:
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Facilitation
 tags:
-  - Events
-  - UN
-  - Biosecurity
+  - events
+  - biosecurity
+  - multilateralism
 isHighlighted: false
 ---
 **This event already took place. You can [read a recap of it on the blog of the Geneva Science-Policy Interface](https://gspi.ch/activities/decision-making-in-the-face-of-extreme-biological-risks/).**

@@ -5,10 +5,10 @@ featuredImage: declaration-united-nations.jpeg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Policy support
 tags:
-  - Multilateralism
-  - Resources
-  - UN
+  - multilateralism
+  - publications
 isHighlighted: false
 ---
 Future generations are fundamentally disempowered: they will inherit the planet and society we leave for them, yet they have no say in how our societies are governed. They cannot vote, and they are not considered by our justice systems. Yet future generations - our future children, grandchildren, great-grandchildren, and the thousands or millions of generations that humanity could become in the future - all matter. This blog post lays out an important step forward made by the UN with regard to future generations, and explains SI’s involvement.

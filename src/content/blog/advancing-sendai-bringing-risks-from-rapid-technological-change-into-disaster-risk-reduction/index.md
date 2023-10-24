@@ -11,8 +11,8 @@ authors:
     page: sofia-mikton/index
 category: Policy support
 tags:
-  - sendaiframework
-  - disasterrisk
+  - publications
+  - risk-governance
   - undrr
 isHighlighted: false
 ---

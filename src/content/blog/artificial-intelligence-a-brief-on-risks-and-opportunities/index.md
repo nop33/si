@@ -10,6 +10,7 @@ authors:
     page: jacob-arbeid/index
 category: Knowledge synthesis
 tags:
+  - publications
   - AI
 isHighlighted: false
 ---

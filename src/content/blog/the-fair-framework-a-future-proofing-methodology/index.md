@@ -1,6 +1,6 @@
 ---
 hide: false
-title: The FAIR Framework - A future-proofing methodology
+title: The FAIR framework - A future-proofing methodology
 date: 2023-04-26T16:33:18.379Z
 featuredImage: 68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313036333434373830393934323130363235352f313039393938363434343935343633363335382f5573657253495f776f72646c6573735f636f6c6f7266756c5f677261706869635f646976657273655f.png
 authors:
@@ -12,9 +12,9 @@ authors:
     page: konrad-seifert/index
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Policy support
 tags:
-  - Resources
-  - Tools
+  - publications
 isHighlighted: false
 ---
 

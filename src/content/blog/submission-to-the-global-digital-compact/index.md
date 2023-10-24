@@ -1,6 +1,7 @@
 ---
 hide: false
-title: Submission to the Global Digital Compact on the interpretability of AI foundation models 
+title: Submission to the Global Digital Compact on the interpretability of AI
+  foundation models
 date: 2023-04-26T19:23:50.979Z
 featuredImage: 68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313036333434373830393934323130363235352f313130303030313839373135363434343235322f5573657253495f776f72646c6573735f636f6c6f7266756c5f70617374656c5f677261706869635f64.png
 authors:
@@ -8,10 +9,10 @@ authors:
     page: jacob-arbeid/index
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Policy support
 tags:
-  - Multilateralism
-  - Resources
-  - UN
+  - multilateralism
+  - publications
   - AI
 isHighlighted: false
 ---
