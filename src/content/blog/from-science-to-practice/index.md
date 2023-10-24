@@ -10,6 +10,7 @@ authors:
     page: konrad-seifert/index
   - name: Konrad Seifert
     page: konrad-seifert/index
+category: Knowledge synthesis
 tags:
   - events
   - multilateralism
