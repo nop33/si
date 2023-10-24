@@ -11,7 +11,7 @@ authors:
     externalName: Felix Haas
     externalLink: https://www.linkedin.com/in/felix-haas-542b4b30/
 tags:
-  - Strategy
+  - strategy
 isHighlighted: false
 seo:
   description: >-
