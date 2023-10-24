@@ -3,9 +3,7 @@ hide: false
 title: "Hazards with escalation potential - governing the drivers of global and
   existential catastrophes "
 date: 2023-09-01T11:23:06.324Z
-description: The international community increasingly seeks to understand the
-  large-scale risks we face, and the role institutions can play in better
-  preventing, preparing and managing the hazards that give rise to these risks.
+description: ""
 featuredImage: usersi_wordless_colorful_pastel_graphic_demonstrating_the_escal_708802da-b972-4861-a3fb-734c9bb03ba4.png
 authors:
   - name: Maxime Stauffer
