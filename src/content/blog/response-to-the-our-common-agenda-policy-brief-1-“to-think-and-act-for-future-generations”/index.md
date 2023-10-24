@@ -8,9 +8,9 @@ authors:
   - name: Malou Estier
     page: malou-estier/index
 tags:
-  - UN
-  - Multilateralism
-  - FutureGenerations
+  - multilateralism
+  - future-generations
+  - publications
 isHighlighted: false
 ---
 The Executive Office of the Secretary-General (EOSG) of the United Nations is publishing a series of policy briefs to inform the Our Common Agenda processes. On March 9th 2023, EOSG published its first two policy briefs on [Future Generations](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-future-generations-en.pdf) and [The Emergency Platform](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-emergency-platform-en.pdf).
