@@ -13,6 +13,7 @@ authors:
     externalLink: https://www.linkedin.com/in/lauraeagreen/
   - externalName: Ian David Moss
     externalLink: https://www.linkedin.com/in/iandavidmoss/
+category: Knowledge synthesis
 tags:
   - publications
 isHighlighted: false
