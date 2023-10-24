@@ -12,7 +12,7 @@ authors:
 category: Policy support
 tags:
   - publications
-  - disaster-risk-reduction
+  - risk-governance
   - undrr
 isHighlighted: false
 ---
