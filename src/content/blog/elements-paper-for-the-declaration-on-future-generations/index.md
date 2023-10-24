@@ -5,6 +5,7 @@ featuredImage: declaration-united-nations.jpeg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Policy support
 tags:
   - multilateralism
   - publications
