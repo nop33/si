@@ -4,7 +4,7 @@ title: Setting expectations for global catastrophic risk mitigation through
 date: 2021-06-21T14:11:57.950Z
 description: "As the world temporarily ground to a halt in 2020, it became clear
   that the world is not prepared for shocks worse than COVID-19. To prepare, we
-  need policy change ... "
+  need policy change... "
 featuredImage: axel-antas-bergkvist-zrszqdnfkq8-unsplash.jpg
 authors:
   - name: Maxime Stauffer
