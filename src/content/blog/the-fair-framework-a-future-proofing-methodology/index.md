@@ -12,6 +12,7 @@ authors:
     page: konrad-seifert/index
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+category: Policy support
 tags:
   - publications
 isHighlighted: false
