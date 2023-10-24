@@ -1,5 +1,5 @@
 ---
-title: Fundraising
+title: Donate
 textSections:
   - content: This is an empty page (for now 😉)
 ---
