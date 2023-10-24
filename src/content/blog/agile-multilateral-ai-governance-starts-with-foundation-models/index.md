@@ -8,8 +8,9 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
-category:
+category: null
 tags:
+  - publications
   - AI
 isHighlighted: false
 ---
