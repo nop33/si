@@ -10,10 +10,9 @@ authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
 tags:
-  - Strategy
-  - UN
-  - Multilateralism
-  - Updates
+  - strategy
+  - multilateralism
+  - updates
 isHighlighted: true
 ---
 This post outlines SI’s strategic thinking around and current plan to engage with Our Common Agenda (OCA). The plan was developed in July 2022 and includes deliverables until Q2 2023. The plan will be updated after our internal Q3 strategy 2022 meeting.
