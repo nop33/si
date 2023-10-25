@@ -16,30 +16,31 @@ textSections:
 
       **Preferred method: bank transfer**
 
-       <td>\*\*Currency\*\*
+       `<td>\*\*Currency\*\*`
 
-         </td>
-         <td>\*\*IBAN\*\*
+      `   </td>
+         <td>\*\*IBAN\*\*`
 
-         </td>
-         <td>\*\*CHF\*\*
+      `   </td>
+         <td>\*\*CHF\*\*`
 
-         </td>
-         <td>CH08 0900 0000 1623 4735 0
+      `   </td>
+         <td>CH08 0900 0000 1623 4735 0`
 
-         </td>
-         <td>\*\*USD\*\*
+      `   </td>
+         <td>\*\*USD\*\*`
 
-         </td>
-         <td>CH60 0900 0000 1623 4738 4
+      `   </td>
+         <td>CH60 0900 0000 1623 4738 4`
 
-         </td>
-         <td>\*\*EUR\*\*
+      `   </td>
+         <td>\*\*EUR\*\*`
 
-         </td>
-         <td>CH02 0900 0000 1623 4736 1
+      `   </td>
+         <td>CH02 0900 0000 1623 4736 1`
 
-         </td>
+      `   </td>`
+
 
       Beneficiary: Simon Institute for Longterm Governance
 
@@ -118,38 +119,40 @@ textSections:
 
       Given this context, our priorities and goals are as followed:
 
-       <td>\\*\\*Priority\\*\\*
+       `<td>\\*\\*Priority\\*\\*`
 
-         </td>
-         <td>\\*\\*Goals\\*\\*
+      `   </td>
+         <td>\\*\\*Goals\\*\\*`
 
-         </td>
-         <td>1. Boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances;
+      `   </td>
+         <td>1. Boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances;`
 
-         </td>
-         <td>1.1. Increase national demand for measured international action.
+      `   </td>
+         <td>1.1. Increase national demand for measured international action.`
 
-      1.2. Support tech governance processes in leading international organizations.
-
-
-      1.3. Foster exchange and action within the multilateral tech governance system.
-
-         </td>
-         <td>2. Advise national and non-governmental actors working on tech governance questions to act and communicate in ways that increase the likelihood of multilateral progress;
-
-         </td>
-         <td>2.1. Enhance civil society engagement in multilateral processes.
-
-      2.2. Contribute to the development of effective multi-stakeholder bodies.
+      `1.2. Support tech governance processes in leading international organizations.`
 
 
-      2.3. Boost national awareness of multilateral affairs for international coherence.
+      `1.3. Foster exchange and action within the multilateral tech governance system.`
 
-         </td>
-         <td>3. Boost SI’s sustainability and operations.
 
-         </td>
-         <td>3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.
+      `   </td>
+         <td>2. Advise national and non-governmental actors working on tech governance questions to act and communicate in ways that increase the likelihood of multilateral progress;`
+
+      `   </td>
+         <td>2.1. Enhance civil society engagement in multilateral processes.`
+
+      `2.2. Contribute to the development of effective multi-stakeholder bodies.`
+
+
+      `2.3. Boost national awareness of multilateral affairs for international coherence.`
+
+
+      `   </td>
+         <td>3. Boost SI’s sustainability and operations.`
+
+      `   </td>
+         <td>3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.`
 
       3.2. Strengthen and grow the SI workforce to ~10 full-time employees.
 
