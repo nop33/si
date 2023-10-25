@@ -58,11 +58,11 @@ The multilateral system is permeated by short-term incentives, leading to a freq
 
 ## Priorities
 
-SI defines priorities as part of its strategy implementation plans, which cover a 2-3 year time-frame (see the SI Strategy Implementation Plan 2023-2025). These priorities are deduced from our vision, mission, and objectives and informed by the multilateral governance context and our organizational capabilities at the time. Individual projects undertaken by SI are mapped to the priorities, to ensure that they contribute to the implementation of the strategy.
+SI defines priorities as part of its strategy implementation plans, which cover a 2-3 year time-frame ([see the SI Strategy Implementation Plan 2023-2025](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/)). These priorities are deduced from our vision, mission, and objectives and informed by the multilateral governance context and our organizational capabilities at the time. Individual projects undertaken by SI are mapped to the priorities, to ensure that they contribute to the implementation of the strategy.
 
 ## SI - The Organization
 
-SI’s vision, mission, objectives and priorities rest upon a solid foundation, which is SI, the organization. Our people are at the heart of our capacity to deliver. They are guided by our [values](https://docs.google.com/document/d/1kj6tes9lmUNW-FFWEmkK3xX00qVhQ5Ogb-ToD_zZAfA/edit), and supported by our processes and infrastructure. Investing in solidifying and enriching our foundation is a constant and overarching objective behind the SI strategy. This means a consistent focus on excellence in operations; making sure we have the right skills and tools, maintaining motivation and providing room for growth, such that our efficiency and impact continue to increase over time.
+SI’s vision, mission, objectives and priorities rest upon a solid foundation, which is SI, the organization. Our people are at the heart of our capacity to deliver. They are guided by our values, and supported by our processes and infrastructure. Investing in solidifying and enriching our foundation is a constant and overarching objective behind the SI strategy. This means a consistent focus on excellence in operations; making sure we have the right skills and tools, maintaining motivation and providing room for growth, such that our efficiency and impact continue to increase over time.
 
 ## Theory of Change
 
