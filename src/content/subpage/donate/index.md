@@ -118,10 +118,10 @@ textSections:
 
       Given this context, our priorities and goals are as followed:
 
-       <td>\*\*Priority\*\*
+       <td>\\*\\*Priority\\*\\*
 
          </td>
-         <td>\*\*Goals\*\*
+         <td>\\*\\*Goals\\*\\*
 
          </td>
          <td>1. Boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances;
@@ -161,9 +161,7 @@ textSections:
       You can see [here](https://www.simoninstitute.ch/blog/tag/updates/) to learn more about our strategy, theory of change, and how we plan to achieve our goals.
 
 
-      ## \
-
-      Why we focus on multilateral AI governance
+      ## Why we focus on multilateral AI governance
 
 
       We use the importance, tractability, neglectedness framework for rough qualitative assessments of our work. Below, we explain how multilateral AI governance fits into this framework.
