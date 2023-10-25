@@ -1,5 +1,5 @@
 ---
-title: Donate (NEW1)
+title: Donate
 textSections:
   - content: >-
       We currently estimate our room for more funding until the end of 2025 to
