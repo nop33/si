@@ -16,30 +16,37 @@ textSections:
 
       **Preferred method: bank transfer**
 
-       `<td>\*\*Currency\*\*`
+       <td>\\*\\*Currency\\*\\*
 
       `   </td>
-         <td>\*\*IBAN\*\*`
+
+         <td>\\*\\*IBAN\\*\\*`
 
       `   </td>
-         <td>\*\*CHF\*\*`
+
+         <td>\\*\\*CHF\\*\\*`
 
       `   </td>
+
          <td>CH08 0900 0000 1623 4735 0`
 
       `   </td>
-         <td>\*\*USD\*\*`
+
+         <td>\\*\\*USD\\*\\*`
 
       `   </td>
+
          <td>CH60 0900 0000 1623 4738 4`
 
       `   </td>
-         <td>\*\*EUR\*\*`
+
+         <td>\\*\\*EUR\\*\\*`
 
       `   </td>
+
          <td>CH02 0900 0000 1623 4736 1`
 
-      `   </td>`
+      </td>
 
 
       Beneficiary: Simon Institute for Longterm Governance
