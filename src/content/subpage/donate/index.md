@@ -16,49 +16,45 @@ textSections:
 
       **Preferred method: bank transfer**
 
-       <td>\\*\\*Currency\\*\\*
 
-      `   </td>
-
-         <td>\\*\\*IBAN\\*\\*`
-
-      `   </td>
-
-         <td>\\*\\*CHF\\*\\*`
-
-      `   </td>
-
-         <td>CH08 0900 0000 1623 4735 0`
-
-      `   </td>
-
-         <td>\\*\\*USD\\*\\*`
-
-      `   </td>
-
-         <td>CH60 0900 0000 1623 4738 4`
-
-      `   </td>
-
-         <td>\\*\\*EUR\\*\\*`
-
-      `   </td>
-
-         <td>CH02 0900 0000 1623 4736 1`
-
-      </td>
+      `<table>
+        <tr>
+         <td><strong>Currency</strong>
+         </td>
+         <td><strong>IBAN</strong>
+         </td>
+        </tr>
+        <tr>
+         <td><strong>CHF</strong>
+         </td>
+         <td>CH08 0900 0000 1623 4735 0
+         </td>
+        </tr>
+        <tr>
+         <td><strong>USD</strong>
+         </td>
+         <td>CH60 0900 0000 1623 4738 4
+         </td>
+        </tr>
+        <tr>
+         <td><strong>EUR</strong>
+         </td>
+         <td>CH02 0900 0000 1623 4736 1
+         </td>
+        </tr>
+      </table>`
 
 
-      Beneficiary: Simon Institute for Longterm Governance
+      **Beneficiary:** Simon Institute for Longterm Governance
 
 
-      Bank address: PostFinance AG, Mingerstrasse 20, 3030 Bern
+      **Bank address:** PostFinance AG, Mingerstrasse 20, 3030 Bern
 
 
-      BIC: POFICHBEXXX   
+      **BIC:** POFICHBEXXX   
 
 
-      Clearing-Nr.: 090002
+      **Clearing-Nr.:** 090002
 
 
       *Direct transfers to SI are tax-deductible in Switzerland only. Transfers preferred in your local currency to reduce fees. For tax-deductibility in the US, UK, or NL, or crypto donations, please* [*donate via our partner* Giving What We Can](https://www.givingwhatwecan.org/charities/simon-institute)*. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch).*
