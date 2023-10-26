@@ -101,13 +101,13 @@ textSections:
       ### Our track record
 
 
-      ![](screenshot-2023-10-25-at-13.31.10.png)
+      ![](screenshot-2023-10-26-at-09.13.49.png)
 
 
       For a detailed overview of history, you can read our [two year inception review. ](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/)
 
 
-      ## Our plans until 2025
+      ### Our plans until 2025
 
 
       Until the end of 2025, SI will focus on improving the multilateral system’s capacity to govern rapid technological change, with a specific focus on AI. We see our strategic context as follows:
@@ -174,7 +174,7 @@ textSections:
       You can see [here](https://www.simoninstitute.ch/blog/tag/updates/) to learn more about our strategy, theory of change, and how we plan to achieve our goals.
 
 
-      ## Why we focus on multilateral AI governance
+      ### Why we focus on multilateral AI governance
 
 
       We use the importance, tractability, neglectedness framework for rough qualitative assessments of our work. Below, we explain how multilateral AI governance fits into this framework.
@@ -190,7 +190,7 @@ textSections:
       ![](screenshot-2023-10-25-at-13.33.09.png)
 
 
-      ## How we evaluate our work
+      ### How we evaluate our work
 
 
       We strive to evaluate our work based on the following [criteria](https://www.oecd.org/dac/evaluation/revised-evaluation-criteria-dec-2019.pdf):
@@ -215,7 +215,7 @@ textSections:
       You can find an assessment of our 2-year inception period [here](https://docs.google.com/document/d/1i_4o1_2LShwaKM1gojLLPpCPHPuJhci7kg87XDwJNHk/edit?usp=drive_link).
 
 
-      ## What your dollar buys
+      ### What your dollar buys
 
 
       **Our budget and room for more funding**
@@ -244,7 +244,7 @@ textSections:
       * $150,000: An annual salary for an AI governance expert, focused on tactical research on how to engage with developing countries and China on AI governance.
 
 
-      ## Why support us
+      ### Why support us
 
 
       * As AI continues to gain global attention, the issue risks being overtaken by misinformation and noise. Our longstanding focus on the topic, coupled with our links to the frontier research community, allow us to provide an informed voice.
@@ -256,13 +256,13 @@ textSections:
       * We’re currently the only organization focusing solely on frontier AI governance at the multilateral level.
 
 
-      ## How to donate 
+      ### How to donate 
 
 
       To donate, you can view the information listed at [the top of this page.](https://www.simoninstitute.ch/donate) For further information, or to speak with us about our plans, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch). 
 
 
-      ## Read More
+      ### Read More
 
 
       * [2 year inception review](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/)
