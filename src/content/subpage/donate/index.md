@@ -95,13 +95,13 @@ textSections:
       In collaboration with international organizations, governments, think tanks and leading research labs, we translate technical knowledge into actionable policy advice, facilitate exchange between researchers and policymakers, and provide input to multilateral governance processes. Through our work, we hope to contribute to building governance systems that are fit for the 21st century.
 
 
-      ![](img_3254.jpg)
+      ![](img_3254.png)
 
 
       ### Our track record
 
 
-      ![](screenshot-2023-10-26-at-09.13.49.png)
+      ![](screenshot-2023-10-26-at-11.43.06.png)
 
 
       For a detailed overview of history, you can read our [two year inception review. ](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/)
