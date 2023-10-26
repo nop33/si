@@ -269,5 +269,5 @@ textSections:
 
       * [Our updated strategy and theory of change](https://www.simoninstitute.ch/blog/post/our-updated-strategy-and-theory-of-change/)
 
-      * [Our plans until 2025 ](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/)
+      * [Our plans until 2025](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/)
 ---
