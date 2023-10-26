@@ -61,7 +61,7 @@ textSections:
     title: Donate
   - title: 2023 Fundraising Round
     content: >-
-      As we begin a new round of fundraising, we’ve compiled of key information
+      As we begin a new round of fundraising, we’ve compiled key information
       about SI to brief prospective funders on our work to date, our plans going
       forward, and the impact of additional funds. Currently, we have runway
       until Summer 2024 and estimate our room for more funding to lie between
