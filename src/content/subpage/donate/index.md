@@ -218,7 +218,7 @@ textSections:
       ## What your dollar buys
 
 
-      **Our budget and room for more funding:**
+      **Our budget and room for more funding**
 
 
       * Our minimum 3-year budget is $3.2MM
@@ -230,7 +230,7 @@ textSections:
       * Our room for more funding is $2.6MM-5.2MM
 
 
-      **What your dollar buys** 
+      **What your dollar buys**
 
 
       * $5,000: A briefing event for Member States in Geneva to improve their understanding of AI governance. 
