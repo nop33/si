@@ -86,7 +86,7 @@ textSections:
       * How to donate
 
 
-      ## Introduction
+      ### Introduction
 
 
       We founded the Simon Institute for Longterm Governance (SI) in April 2021, with the goal of enhancing the multilateral system’s ability to anticipate and mitigate global catastrophic risks. Our current work is focused on promoting the responsible development of artificial intelligence (AI) through multilateral governance. 
@@ -98,7 +98,7 @@ textSections:
       ![](img_3254.jpg)
 
 
-      ## Our track record
+      ### Our track record
 
 
       ![](screenshot-2023-10-25-at-13.31.10.png)
