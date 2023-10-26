@@ -17,7 +17,7 @@ textSections:
       **Preferred method: bank transfer**
 
 
-      `<table>
+      <table>
         <tr>
          <td><strong>Currency</strong>
          </td>
@@ -42,7 +42,7 @@ textSections:
          <td>CH02 0900 0000 1623 4736 1
          </td>
         </tr>
-      </table>`
+      </table>
 
 
       **Beneficiary:** Simon Institute for Longterm Governance
@@ -61,7 +61,7 @@ textSections:
     title: Donate
   - title: 2023 Fundraising Round
     content: >-
-      As we begin a new round of fundraising, we’ve summarized key information
+      As we begin a new round of fundraising, we’ve compiled of key information
       about SI to brief prospective funders on our work to date, our plans going
       forward, and the impact of additional funds. Currently, we have runway
       until Summer 2024 and estimate our room for more funding to lie between
@@ -122,47 +122,54 @@ textSections:
 
       Given this context, our priorities and goals are as followed:
 
-       `<td>\\*\\*Priority\\*\\*`
+       <table>
+        <tr>
+         <td><strong>Priority</strong>
+         </td>
+         <td><strong>Goals</strong>
+         </td>
+        </tr>
+        <tr>
+         <td>1. Boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances;
+         </td>
+         <td>1.1. Increase national demand for measured international action.
+      <p>
 
-      `   </td>
-         <td>\\*\\*Goals\\*\\*`
+      1.2. Support tech governance processes in leading international organizations.
 
-      `   </td>
-         <td>1. Boost the multilateral system’s ability to prioritize, discuss and deploy solutions to reduce risks and maximize benefits from transformative technological advances;`
+      <p>
 
-      `   </td>
-         <td>1.1. Increase national demand for measured international action.`
+      1.3. Foster exchange and action within the multilateral tech governance system.
+         </td>
+        </tr>
+        <tr>
+         <td>2. Advise national and non-governmental actors working on tech governance questions to act and communicate in ways that increase the likelihood of multilateral progress;
+         </td>
+         <td>2.1. Enhance civil society engagement in multilateral processes.
+      <p>
 
-      `1.2. Support tech governance processes in leading international organizations.`
+      2.2. Contribute to the development of effective multi-stakeholder bodies.
 
+      <p>
 
-      `1.3. Foster exchange and action within the multilateral tech governance system.`
-
-
-      `   </td>
-         <td>2. Advise national and non-governmental actors working on tech governance questions to act and communicate in ways that increase the likelihood of multilateral progress;`
-
-      `   </td>
-         <td>2.1. Enhance civil society engagement in multilateral processes.`
-
-      `2.2. Contribute to the development of effective multi-stakeholder bodies.`
-
-
-      `2.3. Boost national awareness of multilateral affairs for international coherence.`
-
-
-      `   </td>
-         <td>3. Boost SI’s sustainability and operations.`
-
-      `   </td>
-         <td>3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.`
+      2.3. Boost national awareness of multilateral affairs for international coherence.
+         </td>
+        </tr>
+        <tr>
+         <td>3. Boost SI’s sustainability and operations.
+         </td>
+         <td>3.1. Raise between 2.6MM-5.2MM CHF from a diverse set of funders.
+      <p>
 
       3.2. Strengthen and grow the SI workforce to ~10 full-time employees.
 
+      <p>
 
       3.3. Enhance SI’s operations, governance, and knowledge management.
-
          </td>
+        </tr>
+      </table>
+
 
       You can see [here](https://www.simoninstitute.ch/blog/tag/updates/) to learn more about our strategy, theory of change, and how we plan to achieve our goals.
 
