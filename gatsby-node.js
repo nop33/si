@@ -311,6 +311,11 @@ exports.createSchemaCustomization = ({ actions }) => {
       siteUrl: String
     }
 
+    type TextSection {
+      title: String
+      content: String @md
+    }
+
     type MarkdownRemark implements Node {
       frontmatter: Frontmatter
       fields: Fields
@@ -321,6 +326,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       date: Date @dateformat
       name: String
+      testMarkdown: String @md
+      textSections: [TextSection]
     }
 
     type Fields {

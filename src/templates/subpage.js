@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import { toHTML, constructProjectTagUrl } from "../utils"
+import { constructProjectTagUrl } from "../utils"
 
 import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
@@ -91,7 +91,7 @@ const SubpageTemplate = ({ data, location }) => {
                 <SideBySide title={textSection.title}>
                   <div
                     dangerouslySetInnerHTML={{
-                      __html: toHTML(textSection.content),
+                      __html: textSection.content.html,
                     }}
                   ></div>
                   {textSection.sectionImages && (
@@ -157,7 +157,9 @@ export const pageQuery = graphql`
           }
         }
         textSections {
-          content
+          content {
+            html
+          }
           title
           sectionVideos {
             src
