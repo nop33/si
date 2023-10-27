@@ -270,4 +270,8 @@ textSections:
       * [Our updated strategy and theory of change](https://www.simoninstitute.ch/blog/post/our-updated-strategy-and-theory-of-change/)
 
       * [Our plans until 2025](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/)
+seo:
+  description: As we begin a new round of fundraising, we’ve compiled key
+    information about SI to brief prospective funders on our work to date, our
+    plans going forward, and the impact of additional funds.
 ---
