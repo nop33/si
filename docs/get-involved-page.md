@@ -28,10 +28,6 @@ The title and the intro text of the contact form section.
 
 The title and texts for the newsletter and social media subsections.
 
-## donateSection
-
-Title, markdown intro text, button and markdown subsections of the donate section.
-
 ## textSections
 
 A list of simple text sections with title and markdown content.

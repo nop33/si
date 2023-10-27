@@ -321,32 +321,6 @@ collections:
                       widget: "string",
                       required: false,
                     }
-          - label: "Donate section"
-            name: "donateSection"
-            widget: "object"
-            required: false
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - label: "Intro"
-                name: "intro"
-                widget: object
-                required: false
-                fields:
-                  - { label: "Content", name: "content", widget: "markdown" }
-                  - label: "Button"
-                    name: "button"
-                    widget: "object"
-                    required: false
-                    fields:
-                      - { label: "Text", name: "text", widget: "string" }
-                      - { label: "URL", name: "url", widget: "string" }
-              - label: "Columns"
-                name: "columnsWithButtons"
-                widget: "list"
-                required: false
-                fields:
-                  - { label: "Title", name: "title", widget: "string" }
-                  - { label: "Content", name: "content", widget: "markdown" }
           - label: "Text sections"
             name: "textSections"
             widget: "list"
