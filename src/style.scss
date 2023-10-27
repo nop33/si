@@ -171,6 +171,10 @@ p {
   --x-height-multiplier: 0.35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 ul,

@@ -32,12 +32,7 @@ const CardsWithTextSection = ({
   <Wrapper>
     <div className={className}>
       <TextContent>
-        {title &&
-          (headingWeight === 2 ? (
-            <h2 className="secondary-heading">{title}</h2>
-          ) : (
-            <h3>{title}</h3>
-          ))}
+        {title && (headingWeight === 2 ? <H2>{title}</H2> : <h3>{title}</h3>)}
         {description && (
           <Description
             dangerouslySetInnerHTML={{
@@ -132,4 +127,10 @@ const Wrapper = styled.div`
   &:not(:last-child) {
     margin-bottom: var(--spacing-56);
   }
+`
+
+const H2 = styled.h2`
+  font-size: var(--fontSize-7);
+  margin-bottom: var(--spacing-10);
+  margin-top: var(--spacing-0);
 `
