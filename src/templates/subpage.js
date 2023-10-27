@@ -8,10 +8,8 @@ import CategoryLink from "../components/category-link"
 import PageLayout from "../components/page-layout"
 import BaseSection from "../components/sections/BaseSection"
 import SideBySide from "../components/sections/SideBySide"
-import ImageList from "../components/image-list"
 import Tabs from "../components/tabs"
 import Seo from "../components/seo"
-import VideoList from "../components/video-list"
 
 import { generateIdFromTitle, updateSrcSet } from "../utils"
 
@@ -94,12 +92,6 @@ const SubpageTemplate = ({ data, location }) => {
                       __html: textSection.content.html,
                     }}
                   ></div>
-                  {textSection.sectionImages && (
-                    <ImageList images={textSection.sectionImages} />
-                  )}
-                  {textSection.sectionVideos && (
-                    <VideoList videos={textSection.sectionVideos} />
-                  )}
                 </SideBySide>
               </BaseSection>
             )
@@ -161,20 +153,6 @@ export const pageQuery = graphql`
             html
           }
           title
-          sectionVideos {
-            src
-            title
-          }
-          sectionImages {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 700) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            alt
-          }
         }
       }
     }

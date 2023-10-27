@@ -513,20 +513,6 @@ collections:
               widget: "markdown",
               required: false,
             }
-          - label: Section images
-            name: sectionImages
-            widget: list
-            required: false
-            fields:
-              - { label: "Image", name: "image", widget: "image" }
-              - { label: "Alt text", name: "alt", widget: "string" }
-          - label: Section videos
-            name: sectionVideos
-            widget: list
-            required: false
-            fields:
-              - { label: "YouTube video URL", name: "src", widget: "string" }
-              - { label: "Title", name: "title", widget: "string" }
       - label: "Card"
         name: "card"
         widget: "object"
@@ -583,20 +569,6 @@ collections:
               widget: "markdown",
               required: false,
             }
-          - label: Section images
-            name: sectionImages
-            widget: list
-            required: false
-            fields:
-              - { label: "Image", name: "image", widget: "image" }
-              - { label: "Alt text", name: "alt", widget: "string" }
-          - label: Section videos
-            name: sectionVideos
-            widget: list
-            required: false
-            fields:
-              - { label: "YouTube video URL", name: "src", widget: "string" }
-              - { label: "Title", name: "title", widget: "string" }
       - label: "Custom SEO"
         name: "seo"
         widget: object
