@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 import BaseSection from "../components/sections/BaseSection"
 import Card from "../components/card"
 import CardsWithText from "../components/sections/cards-with-text"
-import { updateSrcSet } from "../utils"
+import { constructProjectCategoryUrl, updateSrcSet } from "../utils"
 
 const ProjectsPage = ({ data, location }) => {
   const pageData = data.projectsPage.nodes[0].frontmatter
@@ -20,7 +20,7 @@ const ProjectsPage = ({ data, location }) => {
           description={pageData.seo?.description || pageData.subtitle}
         />
 
-        {pageData.projectsByCategories.map(projectsByCategory => {
+        {pageData.projectsByCategories.map((projectsByCategory, index) => {
           const projects = nodes.filter(
             project =>
               project.frontmatter.category === projectsByCategory.category
@@ -46,18 +46,32 @@ const ProjectsPage = ({ data, location }) => {
           })
 
           return (
-            <BaseSection
-              key={`section_${projectsByCategory.title}`}
-              id={`section_${projectsByCategory.title}`}
-            >
-              <CardsWithText
-                orientation="cards-full-width"
-                title={projectsByCategory.title}
-                description={projectsByCategory.description}
-                cards={projectCards}
-                headingWeight={2}
-              />
-            </BaseSection>
+            <>
+              <BaseSection
+                key={`section_${projectsByCategory.title}`}
+                id={`section_${projectsByCategory.title}`}
+              >
+                <CardsWithText
+                  orientation="cards-full-width"
+                  title={projectsByCategory.title}
+                  description={projectsByCategory.description}
+                  cards={projectCards.slice(0, 3)}
+                  headingWeight={2}
+                  link={
+                    projectCards.length > 3
+                      ? {
+                          url: constructProjectCategoryUrl(
+                            projectsByCategory.category
+                          ),
+                          title: "See all",
+                        }
+                      : undefined
+                  }
+                />
+              </BaseSection>
+
+              {index + 1 < pageData.projectsByCategories.length && <hr></hr>}
+            </>
           )
         })}
       </PageLayout>
@@ -93,6 +107,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "blog" } }
         frontmatter: { category: { ne: "" } }
       }
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         excerpt

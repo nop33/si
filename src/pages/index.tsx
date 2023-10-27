@@ -72,7 +72,6 @@ const Home = ({ data, location }) => {
             </CardsSection>
             <CardsSection
               title={pageData.postsSection.eventsSection.title}
-              link={pageData.postsSection.eventsSection.link}
               numberOfColumns={1}
               fixAlignment
             >
@@ -144,10 +143,6 @@ export const pageQuery = graphql`
             }
             eventsSection {
               title
-              link {
-                title
-                url
-              }
             }
           }
         }

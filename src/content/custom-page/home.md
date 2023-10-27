@@ -12,7 +12,8 @@ keyfactsSection:
       title: More
       url: /about/
   - title: Our work
-    description: In practice, we raise awareness about global catastrophic risks,
+    description:
+      In practice, we raise awareness about global catastrophic risks,
       bridge the gap between innovation and policy, and advocate for the
       interests of future generations in policymaking processes, all with the
       aim of ensuring a flourishing future. Our activities encompass research,
@@ -46,9 +47,6 @@ postsSection:
       url: /blog/
   eventsSection:
     title: Highlight
-    link:
-      title: See all updates
-      url: /blog/tag/updates/
 seo:
   title: Simon Institute for Longterm Governance
   description: Based in Geneva, Switzerland, the Simon Institute for Longterm

@@ -62,4 +62,4 @@ Includes the title of this section as well as the title and the link to the Blog
 
 ## postSection.eventsSection
 
-Includes the title of this section as well as the title and the link to the events blog tag page.
+Includes the title of this section.

@@ -34,37 +34,6 @@ stayInTouchSection:
     intro: ""
     twitter: https://twitter.com/longtermgov
     linkedIn: https://www.linkedin.com/company/simon-institute
-donateSection:
-  title: Donate
-  intro:
-    content: We currently estimate our room for more funding until the end of 2025
-      to be between CHF 2,800,000 - 5,500,000. Any amount will directly help us
-      to do more. You can view our 2021-2022 financial report
-      [here](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing),
-      a summary of our first two years
-      [here](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/)[](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing),
-      and our plans until 2025
-      [here](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/).
-    button:
-      text: Donate
-      url: https://docs.google.com/document/d/1SYvmxxe8_f2ZQmE3s77t60uqZB2RQTbg944E7w45UCM/edit?usp=sharing
-  columnsWithButtons:
-    - title: "Preferred method: SEPA bank transfer"
-      content: |-
-        * **IBAN (CHF):** CH08 0900 0000 1623 4735 0
-        * **Beneficiary:** Simon Institute for Longterm Governance
-        * **Bank address:** PostFinance AG, Mingerstrasse 20, 3030 Bern
-        * **BIC:** POFICHBEXXX   
-        * **Clearing-Nr.:** 090002
-
-        *This is tax-deductible in Switzerland only.*
-    - title: From NL, the UK, or the US?
-      content: If you’re from one of these countries, you can [make tax-deductible
-        donations via our partner organization "Giving What We
-        Can"](https://www.givingwhatwecan.org/charities/simon-institute). They
-        also accept crypto. For donations from Germany and other countries,
-        please [get in
-        touch](https://www.simoninstitute.ch/get-involved/#get-in-touch).
 textSections: []
 seo:
   title: ""

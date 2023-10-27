@@ -25,13 +25,11 @@ const ContactPage = ({ data, location }) => {
   const stayInTouchSectionId = generateIdFromTitle(
     pageData.stayInTouchSection.title
   )
-  const donateSectionId = generateIdFromTitle(pageData.donateSection.title)
 
   const tabTitles = [
     pageData.workWithUsSection.title,
     pageData.getInTouchSection.title,
     pageData.stayInTouchSection.title,
-    pageData.donateSection.title,
     ...pageData.textSections.map(section => section.title),
   ]
 
@@ -67,14 +65,6 @@ const ContactPage = ({ data, location }) => {
             socialMediaIntro={pageData.stayInTouchSection.socialMedia.intro}
             twitterLink={pageData.stayInTouchSection.socialMedia.twitter}
             linkedInLink={pageData.stayInTouchSection.socialMedia.linkedIn}
-          />
-        </SideBySide>
-      </BaseSection>
-      <BaseSection id={donateSectionId}>
-        <SideBySide title={pageData.donateSection.title} isWide>
-          <ColumnsWithButtons data={[pageData.donateSection.intro]} />
-          <ColumnsWithButtons
-            data={pageData.donateSection.columnsWithButtons}
           />
         </SideBySide>
       </BaseSection>
@@ -137,20 +127,6 @@ export const pageQuery = graphql`
               intro
               twitter
               linkedIn
-            }
-          }
-          donateSection {
-            title
-            intro {
-              content
-              button {
-                text
-                url
-              }
-            }
-            columnsWithButtons {
-              title
-              content
             }
           }
           textSections {
