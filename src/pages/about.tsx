@@ -51,7 +51,7 @@ const AboutPage = ({ data, location }) => {
             <SideBySide title={textSection.title}>
               <div
                 dangerouslySetInnerHTML={{
-                  __html: toHTML(textSection.content),
+                  __html: textSection.content.html,
                 }}
               ></div>
             </SideBySide>
@@ -96,7 +96,9 @@ export const pageQuery = graphql`
           subtitle
           textSections {
             title
-            content
+            content {
+              html
+            }
           }
           teamSection {
             title

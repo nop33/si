@@ -97,6 +97,7 @@ module.exports = {
         ],
       },
     },
+    "gatsby-transformer-remark-frontmatter",
     {
       resolve: `gatsby-plugin-feed`,
       options: {
