@@ -107,12 +107,6 @@ collections:
                 widget: "object"
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
-                  - label: "Link"
-                    name: "link"
-                    widget: "object"
-                    fields:
-                      - { label: "Title", name: "title", widget: "string" }
-                      - { label: "URL", name: "url", widget: "string" }
           - label: "Custom SEO"
             name: "seo"
             widget: "object"

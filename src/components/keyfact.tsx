@@ -2,6 +2,7 @@ import React from "react"
 
 import ArrowedLink from "./arrowed-link"
 import { keyfact } from "./keyfact.module.scss"
+import styled from "styled-components"
 
 const Keyfact = ({ title, content, link }) => {
   return (
@@ -11,10 +12,14 @@ const Keyfact = ({ title, content, link }) => {
         <p>{content}</p>
       </div>
       {link?.url && (
-        <ArrowedLink direction="right" to={link.url} text={link.title} />
+        <ArrowedLinkStyled direction="right" to={link.url} text={link.title} />
       )}
     </div>
   )
 }
 
 export default Keyfact
+
+const ArrowedLinkStyled = styled(ArrowedLink)`
+  margin-top: var(--spacing-8);
+`

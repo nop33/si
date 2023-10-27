@@ -7,7 +7,7 @@ import Grid from "./grid"
 interface CardsSectionProps {
   title: string
   numberOfColumns: number
-  fixAlignment: boolean
+  fixAlignment?: boolean
   children: ReactNode
   link?: LinkProps
   className?: string
