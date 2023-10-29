@@ -212,7 +212,7 @@ textSections:
       We use short-term indicators (inputs, outputs) and long-term indicators (outcomes, counterfactuals) to assess the above criteria. We run feedback surveys, conduct interviews and track our online activity to collect data on the above indicators. We calibrate our work on an annual, quarterly, and fortnightly basis. 
 
 
-      You can find an assessment of our 2-year inception period [here](https://docs.google.com/document/d/1i_4o1_2LShwaKM1gojLLPpCPHPuJhci7kg87XDwJNHk/edit?usp=drive_link).
+      You can find an assessment of our 2-year inception period [here](/2-year-review-concluding-sis-inception/).
 
 
       ### What your dollar buys
@@ -259,7 +259,7 @@ textSections:
       ### How to donate 
 
 
-      To donate, you can view the information listed at [the top of this page.](https://www.simoninstitute.ch/donate) For further information, or to speak with us about our plans, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch). 
+      To donate, you can view the information listed at [the top of this page.](/donate) For further information, or to speak with us about our plans, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch). 
 
 
       ### Read More
