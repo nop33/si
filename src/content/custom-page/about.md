@@ -76,10 +76,10 @@ textSections:
       ### Reporting
 
 
-      Our funding comes from various private and philanthropic donors, all of whom respect our independence in resource allocation. You can refer to our annual reports for further information about our activities and funding sources.
+      Our funding comes from various private and philanthropic donors, all of whom respect our independence in resource allocation. You can refer to our activity reports for further information about our work and funding sources.
 
 
-      **2021-2022** [Annual Report](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
+      **2021-2022** [Activity Report](https://drive.google.com/file/d/1LLHqlE49IqCdF_U9V5j5cnnBxuTVtNTA/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
 teamSection:
   title: Our team
   groups:
