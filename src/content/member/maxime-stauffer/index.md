@@ -1,6 +1,6 @@
 ---
 name: Maxime Stauffer
-photo: max-profile-picture.jpg
+photo: si-headshots-21.jpg
 group: Core team
 role: Co-CEO
 links:

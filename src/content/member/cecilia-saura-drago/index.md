@@ -1,6 +1,6 @@
 ---
 name: Cecilia Saura Drago
-photo: ceciliaprofilepicture.jpeg
+photo: si-headshots-42.jpg
 group: Core team
 role: Director of operations
 links:

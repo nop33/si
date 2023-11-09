@@ -1,6 +1,6 @@
 ---
 name: Konrad Seifert
-photo: konrad_seifert_profile_picture.png
+photo: si-headshots-14.jpg
 group: Core team
 role: Co-CEO
 links:

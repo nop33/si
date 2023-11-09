@@ -1,6 +1,6 @@
 ---
 name: Malou Estier
-photo: maloue_portrait.jpg
+photo: si-headshots-35.jpg
 group: Core team
 role: Law & policy associate
 links:

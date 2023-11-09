@@ -1,6 +1,6 @@
 ---
 name: Sofia Mikton
-photo: sofiaprofilepicture.jpeg
+photo: si-headshots-24.jpg
 group: Core team
 role: Operations associate
 links:
