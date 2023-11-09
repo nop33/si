@@ -1,6 +1,6 @@
 ---
 name: Belinda Cleeland
-photo: th-2868104426.png
+photo: si-headshots.jpg
 group: Core team
 role: Director of policy
 links:
