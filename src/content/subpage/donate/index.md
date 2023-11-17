@@ -59,7 +59,7 @@ textSections:
 
       *Direct transfers to SI are tax-deductible in Switzerland only. Transfers preferred in your local currency to reduce fees. For tax-deductibility in the US, UK, or NL, or crypto donations, please* [*donate via our partner* Giving What We Can](https://www.givingwhatwecan.org/charities/simon-institute)*. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch).*
     title: Donate
-  - title: 2023 Fundraising Round
+  - title: 2023-2024 Fundraising Round
     content: >-
       As we begin a new round of fundraising, we’ve compiled key information
       about SI to brief prospective funders on our work to date, our plans going
