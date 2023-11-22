@@ -17,6 +17,8 @@ The workshop aimed to shed light on the risks and opportunities associated with 
 
 Konrad Seifert, SI’s Co-CEO, first outlined the current status quo we find ourselves in – a world where technological change is progressing rapidly, technical expertise is centralized in private companies, and government regulation is lagging. He then went on to highlight how interpretations of global trends and current events are highly dependent on one's socioeconomic status, ethics, education, location, and more. To illustrate this point, he outlined how people of different backgrounds might view the state of technological progress in the year 2050. 
 
+\*\**
+
 ***Perspective 1: Safe, inclusive progress***
 
 *From the perspective of an Indian tech executive, frontier R&D appears tightly regulated across sectors, and uncertainty about how frontier technologies will develop remains low. Developer countries seem to be coordinating effectively to ensure equitable tech transfer, and automation is resulting in economic prosperity, widespread well-being, and stable population growth. Advancements in clean energy halt fears of resource scarcity, and local communities have started to thrive.*
@@ -28,6 +30,8 @@ Konrad Seifert, SI’s Co-CEO, first outlined the current status quo we find our
 ***Perspective 3: AI dominance***
 
 *From the perspective of a Nigerian student, private AI R&D is outpacing government control, and companies are all turning to self-governance. Most information is kept secret, and major technological shocks and risks are expected. Automation and existential concerns seem to be driving people into virtual worlds. Fertility falls and life satisfaction appears to be dropping rapidly.* 
+
+\*\**
 
 Following this, participants used foresight techniques presented by the UN Futures Lab to craft their own future scenarios on frontier technologies. Throughout the process, they were encouraged to stay cognizant of the ways in which their own backgrounds and biases might influence their scenarios. 
 
