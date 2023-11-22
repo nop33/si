@@ -1,7 +1,7 @@
 ---
 hide: false
 title: Foresight Workshop on Frontier Technologies
-date: 2023-11-22T13:21:58.982Z
+date: 2023-09-18T12:21:58.982Z
 featuredImage: pxl_20230911_095940176.jpg
 category: Facilitation
 tags:
