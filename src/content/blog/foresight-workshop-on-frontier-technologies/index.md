@@ -8,7 +8,7 @@ authors:
     page: sofia-mikton/index
 category: Facilitation
 tags:
-  - "#events"
+  - events
 isHighlighted: false
 ---
 On September 11th 2023, the Simon Institute co-hosted a workshop on frontier technologies as part of a series of foresight activities being led by the UN University Centre for Policy Research (UNU). The workshop was hosted in collaboration with the UN Futures Lab Network, the International Telecommunication Union, the UN Office of the High Commissioner on Human Rights, and the Tech Hub at the Geneva Graduate Institute, and welcomed participants from various international organizations in Geneva.  
