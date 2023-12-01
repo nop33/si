@@ -14,7 +14,7 @@ keyfactsSection:
   - title: Our work
     description: In practice, we bridge the gap between technical innovation and
       policy, foster collaboration between researchers and policymakers, and
-      contribute to multilateral governance processes. Our current work is
+      provide input to multilateral governance processes. Our current work is
       focused on mitigating risks from AI and promoting its safe development
       through multilateral governance.
     link:
