@@ -1,5 +1,5 @@
 ---
-title: Supporting policymakers in their cooperation with future generations.
+title: Supporting policymakers in shaping a flourishing future.
 hasImageBackgroundHeader: true
 keyfactsSection:
   - title: About
