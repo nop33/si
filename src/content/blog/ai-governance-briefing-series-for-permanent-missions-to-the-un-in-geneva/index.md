@@ -4,6 +4,9 @@ title: AI Governance Briefing Series for Permanent Missions to the UN in Geneva
 date: 2023-12-14T12:17:18.766Z
 description: ""
 featuredImage: pxl_20231208_081014946.jpg
+authors:
+  - name: Sofia Mikton
+    page: sofia-mikton/index
 isHighlighted: true
 ---
 From November 7th to December 8th 2023, the Simon Institute for Longterm Governance (SI) organized a [briefing series on AI governance](https://drive.google.com/file/d/1aSR-gq6xEN4n1XwAudateSiFig_ihMG2/view?usp=drive_link) for Permanent Missions to the United Nations (UN) in Geneva, in collaboration with the Permanent Missions of the Republic of Costa Rica and Republic of Kenya. The briefing series sought to bring Member State representatives together to discuss the emerging opportunities and risks associated with artificial intelligence (AI), and the role of the multilateral system in addressing AI governance. 
