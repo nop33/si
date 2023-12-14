@@ -22,7 +22,7 @@ tags:
   - publications
   - risk-governance
   - undrr
-isHighlighted: false
+isHighlighted: true
 ---
 In 2021, UN-Secretary General António Guterres issued ['Our Common Agenda'](https://www.un.org/en/common-agenda), a report outlining a vision for the future of global cooperation. In the report, he states: 
 
