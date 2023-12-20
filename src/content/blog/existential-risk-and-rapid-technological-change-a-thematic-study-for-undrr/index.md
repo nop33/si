@@ -28,7 +28,7 @@ category: Knowledge synthesis
 tags:
   - publications
   - global-catastrophic-risks
-  - AI
+  - ai
   - biosecurity
 isHighlighted: true
 ---
