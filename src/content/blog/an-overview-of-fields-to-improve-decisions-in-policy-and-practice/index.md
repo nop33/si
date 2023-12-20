@@ -1,5 +1,5 @@
 ---
-title: An overview of fields to improve decision-making in policy systems
+title: An Overview of Fields to Improve Decision-making in Policy Systems
 date: 2021-06-21T12:02:00.000Z
 description: At SI, we support international policy actors in dealing with
   uncertainty, complexity, time-pressure and global catastrophic risks. Below is
