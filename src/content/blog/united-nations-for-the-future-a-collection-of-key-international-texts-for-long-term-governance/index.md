@@ -1,6 +1,6 @@
 ---
-title: United Nations for the future - a collection of key texts for long-term
-  governance
+title: United Nations for the Future - a Collection of Key Texts for Long-term
+  Governance
 date: 2021-07-01T13:50:04.479Z
 description: "Future generations are front and center of many foundational
   international governance texts. Yet, consideration of their interests

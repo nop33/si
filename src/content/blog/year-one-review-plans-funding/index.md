@@ -1,5 +1,5 @@
 ---
-title: Year one - review, plans & funding
+title: Year One - Review, Plans & Funding
 date: 2022-04-07T10:02:04.088Z
 description: SI has proven its value through knowledge synthesis, workshop
   facilitation and high-level events. This combination of activities has granted

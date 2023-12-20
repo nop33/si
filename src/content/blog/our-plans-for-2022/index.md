@@ -1,5 +1,5 @@
 ---
-title: Our plans for 2022
+title: Our Plans for 2022
 date: 2022-01-28T17:37:41.572Z
 featuredImage: tabea-damm-9-xfykai6zi-unsplash.jpg
 authors:

@@ -1,6 +1,6 @@
 ---
 hide: false
-title: "2-year review: concluding SI's inception"
+title: "2-Year Review: Concluding SI's Inception"
 date: 2023-07-01T14:55:09.918Z
 description: ""
 featuredImage: usersi_3d_pastel_graphic_of_the_inception_of_an_organization_go_cc000ce6-63e6-4ea2-b36a-49f94c721652.png

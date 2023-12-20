@@ -1,6 +1,6 @@
 ---
 hide: false
-title: "Artificial intelligence: a brief on risks and opportunities"
+title: "Artificial Intelligence: a Brief on Risks and Opportunities"
 date: 2023-05-30T12:22:37.144Z
 featuredImage: 21.png
 authors:

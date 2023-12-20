@@ -1,5 +1,5 @@
 ---
-title: SI's plans to support 'Our Common Agenda'
+title: SI's Plans to Support 'Our Common Agenda'
 date: 2022-08-17T18:07:00.000Z
 featuredImage: screenshot-2022-09-15-at-12.12.26.png
 authors:

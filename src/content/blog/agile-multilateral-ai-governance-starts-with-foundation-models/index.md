@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Agile multilateral AI governance starts with foundation models
+title: Agile Multilateral AI Governance Starts with Foundation Models
 date: 2023-07-05T23:19:53.576Z
 featuredImage: usersi_make_it_clearer_its_chess_and_technology_0644d017-47ba-48ef-884e-2587a78779ef.png
 authors:

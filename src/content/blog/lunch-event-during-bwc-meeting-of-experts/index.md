@@ -1,5 +1,5 @@
 ---
-title: Side event - BWC Meeting of Experts
+title: Side Event - BWC Meeting of Experts
 date: 2021-09-06T09:02:58.782Z
 featuredImage: download.jpg
 authors:

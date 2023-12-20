@@ -1,5 +1,5 @@
 ---
-title: How we will evaluate our impact
+title: How We Will Evaluate Our Impact
 date: 2021-03-12T10:40:00.000Z
 description: Given the difficulty of measuring effects on policy networks, we
   anchor our strategy in a detailed theory of change. While organizational

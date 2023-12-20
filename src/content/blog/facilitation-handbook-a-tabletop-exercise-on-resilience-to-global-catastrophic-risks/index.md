@@ -1,6 +1,6 @@
 ---
-title: Facilitation handbook - a tabletop exercise on resilience to global
-  catastrophic risks
+title: Facilitation Handbook - a Tabletop Exercise on Resilience to Global
+  Catastrophic Risks
 date: 2022-03-28T14:20:37.697Z
 featuredImage: pxl_20211125_133721334.jpg
 authors:

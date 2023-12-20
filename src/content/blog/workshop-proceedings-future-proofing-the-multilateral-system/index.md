@@ -1,6 +1,6 @@
 ---
 hide: false
-title: "Workshop proceedings: future-proofing the multilateral system"
+title: "Workshop Proceedings: Future-proofing the Multilateral System"
 date: 2023-03-06T11:10:21.779Z
 description: From the 13th-16th January, the Simon Institute hosted 30 actors
   from across the multilateral system and academia to discuss risks from
