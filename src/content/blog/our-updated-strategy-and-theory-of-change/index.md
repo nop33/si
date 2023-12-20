@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Our updated theory of change
+title: Our Updated Theory of Change
 date: 2023-10-22T13:29:43.243Z
 description: ""
 featuredImage: usersi_3d_wordless_graphic_warm_colours_kazumasa_nagai_building_bd430556-0f4a-436c-abba-7a4fb8333b76.png
