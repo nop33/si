@@ -12,6 +12,7 @@ category: Knowledge synthesis
 tags:
   - publications
   - AI
+  - ""
 isHighlighted: false
 ---
 The last few years have witnessed striking progress in artificial intelligence, driven by the machine learning revolution. However, as ChatGPT foreshadows, humanity is not prepared to govern extremely powerful AI systems as it remains difficult to understand their functioning and direct their influence.
