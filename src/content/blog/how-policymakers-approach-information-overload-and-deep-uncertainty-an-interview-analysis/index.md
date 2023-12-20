@@ -1,6 +1,6 @@
 ---
-title: How policymakers approach information overload and deep uncertainty - an
-  interview analysis
+title: How Policymakers Approach Information Overload and Deep Uncertainty - an
+  Interview Analysis
 date: 2022-08-15T09:08:29.484Z
 featuredImage: katie-moum-5fhv5ns7ygg-unsplash.jpg
 authors:
