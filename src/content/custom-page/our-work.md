@@ -1,5 +1,5 @@
 ---
-title: Our work
+title: Our Work
 subtitle: ""
 projectsByCategories:
   - category: Facilitation
