@@ -1,7 +1,7 @@
 ---
 hide: false
-title: How computers will continue to shape the world - Herbert A. Simon (video
-  & transcript)
+title: How Computers Will Continue to Shape the World - Herbert A. Simon (Video
+  & Transcript)
 date: 2023-03-30T16:10:16.521Z
 featuredImage: herbsimonbib.jpg
 authors:
