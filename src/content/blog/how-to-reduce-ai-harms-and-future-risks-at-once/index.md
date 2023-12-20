@@ -11,7 +11,8 @@ authors:
 category: Knowledge synthesis
 tags:
   - publications
-  - AI
+  - ai
+  - ""
 isHighlighted: false
 ---
 
