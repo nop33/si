@@ -1,5 +1,5 @@
 ---
-title: Our theory of change
+title: Our Theory of Change
 date: 2021-04-23T08:25:47.541Z
 description: "Our theory of change illustrates how we intend to contribute to
   the long-term flourishing of civilization. In this post, we outline our
