@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Safe and beneficial artificial intelligence for Small-Island Developing States
+title: Safe and Beneficial Artificial Intelligence for Small-Island Developing States
 date: 2023-07-25T21:40:08.172Z
 description: ""
 featuredImage: sids_1.1.png
