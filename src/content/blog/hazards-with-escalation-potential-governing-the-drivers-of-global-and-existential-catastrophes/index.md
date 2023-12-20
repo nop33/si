@@ -1,7 +1,7 @@
 ---
 hide: false
-title: "Hazards with escalation potential - governing the drivers of global and
-  existential catastrophes "
+title: "Hazards with Escalation Potential - Governing the Drivers of Global and
+  Existential Catastrophes "
 date: 2023-09-01T11:23:06.324Z
 description: The international community increasingly seeks to understand the
   large-scale risks we face, and the role institutions...
