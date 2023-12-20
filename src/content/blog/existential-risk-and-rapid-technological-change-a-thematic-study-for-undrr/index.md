@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Existential risk and rapid technological change - a thematic study for UNDRR
+title: Existential Risk and Rapid Technological Change - a Thematic Study for UNDRR
 date: 2023-03-13T08:32:47.189Z
 featuredImage: bbestkonrad_differential_technological_development_guided_by_a_diver_de39469d-dcc5-4250-b9ea-ddfbc3846f38.png
 authors:
