@@ -14,6 +14,7 @@ tags:
   - publications
   - risk-governance
   - undrr
+  - ai
 isHighlighted: false
 ---
 
