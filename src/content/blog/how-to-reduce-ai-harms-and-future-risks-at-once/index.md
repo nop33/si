@@ -1,6 +1,6 @@
 ---
 hide: false
-title: How to reduce AI harms and future risks at once
+title: How to Reduce AI Harms and Future Risks at Once
 date: 2023-07-06T11:13:08.380Z
 featuredImage: usersi_ai_governance_how_to_tackle_inequality_and_safety_in_one_b06ab45b-cae9-45d1-abb3-f4993755921d.png
 authors:
