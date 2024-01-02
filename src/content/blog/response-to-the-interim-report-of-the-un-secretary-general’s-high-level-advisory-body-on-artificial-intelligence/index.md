@@ -22,7 +22,7 @@ On 26 October 2023, the UN Secretary-General António Guterres launched a High-L
 
 The Simon Institute for Longterm Governance has reviewed the Interim Report to present its suggestions for the next phase of work and how to focus the Final Report, so that it can be of greatest use to policymakers in driving forward multilateral AI governance. 
 
-# Brief summary of the HLAB on AI’s Interim Report
+### Brief summary of the HLAB on AI’s Interim Report
 
 Note: The below is a neutral summary, adopting the language of the report itself.
 
@@ -52,7 +52,7 @@ Institutional Functions:
 
 In the next phase of its work, the HLAB on AI will consult with stakeholders to discuss the issues and questions identified in the Interim Report. More information is available online at: <https://www.un.org/en/ai-advisory-body>. 
 
-# Our response 
+### Our response 
 
 We recognize the comprehensive scope of the HLAB on AI’s work and the speed at which it was prepared, given the urgency of the AI governance challenge. We also appreciate how the report concisely covers all of the major opportunities and risks of AI. In particular, we commend its taking a practical and pragmatic ‘forms follows function’ approach of first identifying key governance functions before considering potential models for future AI institutions. 
 
