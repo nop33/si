@@ -26,11 +26,13 @@ The Simon Institute for Longterm Governance has reviewed the Interim Report to p
 
 Note: The below is a neutral summary, adopting the language of the report itself.
 
-**\- Read our full summary of the Interim Report here -**
+**\- Read our full summary of the Interim Report [here](https://drive.google.com/file/d/1HdEV3Hm_A0FgL5j0qIF8TweXBh9WF6Xn/view) -**
 
 In this report, the HLAB on AI succinctly summarizes AI’s main opportunities and enablers, alongside its major risks and challenges. Noting that AI’s development and rewards are currently unevenly distributed amongst countries, it emphasizes the urgent need for governance to ensure that we harness AI’s potential “in ways that leave no one behind”, but points out that there is currently an important governance deficit, especially at international level. 
 
 Although the HLAB on AI asserts that addressing this global governance deficit requires novel functions and institutional arrangements, it stops short of proposing an institutional model for AI governance. Instead, it sets out **five guiding principles** and **seven broad functions** that it deems necessary for any global AI governance framework, which will need to leverage existing, as well as new, institutions.  
+
+
 
 Guiding Principles:
 
@@ -39,6 +41,8 @@ Guiding Principles:
 3. **AI governance should be built in step with data governance and the promotion of data commons** - regulatory and legal frameworks that protect privacy and security of personal data will be a critical complement to AI governance arrangements, and public data commons that are relevant to solving societal challenges should be developed.
 4. **AI governance must be universal, networked and rooted in adaptive multi-stakeholder collaboration** - universal buy-in by Member States is key for building an interoperable governance framework that should consist of a network of new and existing institutions, with structures to effectively engage the private sector, civil society and governments. 
 5. **AI governance should be anchored in the UN Charter, International Human Rights Law, and other agreed international commitments such as the Sustainable Development Goals** - these offer a robust foundation and compass, and AI governance will require the strong involvement of all Member States to empower and resource an effective response.
+
+
 
 Institutional Functions:
 
@@ -58,7 +62,9 @@ We recognize the comprehensive scope of the HLAB on AI’s work and the speed at
 
 Leveraging our expertise on AI governance and our experience working with Member States, we focus our response on how the content of this Interim Report can be complemented or reframed to provide practical and clear direction for Member States as they negotiate the Global Digital Compact (GDC) in 2024.
 
-**\- Read our full summary of the Interim Report here -**
+**\- Read our full summary of the Interim Report [here](https://drive.google.com/file/d/1HdEV3Hm_A0FgL5j0qIF8TweXBh9WF6Xn/view) -**
+
+
 
 In summary, we propose that:
 
@@ -67,6 +73,8 @@ In summary, we propose that:
 * Civil society actors could help to fill the important gap in terms of providing capacity building for Global South countries, to promote their participation in AI governance discussions over the coming months.
 * A recommendation from the HLAB on AI regarding key definitions and standards (such as those developed by the [OECD](https://oecd.ai/en/ai-principles) or [ISO](https://www.iso.org/standard/74296.html?browse=tc)) would help to ensure that Member States are on the same page, promoting fruitful discussions during the next phase of work. 
 * The HLAB on AI should privilege interactions with Member States (rather than other, diverse stakeholders) to maximize alignment with ongoing processes, notably the GDC negotiations. 
+
+
 
 In terms of the implications of this Interim Report for the GDC negotiations, we note that:
 
@@ -80,4 +88,4 @@ In terms of the implications of this Interim Report for the GDC negotiations, we
 * However, the current report insufficiently distinguishes between different kinds of AI (frontier AI vs other kinds of AI) and their varying levels of opportunity and risk. This makes it more difficult to set governance priorities, to align national and international governance efforts, and to sufficiently address high consequence, global risks (even if these are of low probability). The GDC should thus recognize that AI is not a single technology, specifically addressing frontier AI governance. 
 * Regarding the institutional functions and subfunctions identified by the report as necessary for a global AI governance regime, once further elaborated, these could form the basis for the GDC’s AI related content. The GDC will effectively provide the mandates to reform existing institutions, to create new ones and to allocate functions to specific actors - outlining the functioning of an international regime complex for AI.
 
-**\- Read our full summary of the Interim Report here -**
+**\- Read our full summary of the Interim Report [here](https://drive.google.com/file/d/1HdEV3Hm_A0FgL5j0qIF8TweXBh9WF6Xn/view) -**
