@@ -7,7 +7,7 @@ textSections:
       can view our 2021-2022 financial report
       [here](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing),
       a summary of our first two years
-      [here](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/),
+      [here](https://docs.google.com/document/d/1uDlrpuaC7IX_TcRixXYu4BrhHRSi90xOhVvd9RVDqao/edit?usp=sharing),
       and our plans until 2025
       [here](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/). For
       more information, or to discuss our plans in more detail, please contact
@@ -104,7 +104,7 @@ textSections:
       ![](screenshot-2023-10-26-at-11.43.06.png)
 
 
-      For a detailed overview of history, you can read our [two year inception review. ](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/)
+      For a detailed overview of history, you can read our [two year inception review.](https://www.simoninstitute.ch/blog/post/2-year-review-concluding-sis-inception/)
 
 
       ### Our plans until 2025

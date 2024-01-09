@@ -70,7 +70,7 @@ textSections:
       ### Governance
 
 
-      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit#heading=h.58e2f7lgs9no). 
+      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1P66D4MtVjm_00EPl0_ckfg_Zrc7l-rEGQuJCgtk6I64/edit#heading=h.13ebivd26g8u). 
 
 
       ### Reporting
@@ -79,7 +79,7 @@ textSections:
       Our funding comes from various private and philanthropic donors, all of whom respect our independence in resource allocation. You can refer to our activity reports for further information about our work and funding sources.
 
 
-      **2021-2022** [Activity Report](https://drive.google.com/file/d/1LLHqlE49IqCdF_U9V5j5cnnBxuTVtNTA/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
+      **2021-2022** [Activity Report](https://docs.google.com/document/d/1uDlrpuaC7IX_TcRixXYu4BrhHRSi90xOhVvd9RVDqao/edit?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view)
 teamSection:
   title: Our team
   groups:
