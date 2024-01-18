@@ -1,3 +1,3 @@
 ---
-name: Advisers and Collaborators
+name: Advisers
 ---
