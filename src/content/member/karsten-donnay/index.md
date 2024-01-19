@@ -1,7 +1,7 @@
 ---
 name: Prof. Karsten Donnay
 photo: donnaykarstenb.jpg
-group: Advisers and Collaborators
+group: Advisers
 role: Digital democracy
 links:
   website: https://www.karstendonnay.net/

@@ -3,7 +3,7 @@ hide: false
 title: "Response to Our Common Agenda Policy Brief 1: “To Think and Act for
   Future Generations”"
 date: 2023-03-21T15:08:00.000Z
-featuredImage: usersi_the_general_assembly_of_planet_earth_celebrating_the_dec_f888cfd5-b6e7-40db-9efe-a983aa3a515b.png
+featuredImage: 4.webp
 authors:
   - name: Malou Estier
     page: malou-estier/index
