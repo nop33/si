@@ -3,7 +3,7 @@ hide: false
 title: "Response to Our Common Agenda Policy Brief 5: A Global Digital Compact —
   an Open, Free and Secure Digital Future for All"
 date: 2023-07-24T14:38:23.702Z
-featuredImage: usersi_a_pastel_graphic_of_an_international_group_signing_the_w_962c1945-17ed-4194-89ff-ef37b1c34f84.png
+featuredImage: 1.webp
 authors:
   - name: Malou Estier
     page: malou-estier/index
