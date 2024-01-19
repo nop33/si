@@ -1,7 +1,7 @@
 ---
 name: Prof. Giovanna Di Marzo
 photo: dimarzogiovanna.jpg
-group: Advisers and Collaborators
+group: Advisers
 role: Complex systems modeling
 links:
   website: https://unige.ch/cui/cas/people/gdm
