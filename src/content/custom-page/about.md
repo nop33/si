@@ -85,7 +85,7 @@ teamSection:
   groups:
     - name: Core team
       title: Core team
-    - name: Advisers and Collaborators
+    - name: Advisers
       title: Advisers
 herbertSimonSection:
   title: Herbert Simon
