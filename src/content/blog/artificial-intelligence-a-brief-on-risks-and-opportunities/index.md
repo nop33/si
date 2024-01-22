@@ -4,10 +4,10 @@ title: "Artificial Intelligence: a Brief on Risks and Opportunities"
 date: 2023-05-30T12:22:37.144Z
 featuredImage: 21.png
 authors:
-  - name: Konrad Seifert
-    page: konrad-seifert/index
   - name: Jacob Arbeid
     page: jacob-arbeid/index
+  - name: Konrad Seifert
+    page: konrad-seifert/index
 category: Knowledge synthesis
 tags:
   - publications
