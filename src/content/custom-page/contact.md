@@ -8,7 +8,7 @@ workWithUsSection:
       content: Submit a general application for our next hiring round.
       button:
         text: Apply
-        url: https://airtable.com/shrmrPRmaSylt2ljL
+        url: https://forms.gle/J4Qx5HbP1tsnBv259
     - title: Collaborate
       content: We're happy to collaborate with those engaged in similar work.
       button:
