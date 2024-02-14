@@ -39,5 +39,4 @@ The exercise sparked discussions on several issues, including the challenges of 
 
 Participants further emphasized the importance of agile governance structures, viewing agility as a key factor in ensuring equitable benefit distribution, responsible development and deployment, as well as robust data privacy measures. They also stressed the significance of having greater technical talent within governments in order to enable, rather than stifle, technical innovation. 
 
-\
 This workshop, alongside other foresight events hosted by the UN Futures Lab Network, will inform ongoing multilateral technology governance processes and bodies, including the High-Level Advisory Body on AI, the Secretary General’s Scientific Advisory Board, and other activities leading up to the 2024 Summit of the Future. The workshop's outcomes will also inform The Future of Human Rights and Digital Technologies roundtable during the Human Rights 75 High Level Event on December 11th - 12th, 2023.
