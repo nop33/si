@@ -33,7 +33,7 @@ Konrad Seifert, SI’s Co-CEO, first outlined the current status quo we find our
 
 \*\**
 
-Following this, participants used foresight techniques presented by the UN Futures Lab to craft their own future scenarios on frontier technologies. Throughout the process, they were encouraged to stay cognizant of the ways in which their own backgrounds and biases might influence their scenarios. 
+Following this, participants used foresight techniques presented by the UN Futures Lab Network to craft their own future scenarios on frontier technologies. Throughout the process, they were encouraged to stay cognizant of the ways in which their own backgrounds and biases might influence their scenarios. 
 
 The exercise sparked discussions on several issues, including the challenges of regulating rapidly evolving technologies, the merits and drawbacks of open-source tech, and the need for global accountability of large tech companies. Environmental concerns related to AI's impacts were also highlighted, along with the challenge of balancing innovation with safe development. 
 
