@@ -26,6 +26,8 @@ Each training course featured a mix of presentations, discussions, Q&As, and int
 
 The accompanying briefing note for the training course can be downloaded [here](https://drive.google.com/file/d/1_OQXjDgxr25DASh8TLhgViLyAq7BdZc0/view?usp=sharing). 
 
+![](screenshot-2024-02-16-at-12.04.46.png)
+
 The first session, on AI’s technical foundations, covered the building blocks of AI (algorithms, data and compute), the different types of AI, and AI’s development trajectory. It included a discussion and Q&A with Lewis Ho from Google DeepMind, who spoke about the private sector’s role in AI development, and answered questions on how data quality affects AI systems, where bias comes from and how to deal with it, risks of open-source AI models, and the difference between AI applications and foundation models. 
 
 The second session explored AI’s opportunities and risks. It provided specific examples of opportunities, including enhanced healthcare via AI-driven diagnostic systems and improved disaster preparedness via AI-powered early warning systems; as well as some examples of risks, such as AI generated media fueling political instability and the potential loss of control over AI systems. Following the presentation, participants engaged in scenario-building exercises, where they were assigned scenarios based on different AI trajectories, and tasked with discussing the associated opportunities and risks.
