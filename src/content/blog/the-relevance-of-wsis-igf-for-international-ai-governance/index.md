@@ -23,10 +23,11 @@ You can scroll down to read each brief in full, or click the links below to down
 * [The World Summit on Information Society (WSIS): 2-pager](https://docs.google.com/document/d/1s7gl85fEmaGDgUWMSSPTsp3aHnBgZkm9El170wOhmKY/edit?usp=sharing)
 * [The Internet Governance Forum (IGF): 2-pager](https://docs.google.com/document/d/1NupeZ3fmuSqzSzDP_7NII0ALMFV40QLxtGMo-0GoFzs/edit?usp=sharing)
 
-## \
-The World Summit on Information Society (WSIS)
 
-## What is the World Summit on Information Society (WSIS)?
+
+## The World Summit on Information Society (WSIS)
+
+#### What is the World Summit on Information Society (WSIS)?
 
 WSIS (also commonly known as the WSIS process) was a series of summits focused on information and communications technology (ICT), organized by the International Telecommunication Union (ITU). The Summit was endorsed by [UN General Assembly Resolution 56/183](https://www.itu.int/net/wsis/docs/background/resolutions/56_183_unga_2002.pdf), and was held in two phases, first in 2003 and again in 2005:
 
@@ -90,8 +91,6 @@ The GDC and WSIS should mutually inform each other. The sequencing of negotiatio
 * Given its historical mandate, WSIS and its implementing agencies might lack the necessary technical expertise to govern emerging technologies, such as AI. 
 * The WSIS negotiation process could be disrupted or dragged out indefinitely by the introduction of new and contentious topics pertaining to emerging technologies.
 * WSIS embraces a multi-stakeholder approach in which its main elements (the IGF and the WSIS Forum) do not produce negotiated outcomes. The WSIS process likely does not have the ambition nor the capacity to establish new mandates and new institutions on topics it has not covered before. Therefore, the GDC should probably not expect WSIS to create new bodies, such as an international panel on AI.
-
-
 
 ## The Internet Governance Forum (IGF)
 
