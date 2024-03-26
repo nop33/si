@@ -11,7 +11,6 @@ authors:
 category: Knowledge synthesis
 tags:
   - multilateralism
-  - unitednations
 isHighlighted: false
 ---
 As multilateral processes and bodies such as the Global Digital Compact (GDC) and High-Level Body on Artificial Intelligence (AI) begin forming proposals for the international governance of AI, it's vital that key actors, including those negotiating texts like the GDC, understand the existing digital governance landscape in order to avoid the duplication of efforts. Understanding this landscape is not an easy task, with [dozens of intergovernmental and multi-stakeholder conferences, processes and forums](https://www.linkedin.com/posts/activity-7165298974181044225-ve97/) on digital governance currently in existence at the UN level. 
