@@ -15,12 +15,16 @@ isHighlighted: false
 ---
 As multilateral processes and bodies such as the Global Digital Compact (GDC) and High-Level Body on Artificial Intelligence (AI) begin forming proposals for the international governance of AI, it's vital that key actors, including those negotiating texts like the GDC, understand the existing digital governance landscape in order to avoid the duplication of efforts. Understanding this landscape is not an easy task, with [dozens of intergovernmental and multi-stakeholder conferences, processes and forums](https://www.linkedin.com/posts/activity-7165298974181044225-ve97/) on digital governance currently in existence at the UN level. 
 
-To help deconfuse the landscape, the Simon Institute for Longterm Governance (SI) drafted a set of briefs on the World Summit on Information Society (WSIS) and the Internet Governance Forum (IGF), two platforms focused on digital governance at the multilateral level. In the briefs, we outline how these processes were formed, their mandates, and how they may or may not be well suited to serve some functions of a multilateral regime complex for AI. If you have feedback on these briefs, or would like to talk about these topics further with our team, feel free to reach out to [malou@simoninstitute.ch](mailto:malou@simoninstitute.ch). 
+To help deconfuse the landscape, the Simon Institute for Longterm Governance (SI) drafted a set of briefs on the World Summit on Information Society (WSIS) and the Internet Governance Forum (IGF), two platforms focused on digital governance at the multilateral level. In the briefs, we outline how these processes were formed, their original mandates, and their current governance structures. 
+
+We also reviewed how these platforms may or may not be well suited to serve some functions of a multilateral regime complex for AI, and concluded that while the WSIS Forum & IGF are both valuable platforms for sharing best-practices and fostering multi-stakeholder dialogue on topics such as the digital divide and ICTs for development, their lack of decision-making power prevent them from implementing concrete AI governance initiatives at the UN.
+
+If you have feedback on these briefs, or would like to talk about these topics further with our team, feel free to reach out to [malou@simoninstitute.ch](mailto:malou@simoninstitute.ch).
 
 You can scroll down to read each brief in full, or click the links below to download PDF versions. 
 
-* [The World Summit on Information Society (WSIS): 2-pager](https://docs.google.com/document/d/1s7gl85fEmaGDgUWMSSPTsp3aHnBgZkm9El170wOhmKY/edit?usp=sharing)
-* [The Internet Governance Forum (IGF): 2-pager](https://docs.google.com/document/d/1NupeZ3fmuSqzSzDP_7NII0ALMFV40QLxtGMo-0GoFzs/edit?usp=sharing)
+* [The World Summit on Information Society (WSIS): 2-pager](https://drive.google.com/file/d/1j-udluiXYyyZu66jV9sijecmhm-CwbHk/view?usp=sharing)
+* [The Internet Governance Forum (IGF): 2-pager](https://drive.google.com/file/d/17x5v6Z65KC4uwUXN3y0T_6w7CciQjrcR/view?usp=sharing)
 
 
 
