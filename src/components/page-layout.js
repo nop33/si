@@ -19,6 +19,14 @@ import {
   hasImageBackground,
 } from "./page-layout.module.scss"
 
+import Search from "./search"
+
+const searchIndices = [
+  { name: `Blog posts`, title: `Blog posts` },
+  { name: `Members`, title: `Members` },
+  { name: `Jobs`, title: `Jobs` },
+]
+
 const PageLayout = ({
   location,
   title,
@@ -39,6 +47,7 @@ const PageLayout = ({
       <NavigationMenu
         hasBackgroundImage={withImageBackgroundHeader}
       ></NavigationMenu>
+      <Search indices={searchIndices} />
       <div className={textContent}>
         <h1>{title}</h1>
         {subtitle && <div className={subtitleStyles}>{subtitle}</div>}
