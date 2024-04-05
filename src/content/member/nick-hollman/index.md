@@ -2,7 +2,7 @@
 name: Nick Hollman
 photo: ""
 group: Alumni
-role: Research assistant
+role: Research assistant (Alumni)
 links:
   website: ""
   twitter: ""
