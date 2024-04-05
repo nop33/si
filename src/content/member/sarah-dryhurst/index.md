@@ -2,7 +2,7 @@
 name: Sarah Dryhurst
 photo: sarah_headshot.max-500x400_qsv5o23.jpg
 group: Alumni
-role: Survey research affiliate
+role: Survey research affiliate (Alumni)
 links:
   linkedin: https://www.linkedin.com/in/sarahdryhurst/
 disableDetailPage: true
