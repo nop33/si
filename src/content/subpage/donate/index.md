@@ -14,50 +14,29 @@ textSections:
       [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch). 
 
 
-      **Preferred method: bank transfer**
+      **Bank Details**
 
 
-      <table>
-        <tr>
-         <td><strong>Currency</strong>
-         </td>
-         <td><strong>IBAN</strong>
-         </td>
-        </tr>
-        <tr>
-         <td><strong>CHF</strong>
-         </td>
-         <td>CH08 0900 0000 1623 4735 0
-         </td>
-        </tr>
-        <tr>
-         <td><strong>USD</strong>
-         </td>
-         <td>CH60 0900 0000 1623 4738 4
-         </td>
-        </tr>
-        <tr>
-         <td><strong>EUR</strong>
-         </td>
-         <td>CH02 0900 0000 1623 4736 1
-         </td>
-        </tr>
-      </table>
+      Direct transfers are tax-deductible in Switzerland only. Transfers are preferred in your local currency to reduce fees. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch).
 
 
-      **Beneficiary:** Simon Institute for Longterm Governance
+      * **Beneficiary:** Simon Institute for Longterm Governance
+
+      * **Bank:** Cité Gestion SA
+
+      * **BIC/SWIFT:** CITECHGGXXX
+
+      * **Bank address:** Rue de la Cité 15-17 - 1204 Genève - Suisse
+
+      * **IBAN:** CH94 8302 1000 0013 3830 0 (same IBAN for all currencies)
 
 
-      **Bank address:** PostFinance AG, Mingerstrasse 20, 3030 Bern
+      To transfer US dollars:
 
 
-      **BIC:** POFICHBEXXX   
+      * **Correspondent to mention:** Lombard Odier Genève
 
-
-      **Clearing-Nr.:** 090002
-
-
-      *Direct transfers to SI are tax-deductible in Switzerland only. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch.](mailto:konrad@simoninstitute.ch) For donations from outside Switzerland that are not tax-deductible, we recommend using your local currency to minimize transaction fees.*
+      * **SWIFT:** LOCYCHGGXXX
     title: Donate
   - title: 2023-2024 Fundraising Round
     content: >-
