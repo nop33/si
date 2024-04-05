@@ -11,7 +11,7 @@ category: Facilitation
 tags:
   - events
   - ai
-isHighlighted: false
+isHighlighted: true
 ---
 On February 6th and 7th 2024, the Simon Institute for Longterm Governance (SI) organized two full-day training courses on AI governance for Permanent Missions to the United Nations (UN) in New York, in collaboration with the Permanent Mission of Costa Rica and the United Nations Institute for Training and Research (UNITAR). The training courses welcomed 60 diplomats in total, 55% of which were from the Global South. 
 
