@@ -1,8 +1,8 @@
 ---
 name: Elias Kock
-photo: 
+photo: null
 group: Alumni
-role: Research affiliate
+role: Research affiliate (Alumni)
 links:
   website: ""
   twitter: ""
