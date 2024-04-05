@@ -18,7 +18,7 @@ tags:
   - multilateralism
 isHighlighted: false
 ---
-### Context
+## Context
 
 In September 2024, Member States of the United Nations are set to adopt the [Global Digital Compact (GDC)](https://www.un.org/techenvoy/global-digital-compact), an internationally negotiated text seeking to “outline shared principles for an open, free and secure digital future for all”, and to bolster international consensus on the governance of emerging technologies such as artificial intelligence (AI). On April 1st 2024, in preparation for the intergovernmental negotiations taking place in April/May 2024, the co-facilitators of the GDC process, H.E. Anna Karin Eneström of Sweden and H.E. Chola Milambo of Zambia, released a [Zero Draft](https://www.un.org/pga/78/2024/04/01/letter-from-president-general-assembly-on-global-digital-compact-zero-draft/).
 
@@ -26,11 +26,11 @@ Below, we provide a summary and a review of the GDC Zero Draft, concentrating on
 
 In a nutshell, we see this Zero Draft as an ambitious start for Member States to build upon. Its current AI-related proposals are necessary, but not sufficient, to address the challenges we are facing. However, with some important additions and added clarity on certain issues, the GDC has the potential to shape the development of a promising multilateral regime complex for AI governance.
 
-### An ambitious beginning
+## An ambitious beginning
 
 Encapsulating global hopes for our digital future in only fifteen pages is a commendable accomplishment and this Zero Draft can be considered an ambitious opening to the negotiation process. With the fast pace of AI development creating an urgency for multilateral governance, it is incredibly important that the GDC go beyond the establishment of principles (such as those agreed in the [UNGA resolution A/78/L.49](https://documents.un.org/doc/undoc/ltd/n24/065/92/pdf/n2406592.pdf?token=P0lcbOUwHZVQhvYEyB&fe=true)) to propose clear actions with concrete timelines. The Zero Draft does precisely that. It includes proposals to reinforce existing mechanisms and establish entirely new entities for the governance of AI and emerging technologies, covering most of the institutional functions identified by the  [Interim Report](https://www.un.org/sites/un2.un.org/files/un_ai_advisory_body_governing_ai_for_humanity_interim_report.pdf) of the Secretary-General’s High Level Advisory Body on AI. While further clarifications, refinements and additions will be needed, this text is poised to succeed in its initial mission to trigger much needed conversations on multilateral AI governance between Member States.
 
-### 1. What the GDC Zero Draft is proposing for multilateral AI governance
+## 1. What the GDC Zero Draft is proposing for multilateral AI governance
 
 Objective 5 of the Zero Draft is “Governing emerging technologies, including artificial intelligence, for humanity”. This section begins by making several key acknowledgements, which shape the commitments and actions that follow:
 
@@ -49,8 +49,7 @@ Although the Zero Draft does not detail the relationships between these entities
 
 ![](screenshot-2024-04-05-at-17.01.06.png)
 
-### \
-2. The strengths of the GDC Zero Draft’s AI proposals
+## 2. The strengths of the GDC Zero Draft’s AI proposals
 
 Overall, the Zero Draft provides a very solid basis for negotiation because it covers a substantive set of topics and remains ambitious and precise in the commitments and actions it proposes. Its commitment in paragraph 8 “to pursue meaningful and measurable actions” sets the tone for this draft, and acknowledges the importance of setting targets and clear actions if we are serious about evaluating our progress on the implementation of the GDC.
 
@@ -63,7 +62,7 @@ Nevertheless, the Zero Draft does not discount what already exists and, indeed, 
 * The addition of a **Global Fund for AI and Emerging Technologies** is also a welcome - and potentially highly impactful - proposal. The allocation of a specific budget for AI within the UN system could catalyze action and spur coordination among international agencies, whilst also attracting more money (e.g. from private and philanthropic sources) into a system which is otherwise all too often paralyzed by a lack of available resources.
 * Finally, the proposal to establish “a dedicated **office for coordinating digital and emerging technology** in the Secretariat” (para.61) is highly pragmatic and forward-looking. The cross-cutting nature of emerging technologies such as AI is already making coordination across the UN system a challenge (c.f. the need to set up an [interagency working group on AI](https://unsceb.org/sites/default/files/2021-07/IAWG-AI%20ToR.pdf)) and this challenge will only increase over time. Similarly to the Global Fund, we welcome the choice to focus the office on emerging technologies beyond AI, which is a way to build flexibility by design. However, from the current description, this office sounds like an institutionalization of the current Office of the Secretary-General’s Envoy on Technology, transforming it into a body similar to the UN Office for the Coordination of Humanitarian Affairs (OCHA). This direction prompts reflection on its intention and potential benefits, inviting discussion among Member States.
 
-### What's missing from the GDC Zero Draft’s AI proposals
+## What's missing from the GDC Zero Draft’s AI proposals
 
 Although the Zero Draft establishes a good basis for AI governance, there are nevertheless a few key areas where it falls short - that is to say, **everything it is proposing is necessary for effective multilateral AI governance, but it is not sufficient.** 
 
@@ -81,6 +80,6 @@ Third is the Zero Draft’s silence on the question of **where and how the inter
 
 ![](screenshot-2024-04-05-at-17.04.34.png)
 
-### Our message to Member States in New York and Geneva
+## Our message to Member States in New York and Geneva
 
 Digital and emerging technologies, including AI, have been reshaping our societies and economies for some time already. This transformation is both global in nature and increasingly rapid. Multilateral governance is urgently needed if humanity is to maximize benefits and minimize risks of these technologies, and this GDC is the opportunity for Member States to come together to agree clear commitments and actions. There will not be another opportunity in the short time-frame for action we are facing. We are hopeful that this Zero Draft, with its substantive and ambitious content, will provoke complex and fruitful discussions. We urge Member States, as negotiations commence, to not lose the high ambition this draft represents.
