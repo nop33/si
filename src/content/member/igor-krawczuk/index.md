@@ -2,7 +2,7 @@
 name: Igor Krawczuk
 photo: ""
 group: Alumni
-role: Research affiliate
+role: Research affiliate (Alumni)
 links:
   website: ""
   twitter: ""
