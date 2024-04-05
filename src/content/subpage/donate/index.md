@@ -20,29 +20,31 @@ textSections:
       Direct transfers are tax-deductible in Switzerland only. Transfers are preferred in your local currency to reduce fees. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch).
 
 
+      ```html
+
+      <table>
+          <tr>
+              <td>Beneficiary: Simon Institute for Longterm Governance
+      Bank: Cité Gestion SA
+
+      BIC/SWIFT: CITECHGGXXX
+
+      Bank address: Rue de la Cité 15-17 - 1204 Genève - Suisse
 
 
-      **Beneficiary:** Simon Institute for Longterm Governance
+      IBAN: CH94 8302 1000 0013 3830 0 (same IBAN for all currencies)
 
 
-      **Bank:** Cité Gestion SA
+      To transfer US dollars:
+
+      Correspondent to mention: Lombard Odier Genève; SWIFT: LOCYCHGGXXX
 
 
-      **BIC/SWIFT:** CITECHGGXXX
+      </td>
+          </tr>
+      </table>
 
-
-      **Bank address:** Rue de la Cité 15-17 - 1204 Genève - Suisse
-
-
-      **IBAN:** CH94 8302 1000 0013 3830 0 (same IBAN for all currencies)
-
-
-
-
-      **To transfer US dollars:**
-
-
-      **Correspondent to mention:** Lombard Odier Genève; **SWIFT:** LOCYCHGGXXX
+      ```
     title: Donate
   - title: 2023-2024 Fundraising Round
     content: >-
