@@ -2,7 +2,7 @@
 name: Jens Fischer
 photo: ""
 group: Alumni
-role: Research affiliate
+role: Research affiliate (Alumni)
 links:
   website: ""
   twitter: ""

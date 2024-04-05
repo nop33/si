@@ -2,7 +2,7 @@
 name: Nora Ammann
 photo: ammannnora.jpg
 group: Alumni
-role: Conceptual research affiliate
+role: Conceptual research affiliate (Alumni)
 links:
   website: ""
   twitter: ""
