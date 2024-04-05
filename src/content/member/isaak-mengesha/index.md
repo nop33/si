@@ -2,7 +2,7 @@
 name: Isaak Mengesha
 photo: mengeshaisaak.jpg
 group: Alumni
-role: Technical research affiliate
+role: Technical research affiliate (Alumni)
 links:
   website: ""
   twitter: ""
