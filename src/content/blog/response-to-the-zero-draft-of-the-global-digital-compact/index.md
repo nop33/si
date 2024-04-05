@@ -1,7 +1,7 @@
 ---
 hide: false
-title: "Response to the Zero Draft of the Global Digital Compact: What it means
-  for AI governance"
+title: "Response to the Zero Draft of the Global Digital Compact: What it Means
+  for AI Governance"
 date: 2024-04-05T14:08:14.475Z
 featuredImage: screenshot-2024-04-05-at-16.52.07.png
 authors:
