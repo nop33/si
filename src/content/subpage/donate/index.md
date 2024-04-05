@@ -20,6 +20,8 @@ textSections:
       Direct transfers are tax-deductible in Switzerland only. Transfers are preferred in your local currency to reduce fees. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch](mailto:konrad@simoninstitute.ch).
 
 
+      ```
+
       <table>
           <tr>
               <td>Beneficiary: Simon Institute for Longterm Governance
@@ -41,6 +43,8 @@ textSections:
       </td>
           </tr>
       </table>
+
+      ```
     title: Donate
   - title: 2023-2024 Fundraising Round
     content: >-
