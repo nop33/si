@@ -13,7 +13,7 @@ const theme = {
   faded: "#888",
 }
 
-export default function Search({ indices }) {
+export default function Search({ indices, color }) {
   const rootRef = createRef()
   const [query, setQuery] = useState()
   const [hasFocus, setFocus] = useState(false)
@@ -36,6 +36,7 @@ export default function Search({ indices }) {
             onChange={query => setQuery(query)}
             onFocus={() => setFocus(true)}
             hasFocus={hasFocus}
+            color={color}
           />
           <StyledSearchResult
             show={query && query.length > 0 && hasFocus}

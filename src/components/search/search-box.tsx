@@ -6,10 +6,12 @@ const SearchBox = ({
   className,
   onFocus,
   onChange,
+  color,
 }: {
   className?: string
   onFocus: () => void
   onChange: (string) => void
+  color?: string
 }) => {
   const { query, refine } = useSearchBox()
 
@@ -27,7 +29,7 @@ const SearchBox = ({
         value={query}
         onFocus={onFocus}
       />
-      <SearchIcon className="SearchIcon" />
+      <SearchIcon className="SearchIcon" style={{ color }} />
     </form>
   )
 }
