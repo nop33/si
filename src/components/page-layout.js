@@ -44,10 +44,13 @@ const PageLayout = ({
 
   const headerContent = (
     <div className={`global-content-wrapper ${headerContentWrapper}`}>
-      <NavigationMenu
-        hasBackgroundImage={withImageBackgroundHeader}
-      ></NavigationMenu>
-      <Search indices={searchIndices} />
+      <div>
+        <NavigationMenu hasBackgroundImage={withImageBackgroundHeader} />
+        <Search
+          indices={searchIndices}
+          color={isRootPath ? "white" : undefined}
+        />
+      </div>
       <div className={textContent}>
         <h1>{title}</h1>
         {subtitle && <div className={subtitleStyles}>{subtitle}</div>}

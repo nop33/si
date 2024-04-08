@@ -2,19 +2,23 @@ import styled, { css } from "styled-components"
 import SearchBox from "./search-box"
 
 const open = css`
-  width: 10em;
+  width: 20em;
   background: ${({ theme }) => theme.background};
   cursor: text;
-  margin-left: -1.6em;
+  margin-left: -1.8em;
   padding-left: 1.6em;
+  border: 1px solid var(--color-si-mustard);
+  padding: var(--spacing-3) var(--spacing-8);
+  border-radius: 2rem;
 `
 
 const closed = css`
   width: 0;
   background: transparent;
   cursor: pointer;
-  margin-left: -1em;
-  padding-left: 1em;
+  margin-left: -2.6em;
+  padding-left: 2.6em;
+  height: 2em;
 `
 
 export default styled(SearchBox)<{ hasFocus?: boolean }>`
@@ -37,10 +41,9 @@ export default styled(SearchBox)<{ hasFocus?: boolean }>`
   }
 
   .SearchIcon {
-    width: 1em;
+    width: 1.4em;
     margin: 0.3em;
     color: ${({ theme }) => theme.foreground};
     pointer-events: none;
-    z-index: 1;
   }
 `
