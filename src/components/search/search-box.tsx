@@ -16,7 +16,7 @@ const SearchBox = ({
   const { query, refine } = useSearchBox()
 
   return (
-    <form className={className}>
+    <div className={className}>
       <input
         className="SearchInput"
         type="text"
@@ -30,7 +30,7 @@ const SearchBox = ({
         onFocus={onFocus}
       />
       <SearchIcon className="SearchIcon" style={{ color }} />
-    </form>
+    </div>
   )
 }
 
