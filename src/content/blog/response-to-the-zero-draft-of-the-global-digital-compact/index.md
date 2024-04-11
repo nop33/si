@@ -26,7 +26,7 @@ Below, we provide a summary and a review of the GDC Zero Draft, concentrating on
 
 In a nutshell, we see this Zero Draft as an ambitious start for Member States to build upon. Its current AI-related proposals are necessary, but not sufficient, to address the challenges we are facing. However, with some important additions and added clarity on certain issues, the GDC has the potential to shape the development of a promising multilateral regime complex for AI governance.
 
-*For a summary and discussion of other sections of the GDC Zero Draft, we recommend the [DiploFoundation's](https://www.diplomacy.edu/) analysis [here.](https://lnkd.in/dcbAYNmm)*
+*For a summary and discussion on other sections of the GDC Zero Draft, we recommend the [DiploFoundation's](https://www.diplomacy.edu/) analysis [here.](https://lnkd.in/dcbAYNmm)*
 
 ## An ambitious beginning
 
