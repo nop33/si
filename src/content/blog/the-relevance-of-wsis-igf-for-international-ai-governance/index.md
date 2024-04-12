@@ -6,8 +6,6 @@ featuredImage: 0_3.webp
 authors:
   - name: Malou Estier
     page: malou-estier/index
-  - name: Sofia Mikton
-    page: sofia-mikton/index
 category: Knowledge synthesis
 tags:
   - multilateralism
