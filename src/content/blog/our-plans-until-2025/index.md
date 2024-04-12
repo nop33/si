@@ -52,7 +52,7 @@ Through these activities, we hope to contribute to building governance systems t
 
 The SI Strategy Implementation Plan is established every 2 to 3 years to implement the SI Strategy and the objectives outlined therein. It empowers SI to plan and take more focused actions in response to the broader global context and anticipated developments during those specific time frames.
 
-The Priorities, Goals and Projects outlined in the Strategy Implementation Plan are reviewed regularly throughout its time frame to guide resource allocation and take into account any contextual changes. Progress is tracked and measured through the SI Monitoring, Evaluation and Learning plan. 
+The Priorities, Goals and Projects outlined in the Strategy Implementation Plan are reviewed regularly throughout its time frame to guide resource allocation and take into account any contextual changes. Progress is tracked and measured through the [SI Monitoring, Evaluation and Learning plan](https://docs.google.com/document/d/182QDcV99107RzCm1aTweqWZC6uNfVtije-ku-M81wkc/edit). 
 
 ## Terminology
 
@@ -67,8 +67,6 @@ The Priorities, Goals and Projects outlined in the Strategy Implementation Plan 
 ## Overview of SI’s full planning structure
 
 ![](screenshot-2023-10-23-at-14.22.35.png)
-
-
 
 ![](screenshot-2023-10-23-at-14.22.43.png)
 
