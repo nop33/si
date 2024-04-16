@@ -41,6 +41,12 @@ textSections:
 
 
       We send updates via our newsletter if you signed up for it.
+
+
+      We implement security measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction. These measures include technical and organizational steps to maintain the security of your information.
+
+
+      We retain your personal data only for as long as necessary to fulfill the purposes for which it was collected, or as required by law. For donations, data is kept for the duration required by Swiss tax law, after which it is securely disposed of.
   - title: Your Rights
     content: >
       You have the right to control what data we store and how we use it. In
