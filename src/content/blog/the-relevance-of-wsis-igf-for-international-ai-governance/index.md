@@ -19,12 +19,7 @@ We also reviewed how these platforms may or may not be well suited to serve some
 
 If you have feedback on these briefs, or would like to talk about these topics further with our team, feel free to reach out to [malou@simoninstitute.ch](mailto:malou@simoninstitute.ch).
 
-You can scroll down to read each brief in full, or click the links below to download PDF versions. 
-
-* [The World Summit on Information Society (WSIS): 2-pager](https://drive.google.com/file/d/1j-udluiXYyyZu66jV9sijecmhm-CwbHk/view?usp=sharing)
-* [The Internet Governance Forum (IGF): 2-pager](https://drive.google.com/file/d/17x5v6Z65KC4uwUXN3y0T_6w7CciQjrcR/view?usp=sharing)
-
-
+You can scroll down to read each brief in full, or [click here](https://drive.google.com/file/d/1ciWQ8IRE-1-ruPZ8wxsd9BK5xBcK6dWZ/view?usp=sharing) to download a PDF version. 
 
 ## The World Summit on Information Society (WSIS)
 
