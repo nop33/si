@@ -24,7 +24,7 @@ Each course featured a mix of presentations, discussions, Q&As, and interactive 
 * Overview of the current AI governance landscape 
 * The role of the UN in AI governance 
 
-The accompanying briefing note can be downloaded [here](https://drive.google.com/file/d/1_OQXjDgxr25DASh8TLhgViLyAq7BdZc0/view?usp=sharing). 
+The accompanying briefing note can be downloaded [here](https://drive.google.com/file/d/1htQkPBLSzxYGdNAVi8eSwGe4VDr_MGF5/view?usp=sharing). (Note: This document was updated in April 2024 to reflect more recent developments in AI governance.)
 
 The first session, on AI’s technical foundations, covered the building blocks of AI (algorithms, data and computing power), the different stages AI development (R&D, foundation model deployment, and application development), and AI’s development trajectory (e.g. exponential progress via AI-enhanced human labor, leading to powerful specialized systems and potentially fully autonomous systems within this decade or century). It included a discussion and Q&A with Lewis Ho from Google DeepMind, who spoke about the private sector’s role in AI development, and answered questions on how data quality affects AI systems, where bias comes from and how to deal with it, risks of open-source AI models, and the difference between AI applications and foundation models. 
 
@@ -37,7 +37,5 @@ The final session explored the role of the UN in governing AI, and provided an o
 The training course received an average rating of 9.1 overall, with many noting that it helped boost their baseline understanding of AI’s technical foundations, and left them feeling more optimistic about making progress on AI governance. Several participants expressed interest in learning more about data governance, cyber security, and further exploring how AI could be used to help accelerate the 2030 Sustainable Development Goals (SDGs). 
 
 Moving forward, SI plans to continue supporting member states with capacity building on AI governance, while also supporting efforts feeding into the GDC. For more information on the training course, or to inquire about further support on the subject, please don’t hesitate to reach out to Belinda Cleeland at [belinda@simoninstitute.ch](mailto:belinda@simoninstitute.ch).
-
-
 
 ![](screenshot-2024-02-16-at-12.04.46.png)
