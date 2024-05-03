@@ -16,7 +16,7 @@ category: Policy support
 tags:
   - ai
   - multilateralism
-isHighlighted: true
+isHighlighted: false
 ---
 ## Context
 
