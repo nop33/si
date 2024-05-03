@@ -4,7 +4,7 @@ title: Briefing Series on Frontier AI Research & Development for UN Missions in
   New York
 date: 2024-05-02T15:29:29.334Z
 description: ""
-featuredImage: pxl_20240422_181335904.jpg
+featuredImage: pxl_20240422_181743785.jpg
 authors:
   - name: Sofia Mikton
     page: sofia-mikton/index
