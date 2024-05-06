@@ -13,7 +13,7 @@ tags:
   - ai
 isHighlighted: false
 ---
-Le 25 avril 2024, le Simon Institute for Longterm Governance (SI) a facilité un atelier sur la gouvernance de l'intelligence artificielle (IA) pour 25 diplomates francophones provenant de 18 pays membres des missions auprès de l’Organisation des Nations Unies à New York, en collaboration avec la mission permanente du Canada et l'[Organisation Internationale de la Francophonie](https://www.francophonie.org/). Cet atelier a permis aux diplomates d'acquérir des connaissances plus approfondies sur l'IA et sa gouvernance, en préparation pour les négociations à venir sur le Pacte Numérique Mondial.
+Le 25 avril 2024, le Simon Institute for Longterm Governance (SI) a facilité un atelier sur la gouvernance de l'intelligence artificielle (IA) pour 25 diplomates Francophones provenant de 18 pays membres des missions auprès de l’Organisation des Nations Unies à New York, en collaboration avec la mission permanente du Canada et l'[Organisation Internationale de la Francophonie](https://www.francophonie.org/). Cet atelier a permis aux diplomates d'acquérir des connaissances plus approfondies sur l'IA et sa gouvernance, en préparation pour les négociations à venir sur le Pacte Numérique Mondial.
 
 Animé entièrement en français, l’atelier comprenait quatre sessions, chacune incluant des présentations, des interventions d’experts invités et des segments interactifs:
 
