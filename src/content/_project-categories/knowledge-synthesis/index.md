@@ -1,3 +1,3 @@
 ---
-title: Knowledge synthesis
+title: Research
 ---
