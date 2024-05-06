@@ -3,7 +3,7 @@ title: Our Work
 subtitle: ""
 projectsByCategories:
   - category: Facilitation
-    title: Capacity Building
+    title: Capacity-Building
     description: With strong connections in academia, the multilateral system, and
       leading research labs, we’re able to effectively bring stakeholders
       together. We foster collaboration and information sharing through our
@@ -19,7 +19,7 @@ projectsByCategories:
       decision-makers understand and act on policy-relevant developments
       effectively.
   - category: Policy support
-    title: Policy recommendation
+    title: Policy Recommendation
     description: We inform multilateral policy processes through written
       recommendations, panel engagements, and specialized advice to policy
       actors. We focus on processes that promote long-term thinking, enhance
