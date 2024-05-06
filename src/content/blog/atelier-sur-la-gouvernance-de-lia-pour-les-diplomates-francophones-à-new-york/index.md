@@ -8,6 +8,7 @@ authors:
     page: sofia-mikton/index
   - name: Cecilia Saura Drago
     page: cecilia-saura-drago/index
+category: Facilitation
 tags:
   - events
   - ai
