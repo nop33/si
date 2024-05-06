@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Atelier sur la gouvernance de l'IA pour les diplomates francophones à New York
+title: Atelier sur la Gouvernance de l'IA pour les Diplomates Francophones à New York
 date: 2024-05-06T08:42:32.834Z
 featuredImage: pxl_20240425_150238789-1-.jpeg
 authors:
