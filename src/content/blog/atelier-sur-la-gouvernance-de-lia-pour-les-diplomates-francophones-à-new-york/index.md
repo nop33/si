@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Atelier sur la gouvernance de l'IA pour les diplomates francophones à New York
+title: Atelier sur la Gouvernance de l'IA pour les Diplomates Francophones à New York
 date: 2024-05-06T08:42:32.834Z
 featuredImage: pxl_20240425_150238789-1-.jpeg
 authors:
@@ -8,12 +8,13 @@ authors:
     page: sofia-mikton/index
   - name: Cecilia Saura Drago
     page: cecilia-saura-drago/index
+category: Facilitation
 tags:
   - events
   - ai
 isHighlighted: false
 ---
-Le 25 avril 2024, le Simon Institute for Longterm Governance (SI) a facilité un atelier sur la gouvernance de l'intelligence artificielle (IA) pour 25 diplomates francophones provenant de 18 pays membres des missions auprès de l’Organisation des Nations Unies à New York, en collaboration avec la mission permanente du Canada et l'[Organisation Internationale de la Francophonie](https://www.francophonie.org/). Cet atelier a permis aux diplomates d'acquérir des connaissances plus approfondies sur l'IA et sa gouvernance, en préparation pour les négociations à venir sur le Pacte numérique mondial (PNM).
+Le 25 avril 2024, le Simon Institute for Longterm Governance (SI) a facilité un atelier sur la gouvernance de l'intelligence artificielle (IA) pour 25 diplomates Francophones provenant de 18 pays membres des missions auprès de l’Organisation des Nations Unies à New York, en collaboration avec la mission permanente du Canada et l'[Organisation Internationale de la Francophonie](https://www.francophonie.org/). Cet atelier a permis aux diplomates d'acquérir des connaissances plus approfondies sur l'IA et sa gouvernance, en préparation pour les négociations à venir sur le Pacte Numérique Mondial.
 
 Animé entièrement en français, l’atelier comprenait quatre sessions, chacune incluant des présentations, des interventions d’experts invités et des segments interactifs:
 
