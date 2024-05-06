@@ -3,6 +3,9 @@ hide: false
 title: "Response to the Zero Draft of the Global Digital Compact: What it Means
   for AI Governance"
 date: 2024-04-05T14:08:14.475Z
+description: In September 2024, Member States of the United Nations are set to
+  adopt the Global Digital Compact, an internationally negotiated text seeking
+  to...
 featuredImage: screenshot-2024-04-05-at-16.52.07.png
 authors:
   - name: Belinda Cleeland
