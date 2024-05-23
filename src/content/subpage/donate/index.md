@@ -37,6 +37,12 @@ textSections:
       * **Correspondent to mention:** Lombard Odier Genève
 
       * **SWIFT:** LOCYCHGGXXX
+
+
+      ![](ed-on-file-badge.png)
+
+
+      *The Simon Institute for Longterm Governance has been accredited with NGOsource as equivalent to a Certified Public Charity in the United States.*
     title: Donate
   - title: 2023-2024 Fundraising Round
     content: >-
