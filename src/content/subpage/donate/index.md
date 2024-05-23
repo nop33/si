@@ -37,6 +37,9 @@ textSections:
       * **Correspondent to mention:** Lombard Odier Genève
 
       * **SWIFT:** LOCYCHGGXXX
+
+
+      ![](ed-on-file-badge.png)
     title: Donate
   - title: 2023-2024 Fundraising Round
     content: >-
