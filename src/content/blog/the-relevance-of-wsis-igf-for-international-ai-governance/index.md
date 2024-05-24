@@ -21,8 +21,6 @@ If you have feedback on these briefs, or would like to talk about these topics f
 
 You can scroll down to read each brief in full, or [click here](https://drive.google.com/file/d/1ciWQ8IRE-1-ruPZ8wxsd9BK5xBcK6dWZ/view?usp=sharing) to download a PDF version. You can also download a PDF version of the diagrams outlining how WSIS & IGF work [here](https://drive.google.com/file/d/1asxksjZ_-SkPHns57IT5qcoXV4wp2spR/view?usp=sharing). 
 
-
-
 ## The World Summit on Information Society (WSIS)
 
 #### What is the World Summit on Information Society (WSIS)?
@@ -90,7 +88,7 @@ The GDC and WSIS should mutually inform each other. The sequencing of negotiatio
 * The WSIS negotiation process could be disrupted or dragged out indefinitely by the introduction of new and contentious topics pertaining to emerging technologies.
 * WSIS embraces a multi-stakeholder approach in which its main elements (the IGF and the WSIS Forum) do not produce negotiated outcomes. The WSIS process likely does not have the ambition nor the capacity to establish new mandates and new institutions on topics it has not covered before. Therefore, the GDC should probably not expect WSIS to create new bodies, such as an international panel on AI.
 
-![](wsis_page-0001.jpg)
+![](wsis.jpg)
 
 ## The Internet Governance Forum (IGF)
 
@@ -122,4 +120,4 @@ The IGF’s original mandate was limited to internet governance, but its scope h
 
 Due to its non-binding nature, the IGF lacks the capacity to implement AI governance solutions and mandates. Nevertheless, it remains an essential platform for multi-stakeholder dialogue, exchange, and sharing of best practices, including on AI governance.
 
-![](igf_page-0001.jpg)
+![](igf.jpg)
