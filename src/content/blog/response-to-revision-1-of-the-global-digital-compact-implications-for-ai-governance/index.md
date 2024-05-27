@@ -1,7 +1,7 @@
 ---
 hide: false
-title: "Response to Revision 1 of the Global Digital Compact: Implications for
-  AI Governance"
+title: "Response to the First Revision of the Global Digital Compact:
+  Implications for AI Governance"
 date: 2024-05-27T14:05:51.174Z
 featuredImage: 0_2.jpeg
 authors:
