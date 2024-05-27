@@ -31,15 +31,15 @@ The key changes made to Objective 5 include the following: 
 
 Overall, Rev.1 of the GDC remains a reasonably high ambition text, in that it preserves almost all of the Zero Draft’s institutional proposals in objective 5 (despite the pushback from Member States during the first reading over potential duplications with existing mechanisms). The co-facilitators have also simplified the structure of objective 5 by deleting the sub-sub-sections and removing some detail from the institutional proposals. 
 
-# Key changes to note in objective 5 + follow-up and review:
+## Key changes to note in objective 5 + follow-up and review:
 
-## **1. Weakening of overall ambition of the UN with regard to objective 5**
+### 1. Weakening of overall ambition of the UN with regard to objective 5
 
 **What?** Changes to the language indicate a slightly weakened ambition, or at least a downgrade to the centrality of the UN’s role in the governance of AI and emerging technologies. For example, the title of objective 5 has become ‘Enhance international governance of…’ instead of ‘Govern…’, and paragraph 52 now refers to the GDC as a unique opportunity to ‘advance’ international governance of AI and emerging technologies, rather than ‘establish the foundations for’ it. In paragraph 51, the role of the UN is now recognized as ‘vital’ but no longer ‘central’.
 
 **Why?** This reflects comments made by the US, UK, CANZ and Japan (and to a lesser extent the EU), indicating that they do not see (or wish) the UN to be leading international governance of AI and emerging technology, but only playing a complementary role, amongst and alongside other initiatives.
 
-### **2. Addition of a new paragraph outlining key governance functions** 
+### 2. Addition of a new paragraph outlining key governance functions 
 
 **What?** The co-facilitators have added a new paragraph (para. 52) that outlines 3 objectives for the GDC to "advance international governance of AI and emerging technologies":
 
@@ -51,7 +51,7 @@ This clause echoes AI governance functions 1-5 outlined in the [interim report o
 
 **Why?** This addition provides a clarity of purpose that seemed to be missing in the Zero Draft, which skipped straight to the proposal of new institutions without first outlining the governance gaps to be filled. Rev.1 instead outlines what we want to do (para 52) and then how we commit to doing it (paras. 53-61). This may facilitate understanding of the overall approach and also agreement by Member States, by allowing them to negotiate the functions separately from the proposed mechanisms. 
 
-### **3. Modification of the proposal for an ‘Annual global dialogue on AI governance’**
+### 3. Modification of the proposal for an ‘Annual global dialogue on AI governance’
 
 **What?** Rev.1 contains a proposal for an International Contact Group on AI governance (para. 53b), which replaces the Zero Draft proposal for an annual global dialogue. This Contact Group is proposed as intergovernmental, rather than multistakeholder, in nature, but its stated purpose remains similar to that of the dialogue proposed in the Zero Draft - that is, to build shared understandings on governance, risk management and safety frameworks and to promote interoperability across governance approaches. Although Rev.1 mentions that this Contact Group’s work should be “supported by multistakeholder engagement on AI governance including the annual AI for Good Summit”, this revised proposal is nevertheless a clear shift towards prioritizing intergovernmental discussions on AI governance.
 
@@ -59,13 +59,13 @@ This clause echoes AI governance functions 1-5 outlined in the [interim report o
 
 **Note:** The choice of a “Contact Group” to fulfill this function is interesting, given that such groups are traditionally formed to help manage peace and security crises (although there are some recent examples that go beyond this domain). The SI team will do more research on the significance and impact of such contact groups and how best to leverage this proposal.
 
-### **4. Broadening of the mandate of the international Scientific Panel**
+### 4. Broadening of the mandate of the international Scientific Panel
 
 **What?** In the Zero Draft, the Panel was on AI only, but in Rev.1, it has become the International Scientific Panel on AI and Emerging Technology. Some of the detail of what it will do has been removed. For example, Rev.1 states that the Panel will issue reports, but the six-monthly reporting cycle is gone. Also gone is the mention of providing ‘early warning’. Meanwhile the new task of contributing to ‘mitigation measures’ has been added.
 
 **Why?** The addition of ‘emerging technologies’ is forward looking and will allow for the panel to adapt its work and relevance to future technological developments. This sentiment is reflected elsewhere in Rev.1 which, in several places, seems to have broadened the focus from AI only to AI and emerging technologies (e.g. in para. 52), as a response to suggestions from Member States. The diminished level of detail in terms of what the Panel will do likely aims to make it easier for Member States to agree on the fundamentals only (ie. that this is a governance gap to be filled), leaving the modalities and terms of reference to be proposed later on. This will provide more time for Member States time to think through what institutional design will be most fit-for-purpose. 
 
-### **5. Simplification and clearer roles for GDC follow-up and review**
+### 5. Simplification and clearer roles for GDC follow-up and review
 
 **What?** The final section of Rev.1 contains a few changes that are relevant to the governance of AI and emerging technologies, as well as more broadly. 
 
@@ -77,7 +77,7 @@ The new language also provides greater clarity in terms of the envisaged roles o
 
 **Why?** The simplification of follow-up procedures responds to calls from Member States to make maximal use of existing structures and to delete the paragraph on the reporting portal. Regarding WSIS and IGF, comments from Member States on the Zero Draft demonstrated differing opinions on the roles of WSIS and IGF and how important they should be in implementation and follow-up. Rev.1 seems to have tried to clarify what the vision is for these entities. The change with regard to WSIS reflects, perhaps, a recommendation for the WSIS+20 review to specifically not reopen the core WSIS texts, but use what is already there in its current form. On the other hand, where IGF is concerned, deleting the references to ‘internet governance’ seems to broaden the envisaged role of IGF, implying that it is relevant to all digital issues and should take a full and active role in GDC implementation as a kind of multistakeholder oversight body. 
 
-**Other things to note:**
+### Other things to note:
 
 * The proposal for a Global Fund for AI and Emerging Technology remains almost identical to the zero draft. This could be due to the EU and G77 reserving the clause in the zero-draft consultations. We expect it to be debated (and possibly modified) during the upcoming negotiations.
 * The proposal for an Office within the UN Secretariat for digital and emerging technologies is also not substantially changed, although Rev.1 makes it explicit that this would be an institutionalization of OSET, and also deletes the mention of a presence of this office in Geneva.
