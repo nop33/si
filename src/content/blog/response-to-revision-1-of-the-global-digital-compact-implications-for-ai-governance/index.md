@@ -30,8 +30,6 @@ In sum, key changes made to Objective 5 include:
 * A broadening of the mandate of the proposed International Scientific Panel on AI to include emerging technologies;
 * A simplification and clarification of roles for the GDC's follow-up and review processes.
 
-Overall, Rev.1 of the GDC remains a reasonably high ambition text, in that it preserves almost all of the Zero Draft’s institutional proposals in objective 5 (despite the pushback from Member States during the first reading over potential duplications with existing mechanisms). The co-facilitators have also simplified the structure of objective 5 by deleting the sub-sub-sections and removing some detail from the institutional proposals. 
-
 ## Key changes to note in objective 5 + follow-up and review:
 
 ### 1. Weakening of overall ambition of the UN with regard to objective 5
