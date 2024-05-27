@@ -15,6 +15,7 @@ category: Policy Recommendation
 tags:
   - un
   - multilateralism
+  - ai
 isHighlighted: false
 ---
 Following the release of the [Zero Draft](https://www.un.org/pga/78/2024/04/01/letter-from-president-general-assembly-on-global-digital-compact-zero-draft/) of the Global Digital Compact (GDC) on April 1, 2024, the co-facilitators of the process released a first revision ([Rev. 1](https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/Global_Digital_Compact_Rev_1.pdf)) on May 15, 2024, based on Member State consultations and input. Below, we highlight the key changes made to Objective 5 (the section focused on the governance of AI and emerging technologies), discuss what these changes imply, and outline why we think they've been made.
