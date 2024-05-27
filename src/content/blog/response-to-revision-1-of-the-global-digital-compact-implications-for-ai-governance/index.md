@@ -21,13 +21,13 @@ Following the release of the [Zero Draft](https://www.un.org/pga/78/2024/04/01/l
 
 Overall, Rev.1 of the GDC remains a reasonably high ambition text, in that it preserves almost all of the Zero Draft’s institutional proposals in objective 5 (despite the pushback from Member States during the first reading over potential duplications with existing mechanisms). The co-facilitators have also simplified the structure of objective 5 by deleting the sub-sub-sections and removing some detail from the institutional proposals. 
 
-The key changes made to Objective 5 include the following: 
+The key changes made to Objective 5 include:
 
 1. Weakening of the overall ambition regarding the UN's role in governing AI and emerging technologies; 
 2. Addition of a new paragraph outlining key governance functions, inspired by the High-Level Advisory Body on AI’s [interim report](https://www.un.org/sites/un2.un.org/files/un_ai_advisory_body_governing_ai_for_humanity_interim_report.pdf);
 3. Modification of the proposed 'Annual global dialogue on AI governance' to a Contact Group on AI governance;
 4. Broadening the mandate of the proposed International Scientific Panel on AI to include emerging technologies;
-5. Simplification and clarification of roles for the GDC's follow-up and review processes
+5. Simplification and clarification of roles for the GDC's follow-up and review processes.
 
 Overall, Rev.1 of the GDC remains a reasonably high ambition text, in that it preserves almost all of the Zero Draft’s institutional proposals in objective 5 (despite the pushback from Member States during the first reading over potential duplications with existing mechanisms). The co-facilitators have also simplified the structure of objective 5 by deleting the sub-sub-sections and removing some detail from the institutional proposals. 
 
