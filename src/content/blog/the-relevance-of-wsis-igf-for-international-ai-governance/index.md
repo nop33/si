@@ -88,7 +88,7 @@ The GDC and WSIS should mutually inform each other. The sequencing of negotiatio
 * The WSIS negotiation process could be disrupted or dragged out indefinitely by the introduction of new and contentious topics pertaining to emerging technologies.
 * WSIS embraces a multi-stakeholder approach in which its main elements (the IGF and the WSIS Forum) do not produce negotiated outcomes. The WSIS process likely does not have the ambition nor the capacity to establish new mandates and new institutions on topics it has not covered before. Therefore, the GDC should probably not expect WSIS to create new bodies, such as an international panel on AI.
 
-![](wsis.jpg)
+![](screenshot-2024-05-29-at-17.39.31.png)
 
 ## The Internet Governance Forum (IGF)
 
@@ -120,4 +120,4 @@ The IGF’s original mandate was limited to internet governance, but its scope h
 
 Due to its non-binding nature, the IGF lacks the capacity to implement AI governance solutions and mandates. Nevertheless, it remains an essential platform for multi-stakeholder dialogue, exchange, and sharing of best practices, including on AI governance.
 
-![](igf.jpg)
+![](screenshot-2024-05-29-at-17.39.40.png)
