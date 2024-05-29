@@ -1,5 +1,5 @@
 ---
-hide: true
+hide: false
 title: Test Job
 teaserText: Test A
 textSections:
