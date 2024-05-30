@@ -1,11 +1,13 @@
 ---
 hide: false
 title: Senior Tech Policy Specialist
-teaserText: >
-  We’re seeking an experienced, dynamic, and committed Senior Tech Policy
-  Specialist to join our team. This role is pivotal in supporting our policy
-  needs, focusing on international frontier AI governance. 
+teaserText: "We’re seeking an experienced, dynamic, and committed Senior Tech
+  Policy Specialist to join our team. This role is pivotal in supporting our
+  policy needs, focusing on international frontier AI governance. "
 textSections:
+  - content: "**Referral reward:** We offer $2000 to anyone who refers a candidate
+      to us that we end up hiring and who would otherwise not have been likely
+      to apply. Get in touch to register your referral."
   - title: "Role summary "
     content: >-
       We’re seeking an experienced, dynamic, and committed Senior Tech Policy
