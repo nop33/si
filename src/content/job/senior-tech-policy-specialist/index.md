@@ -37,7 +37,7 @@ textSections:
       **How to apply:** Please submit this [application form](https://simoninstitute.bamboohr.com/careers/24). We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis until the position is filled.
 
 
-      *We offer **$2000** to anyone who refers a candidate to us that we end up hiring and who would otherwise not have been likely to apply. Get in touch with info@simoninstitute.ch to register your referral.*
+      *We offer **CHF 2000** to anyone who refers a candidate to us that we end up hiring and who would otherwise not have been likely to apply. Get in touch with info@simoninstitute.ch to register your referral.*
   - title: How you will make a difference
     content: >-
       As a Senior Tech Policy Specialist, your key responsibilities will
