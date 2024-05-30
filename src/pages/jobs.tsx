@@ -56,13 +56,6 @@ const JobsPage = ({ data, location }: JobsPageProps) => {
           title={pageData.seo?.title || pageData.title}
           description={pageData.seo?.description}
         />
-        <BaseSection className="narrow" id="intro">
-          <Intro
-            dangerouslySetInnerHTML={{
-              __html: toHTML(pageData.intro),
-            }}
-          ></Intro>
-        </BaseSection>
         <BaseSection
           className="narrow"
           noTopPadding
@@ -106,7 +99,6 @@ export const pageQuery = graphql`
             description
           }
           title
-          intro
           openPositionsSection {
             title
             noOpenPositionsPlaceholder
