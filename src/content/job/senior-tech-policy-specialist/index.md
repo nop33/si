@@ -71,9 +71,7 @@ textSections:
       * Experience working with the multilateral system and global political issues is advantageous.
 
 
-      **\
-
-      Skills:**
+      **Skills:**
 
 
       * Ability to understand and interpret trends in frontier AI and technology.
@@ -87,8 +85,8 @@ textSections:
       * Adaptive in a rapidly evolving environment.
 
       * Experience creating and collaborating on compelling documents and presentations.
-  - title: Personality traits
-    content: >-
+
+
       **Our ideal candidate is:**
 
 
