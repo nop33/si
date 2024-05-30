@@ -5,10 +5,10 @@ workWithUsSection:
   title: Work with us
   columnsWithButtons:
     - title: Apply
-      content: Submit a general application for our next hiring round.
+      content: Apply to be our Senior Tech Policy Specialist!
       button:
         text: Apply
-        url: https://forms.gle/J4Qx5HbP1tsnBv259
+        url: https://www.simoninstitute.ch/job/senior-tech-policy-specialist/
     - title: Collaborate
       content: We're happy to collaborate with those engaged in similar work.
       button:
