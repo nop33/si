@@ -3,15 +3,8 @@ hide: false
 title: Senior Tech Policy Specialist
 teaserText: >
   We’re seeking an experienced, dynamic, and committed Senior Tech Policy
-  Specialist to join our team at the Simon Institute for Longterm Governance
-  (SI). This role is pivotal in supporting our policy needs, focusing on
-  international frontier AI governance. The ideal candidate will have technical
-  private-sector experience with a strong background in AI safety policy, a
-  strong interest in US-China affairs as well as the hardware supply chain, and
-  a strong motivation to govern tech development for humanity to flourish across
-  borders. The position includes a competitive salary and generous benefits, as
-  well as the opportunity to have a significant impact on one of the most
-  pressing issues of our time.
+  Specialist to join our team. This role is pivotal in supporting our policy
+  needs, focusing on international frontier AI governance. 
 textSections:
   - title: "Role summary "
     content: >-
@@ -91,7 +84,7 @@ textSections:
       * Adaptive in a rapidly evolving environment.
 
       * Experience creating and collaborating on compelling documents and presentations.
-  - title: "Personality traits:"
+  - title: Personality traits
     content: >-
       **Our ideal candidate is:**
 
@@ -145,5 +138,5 @@ textSections:
 
 
       [Impact Ops](https://impact-ops.org/) is supporting us with this hiring round, so feel free to reach out with any questions at [hello@impact-ops.org](mailto:hello@impact-ops.org).
-    title: "# Application process  1."
+    title: Application process
 ---
