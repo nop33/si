@@ -36,7 +36,7 @@ textSections:
 
 
       **How to apply:** Please submit this [application form](https://simoninstitute.bamboohr.com/careers/24). We review candidates on a rolling basis until the position is filled.
-  - title: Responsibilities
+  - title: How you will make a difference
     content: >-
       As a Senior Tech Policy Specialist, your key responsibilities will
       include:
