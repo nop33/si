@@ -1,10 +1,9 @@
 ---
 hide: false
 title: Senior Tech Policy Specialist
-teaserText: >
-  We’re seeking an experienced, dynamic, and committed Senior Tech Policy
-  Specialist to join our team. This role is pivotal in supporting our policy
-  needs, focusing on international frontier AI governance. 
+teaserText: "We’re seeking an experienced, dynamic, and committed Senior Tech
+  Policy Specialist to join our team. This role is pivotal in supporting our
+  policy needs, focusing on international frontier AI governance. "
 textSections:
   - title: "Role summary "
     content: >-
