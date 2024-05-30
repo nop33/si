@@ -12,7 +12,7 @@ category: Facilitation
 tags:
   - events
   - ai
-isHighlighted: false
+isHighlighted: true
 ---
 On April 22nd 2024, the Simon Institute for Longterm Governance (SI) hosted a set of briefings for UN diplomats in New York entitled, “Where is AI at? Implications of frontier research and development for multilateral governance.” The briefings were hosted in collaboration with the Permanent Mission of Costa Rica, and drew 40 mission representatives and tech experts from 30+ countries. Diplomats left with a better understanding of the current state of frontier AI, insight into the evolving AI governance landscape, and a clearer grasp of the proposals relevant to AI in the Global Digital Compact (GDC). 
 
