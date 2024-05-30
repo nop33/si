@@ -5,9 +5,6 @@ teaserText: "We’re seeking an experienced, dynamic, and committed Senior Tech
   Policy Specialist to join our team. This role is pivotal in supporting our
   policy needs, focusing on international frontier AI governance. "
 textSections:
-  - content: We offer $2000 to anyone who refers a candidate to us that we end up
-      hiring and who would otherwise not have been likely to apply. Get in touch
-      to register your referral.
   - title: "Role summary "
     content: >-
       We’re seeking an experienced, dynamic, and committed Senior Tech Policy
@@ -37,7 +34,10 @@ textSections:
       **Salary:** CHF 85,000 – 120,000, depending on experience
 
 
-      **How to apply:** Please submit this [application form](https://simoninstitute.bamboohr.com/careers/24). We review candidates on a rolling basis until the position is filled.
+      **How to apply:** Please submit this [application form](https://simoninstitute.bamboohr.com/careers/24). We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis until the position is filled.
+
+
+      *We offer **$2000** to anyone who refers a candidate to us that we end up hiring and who would otherwise not have been likely to apply. Get in touch with info@simoninstitute.ch to register your referral.*
   - title: How you will make a difference
     content: >-
       As a Senior Tech Policy Specialist, your key responsibilities will
@@ -70,9 +70,7 @@ textSections:
       * Experience working with the multilateral system and global political issues is advantageous.
 
 
-      **\
-
-      Skills:**
+      **Skills:**
 
 
       * Ability to understand and interpret trends in frontier AI and technology.
@@ -86,8 +84,8 @@ textSections:
       * Adaptive in a rapidly evolving environment.
 
       * Experience creating and collaborating on compelling documents and presentations.
-  - title: Personality traits
-    content: >-
+
+
       **Our ideal candidate is:**
 
 
@@ -119,8 +117,9 @@ textSections:
       * **Fitness:** We reimburse fitness expenses of up to CHF 600 per year for full-time employees and proportionately for part-time employees.
   - content: >-
       1. [Submit the application
-      form](https://simoninstitute.bamboohr.com/careers/24). We review
-      candidates on a rolling basis.
+      form](https://simoninstitute.bamboohr.com/careers/24). We expect this
+      application form to take 30-60 minutes to fill in. Please do not spend
+      more than an hour on it. We review candidates on a rolling basis.
 
       2. Complete 1-2 work tests designed to simulate the work you would do if hired and/or evaluate certain skills important for success in the role.
 
