@@ -8,6 +8,7 @@ textSections:
   - content: We offer $2000 to anyone who refers a candidate to us that we end up
       hiring and who would otherwise not have been likely to apply. Get in touch
       to register your referral.
+    title: ""
   - title: "Role summary "
     content: >-
       We’re seeking an experienced, dynamic, and committed Senior Tech Policy
