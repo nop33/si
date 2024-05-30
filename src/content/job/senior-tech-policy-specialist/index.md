@@ -138,5 +138,5 @@ textSections:
 
 
       [Impact Ops](https://impact-ops.org/) is supporting us with this hiring round, so feel free to reach out with any questions at [hello@impact-ops.org](mailto:hello@impact-ops.org).
-    title: "# Application process"
+    title: Application process
 ---
