@@ -3,9 +3,9 @@ hide: false
 title: Senior Tech Policy Specialist
 teaserText: >
   We’re seeking an experienced, dynamic, and committed Senior Tech Policy
-  Specialist to join our team at the Simon Institute for Longterm Governance
-  (SI). This role is pivotal in supporting our policy needs, focusing on
-  international frontier AI governance. Click below to learn more & apply. 
+  Specialist to join our team. This role is pivotal in supporting our policy
+  needs, focusing on international frontier AI governance. Click below to learn
+  more and apply. 
 textSections:
   - title: "Role summary "
     content: >-
