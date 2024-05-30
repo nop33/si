@@ -38,7 +38,7 @@ textSections:
       **Salary:** CHF 85,000 – 120,000, depending on experience
 
 
-      **How to apply:** Please submit this [application form](https://simoninstitute.bamboohr.com/careers/24). We review candidates on a rolling basis until the position is filled.
+      **How to apply:** Please submit this [application form](https://simoninstitute.bamboohr.com/careers/24). We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis until the position is filled.
   - title: How you will make a difference
     content: >-
       As a Senior Tech Policy Specialist, your key responsibilities will
@@ -120,8 +120,9 @@ textSections:
       * **Fitness:** We reimburse fitness expenses of up to CHF 600 per year for full-time employees and proportionately for part-time employees.
   - content: >-
       1. [Submit the application
-      form](https://simoninstitute.bamboohr.com/careers/24). We review
-      candidates on a rolling basis.
+      form](https://simoninstitute.bamboohr.com/careers/24). We expect this
+      application form to take 30-60 minutes to fill in. Please do not spend
+      more than an hour on it. We review candidates on a rolling basis.
 
       2. Complete 1-2 work tests designed to simulate the work you would do if hired and/or evaluate certain skills important for success in the role.
 
