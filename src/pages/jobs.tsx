@@ -18,7 +18,6 @@ interface JobsPageProps extends PageProps {
             description: string
           }
           title: string
-          intro: string
           openPositionsSection: {
             title: string
             noOpenPositionsPlaceholder: string
