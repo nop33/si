@@ -6,7 +6,5 @@ openPositionsSection:
   seeDetailsLinkText: "See details"
 seo:
   title: "Open positions"
-  description: "We’re currently seeking an experienced, dynamic, and committed Senior Tech
-  Policy Specialist to join our team. This role is pivotal in supporting our
-  policy needs, focusing on international frontier AI governance."
+  description: "Based in Geneva, Switzerland, the Simon Institute for Longterm Governance (SI) works to mitigate global catastrophic risks, building on Herbert Simon's vision of future-oriented policymaking. With a focus on fostering international cooperation, we center our efforts on the multilateral system."
 ---
