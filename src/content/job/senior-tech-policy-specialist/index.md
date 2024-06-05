@@ -57,7 +57,7 @@ textSections:
       provides a rough picture of what we expect to find:
 
 
-      **Education:** A Masters, PhD, or equivalent practical experience in a relevant field (e.g. computer science, statistics, machine learning, electrical engineering, security studies or an adjacent field).
+      **Education:** A Masters, PhD, or equivalent practical experience in a relevant field (e.g. computer science, statistics, machine learning, electrical engineering, security studies, economics or an adjacent field).
 
 
       **Experience:** 
