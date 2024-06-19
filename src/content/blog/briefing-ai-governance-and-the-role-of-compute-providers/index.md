@@ -12,7 +12,7 @@ tags:
   - ai
 isHighlighted: false
 ---
-As AI regulation continues to gain attention, policymakers are increasingly looking towards physical computational resources, such as data centers and semiconductors, as crucial policy levers for governing AI. The sub-field of AI governance concerned with the regulation of the physical resources necessary for developing AI systems is known as compute governance (compute being short for “computing power”). 
+As AI regulation continues to gain attention, policymakers are increasingly looking towards physical computational resources, such as data centers and semiconductors, as crucial policy levers for governing AI. The sub-field of AI governance concerned with the regulation of the physical resources necessary for developing AI systems is known as **compute governance** (compute being short for “computing power”). 
 
 To help Mission representatives and civil society actors in Geneva better understand the field, on May 31st, 2024, the Simon Institute for Longterm Governance (SI), hosted a briefing titled “AI Governance and the Role of Compute Providers”, in collaboration with the Permanent Mission of Costa Rica to the United Nations. The briefing featured two experts, [Robert Trager](https://www.oxfordmartin.ox.ac.uk/people/professor-robert-trager), Co-Director of the Oxford Martin AI Governance Initiative, and [Lennart Heim](https://heim.xyz/), Associate Information Scientist at RAND. 
 
