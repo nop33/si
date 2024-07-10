@@ -24,7 +24,7 @@ authors:
   - externalName: Jasmin Kaur
   - externalName: Shrestha Rath
   - externalName: Yung-Hsuan Wu
-category: Knowledge synthesis
+category: Research
 tags:
   - publications
   - global-catastrophic-risks
