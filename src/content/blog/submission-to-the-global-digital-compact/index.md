@@ -9,7 +9,7 @@ authors:
     page: jacob-arbeid/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Policy support
+category: Policy Recommendation
 tags:
   - multilateralism
   - publications
