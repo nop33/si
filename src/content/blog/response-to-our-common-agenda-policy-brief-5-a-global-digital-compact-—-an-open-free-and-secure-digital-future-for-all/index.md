@@ -9,7 +9,7 @@ authors:
     page: malou-estier/index
   - name: Belinda Cleeland
     page: belinda-cleeland/index
-category: Policy support
+category: Policy Recommendation
 tags:
   - publications
   - AI
