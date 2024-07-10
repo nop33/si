@@ -17,7 +17,7 @@ authors:
   - externalName: Sarah Dryhurst
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Knowledge synthesis
+category: Research
 tags:
   - publications
   - risk-governance
