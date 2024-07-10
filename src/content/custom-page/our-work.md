@@ -3,7 +3,7 @@ title: Our Work
 subtitle: ""
 projectsByCategories:
   - category: Facilitation
-    title: Capacity-Building
+    title: Facilitation
     description: With strong connections in academia, the multilateral system, and
       leading research labs, we’re able to effectively bring stakeholders
       together. We foster collaboration and information sharing through our
