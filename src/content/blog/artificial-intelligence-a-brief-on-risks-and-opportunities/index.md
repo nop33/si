@@ -8,7 +8,7 @@ authors:
     page: jacob-arbeid/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Knowledge synthesis
+category: Research
 tags:
   - publications
   - ai
