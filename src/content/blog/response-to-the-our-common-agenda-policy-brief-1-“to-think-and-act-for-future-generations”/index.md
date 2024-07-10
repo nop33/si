@@ -7,7 +7,7 @@ featuredImage: 4.webp
 authors:
   - name: Malou Estier
     page: malou-estier/index
-category: Policy support
+category: Policy Recommendation
 tags:
   - multilateralism
   - future-generations

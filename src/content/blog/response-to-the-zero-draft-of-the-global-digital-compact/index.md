@@ -15,7 +15,7 @@ authors:
     page: maxime-stauffer/index
   - name: Malou Estier
     page: malou-estier/index
-category: Policy support
+category: Policy Recommendation
 tags:
   - ai
   - multilateralism

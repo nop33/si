@@ -6,7 +6,7 @@ featuredImage: pxl_20240531_072821983-1-2.jpg
 authors:
   - name: Sofia Mikton
     page: sofia-mikton/index
-category: Capacity Building
+category: Facilitation
 tags:
   - events
   - ai

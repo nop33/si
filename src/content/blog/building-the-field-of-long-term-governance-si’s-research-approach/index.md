@@ -18,6 +18,7 @@ authors:
     page: ""
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
     externalName: Jan Pieter Snoeij
+category: ""
 tags:
   - strategy
   - long-term-governance

@@ -5,7 +5,7 @@ featuredImage: image-20222705-084858.jpeg
 authors:
   - name: Jacob Arbeid
     page: jacob-arbeid/index
-category: Policy support
+category: Policy Recommendation
 tags:
   - multilateralism
   - events

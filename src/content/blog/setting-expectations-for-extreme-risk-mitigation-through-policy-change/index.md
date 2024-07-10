@@ -19,7 +19,7 @@ authors:
     page: ""
     externalName: Jan Pieter Snoeij
     externalLink: https://www.linkedin.com/in/janpietersnoeij/
-category: Knowledge synthesis
+category: ""
 tags:
   - publications
   - global-catastrophic-risks

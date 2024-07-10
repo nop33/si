@@ -6,7 +6,7 @@ featuredImage: 0_3.webp
 authors:
   - name: Malou Estier
     page: malou-estier/index
-category: Knowledge synthesis
+category: Research
 tags:
   - multilateralism
 isHighlighted: false

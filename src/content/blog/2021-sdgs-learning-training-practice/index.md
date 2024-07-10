@@ -9,7 +9,7 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Policy support
+category: Facilitation
 tags:
   - Events
   - multilateralism

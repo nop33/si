@@ -8,7 +8,7 @@ authors:
     page: ""
     externalName: Elias Kock
     externalLink: https://www.linkedin.com/in/elias-kock/
-category: Knowledge synthesis
+category: Research
 tags:
   - publications
 isHighlighted: false

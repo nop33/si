@@ -11,7 +11,7 @@ authors:
     page: maxime-stauffer/index
   - name: Konrad Seifert
     page: konrad-seifert/index
-category: Policy support
+category: Policy Recommendation
 tags:
   - ai
   - multilateralism
