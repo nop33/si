@@ -20,7 +20,7 @@ authors:
 category: Research
 tags:
   - publications
-  - risk-governance
+  - risk governance
   - undrr
 isHighlighted: false
 ---
