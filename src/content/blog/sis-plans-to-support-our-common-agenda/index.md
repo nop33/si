@@ -9,7 +9,7 @@ authors:
     page: konrad-seifert/index
   - name: Jacob Arbeid
     page: jacob-arbeid/index
-category: Policy support
+category: ""
 tags:
   - strategy
   - multilateralism
