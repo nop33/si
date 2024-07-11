@@ -37,13 +37,10 @@ textSections:
       Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, hosted numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. You can see [here](https://www.simoninstitute.ch/our-work/) to learn more about our work.
 
 
-      Test
-
-
       ![](/src/images/ngosource-2.0-23.01.17-make-the-most-le-inline.png)
 
 
-      ![https://dig.watch/actor/simon-institute-for-longterm-governance](/src/images/geneva-digital-stamp.png)
+      ![](/src/images/geneva-digital-stamp.png)
   - title: Our focus areas
     content: >-
       ### Cultivating effective multilateralism
