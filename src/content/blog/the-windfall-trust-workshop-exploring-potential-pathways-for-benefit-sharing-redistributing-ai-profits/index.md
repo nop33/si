@@ -4,6 +4,14 @@ title: "The Windfall Trust Workshop: Exploring Potential Pathways for Benefit
   Sharing & Redistributing AI Profits "
 date: 2024-07-31T11:26:48.287Z
 featuredImage: pxl_20240723_141210695-1-.jpg
+authors:
+  - name: Sofia Mikton
+    page: sofia-mikton/index
+    externalName: ""
+  - name: Belinda Cleeland
+    page: belinda-cleeland/index
+  - externalName: Anna Yelizarova
+    externalLink: https://www.linkedin.com/in/annayelizarova/?originalSubdomain=fr
 category: Facilitation
 tags:
   - ai
