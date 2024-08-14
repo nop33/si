@@ -1,5 +1,5 @@
 ---
-hide: false
+hide: true
 title: Senior Tech Policy Specialist
 teaserText: "We’re seeking an experienced, dynamic, and committed Senior Tech
   Policy Specialist to join our team. This role is pivotal in supporting our
