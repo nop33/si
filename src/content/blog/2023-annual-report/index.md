@@ -33,4 +33,4 @@ Our annual report provides an overview of our work in 2023, covering key figures
 * Were invited to New York, Paris, Boston, and Dubai to provide expert input to national representatives and international processes alike, from the World Economic Forum, to the OECD and UN.
 * Hired 3 new full-time staff members, expanding the [SI team to 6](https://www.simoninstitute.ch/about/#our-team), while simultaneously updating our governance structure, refining our [strategy](https://www.simoninstitute.ch/blog/post/our-updated-strategy-and-theory-of-change/), [plans](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/) and internal processes for the 2023-2025 period, and initiating a successful launch to our next [fundraising round](https://www.simoninstitute.ch/donate/).
 
-*For any questions, please don't hesitate to contact info@simoninstitute.ch.*
+*For any questions, or to get in touch with our team, feel free to contact info@simoninstitute.ch.*
