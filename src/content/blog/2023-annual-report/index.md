@@ -8,17 +8,17 @@ authors:
     page: konrad-seifert/index
   - name: Maxime Stauffer
     page: maxime-stauffer/index
-  - name: Sofia Mikton
-    page: sofia-mikton/index
   - name: Cecilia Saura Drago
     page: cecilia-saura-drago/index
+  - name: Sofia Mikton
+    page: sofia-mikton/index
 isHighlighted: true
 ---
 *You can view and download our 2023 annual report [here](https://drive.google.com/file/d/1u1MUgfh7N7b-MgO0fSjVUrbe13MmJN3N/view?usp=drive_link).* 
 
-2023 was a formative year for the Simon Institute for Longterm Governance (SI). We brought together key actors in international AI governance, leveraging the strengths of the international system and complementing its shortcomings. We published two major UN reports on rapid technological progress and its risks; ran briefings and retreats across New York, Geneva and Paris; grew our team from three to six; developed internal systems to scale along with the complexity of our work; and much more. 
+2023 was a formative year for the Simon Institute for Longterm Governance (SI). We brought together key actors in international AI governance, leveraging the strengths of the international system and complementing its shortcomings. We published two major UN reports on rapid technological progress and its risks; ran briefings and retreats across New York, Geneva, and Paris; grew our team from three to six members; developed internal systems to scale with the increasing complexity of our work; and much more.
 
-Our 2023 annual report provides an overview of SI's work in 2023, covering key figures, progress on our 2023-2025 strategy, notable achievements, and financial updates. For a high-level summary, in 2023, our team:
+Our 2023 annual report provides an overview of our work in 2023, covering key figures, progress on our 2023-2025 strategy, notable achievements, and financial updates. For a high-level summary of our accomplishments in 2023, we:
 
 * Published the first-ever UN thematic study on [Existential Risk and Rapid Technological Change](https://www.simoninstitute.ch/blog/post/existential-risk-and-rapid-technological-change-a-thematic-study-for-undrr/), while simultaneously [raising awareness of these topics](https://www.simoninstitute.ch/blog/post/advancing-sendai-bringing-risks-from-rapid-technological-change-into-disaster-risk-reduction/) during the Mid-term review of the Sendai Framework, speaking at the high-level meeting and being cited in the Mid-Term Review report.
 * Collaborated with the United Nations Office for Disaster Risk Reduction, International Science Council, and Centre for the Study of Existential Risk to deliver [a comprehensive report](https://www.simoninstitute.ch/blog/post/hazards-with-escalation-potential-governing-the-drivers-of-global-and-existential-catastrophes/) outlining hazards with escalation potential, and strategies for governing them. As part of the project, we conducted an extensive literature review on catastrophic and existential risks, surveyed over 250 domain experts on various hazard types, and formalized an updated classification. 
@@ -28,4 +28,4 @@ Our 2023 annual report provides an overview of SI's work in 2023, covering key f
 * Were invited to New York, Paris, Boston, and Dubai to provide expert input to national representatives and international processes alike, from the World Economic Forum, to the OECD and UN.
 * Hired 3 new full-time staff members, expanding the [SI team to 6](https://www.simoninstitute.ch/about/#our-team), while simultaneously updating our governance structure, refining our [strategy](https://www.simoninstitute.ch/blog/post/our-updated-strategy-and-theory-of-change/), [plans](https://www.simoninstitute.ch/blog/post/our-plans-until-2025/) and internal processes for the 2023-2025 period, and initiating a successful launch to our next [fundraising round](https://www.simoninstitute.ch/donate/).
 
-*You can read more about our work throughout 2023 [here](https://drive.google.com/file/d/1u1MUgfh7N7b-MgO0fSjVUrbe13MmJN3N/view?usp=drive_link). For any questions, please don't hesitate to contact info@simoninstitute.ch.*
+*For any questions, please don't hesitate to contact info@simoninstitute.ch.*
