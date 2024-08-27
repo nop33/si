@@ -2,11 +2,10 @@
 hide: false
 title: 2023 Annual Report
 date: 2024-05-01T13:25:11.262Z
-description: 2023 was a formative year for the Simon Institute for Longterm
+description: "2023 was a formative year for the Simon Institute for Longterm
   Governance (SI). We published two major UN reports on rapid technological
   progress and its risks; ran briefings and retreats across New York, Geneva,
-  and Paris; grew our team from three to six members; developed internal systems
-  to scale with the increasing complexity of our work; and much more.
+  and Paris ... "
 featuredImage: simon-institute-48.jpg
 authors:
   - name: Konrad Seifert
