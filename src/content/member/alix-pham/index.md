@@ -1,7 +1,7 @@
 ---
 name: Alix Pham
 photo: 1691414898643.jpg
-group: Staff
+group: Core team
 role: Tech Policy Fellow
 links:
   linkedin: https://www.linkedin.com/in/alix-pham/details/experience/
