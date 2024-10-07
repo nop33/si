@@ -2,6 +2,11 @@
 hide: false
 title: SI’s Post Summit of the Future Plans
 date: 2024-10-07T15:40:10.381Z
+description: In 2021, the UN Secretary General published Our Common Agenda
+  (OCA), a report outlining plans to revitalize the multilateral system and
+  spotlight neglected issues that had grown in importance since the adoption of
+  the 2015 Sustainable Development Goals, including pandemics, climate change,
+  and AI ...
 featuredImage: 0_2.jpg
 authors:
   - name: Konrad Seifert
