@@ -31,7 +31,7 @@ While the Pact for the Future and Global Digital Compact include promising commi
 
 In light of all this, we developed an updated set of plans for the next ~6-12 months, which you can read below. 
 
-# Moving Ahead 
+### Moving Ahead 
 
 Original, for context: [SI AI Governance Strategy with US-China Focus: 1 Pager](https://docs.google.com/document/d/1C7O0mGl4FTZrAfrFm_TJiVT7ZvX727DkkFyxWlYtfl4/edit)
 
