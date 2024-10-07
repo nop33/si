@@ -4,7 +4,8 @@ photo: 1691414898643.jpg
 group: Core team
 role: Tech Policy Fellow
 links:
-  linkedin: https://www.linkedin.com/in/alix-pham/details/experience/
+  linkedin: www.linkedin.com/in/alix-pham
+  twitter: https://x.com/alix_ph
 ---
 Alix is SI's Tech Policy Fellow, joining the team as part of a 6-month placement program run by the Talos Network. As a fellow, she assists with research, policy analysis, and program planning.
 
