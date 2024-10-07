@@ -38,8 +38,6 @@ In light of all this, we developed an updated set of plans for the next ~6-12 mo
 
 ### Moving Ahead 
 
-Original, for context: [SI AI Governance Strategy with US-China Focus: 1 Pager](https://docs.google.com/document/d/1C7O0mGl4FTZrAfrFm_TJiVT7ZvX727DkkFyxWlYtfl4/edit)
-
 We believe that life's ability to flourish in the future will be strongly influenced, if not determined, by how transformative AI (TAI) is governed: AI has the potential to either [cause](https://www.nber.org/papers/w32980) existential catastrophe or enable unprecedented improvements in living standards. Common [needs and values](https://10billion.org/manifesto/) can guide effective multilateral cooperation in steering AI for the benefit of humanity.
 
 Moving forward, several key assumptions underpin our plans: 
