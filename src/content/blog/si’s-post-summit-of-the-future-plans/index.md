@@ -38,7 +38,7 @@ In light of all this, we developed an updated set of plans for the next ~6-12 mo
 
 ### Moving Ahead 
 
-We continue to believe that life's ability to flourish in the future will be strongly influenced, if not determined, by how transformative AI (TAI) is governed: AI has the potential to either [cause](https://www.nber.org/papers/w32980) existential catastrophe or enable unprecedented improvements in living standards. Common [needs and values](https://10billion.org/manifesto/) can guide effective multilateral cooperation in steering AI for the benefit of humanity.
+We continue to believe that life's ability to flourish in the future will be strongly influenced, if not determined, by how transformative AI (TAI) is governed: AI has the potential to either [cause](https://arxiv.org/pdf/2306.12001) existential catastrophe or [enable](https://arxiv.org/pdf/2309.11690) unprecedented improvements in living standards. Common [needs and values](https://10billion.org/manifesto/) can guide effective multilateral cooperation in steering AI for the benefit of humanity.
 
 Underpinning our plans are several further **assumptions:**
 
