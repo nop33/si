@@ -53,7 +53,7 @@ Against this backdrop, new AI governance initiatives are emerging across policy 
 * Develop infrastructure for information sharing and consensus-building on the safety and representativeness of AI systems;
 * Design inclusive processes that empower non-developer states to participate in AI governance, ensure equitable access to AI resources, and contribute to the design of standards and red-lines. 
 
-To contribute to harmonizing activity across fora, we plan to:
+To contribute to **harmonizing activity across fora**, we plan to:
 
 1. Work with national representatives and UN Secretariats to support the development of an effective [International Scientific Panel on AI;](https://www.un.org/sites/un2.un.org/files/sotf-pact_for_the_future_adopted.pdf)
 2. Support the internationalization of UK governments seminal international AI safety efforts (AIS Summits, AISI network, State of the Science Report);
