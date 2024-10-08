@@ -44,7 +44,6 @@ Moving forward, several key assumptions underpin our plans: 
 * These transitions are [risky](https://academic.oup.com/pnasnexus/article/2/1/pgac289/6886577), fueling distrust between already rivalrous geopolitical actors and decreasing the odds of effective multilateral coordination. 
 * Combined with other [obstacles to multilateralism](https://online.ucpress.edu/gp/article/4/1/68310/195239/Multilateralism-in-the-Twenty-First-Century), the likelihood of global catastrophe from rising inequality, war, tech accidents or misuse is increasing. 
 * TAI [timelines](https://epochai.org/blog/literature-review-of-transformative-artificial-intelligence-timelines) too, remain uncertain, with predictions ranging from 3-10 years to 20-50 years. Our plans hold greater relevance on shorter timelines but build transferrable capacity should current trends plateau. 
-
 ![](screenshot-2024-10-07-at-17.44.44.png)
 
 As new AI governance initiatives emerge across policy fora, none of them will simultaneously satisfy requirements of speed, efficacy and inclusivity. We therefore believe that we need to leverage the comparative advantage of key fora to:
