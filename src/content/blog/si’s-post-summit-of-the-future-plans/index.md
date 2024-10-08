@@ -13,6 +13,8 @@ authors:
   - name: Maxime Stauffer
     externalName: ""
     page: maxime-stauffer/index
+  - name: Sofia Mikton
+    page: sofia-mikton/index
 tags:
   - strategy
   - updates
@@ -45,7 +47,7 @@ Underpinning our plans are several further **assumptions:**
 * Combined with other [obstacles to multilateralism](https://online.ucpress.edu/gp/article/4/1/68310/195239/Multilateralism-in-the-Twenty-First-Century), the likelihood of global catastrophe from rising inequality, war, tech accidents or misuse is increasing. 
 * TAI [timelines](https://epochai.org/blog/literature-review-of-transformative-artificial-intelligence-timelines) remain uncertain, with predictions ranging from 3-10 years to 20-50 years. Our plans hold greater relevance on shorter timelines but build transferrable capacity should current trends plateau. 
 
-![](screenshot-2024-10-07-at-17.44.44.png)
+![](shared-2024-07-si-fundraising-deck.png)
 
 Against this backdrop, new AI governance initiatives are emerging across policy forums. However, none of them can simultaneously satisfy the necessary requirements of speed, efficacy, and inclusivity. We therefore believe that we need to **leverage the comparative advantages of key forums** to:
 
