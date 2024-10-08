@@ -62,4 +62,4 @@ To contribute to **harmonizing activity across fora**, we plan to:
 3. Work with the organizers and key stakeholders of the **Paris AI Action Summit** to harmonize governance efforts across regional, national, and international fora;
 4. Collaborate with the **technical AI governance community** to improve its engagement with international processes.
 
-We’ll continue assessing our plans throughout the next year. If you have any questions or comments about our work, you can get in touch [here](https://www.simoninstitute.ch/contact/).
+If you have any questions or comments about our work, or are interested in supporting our work, you can get in touch [here](https://www.simoninstitute.ch/contact/). We rely on voluntary contributions to pursue this work – so any contribution helps us do more!
