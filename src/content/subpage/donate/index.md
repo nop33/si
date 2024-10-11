@@ -64,7 +64,7 @@ textSections:
 
       Currently, donations are tax-deductible in Switzerland only. For tax-deductible donations from other countries, or to inquire about larger donations, please get in touch with our Co-Founder at konrad@simoninstitute.ch!
 seo:
-  description: As we begin a new round of fundraising, we’ve compiled key
-    information about SI to brief prospective funders on our work to date, our
-    plans going forward, and the impact of additional funds.
+  description: The Simon Institute for Longterm Governance (SI) is a think tank at
+    the heart of the international system, seeking funding to strengthen the
+    multilateral governance of transformative AI.
 ---
