@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: Support Us
 subtitle: Support us in strengthening the multilateral governance of transformative AI.
 textSections:
   - content: >-
