@@ -63,7 +63,7 @@ textSections:
       * [GBP Donations](https://buy.stripe.com/fZe4h97VM1vGdJmeUX)
 
 
-      Currently, donations are tax-deductible in Switzerland only. For tax-deductible donations from other countries, or to inquire about larger **donations above 10k**, please get in touch with our Co-Founder, Konrad, at konrad@simoninstitute.ch!
+      Currently, donations are tax-deductible in Switzerland only. For tax-deductible donations from other countries, or for **larger** **donations above 10k**, please get in touch with our Co-Founder, Konrad, at konrad@simoninstitute.ch!
 seo:
   description: The Simon Institute for Longterm Governance (SI) is a think tank at
     the heart of the international system, seeking funding to strengthen the
