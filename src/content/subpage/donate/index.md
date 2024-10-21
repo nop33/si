@@ -1,11 +1,12 @@
 ---
 title: Support Us
-subtitle: Support us in strengthening the multilateral governance of transformative AI.
+subtitle: |
+  Support us in strengthening the multilateral governance of transformative AI.
 textSections:
   - content: >-
       The Simon Institute for Longterm Governance (SI) is a think tank at the
-      heart of the international system, seeking funding to strengthen the
-      multilateral governance of transformative AI. 
+      heart of the international system, seeking funding to reduce global
+      catastrophic risk from AI through multilateral governance.
 
 
       We could effectively leverage an additional **CHF 3MM to 4.3MM** until the end of 2026. Every contribution directly helps us maintain our independence and achieve sustained financial stability. **Our current plans** involve: 
