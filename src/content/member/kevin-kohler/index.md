@@ -1,7 +1,7 @@
 ---
 name: Kevin Kohler
 photo: kohler_profile.jpg
-group: Staff
+group: Core team
 role: Senior Tech Policy Specialist
 links:
   website: https://kevinkohler.ch/
