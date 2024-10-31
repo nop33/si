@@ -1,7 +1,7 @@
 ---
 name: Malou Estier
 photo: si-headshots-35.jpg
-group: Core team
+group: Alumni
 role: Law & policy associate
 links:
   linkedin: https://ch.linkedin.com/in/malou-mahaut-louise-estier-088a87193
