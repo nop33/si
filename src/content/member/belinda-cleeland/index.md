@@ -1,7 +1,7 @@
 ---
 name: Belinda Cleeland
 photo: si-headshots.jpg
-group: Core team
+group: Alumni
 role: Director of policy
 links:
   linkedin: https://www.linkedin.com/in/belinda-cleeland-b5147638/
