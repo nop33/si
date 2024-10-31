@@ -2,7 +2,7 @@
 name: Sofia Mikton
 photo: headshot_2024-2.jpg
 group: Core team
-role: Operations Specialist
+role: Operations & Communications Specialist
 links:
   linkedin: https://www.linkedin.com/in/sofiamikton/
 ---
