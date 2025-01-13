@@ -12,7 +12,7 @@ authors:
   - name: Maxime Stauffer
     page: maxime-stauffer/index
   - name: Konrad Seifert
-    page: konstantinos-katsikopoulos/index
+    page: konrad-seifert/index
 category: Research
 tags:
   - ai
