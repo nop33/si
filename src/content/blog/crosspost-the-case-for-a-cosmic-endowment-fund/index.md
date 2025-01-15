@@ -103,7 +103,7 @@ In the long-run, this may include nuclear fusion powered by [Helium-3](https://e
 
 **\*Source:** Luxembourg Space Agency. (2018). [Opportunities for Space Resources Utilization](https://space-agency.public.lu/dam-assets/publications/2018/Study-Summary-of-the-Space-Resources-Value-Chain-Study.pdf). space-agency.public.lu*
 
-# 3. The Outer Space Treaty needs to be operationalized for a commercial reality
+## 3. The Outer Space Treaty needs to be operationalized for a commercial reality
 
 As large-scale resource exploitation becomes feasible, the high-level principles of UNCLOS and the Outer Space Treaty need to be operationalized. For the international seabed, this operationalization to a market-driven logic with benefit sharing has already advanced significantly. For outer space, we have made some progress on property rights, but we still lack any operational mechanism for benefit sharing.
 
@@ -143,7 +143,7 @@ The Artemis Accords explicitly affirm that extraction of space resources is not 
 
 [This working group](https://www.unoosa.org/oosa/en/ourwork/copuos/lsc/space-resources/index.html) of the legal subcommittee of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna aims to [highlight gaps and establish high-level principles](https://youtu.be/CC-HBXA7HeE?si=FXVEpQIKk1d2M2AK&t=553) for space resource governance by 2027. In September 2024 the UN [Pact for the Future](https://www.un.org/sites/un2.un.org/files/sotf-pact_for_the_future_adopted.pdf#page=42) by the UN General Assembly reaffirmed the importance of discussing the establishment of new frameworks for space resources through COPUOS.
 
-# 4. We need to get humanity’s share of the benefits to more than zero
+## 4. We need to get humanity’s share of the benefits to more than zero
 
 While the COPUOS working group provides one avenue to move forward in operationalizing the benefit sharing aspect of the Outer Space Treaty, it is far from a certainty that it will. A pure “finders-keepers” regime for space resources might grant a short-term advantage to a few actors. These actors are not in a hurry to establish a benefit sharing framework.
 
