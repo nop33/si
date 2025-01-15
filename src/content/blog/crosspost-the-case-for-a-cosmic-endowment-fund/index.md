@@ -9,7 +9,7 @@ authors:
 category: ""
 isHighlighted: false
 ---
-*This is a crosspost from the blog [Machinocene](https://machinocene.substack.com/) - written by our Senior Tech Policy Specialist, Kevin Kohler, who writes a weekly deep dive on how to prepare for a future with artificial general intelligence.* 
+*This is a crosspost from the blog [Machinocene](https://machinocene.substack.com/) - written by our Senior Tech Policy Specialist, Kevin Kohler, who writes a weekly deep dive on how to prepare for a future with artificial general intelligence. You can find the original post [here](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund).* 
 
 More than 99.99% of our Universe’s natural resources, from the deep seabed, the Moon, asteroids, and beyond, are the [common heritage of mankind](https://en.wikipedia.org/wiki/Common_heritage_of_humanity). I don’t mean this in a poetic sense. I mean this in a legal sense. No country has sovereignty over these resources. Based on the [Outer Space Treaty (1967)](https://en.wikipedia.org/wiki/Outer_Space_Treaty) and the [United Nations Convention on the Law of the Sea (1982)](https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea) they belong to all of us.
 
@@ -79,7 +79,7 @@ While no large-scale seabed mining currently takes place in areas beyond nationa
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdmNu3MkvEmyntcEU0fndb8dNusc-iqDmHvOv8T20CX0qW5sp4kakg5wSAvYXbQ5odjjqNLsA2aUAOsdgpb4bANvxbZ4H81VAbkrY7VG6KBOO3Y3nw7MvBgnyZvsrRUvgPPmpjTZQ?key=uLiFXjDxki0pUpF9ofDbQ5wH)
 
-***Source:** Congressional Research Service. (2024). [Seabed Mining in Areas Beyond National Jurisdiction: Issues for Congress](https://crsreports.congress.gov/product/pdf/R/R47324?utm_source=chatgpt.com). crsreports.congress.gov.*
+**\*Source:** Congressional Research Service. (2024). [Seabed Mining in Areas Beyond National Jurisdiction: Issues for Congress](https://crsreports.congress.gov/product/pdf/R/R47324?utm_source=chatgpt.com). crsreports.congress.gov.*
 
 Exploration contracts only allow for tests to confirm the suitability of these locations for commercial mining. They do not allow large-scale commercial mining. This requires an exploitation contract.
 
@@ -101,7 +101,7 @@ In the long-run, this may include nuclear fusion powered by [Helium-3](https://e
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdY56Lg2aHTuWY92QU70VPEuhraYMoTfDY1Q8WvVBh618HL8pnkUQCUrg7U5xJre3ltRDk6TcUdtxLN3y04D8GGQacgDoRphSTdkeSbCe59Ynp3k2iZ0MfasX5cgNxCQWhCEnalDQ?key=uLiFXjDxki0pUpF9ofDbQ5wH)
 
-***Source:** Luxembourg Space Agency. (2018). [Opportunities for Space Resources Utilization](https://space-agency.public.lu/dam-assets/publications/2018/Study-Summary-of-the-Space-Resources-Value-Chain-Study.pdf). space-agency.public.lu*
+**\*Source:** Luxembourg Space Agency. (2018). [Opportunities for Space Resources Utilization](https://space-agency.public.lu/dam-assets/publications/2018/Study-Summary-of-the-Space-Resources-Value-Chain-Study.pdf). space-agency.public.lu*
 
 # 3. The Outer Space Treaty needs to be operationalized for a commercial reality
 
@@ -169,7 +169,7 @@ If we set the precedent that the ability to exploit space resources equates to e
 
 *3 It is striking that the Outer Space Treaty repeatedly refers to “mankind” rather than “all states”. In other words, this arguably includes humans that are not citizens of UN recognized states, and there could be some theoretical ground to share future benefits directly with individuals. Aldo Armando Cocca, Permanent Representative of Argentina to the UN, has argued that this has created [humanity as a new subject of international law](https://airandspacelaw.olemiss.edu/pdfs/jsl-9.pdf#page=17).*
 
-*[4](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-4-153568619) [](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-4-153568619)These will be the first humans on the Moon since the last Apollo Mission [in 1972](https://en.wikipedia.org/wiki/Apollo_17), more than 50 years ago (!)*
+*[4](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-4-153568619)* [](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-4-153568619)*These will be the first humans on the Moon since the last Apollo Mission [in 1972](https://en.wikipedia.org/wiki/Apollo_17), more than 50 years ago (!)*
 
 *[5](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-5-153568619) The melting and electrolysis of water into hydrogen and oxygen requires energy. In part for this, NASA plans to operate flying [solar](https://www.nasa.gov/general/lunar-polar-propellant-mining-outpost-lpmo-a-breakthrough-for-lunar-exploration-industry/) panels and [nuclear fission](https://www.nasa.gov/news-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon/) power plants. The reason for this transformation is that liquid hydrogen and oxygen are much more suitable to create the high thrust and specific impulse required for rocket fuel than solar or nuclear fission.*
 
@@ -200,9 +200,9 @@ If we set the precedent that the ability to exploit space resources equates to e
 3. *The Signatories commit to informing the Secretary-General of the United Nations as well as the public and the international scientific community of their space resource extraction activities in accordance with the Outer Space Treaty.*
 4. *The Signatories intend to use their experience under the Accords to contribute to multilateral efforts to further develop international practices and rules applicable to the extraction and utilization of space resources, including through ongoing efforts at the COPUOS.”*
 
-*[9](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-9-153568619) [](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-9-153568619)This somewhat echoes the logic of Bostrom et al.’s insistence that whoever gets extremely rich from AI should not literally donate 0%. “for an extremely rich state it could be crucially important that it gives 0.1% rather than 0%. In a really extreme case, it might not matter so much whether a super-rich state gives 0.1% or 1% or 10%: the key thing is to ensure that it does not give 0%.” Nick Bostrom, Allan Daffoe, & Carrick Flynn. (2020). [Public Policy and Superintelligent AI: A Vector Field Approach](https://nickbostrom.com/papers/aipolicy.pdf#page=13). In: Liao, S. M. (ed.): Ethics of Artificial Intelligence. Oxford University Press.*
+*[9](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-9-153568619)* [](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-9-153568619)*This somewhat echoes the logic of Bostrom et al.’s insistence that whoever gets extremely rich from AI should not literally donate 0%. “for an extremely rich state it could be crucially important that it gives 0.1% rather than 0%. In a really extreme case, it might not matter so much whether a super-rich state gives 0.1% or 1% or 10%: the key thing is to ensure that it does not give 0%.” Nick Bostrom, Allan Daffoe, & Carrick Flynn. (2020). [Public Policy and Superintelligent AI: A Vector Field Approach](https://nickbostrom.com/papers/aipolicy.pdf#page=13). In: Liao, S. M. (ed.): Ethics of Artificial Intelligence. Oxford University Press.*
 
-***[10](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-10-153568619)** I agree [with Jonas Vollmer](https://youtu.be/AMRiCJQa33c?si=R68alq3pxsy8FhRB&t=206) that there is a need for thinking about space resource governance in a differentiated way. The two main reasons why solar system vs. interstellar should have a different logic:*
+**\*[10](https://machinocene.substack.com/p/the-case-for-a-cosmic-endowment-fund#footnote-anchor-10-153568619)** I agree [with Jonas Vollmer](https://youtu.be/AMRiCJQa33c?si=R68alq3pxsy8FhRB&t=206) that there is a need for thinking about space resource governance in a differentiated way. The two main reasons why solar system vs. interstellar should have a different logic:*
 
 *Solar system colonization vs. interstellar settlements: The solar system’s economy will remain Earth-centric for a long time. Even if space resources will be used outside of Earth, almost all of it will be instrumental to bringing other, more valuable resources from the periphery back to Earth. This extractive logic means that it is logistically feasible to charge royalties on extracted resources (“pay-as-you-mine”), as they enter Earth. If we look beyond the Solar System that logic makes much less sense. If space probes would go out to settle new star systems, you could only charge upfront, lump-sum fees. However, it would be impossible for anyone on Earth to pay anything close to the fair value of entire star systems or galaxies upfront.*
 
