@@ -8,6 +8,8 @@ authors:
   - name: Sofia Mikton
     externalName: ""
     page: sofia-mikton/index
+  - name: Alix Pham
+    page: alix-pham/index
 category: Facilitation
 tags: []
 isHighlighted: false
