@@ -4,6 +4,15 @@ title: "Advancing Multilateral AI Governance: Recommendations for the 2025 Paris
   AI Action Summit"
 date: 2025-01-21T16:12:34.619Z
 featuredImage: pxl_20241204_125838877.mp.jpg
+authors:
+  - name: Konrad Seifert
+    page: konrad-seifert/index
+  - name: Maxime Stauffer
+    page: maxime-stauffer/index
+  - name: Alix Pham
+    page: alix-pham/index
+  - name: Sofia Mikton
+    page: sofia-mikton/index
 category: Facilitation
 isHighlighted: false
 ---
