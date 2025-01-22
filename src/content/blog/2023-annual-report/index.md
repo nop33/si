@@ -16,7 +16,7 @@ authors:
     page: cecilia-saura-drago/index
   - name: Sofia Mikton
     page: sofia-mikton/index
-isHighlighted: true
+isHighlighted: false
 ---
 *You can view and download our 2023 annual report [here](https://drive.google.com/file/d/1u1MUgfh7N7b-MgO0fSjVUrbe13MmJN3N/view?usp=drive_link).* 
 

@@ -18,7 +18,7 @@ tags:
   - ai
   - multilateralism
   - un
-isHighlighted: false
+isHighlighted: true
 ---
 In September 2024 the UN General Assembly adopted the [Global Digital Compact](https://www.un.org/techenvoy/global-digital-compact), mandating the establishment of an Independent International Scientific Panel on AI and a Global Dialogue on AI Governance. The next step in this process will be to negotiate the modalities on how exactly to set-up these institutions.
 
