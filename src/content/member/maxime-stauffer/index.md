@@ -11,7 +11,7 @@ seo:
   title: ""
   description: ""
 ---
-Max Stauffer is the Co-CEO of SI. Together with Konrad, he develops our strategy, designs our programs, and leads our policy work.
+Max Stauffer is co-founder and Co-CEO of the Simon Institute for Longterm Governance. He's responsible for our research, facilitation, partnerships, communications, governance, and fundraising.
 
 Previously, Max served as Senior Science-Policy Officer at the [Geneva Science-Policy Interface](https://www.gspi.ch/), Senior Visiting Fellow at [UN University](https://unu.edu/), and co-President and head of policy research at Effective Altruism Switzerland. He's also a World Economic Forum Expert on Complex Risks and co-founder of the [Geneva Social Complexity Lab](https://www.complexitylab.ch/#:~:text=Social%20Complexity%20Lab%20Geneva&text=The%20Social%20Complexity%20Lab%20empowers,of%20urgent%20and%20intractable%20problems.).
 
