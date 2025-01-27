@@ -12,8 +12,6 @@ seo:
   description: ""
 ---
 
-Konrad is a co-founder of SI. Together with Max, he develops our strategy, designs programs, builds products, and nourishes SI's ecosystem.
+Konrad Seifert is co-founder and Co-CEO of the Simon Institute for Longterm Governance. He's responsible for our strategy, evaluation, recruiting, culture, legal, and finance.
 
-Previously, Konrad co-founded and led [Effective Altruism Switzerland](https://effectivealtruism.ch/), developing theories of impact with philanthropists and entrepreneurs. He now serves on the association's board of directors.
-
-Konrad grew disillusioned with his undergrad in international relations and dropped out to focus on independent projects. His interests include organizational behavior, epistemology, and development economics.
+Konrad is a social entrepreneur who founded and built two successful non-profits after dropping out of an undergrad in international relations. He has designed and led dozens of retreats and workshops on group decision-making and social impact for gifted students and philanthropists, as well as supported hundreds of individuals in building up a career to mitigate Global Catastrophic Risks. Konrad serves on the board of EA Switzerland, is an external expert for the OECD's IO Partnership, and is a member of the European Leadership Network's "New Emerging Voices on Existential Risk".
