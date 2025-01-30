@@ -8,7 +8,6 @@ authors:
     page: kevin-kohler/index
 tags:
   - ai
-  - ""
 isHighlighted: false
 ---
 The UN General Assembly has mandated a Global Dialogue on AI Governance involving governments and all relevant stakeholders on the margins of existing UN meetings. We have had many constructive and nuanced conversations with stakeholders on designing this dialogue. Recently, some stakeholders have suggested the Internet Governance Forum (IGF) as the umbrella meeting for this dialogue. In this short post we outline why this is a suboptimal choice. 
