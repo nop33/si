@@ -2,7 +2,7 @@
 hide: false
 title: Distinguishing between Internet Governance and AI Governance
 date: 2025-01-30T14:16:06.044Z
-featuredImage: sprayingrobot.png
+featuredImage: screenshot-2025-01-30-at-15.45.13.png
 authors:
   - name: Kevin Kohler
     page: kevin-kohler/index
