@@ -3,7 +3,7 @@ hide: false
 title: "Advancing Multilateral AI Governance: Recommendations for the 2025 Paris
   AI Action Summit"
 date: 2025-01-21T16:12:34.619Z
-featuredImage: pxl_20241204_125838877.mp.jpg
+featuredImage: pxl_20241204_125338945.mp.jpg
 authors:
   - name: Alix Pham
     page: alix-pham/index
