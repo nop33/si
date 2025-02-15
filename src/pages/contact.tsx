@@ -27,7 +27,7 @@ const ContactPage = ({ data, location }) => {
   )
 
   const tabTitles = [
-    pageData.workWithUsSection.title,
+    // pageData.workWithUsSection.title,
     pageData.getInTouchSection.title,
     pageData.stayInTouchSection.title,
     ...pageData.textSections.map(section => section.title),
@@ -44,13 +44,13 @@ const ContactPage = ({ data, location }) => {
         description={pageData.seo?.description || pageData.subtitle}
       />
       <Tabs titles={tabTitles}></Tabs>
-      <BaseSection id={workWithUsSectionId}>
+      {/* <BaseSection id={workWithUsSectionId}>
         <SideBySide title={pageData.workWithUsSection.title} isWide>
           <ColumnsWithButtons
             data={pageData.workWithUsSection.columnsWithButtons}
           />
         </SideBySide>
-      </BaseSection>
+      </BaseSection> */}
       <BaseSection id={getInTouchSectionId}>
         <SideBySide title={pageData.getInTouchSection.title}>
           <ContactForm intro={pageData.getInTouchSection.intro} />

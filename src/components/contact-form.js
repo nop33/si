@@ -6,8 +6,8 @@ const ContactForm = ({ intro }) => {
   return (
     <form
       className={siForm}
-      action="https://usebasin.com/f/1c08954fd352"
-      method="post"
+      // action="https://usebasin.com/f/1c08954fd352"
+      // method="post"
     >
       {intro && (
         <div
@@ -17,7 +17,7 @@ const ContactForm = ({ intro }) => {
           }}
         />
       )}
-      <div>
+      {/* <div>
         <div className={fieldGroup}>
           <label htmlFor="contact-name">Name</label>
           <input
@@ -55,10 +55,15 @@ const ContactForm = ({ intro }) => {
         >
           <input type="text" name="_gotcha" tabIndex="-1" />
         </div>
-      </div>
-      <button type="submit" className="si-button">
-        Send
-      </button>
+      </div> */}
+      <a
+        type="submit"
+        className="si-button"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSfHK3ru-oDw0aMlwchX7VCZq8ELCDzEAV34FyCEpNgphVARmg/viewform"
+        target="_blank"
+      >
+        Contact form
+      </a>
     </form>
   )
 }
