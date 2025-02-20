@@ -1,25 +1,22 @@
 ---
-repo: nop33/si
-media_path: /src/images
-website_url: https://shiny-lily-97fbc3.netlify.app
 collections:
-  - name: blog
-    git_path: /src/content/blog
+  - file_extension: .md
     filename_pattern: ''
-    file_extension: .md
+    git_path: /src/content/blog
     metadata_schema:
       - name: title
+        required: true
         type: title
+      - name: date
         required: true
-      - name: Publish Date
         type: datetime
-        required: true
-      - name: Description
-        type: singleline
+      - name: description
         required: false
-      - name: Body
-        type: multiline
-        required: true
+        type: singleline
+    name: blog
+media_path: /src/images
+repo: nop33/si
+website_url: https://shiny-lily-97fbc3.netlify.app
 ---
 # GitCMS Configuration File
 > [!WARNING]
